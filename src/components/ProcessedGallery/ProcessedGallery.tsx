@@ -168,8 +168,10 @@ const ProcessedGallery: React.FC = () => {
   const [editSaving, setEditSaving] = useState(false);
   const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
   const [compReport, setCompReport] = useState<CompReport | null>(null);
+  const [compReportPairId, setCompReportPairId] = useState<string | null>(null);
   const [bulkCompLoading, setBulkCompLoading] = useState(false);
   const [popTiers, setPopTiers] = useState<Map<string, PopRarityTier>>(new Map());
+  const [compPrices, setCompPrices] = useState<Map<string, { average: number | null; popAdjusted: number | null }>>(new Map());
   const [moveCards, setMoveCards] = useState<Card[]>([]);
   const [moveLoading, setMoveLoading] = useState(false);
   const [scpUploading, setScpUploading] = useState(false);
@@ -220,6 +222,25 @@ const ProcessedGallery: React.FC = () => {
         }
         if (tiers.size > 0) setPopTiers(tiers);
       } catch { /* pop summary is non-critical */ }
+
+      // Hydrate comp prices from stored comp reports
+      try {
+        const priceSummary = await apiService.getPriceSummary();
+        const prices = new Map<string, { average: number | null; popAdjusted: number | null }>();
+        for (const entry of priceSummary) {
+          for (const img of entry.images) {
+            const ext = '.' + img.split('.').pop();
+            let base = img.slice(0, img.length - ext.length);
+            if (base.endsWith('-front')) base = base.slice(0, -6);
+            else if (base.endsWith('-back')) base = base.slice(0, -5);
+            if (grouped.some(p => p.id === base)) {
+              prices.set(base, { average: entry.aggregateAverage, popAdjusted: entry.popAdjustedAverage });
+              break;
+            }
+          }
+        }
+        if (prices.size > 0) setCompPrices(prices);
+      } catch { /* price summary is non-critical */ }
 
       // Fetch SCP upload status
       try {
@@ -332,6 +353,17 @@ const ProcessedGallery: React.FC = () => {
     }
   }, []);
 
+  const trackCompPrice = useCallback((pairId: string, report: CompReport) => {
+    setCompPrices(prev => {
+      const next = new Map(prev);
+      next.set(pairId, {
+        average: report.aggregateAverage ?? null,
+        popAdjusted: report.popAdjustedAverage ?? null,
+      });
+      return next;
+    });
+  }, []);
+
   const handleGenerateComps = async (pair: CardPair) => {
     const filename = pair.front?.name || pair.back?.name;
     if (!filename) return;
@@ -340,6 +372,8 @@ const ProcessedGallery: React.FC = () => {
       const card = await apiService.getCardByImage(filename);
       const report = await apiService.generateComps(card.id);
       trackPopTier(pair.id, report);
+      trackCompPrice(pair.id, report);
+      setCompReportPairId(pair.id);
       setCompReport(report);
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to generate comps');
@@ -613,6 +647,18 @@ const ProcessedGallery: React.FC = () => {
                   {[pair.front, pair.back].filter(Boolean).map(f => (
                     <span key={f!.name} className="processed-gallery-file-size">{formatFileSize(f!.size)}</span>
                   ))}
+                  {(() => {
+                    const price = compPrices.get(pair.id);
+                    if (!price) return null;
+                    const value = price.popAdjusted ?? price.average;
+                    if (value == null) return null;
+                    const label = price.popAdjusted != null ? 'avg (pop-adj)' : 'avg';
+                    return (
+                      <span className="processed-gallery-comp-price" title={label}>
+                        ${value.toFixed(2)} {label}
+                      </span>
+                    );
+                  })()}
                   {popTiers.has(pair.id) && (
                     <span className={`processed-gallery-pop-badge processed-gallery-pop-${popTiers.get(pair.id)}`}>
                       {popTiers.get(pair.id) === 'ultra-low' ? 'Ultra-Low Pop' :
@@ -721,10 +767,14 @@ const ProcessedGallery: React.FC = () => {
       {compReport && (
         <CompReportModal
           report={compReport}
-          onClose={() => setCompReport(null)}
+          onClose={() => { setCompReport(null); setCompReportPairId(null); }}
           onRefresh={async (cardId) => {
             const updated = await apiService.refreshComps(cardId);
             setCompReport(updated);
+            if (compReportPairId) {
+              trackPopTier(compReportPairId, updated);
+              trackCompPrice(compReportPairId, updated);
+            }
             return updated;
           }}
         />
