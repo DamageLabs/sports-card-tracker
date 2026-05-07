@@ -325,6 +325,12 @@
   color: var(--text-tertiary);
 }
 
+.processed-gallery-comp-price {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--success, #16a34a);
+}
+
 /* ─── Card Actions ───────────────────────────────────────────────────────── */
 
 .processed-gallery-card-actions {

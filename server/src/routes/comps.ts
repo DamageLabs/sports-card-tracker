@@ -17,6 +17,17 @@ export function createCompRoutes(db: Database, compService: CompService): Router
     }
   });
 
+  // GET /api/comps/price-summary — returns aggregate comp prices for all cards with stored comp reports
+  router.get('/price-summary', async (_req: Request, res: Response) => {
+    try {
+      const summary = await db.getPriceSummary();
+      res.json(summary);
+    } catch (error) {
+      console.error('Error getting price summary:', error);
+      res.status(500).json({ error: 'Failed to get price summary' });
+    }
+  });
+
   // POST /api/comps/generate
   router.post('/generate', async (req: Request, res: Response) => {
     try {

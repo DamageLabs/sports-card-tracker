@@ -1453,6 +1453,36 @@ class Database {
     return results;
   }
 
+  public async getPriceSummary(): Promise<{ cardId: string; aggregateAverage: number | null; popAdjustedAverage: number | null; images: string[] }[]> {
+    const rows = this.db
+      .select({
+        cardId: cardCompReports.cardId,
+        aggregateAverage: cardCompReports.aggregateAverage,
+        popAdjustedAverage: cardCompReports.popAdjustedAverage,
+        images: cards.images,
+        generatedAt: cardCompReports.generatedAt,
+      })
+      .from(cardCompReports)
+      .innerJoin(cards, eq(cards.id, cardCompReports.cardId))
+      .orderBy(desc(cardCompReports.generatedAt))
+      .all();
+
+    const seen = new Set<string>();
+    const results: { cardId: string; aggregateAverage: number | null; popAdjustedAverage: number | null; images: string[] }[] = [];
+    for (const row of rows) {
+      if (seen.has(row.cardId)) continue;
+      seen.add(row.cardId);
+      const images = Array.isArray(row.images) ? row.images as string[] : JSON.parse(row.images as string || '[]');
+      results.push({
+        cardId: row.cardId,
+        aggregateAverage: row.aggregateAverage ?? null,
+        popAdjustedAverage: row.popAdjustedAverage ?? null,
+        images,
+      });
+    }
+    return results;
+  }
+
   public async deleteCompReports(cardId: string): Promise<number> {
     const result = this.db.delete(cardCompReports)
       .where(eq(cardCompReports.cardId, cardId))
