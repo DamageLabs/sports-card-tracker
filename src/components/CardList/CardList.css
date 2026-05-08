@@ -176,6 +176,7 @@
 
 .clear-selection-btn,
 .move-cards-btn,
+.bulk-delete-btn,
 .select-all-btn {
   padding: 6px 12px;
   border: none;
@@ -184,6 +185,15 @@
   font-weight: 500;
   cursor: pointer;
   transition: all 0.2s;
+}
+
+.bulk-delete-btn {
+  background: #ef4444;
+  color: #fff;
+}
+
+.bulk-delete-btn:hover {
+  background: #dc2626;
 }
 
 .clear-selection-btn {
