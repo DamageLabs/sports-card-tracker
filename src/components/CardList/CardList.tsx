@@ -180,6 +180,27 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
     }
   }, [selectedCards, filteredAndSortedCards]);
 
+  const handleBulkDelete = useCallback(async () => {
+    if (selectedCards.size === 0) return;
+    const count = selectedCards.size;
+    const confirmMsg = `Delete ${count} card${count !== 1 ? 's' : ''}? This cannot be undone.`;
+    if (!window.confirm(confirmMsg)) return;
+
+    const ids = Array.from(selectedCards);
+    const results = await Promise.allSettled(ids.map(id => deleteCard(id)));
+    const failed = results.filter(r => r.status === 'rejected').length;
+    const succeeded = results.length - failed;
+
+    if (failed > 0) {
+      alert(`Deleted ${succeeded} of ${count}. ${failed} failed — check the console for details.`);
+      results.forEach((r, i) => {
+        if (r.status === 'rejected') console.error(`Delete failed for ${ids[i]}:`, r.reason);
+      });
+    }
+
+    clearSelection();
+  }, [selectedCards, deleteCard, clearSelection]);
+
   const handleMoveCards = useCallback(async (cardIds: string[], targetCollectionId: string) => {
     try {
       await apiService.moveCardsToCollection(cardIds, targetCollectionId);
@@ -375,6 +396,9 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                 </button>
                 <button onClick={() => setShowMoveModal(true)} className="move-cards-btn">
                   Move to Collection
+                </button>
+                <button onClick={handleBulkDelete} className="bulk-delete-btn">
+                  Delete Selected
                 </button>
               </>
             ) : (
