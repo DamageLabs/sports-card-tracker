@@ -93,7 +93,7 @@ const GradingSubmissionForm: React.FC<GradingSubmissionFormProps> = ({ submissio
                 <option value="">Select a card...</option>
                 {cards.map(card => (
                   <option key={card.id} value={card.id}>
-                    {card.year} {card.brand} {card.player} #{card.cardNumber}
+                    {card.year} {card.brand} {card.player}{card.cardNumber ? ` #${card.cardNumber}` : ''}
                   </option>
                 ))}
               </select>

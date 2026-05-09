@@ -637,7 +637,9 @@ const ProcessedGallery: React.FC = () => {
                     <div className="processed-gallery-card-details">
                       <span className="processed-gallery-card-year">{pair.info.year}</span>
                       <span className="processed-gallery-card-brand">{pair.info.brand}{pair.info.set ? ` ${pair.info.set}` : ''}</span>
-                      <span className="processed-gallery-card-number">#{pair.info.cardNumber}</span>
+                      {pair.info.cardNumber && (
+                        <span className="processed-gallery-card-number">#{pair.info.cardNumber}</span>
+                      )}
                     </div>
                   </>
                 ) : (

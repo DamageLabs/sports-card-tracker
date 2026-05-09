@@ -181,7 +181,7 @@ const StorageManager: React.FC = () => {
                   <div key={card.id} className="storage-card-row">
                     <div className="storage-card-info">
                       <span className="storage-card-name">
-                        {card.year} {card.brand} {card.player} #{card.cardNumber}
+                        {card.year} {card.brand} {card.player}{card.cardNumber ? ` #${card.cardNumber}` : ''}
                       </span>
                       {card.isGraded && card.gradingCompany && card.grade && (
                         <span className="storage-card-grade">{card.gradingCompany} {card.grade}</span>
@@ -272,7 +272,7 @@ const StorageManager: React.FC = () => {
                     <div key={card.id} className="storage-card-row">
                       <div className="storage-card-info">
                         <span className="storage-card-name">
-                          {card.year} {card.brand} {card.player} #{card.cardNumber}
+                          {card.year} {card.brand} {card.player}{card.cardNumber ? ` #${card.cardNumber}` : ''}
                         </span>
                         {card.isGraded && card.gradingCompany && card.grade && (
                           <span className="storage-card-grade">{card.gradingCompany} {card.grade}</span>
@@ -399,7 +399,7 @@ const StorageManager: React.FC = () => {
                       checked={selectedCardIds.includes(card.id)}
                       onChange={() => toggleCardSelection(card.id)}
                     />
-                    <span>{card.year} {card.brand} {card.player} #{card.cardNumber}</span>
+                    <span>{card.year} {card.brand} {card.player}{card.cardNumber ? ` #${card.cardNumber}` : ''}</span>
                     {card.storageLocation && (
                       <span className="storage-card-current-loc">({formatLocation(card.storageLocation)})</span>
                     )}

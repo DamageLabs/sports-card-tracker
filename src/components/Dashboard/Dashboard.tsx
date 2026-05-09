@@ -147,7 +147,7 @@ const Dashboard: React.FC = () => {
                 <div key={card.id} className="card-item">
                   <div className="card-info">
                     <strong>{card.year} {card.brand} {card.player}</strong>
-                    <span>{card.team} - #{card.cardNumber}</span>
+                    <span>{card.team}{card.cardNumber ? ` - #${card.cardNumber}` : ''}</span>
                   </div>
                   <div className="card-value">
                     {formatCurrency(card.currentValue)}
@@ -168,7 +168,7 @@ const Dashboard: React.FC = () => {
                 <div key={card.id} className="card-item">
                   <div className="card-info">
                     <strong>{card.year} {card.brand} {card.player}</strong>
-                    <span>{card.team} - #{card.cardNumber}</span>
+                    <span>{card.team}{card.cardNumber ? ` - #${card.cardNumber}` : ''}</span>
                   </div>
                   <div className="card-performance">
                     <span className={`profit ${card.profit >= 0 ? 'positive' : 'negative'}`}>

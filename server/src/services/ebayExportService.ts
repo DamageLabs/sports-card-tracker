@@ -284,16 +284,37 @@ class EbayExportService {
   }
 
   private generateSku(card: Card): string {
-    const lastName = card.player.split(' ').pop()?.toUpperCase() || 'UNKNOWN';
-    const year = card.year.toString();
-    const cardNum = card.cardNumber;
+    const sanitize = (s: string) => s.toUpperCase().replace(/[^A-Z0-9]/g, '');
 
-    if (card.isGraded && card.gradingCompany && card.grade) {
-      const grade = card.grade.replace('.', '');
-      return `${lastName}-${year}-${cardNum}-${card.gradingCompany}${grade}`;
+    const lastName = sanitize(card.player.split(' ').pop() || 'UNKNOWN');
+    const year = card.year > 0 ? card.year.toString() : 'YR';
+
+    // Product slot: prefer the set name, fall back to the brand.
+    const product = sanitize(card.setName || card.brand || '');
+
+    // Parallel slot: optional, only when set.
+    const parallel = card.parallel ? sanitize(card.parallel) : '';
+
+    // Copy slot: prefer the unique serial number (e.g. "76" from "76/99"),
+    // fall back to the printed card number, then to the last 7 of the UUID
+    // so unnumbered base cards still get a unique SKU.
+    let copy = '';
+    if (card.serialNumber && card.serialNumber.includes('/')) {
+      copy = sanitize(card.serialNumber.split('/')[0]);
+    } else if (card.cardNumber) {
+      copy = sanitize(card.cardNumber);
+    } else {
+      copy = card.id.replace(/-/g, '').slice(-7).toLowerCase();
     }
 
-    return `${lastName}-${year}-${cardNum}-RAW`;
+    // Grade slot: PSA10 / RAW.
+    const gradeSlot = card.isGraded && card.gradingCompany && card.grade
+      ? `${sanitize(card.gradingCompany)}${card.grade.replace('.', '')}`
+      : 'RAW';
+
+    return [lastName, year, product, parallel, copy, gradeSlot]
+      .filter(s => s && s.length > 0)
+      .join('-');
   }
 
   private generateTitle(card: Card): string {
@@ -311,7 +332,9 @@ class EbayExportService {
       parts.push(card.parallel);
     }
 
-    parts.push(`#${card.cardNumber}`);
+    if (card.cardNumber) {
+      parts.push(`#${card.cardNumber}`);
+    }
 
     if (card.gradingCompany && card.grade) {
       parts.push(`${card.gradingCompany} ${card.grade}`);
@@ -323,6 +346,14 @@ class EbayExportService {
 
     if (card.team) {
       parts.push(card.team);
+    }
+
+    // Append print-run suffix (e.g. "/99") when serialNumber is "<n>/<printRun>".
+    const printRun = card.serialNumber && card.serialNumber.includes('/')
+      ? card.serialNumber.split('/')[1].trim()
+      : null;
+    if (printRun) {
+      parts.push(`/${printRun}`);
     }
 
     let title = parts.join(' ');
