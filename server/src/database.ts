@@ -73,6 +73,7 @@ CREATE TABLE IF NOT EXISTS cards (
   images text DEFAULT '[]' NOT NULL,
   notes text DEFAULT '' NOT NULL,
   storageLocation text,
+  enhancedAttributes text,
   createdAt text NOT NULL,
   updatedAt text NOT NULL
 );
@@ -395,6 +396,7 @@ class Database {
       sellPrice: cardInput.sellPrice,
       sellDate: cardInput.sellDate,
       storageLocation: cardInput.storageLocation || null,
+      enhancedAttributes: cardInput.enhancedAttributes ?? null,
       currentValue: cardInput.currentValue,
       images: cardInput.images || [],
       notes: cardInput.notes || '',
@@ -431,6 +433,7 @@ class Database {
       currentValue: card.currentValue,
       images: card.images,
       storageLocation: card.storageLocation || null,
+      enhancedAttributes: card.enhancedAttributes ?? null,
       notes: card.notes,
       createdAt: card.createdAt,
       updatedAt: card.updatedAt,
@@ -477,6 +480,7 @@ class Database {
       sellDate: cardInput.sellDate || null,
       currentValue: cardInput.currentValue,
       storageLocation: cardInput.storageLocation !== undefined ? (cardInput.storageLocation || null) : existing.storageLocation,
+      enhancedAttributes: cardInput.enhancedAttributes !== undefined ? (cardInput.enhancedAttributes ?? null) : (existing.enhancedAttributes ?? null),
       images: cardInput.images || [],
       notes: cardInput.notes || '',
       updatedAt,
@@ -526,6 +530,7 @@ class Database {
       sellPrice: row.sellPrice ?? undefined,
       sellDate: row.sellDate ?? undefined,
       storageLocation: (row.storageLocation as StorageLocation | null) ?? null,
+      enhancedAttributes: (row.enhancedAttributes as Record<string, unknown> | null) ?? null,
       images: row.images ?? [],
       notes: row.notes || '',
     };
