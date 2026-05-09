@@ -466,6 +466,17 @@
   color: #047857;
 }
 
+.card-ebay-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border: 1px solid #bfdbfe;
+}
+
 /* Cleaned up - these styles are now handled by the new layout */
 
 .empty-state {

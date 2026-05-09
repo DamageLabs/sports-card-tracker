@@ -29,6 +29,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [showMoveModal, setShowMoveModal] = useState(false);
   const [popTiers, setPopTiers] = useState<Map<string, PopRarityTier>>(new Map());
   const [popPrices, setPopPrices] = useState<Map<string, number>>(new Map());
+  const [exportedIds, setExportedIds] = useState<Set<string>>(new Set());
 
   // Load pop tiers and prices
   useEffect(() => {
@@ -44,6 +45,13 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       if (tiers.size > 0) setPopTiers(tiers);
       if (prices.size > 0) setPopPrices(prices);
     }).catch(() => { /* non-critical */ });
+  }, []);
+
+  // Load the set of card ids that have been exported to eBay
+  useEffect(() => {
+    apiService.getExportedCardIds()
+      .then(ids => { if (ids.length > 0) setExportedIds(new Set(ids)); })
+      .catch(() => { /* non-critical */ });
   }, []);
 
   // Load collection info when selectedCollectionId changes
@@ -456,7 +464,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
               <div className="card-player-name">
                 <h4>{card.player}</h4>
                 <p className="card-detail-line">
-                  {card.year} {card.brand}{card.setName ? ` ${card.setName}` : ''} #{card.cardNumber}
+                  {card.year} {card.brand}{card.setName ? ` ${card.setName}` : ''}{card.cardNumber ? ` #${card.cardNumber}` : ''}
                 </p>
                 <div className="card-pills">
                   {popTiers.has(card.id) && (
@@ -471,6 +479,9 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                     <span className="card-pop-price-badge">
                       ${popPrices.get(card.id)!.toFixed(2)}
                     </span>
+                  )}
+                  {exportedIds.has(card.id) && (
+                    <span className="card-ebay-badge" title="Exported to eBay">eBay</span>
                   )}
                 </div>
               </div>
