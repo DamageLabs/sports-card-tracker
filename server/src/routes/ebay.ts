@@ -117,6 +117,19 @@ export function createEbayRoutes(db: Database, ebayExportService: EbayExportServ
     }
   });
 
+  // GET /api/ebay/exported-card-ids — Return a deduped list of card ids that
+  // appear in any export draft. Used by the inventory UI to flag exported
+  // cards with an "eBay" pill.
+  router.get('/exported-card-ids', async (_req: Request, res: Response) => {
+    try {
+      const ids = await db.getExportedCardIds();
+      res.json(ids);
+    } catch (error) {
+      console.error('Error getting exported card ids:', error);
+      res.status(500).json({ error: 'Failed to get exported card ids' });
+    }
+  });
+
   // GET /api/ebay/drafts — List export drafts (paginated)
   router.get('/drafts', async (_req: Request, res: Response) => {
     try {

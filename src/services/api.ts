@@ -386,6 +386,10 @@ class ApiService {
     return this.request('/ebay/status');
   }
 
+  public async getExportedCardIds(): Promise<string[]> {
+    return this.request<string[]>('/ebay/exported-card-ids');
+  }
+
   public async getEbayExportDrafts(limit?: number, offset?: number): Promise<{
     drafts: EbayExportDraftSummary[];
     total: number;

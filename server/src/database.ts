@@ -1822,6 +1822,15 @@ class Database {
     return result.changes > 0;
   }
 
+  public async getExportedCardIds(): Promise<string[]> {
+    const rows = this.sqlite.prepare(`
+      SELECT DISTINCT json_extract(value, '$.cardId') AS cardId
+      FROM ebay_export_drafts, json_each(ebay_export_drafts.cardSummary)
+      WHERE json_extract(value, '$.cardId') IS NOT NULL
+    `).all() as { cardId: string }[];
+    return rows.map(r => r.cardId);
+  }
+
   // ─── Card Image Uploads ────────────────────────────────────────────────────
 
   public async saveImageUpload(upload: { cardId: string; filename: string; remoteUrl: string; fileHash: string }): Promise<ImageUpload> {
