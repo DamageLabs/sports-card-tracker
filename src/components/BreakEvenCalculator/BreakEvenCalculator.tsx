@@ -80,7 +80,7 @@ export const BreakEvenCalculator: React.FC<BreakEvenCalculatorProps> = ({ card, 
         <div className="break-even-header">
           <div>
             <h2>Break-Even Calculator</h2>
-            <p className="break-even-card-name">{card.year} {card.brand} {card.player} #{card.cardNumber}</p>
+            <p className="break-even-card-name">{card.year} {card.brand} {card.player}{card.cardNumber ? ` #${card.cardNumber}` : ''}</p>
           </div>
           <button className="break-even-close" onClick={onClose}>x</button>
         </div>

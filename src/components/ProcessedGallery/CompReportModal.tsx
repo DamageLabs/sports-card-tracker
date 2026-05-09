@@ -126,7 +126,7 @@ const CompReportModal: React.FC<CompReportModalProps> = ({ report, onClose, onRe
           <div>
             <h3 className="comp-report-title">{currentReport.player}</h3>
             <p className="comp-report-subtitle">
-              {currentReport.year} {currentReport.brand} #{currentReport.cardNumber}
+              {currentReport.year} {currentReport.brand}{currentReport.cardNumber ? ` #${currentReport.cardNumber}` : ''}
               {currentReport.condition && <> &middot; {currentReport.condition}</>}
             </p>
           </div>

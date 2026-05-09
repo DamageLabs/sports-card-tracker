@@ -449,7 +449,7 @@ const EbayListings: React.FC = () => {
             <div className="listing-content">
               <h3>{rec.card.player}</h3>
               <p className="card-details">
-                {rec.card.year} {rec.card.brand} #{rec.card.cardNumber}
+                {rec.card.year} {rec.card.brand}{rec.card.cardNumber ? ` #${rec.card.cardNumber}` : ''}
                 {rec.card.parallel && ` - ${rec.card.parallel}`}
               </p>
 
