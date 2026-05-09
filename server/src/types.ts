@@ -42,6 +42,7 @@ export interface Card {
   sellDate?: string;
   currentValue: number;
   storageLocation?: StorageLocation | null;
+  enhancedAttributes?: Record<string, unknown> | null;
   images: string[];
   notes: string;
   createdAt: string;
@@ -75,6 +76,7 @@ export interface CardInput {
   sellDate?: string;
   currentValue: number;
   storageLocation?: StorageLocation | null;
+  enhancedAttributes?: Record<string, unknown> | null;
   images: string[];
   notes: string;
 }

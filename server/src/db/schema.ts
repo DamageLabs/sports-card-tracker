@@ -70,6 +70,7 @@ export const cards = sqliteTable('cards', {
     method?: string;
     notes?: string;
   } | null>(),
+  enhancedAttributes: text('enhancedAttributes', { mode: 'json' }).$type<Record<string, unknown> | null>(),
   createdAt: text('createdAt').notNull(),
   updatedAt: text('updatedAt').notNull(),
 });

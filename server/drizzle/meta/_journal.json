@@ -78,6 +78,13 @@
       "when": 1772755200000,
       "tag": "0011_price_alerts",
       "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1772841600000,
+      "tag": "0012_card_enhanced_attributes",
+      "breakpoints": true
     }
   ]
 }
