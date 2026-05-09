@@ -3,6 +3,7 @@
 import { Card } from '../types';
 import { EnhancedCard } from '../types/card-enhanced';
 import { migrateCardToEnhanced, hasEnhancedFields } from './cardMigration';
+import { apiService } from '../services/api';
 
 // Convert enhanced card back to basic card for storage
 export const enhancedToBasicCard = (enhancedCard: Partial<EnhancedCard>): Card => {
@@ -43,10 +44,41 @@ export const enhancedToBasicCard = (enhancedCard: Partial<EnhancedCard>): Card =
     
     // Images & Notes - include both original notes and enhanced features
     images: enhancedCard.images || [],
-    notes: combinedNotes || ''
+    notes: combinedNotes || '',
+
+    // Persist the EnhancedCard extension blocks to the DB so they round-trip
+    // across browsers/devices. localStorage is kept as a transitional fallback.
+    enhancedAttributes: extractEnhancedAttributes(enhancedCard),
   };
-  
+
   return basicCard;
+};
+
+const ENHANCED_BLOCKS = [
+  'identification',
+  'playerMetadata',
+  'authentication',
+  'specialFeatures',
+  'marketData',
+  'physicalAttributes',
+  'storage',
+  'transaction',
+  'digital',
+  'analytics',
+  'collectionMeta',
+] as const;
+
+const extractEnhancedAttributes = (
+  enhancedCard: Partial<EnhancedCard>
+): Record<string, unknown> | null => {
+  const out: Record<string, unknown> = {};
+  for (const key of ENHANCED_BLOCKS) {
+    const value = (enhancedCard as Record<string, unknown>)[key];
+    if (value !== undefined && value !== null) {
+      out[key] = value;
+    }
+  }
+  return Object.keys(out).length > 0 ? out : null;
 };
 
 // Generate comprehensive notes from enhanced fields
@@ -116,74 +148,57 @@ const generateEnhancedNotes = (card: Partial<EnhancedCard>): string => {
   return notes.join(' | ');
 };
 
-// Store enhanced data in localStorage
-export const saveEnhancedData = (cardId: string, enhancedData: Partial<EnhancedCard>) => {
-  const key = `enhanced_card_${cardId}`;
-  const dataToStore = {
-    identification: enhancedData.identification,
-    playerMetadata: enhancedData.playerMetadata,
-    authentication: enhancedData.authentication,
-    specialFeatures: enhancedData.specialFeatures,
-    marketData: enhancedData.marketData,
-    physicalAttributes: enhancedData.physicalAttributes,
-    storage: enhancedData.storage,
-    transaction: enhancedData.transaction,
-    digital: enhancedData.digital,
-    analytics: enhancedData.analytics,
-    collectionMeta: enhancedData.collectionMeta
-  };
-  
-  console.log('Saving enhanced data for card:', cardId);
-  console.log('LocalStorage key:', key);
-  console.log('Data to store:', dataToStore);
-  
-  localStorage.setItem(key, JSON.stringify(dataToStore));
-  
-  // Verify the save
-  const saved = localStorage.getItem(key);
-  console.log('Verification - Data saved to localStorage:', saved);
-};
+// One-shot boot migration: drain any pre-existing `enhanced_card_*`
+// localStorage entries into the server-side `enhancedAttributes` column,
+// then remove them. Safe to run on every boot — it skips cards whose DB
+// record already has enhancedAttributes (DB is canonical).
+export const migrateLocalStorageEnhancedAttributes = async (): Promise<void> => {
+  const PREFIX = 'enhanced_card_';
+  const keys: string[] = [];
+  for (let i = 0; i < localStorage.length; i++) {
+    const k = localStorage.key(i);
+    if (k && k.startsWith(PREFIX)) keys.push(k);
+  }
+  if (keys.length === 0) return;
 
-// Retrieve enhanced data from localStorage
-export const loadEnhancedData = (cardId: string): Partial<EnhancedCard> | null => {
-  const key = `enhanced_card_${cardId}`;
-  const data = localStorage.getItem(key);
-  
-  console.log('Loading enhanced data for card:', cardId);
-  console.log('LocalStorage key:', key);
-  console.log('Raw data from localStorage:', data);
-  
-  if (data) {
+  console.log(`[migrateLocalStorageEnhancedAttributes] Found ${keys.length} legacy localStorage entries`);
+
+  for (const key of keys) {
+    const cardId = key.slice(PREFIX.length);
+    let raw: string | null;
     try {
-      const parsed = JSON.parse(data);
-      console.log('Parsed enhanced data:', parsed);
-      return parsed;
-    } catch (error) {
-      console.error('Error parsing enhanced card data:', error);
-      return null;
+      raw = localStorage.getItem(key);
+    } catch { continue; }
+    if (!raw) { localStorage.removeItem(key); continue; }
+
+    let parsed: Record<string, unknown>;
+    try { parsed = JSON.parse(raw); }
+    catch { localStorage.removeItem(key); continue; }
+
+    try {
+      const card = await apiService.getCard(cardId);
+      if (card.enhancedAttributes) {
+        // DB already has data — DB wins, drop the stale localStorage copy.
+        localStorage.removeItem(key);
+        continue;
+      }
+      await apiService.updateCard({ ...card, enhancedAttributes: parsed });
+      localStorage.removeItem(key);
+    } catch (err) {
+      // Card no longer exists or API down — leave the entry for a retry.
+      console.warn(`[migrateLocalStorageEnhancedAttributes] Skipped ${cardId}:`, err);
     }
   }
-  
-  console.log('No enhanced data found for card:', cardId);
-  return null;
 };
 
-// Merge basic card with enhanced data
+// Merge basic card with enhanced data (server-side `enhancedAttributes` only).
+// localStorage is no longer consulted; any pre-existing localStorage payload
+// is migrated to the DB on app boot via `migrateLocalStorageEnhancedAttributes`.
 export const mergeCardWithEnhanced = (card: Card): EnhancedCard => {
-  console.log('Merging card with enhanced data:', card.id);
-  const enhancedData = loadEnhancedData(card.id);
-  
-  if (enhancedData) {
-    console.log('Found enhanced data, merging with basic card');
-    const merged = {
-      ...card,
-      ...enhancedData
-    };
-    console.log('Merged card data:', merged);
-    return merged;
+  const dbAttributes = (card.enhancedAttributes ?? null) as Record<string, unknown> | null;
+  if (dbAttributes) {
+    return { ...card, ...dbAttributes } as EnhancedCard;
   }
-  
-  console.log('No enhanced data found, migrating card to enhanced format');
   return migrateCardToEnhanced(card);
 };
 
@@ -194,14 +209,12 @@ export const saveEnhancedCard = async (
   updateCard: (card: Card) => Promise<void>
 ): Promise<void> => {
   console.log('[saveEnhancedCard] Starting save process for enhanced card:', enhancedCard);
-  
-  // Convert to basic card for database
+
+  // Convert to basic card for database. enhancedAttributes is packed in by
+  // enhancedToBasicCard so the full enhanced payload round-trips via the API.
   const basicCard = enhancedToBasicCard(enhancedCard);
   console.log('[saveEnhancedCard] Converted to basic card:', basicCard);
-  
-  // Save enhanced data to localStorage
-  saveEnhancedData(basicCard.id, enhancedCard);
-  
+
   // Save to database
   // Check if this is an update (card has an ID and was created before)
   const isUpdate = enhancedCard.id && enhancedCard.createdAt;

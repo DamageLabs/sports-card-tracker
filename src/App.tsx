@@ -25,7 +25,7 @@ import PortfolioHeatmap from './components/PortfolioHeatmap/PortfolioHeatmap';
 import StorageManager from './components/StorageManager/StorageManager';
 import ErrorBoundary from './components/ErrorBoundary/ErrorBoundary';
 import { Card } from './types';
-import { saveEnhancedCard, mergeCardWithEnhanced } from './utils/enhancedCardIntegration';
+import { saveEnhancedCard, mergeCardWithEnhanced, migrateLocalStorageEnhancedAttributes } from './utils/enhancedCardIntegration';
 import { logInfo } from './utils/logger';
 import './App.css';
 
@@ -62,6 +62,14 @@ const AppContent: React.FC = () => {
     window.addEventListener('hashchange', handleHashChange);
     return () => window.removeEventListener('hashchange', handleHashChange);
   }, []);
+
+  // One-shot drain of legacy localStorage enhanced-card payloads into the DB.
+  React.useEffect(() => {
+    if (!authState.user) return;
+    migrateLocalStorageEnhancedAttributes().catch(err => {
+      console.warn('Enhanced-attributes migration failed:', err);
+    });
+  }, [authState.user]);
 
   // Show auth form if user is not authenticated
   if (!authState.user) {
