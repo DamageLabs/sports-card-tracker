@@ -7,21 +7,22 @@
   margin: 0 auto;
 }
 
-.form-header {
+.enhanced-card-form .form-header {
   text-align: center;
   margin-bottom: 32px;
 }
 
-.form-header h2 {
-  color: #1a202c;
+.enhanced-card-form .form-header h2 {
+  color: #ffffff;
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 8px;
 }
 
-.form-header p {
-  color: #718096;
+.enhanced-card-form .form-header p {
+  color: #ffffff;
   font-size: 16px;
+  opacity: 0.9;
 }
 
 /* Tab Navigation */
