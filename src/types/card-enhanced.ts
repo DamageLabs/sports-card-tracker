@@ -176,7 +176,7 @@ export interface PhysicalAttributes {
 export interface StorageData {
   // Physical Location
   storageLocation: string;
-  storageMethod: 'Raw' | 'Penny Sleeve' | 'Toploader' | 'One-Touch' | 'Screw Down' | 'Binder' | 'Graded Slab';
+  storageMethod: 'Raw' | 'Penny Sleeve' | 'Toploader' | 'One-Touch' | 'Magnetic Card Holder' | 'Screw Down' | 'Binder' | 'Graded Slab';
   sleeveType?: 'Standard' | 'Premium' | 'Team Bag';
   
   // Organization
@@ -354,7 +354,7 @@ export type EnhancedCardFormData = Partial<EnhancedCard>;
 export const PRINTING_TECHNOLOGIES = ['Chrome', 'Paper', 'Acetate', 'Metal', 'Canvas'] as const;
 export const CARD_ERAS = ['Vintage', 'Junk Wax', 'Modern', 'Ultra-Modern'] as const;
 export const PURCHASE_VENUES = ['eBay', 'COMC', 'LCS', 'Show', 'Retail', 'Hobby Box', 'Private Sale', 'Auction House'] as const;
-export const STORAGE_METHODS = ['Raw', 'Penny Sleeve', 'Toploader', 'One-Touch', 'Screw Down', 'Binder', 'Graded Slab'] as const;
+export const STORAGE_METHODS = ['Raw', 'Penny Sleeve', 'Toploader', 'One-Touch', 'Magnetic Card Holder', 'Screw Down', 'Binder', 'Graded Slab'] as const;
 export const COLLECTION_CATEGORIES = ['PC', 'Investment', 'Trade Bait', 'Duplicate', 'Consignment'] as const;
 
 // Validation helper
