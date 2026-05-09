@@ -88,6 +88,7 @@ interface CardInput {
   notes: string;
   collectionId?: string;
   collectionType?: string;
+  enhancedAttributes?: Record<string, unknown> | null;
 }
 
 class ApiService {
@@ -209,7 +210,8 @@ class ApiService {
         images: cardData.images,
         notes: cardData.notes,
         collectionId: cardData.collectionId,
-        collectionType: cardData.collectionType
+        collectionType: cardData.collectionType,
+        enhancedAttributes: cardData.enhancedAttributes ?? null,
       };
 
       const card = await this.request<Card>('/cards', {
@@ -261,7 +263,8 @@ class ApiService {
         images: cardData.images,
         notes: cardData.notes,
         collectionId: cardData.collectionId,
-        collectionType: cardData.collectionType
+        collectionType: cardData.collectionType,
+        enhancedAttributes: cardData.enhancedAttributes ?? null,
       };
 
       const card = await this.request<Card>(`/cards/${cardData.id}`, {
