@@ -85,6 +85,30 @@ describe('ImageProcessingService', () => {
       );
       expect(result).toBe('2023-Topps-Chrome-Update-Mike-Trout-1.jpg');
     });
+
+    it('appends parallel after cardNumber', () => {
+      const result = service.buildProcessedFilename(
+        { year: '2024', brand: 'Topps', setName: 'Cosmic Chrome Planetary Pursuit', player: 'Xavier Worthy', cardNumber: 'XW', parallel: 'Earth' },
+        '.jpg'
+      );
+      expect(result).toBe('2024-Topps-Cosmic-Chrome-Planetary-Pursuit-Xavier-Worthy-XW-Earth.jpg');
+    });
+
+    it('includes parallel even without setName', () => {
+      const result = service.buildProcessedFilename(
+        { year: '2024', brand: 'Topps', player: 'Xavier Worthy', cardNumber: 'XW', parallel: 'Jupiter' },
+        '.jpg'
+      );
+      expect(result).toBe('2024-Topps-Xavier-Worthy-XW-Jupiter.jpg');
+    });
+
+    it('omits parallel slot when absent', () => {
+      const result = service.buildProcessedFilename(
+        { year: '2024', brand: 'Topps', setName: 'Chrome', player: 'Mike Trout', cardNumber: '1' },
+        '.jpg'
+      );
+      expect(result).toBe('2024-Topps-Chrome-Mike-Trout-1.jpg');
+    });
   });
 
   describe('checkDuplicate', () => {
@@ -150,6 +174,73 @@ describe('ImageProcessingService', () => {
       // Verify the orphaned card was deleted
       const allCards = await db.getAllCards();
       expect(allCards.find(c => c.id === card.id)).toBeUndefined();
+    });
+
+    it('does not match when parallel differs', async () => {
+      // Existing record: Earth parallel
+      fs.writeFileSync(path.join(processedDir, 'worthy-earth.jpg'), 'data');
+      await db.createCard({
+        player: 'Xavier Worthy', team: 'Chiefs', year: 2024, brand: 'Topps',
+        setName: 'Cosmic Chrome Planetary Pursuit', parallel: 'Earth',
+        category: 'Football', cardNumber: 'XW', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2024-01-01', currentValue: 0,
+        images: ['worthy-earth.jpg'], notes: '',
+      });
+
+      // Incoming card: same player+year+brand+#, but Jupiter parallel.
+      const result = await service.checkDuplicate({
+        player: 'Xavier Worthy', year: '2024', brand: 'Topps',
+        setName: 'Cosmic Chrome Planetary Pursuit', parallel: 'Jupiter', cardNumber: 'XW',
+      });
+      expect(result).toBeNull();
+    });
+
+    it('does not match when setName differs', async () => {
+      fs.writeFileSync(path.join(processedDir, 'odunze-optic.jpg'), 'data');
+      await db.createCard({
+        player: 'Rome Odunze', team: 'Bears', year: 2024, brand: 'Panini',
+        setName: 'Donruss Optic', category: 'Football', cardNumber: '15', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2024-01-01', currentValue: 0,
+        images: ['odunze-optic.jpg'], notes: '',
+      });
+
+      const result = await service.checkDuplicate({
+        player: 'Rome Odunze', year: '2024', brand: 'Panini',
+        setName: 'Absolute', cardNumber: '15',
+      });
+      expect(result).toBeNull();
+    });
+
+    it('matches when both records lack setName and parallel', async () => {
+      fs.writeFileSync(path.join(processedDir, 'plain.jpg'), 'data');
+      await db.createCard({
+        player: 'Plain Card', team: 'Team', year: 2024, brand: 'Panini',
+        category: 'Football', cardNumber: '50', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2024-01-01', currentValue: 0,
+        images: ['plain.jpg'], notes: '',
+      });
+
+      const result = await service.checkDuplicate({
+        player: 'Plain Card', year: '2024', brand: 'Panini', cardNumber: '50',
+      });
+      expect(result).not.toBeNull();
+    });
+
+    it('matches when setName + parallel both match exactly', async () => {
+      fs.writeFileSync(path.join(processedDir, 'full-match.jpg'), 'data');
+      await db.createCard({
+        player: 'Full Match', team: 'Team', year: 2024, brand: 'Panini',
+        setName: 'Donruss Optic', parallel: 'Holo',
+        category: 'Football', cardNumber: '7', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2024-01-01', currentValue: 0,
+        images: ['full-match.jpg'], notes: '',
+      });
+
+      const result = await service.checkDuplicate({
+        player: 'Full Match', year: '2024', brand: 'Panini',
+        setName: 'donruss optic', parallel: 'HOLO', cardNumber: '7',
+      });
+      expect(result).not.toBeNull();
     });
   });
 

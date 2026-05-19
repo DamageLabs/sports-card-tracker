@@ -423,10 +423,13 @@ class ImageProcessingService {
     const setName = data.setName ? sanitize(data.setName) : '';
     const player = sanitize(data.player || 'Unknown');
     const cardNumber = data.cardNumber || '0';
-    if (setName) {
-      return `${year}-${brand}-${setName}-${player}-${cardNumber}${ext}`;
-    }
-    return `${year}-${brand}-${player}-${cardNumber}${ext}`;
+    const parallel = data.parallel ? sanitize(data.parallel) : '';
+
+    const parts = [year, brand];
+    if (setName) parts.push(setName);
+    parts.push(player, cardNumber);
+    if (parallel) parts.push(parallel);
+    return parts.join('-') + ext;
   }
 
   private static readonly GRADE_CONDITIONS: Record<string, string> = {
@@ -491,13 +494,24 @@ class ImageProcessingService {
       return null;
     }
 
+    // Treat null/undefined/'' as equivalent so two cards both lacking the
+    // field still compare as equal. setName + parallel are part of the
+    // identity key because real-world products reuse player/year/brand/#
+    // across distinct parallels (eg. Topps Cosmic Chrome Planetary Pursuit
+    // Earth vs Jupiter, both #XW).
+    const norm = (s: string | null | undefined): string => (s ?? '').trim().toLowerCase();
+    const targetSet = norm(data.setName);
+    const targetParallel = norm(data.parallel);
+
     const allCards = await this.db.getAllCards();
     const match = allCards.find(
       card =>
         card.player.toLowerCase() === data.player!.toLowerCase() &&
         card.year === parseInt(data.year!) &&
         card.brand.toLowerCase() === data.brand!.toLowerCase() &&
-        card.cardNumber === data.cardNumber
+        card.cardNumber === data.cardNumber &&
+        norm(card.setName) === targetSet &&
+        norm(card.parallel) === targetParallel
     );
 
     if (!match) return null;
