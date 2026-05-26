@@ -33,6 +33,7 @@ function createTestReport(overrides: Partial<CompReport> = {}): CompReport {
       },
     ],
     aggregateAverage: 47.5,
+    aggregateMedian: null,
     aggregateLow: 35,
     aggregateHigh: 60,
     generatedAt: new Date().toISOString(),
@@ -172,6 +173,7 @@ describe('Comp Storage (Database CRUD)', () => {
         { source: 'SportsCardsPro', marketValue: null, sales: [], averagePrice: null, low: null, high: null, error: 'Failed' },
       ],
       aggregateAverage: null,
+      aggregateMedian: null,
       aggregateLow: null,
       aggregateHigh: null,
     });
