@@ -93,6 +93,15 @@ export function recencyWeight(saleDateMs: number | null, nowMs: number): number 
  * recency weight instead of the harsh UNKNOWN_DATE_WEIGHT penalty.
  * Returns null when no dated sales exist (all-undated batch).
  */
+export function computeMedianPrice(sales: NormalizedSale[]): number | null {
+  const prices = sales.map(s => s.price).filter((p): p is number => typeof p === 'number' && !isNaN(p));
+  if (prices.length === 0) return null;
+  prices.sort((a, b) => a - b);
+  const mid = Math.floor(prices.length / 2);
+  const median = prices.length % 2 === 0 ? (prices[mid - 1] + prices[mid]) / 2 : prices[mid];
+  return Math.round(median * 100) / 100;
+}
+
 export function medianDateMs(sales: NormalizedSale[]): number | null {
   const dates = sales
     .map(s => s.dateMs)
@@ -291,7 +300,6 @@ class CompService {
     this.adapters = adapters || [
       new SportsCardsProAdapter(browserService, cacheService),
       new EbayAdapter(browserService, cacheService),
-      new CardLadderAdapter(browserService, cacheService),
       new MarketMoversAdapter(browserService, cacheService),
       new OneThirtyPointAdapter(browserService, cacheService),
       new PsaAdapter(browserService, cacheService),
@@ -331,7 +339,7 @@ class CompService {
     });
 
     // Compute weighted aggregate from pooled sales (or fallback to market values)
-    const { aggregateAverage, aggregateLow, aggregateHigh } = this.computeWeightedAggregate(results);
+    const { aggregateAverage, aggregateMedian, aggregateLow, aggregateHigh } = this.computeWeightedAggregate(results);
 
     // Fetch pop data for graded cards (failures don't break comps)
     let popData: PopulationData | null = null;
@@ -359,6 +367,7 @@ class CompService {
       condition: request.condition,
       sources: results,
       aggregateAverage,
+      aggregateMedian,
       aggregateLow,
       aggregateHigh,
       popData,
@@ -408,6 +417,7 @@ class CompService {
 
   private computeWeightedAggregate(results: CompResult[]): {
     aggregateAverage: number | null;
+    aggregateMedian: number | null;
     aggregateLow: number | null;
     aggregateHigh: number | null;
   } {
@@ -447,6 +457,7 @@ class CompService {
       if (result) {
         return {
           aggregateAverage: result.average,
+          aggregateMedian: computeMedianPrice(deduped),
           aggregateLow: result.low,
           aggregateHigh: result.high,
         };
@@ -458,6 +469,7 @@ class CompService {
     if (fallback) {
       return {
         aggregateAverage: fallback.average,
+        aggregateMedian: null,
         aggregateLow: fallback.low,
         aggregateHigh: fallback.high,
       };
@@ -465,6 +477,7 @@ class CompService {
 
     return {
       aggregateAverage: null,
+      aggregateMedian: null,
       aggregateLow: null,
       aggregateHigh: null,
     };
@@ -497,6 +510,7 @@ class CompService {
     if (report.aggregateAverage !== null) {
       lines.push('--- Aggregate ---');
       lines.push(`Average: $${report.aggregateAverage.toFixed(2)}`);
+      if (report.aggregateMedian !== null) lines.push(`Median: $${report.aggregateMedian.toFixed(2)}`);
       if (report.aggregateLow !== null) lines.push(`Low: $${report.aggregateLow.toFixed(2)}`);
       if (report.aggregateHigh !== null) lines.push(`High: $${report.aggregateHigh.toFixed(2)}`);
     }

@@ -176,6 +176,7 @@
 
 .clear-selection-btn,
 .move-cards-btn,
+.bulk-comps-btn,
 .bulk-delete-btn,
 .select-all-btn {
   padding: 6px 12px;
@@ -215,6 +216,20 @@
 
 .move-cards-btn:hover {
   background: var(--brand-gold-hover);
+}
+
+.bulk-comps-btn {
+  background: #3b82f6;
+  color: #fff;
+}
+
+.bulk-comps-btn:hover {
+  background: #2563eb;
+}
+
+.bulk-comps-btn:disabled {
+  background: #93c5fd;
+  cursor: not-allowed;
 }
 
 .select-all-btn {
@@ -280,7 +295,7 @@
   z-index: 2;
 }
 
-.edit-btn, .delete-btn {
+.edit-btn, .delete-btn, .comps-btn {
   padding: 4px 10px;
   border: none;
   border-radius: 4px;
@@ -307,6 +322,20 @@
 
 .delete-btn:hover {
   background: rgba(200, 35, 51, 0.95);
+}
+
+.comps-btn {
+  background: rgba(59, 130, 246, 0.9);
+  color: white;
+}
+
+.comps-btn:hover {
+  background: rgba(37, 99, 235, 0.95);
+}
+
+.comps-btn:disabled {
+  background: rgba(147, 197, 253, 0.9);
+  cursor: not-allowed;
 }
 
 .card-content {
@@ -464,6 +493,17 @@
   font-weight: 700;
   background: #ecfdf5;
   color: #047857;
+}
+
+.card-median-price-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #fde68a;
 }
 
 .card-ebay-badge {

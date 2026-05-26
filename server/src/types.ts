@@ -218,6 +218,7 @@ export interface CompReport {
   condition?: string;
   sources: CompResult[];
   aggregateAverage: number | null;
+  aggregateMedian: number | null;
   aggregateLow: number | null;
   aggregateHigh: number | null;
   popData?: PopulationData | null;
@@ -256,6 +257,7 @@ export interface StoredCompReport {
   condition?: string;
   sources: CompResult[];
   aggregateAverage: number | null;
+  aggregateMedian: number | null;
   aggregateLow: number | null;
   aggregateHigh: number | null;
   popData?: PopulationData | null;

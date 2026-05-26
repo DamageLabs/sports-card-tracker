@@ -3,7 +3,8 @@ import { useCards } from '../../context/ApiCardContext';
 import { Card, FilterOptions, SortOption, COLLECTION_TYPES } from '../../types';
 import LoadingSkeleton from '../LoadingSkeleton/LoadingSkeleton';
 import MoveCardsModal from '../MoveCardsModal/MoveCardsModal';
-import { apiService, PopRarityTier } from '../../services/api';
+import { apiService, PopRarityTier, CompReport } from '../../services/api';
+import CompReportModal from '../ProcessedGallery/CompReportModal';
 import './CardList.css';
 
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000/api';
@@ -29,7 +30,12 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [showMoveModal, setShowMoveModal] = useState(false);
   const [popTiers, setPopTiers] = useState<Map<string, PopRarityTier>>(new Map());
   const [popPrices, setPopPrices] = useState<Map<string, number>>(new Map());
+  const [medianPrices, setMedianPrices] = useState<Map<string, number>>(new Map());
   const [exportedIds, setExportedIds] = useState<Set<string>>(new Set());
+  const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
+  const [bulkCompLoading, setBulkCompLoading] = useState(false);
+  const [compReport, setCompReport] = useState<CompReport | null>(null);
+  const [compReportCardId, setCompReportCardId] = useState<string | null>(null);
 
   // Load pop tiers and prices
   useEffect(() => {
@@ -44,6 +50,19 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       }
       if (tiers.size > 0) setPopTiers(tiers);
       if (prices.size > 0) setPopPrices(prices);
+    }).catch(() => { /* non-critical */ });
+  }, []);
+
+  // Load median comp prices
+  useEffect(() => {
+    apiService.getPriceSummary().then(summary => {
+      const medians = new Map<string, number>();
+      for (const entry of summary) {
+        if (entry.aggregateMedian != null && entry.aggregateMedian > 0) {
+          medians.set(entry.cardId, entry.aggregateMedian);
+        }
+      }
+      if (medians.size > 0) setMedianPrices(medians);
     }).catch(() => { /* non-critical */ });
   }, []);
 
@@ -228,6 +247,59 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
     }
   }, [clearSelection, setCards]);
 
+  const applyCompReport = useCallback((cardId: string, report: CompReport) => {
+    const tier = report.popData?.rarityTier;
+    if (tier) {
+      setPopTiers(prev => {
+        const next = new Map(prev);
+        next.set(cardId, tier);
+        return next;
+      });
+    }
+    if (report.popAdjustedAverage != null && report.popAdjustedAverage > 0) {
+      setPopPrices(prev => {
+        const next = new Map(prev);
+        next.set(cardId, report.popAdjustedAverage as number);
+        return next;
+      });
+    }
+    if (report.aggregateMedian != null && report.aggregateMedian > 0) {
+      setMedianPrices(prev => {
+        const next = new Map(prev);
+        next.set(cardId, report.aggregateMedian as number);
+        return next;
+      });
+    }
+  }, []);
+
+  const handleGenerateComps = useCallback(async (card: Card) => {
+    setCompLoadingId(card.id);
+    try {
+      const report = await apiService.generateComps(card.id);
+      applyCompReport(card.id, report);
+      setCompReportCardId(card.id);
+      setCompReport(report);
+    } catch (err) {
+      alert(`Failed to generate comps: ${err instanceof Error ? err.message : 'Unknown error'}`);
+    } finally {
+      setCompLoadingId(null);
+    }
+  }, [applyCompReport]);
+
+  const handleBulkComps = useCallback(async () => {
+    if (selectedCards.size === 0) return;
+    setBulkCompLoading(true);
+    try {
+      const cardIds = Array.from(selectedCards);
+      await apiService.generateBulkComps(cardIds);
+      alert(`Comp generation job created for ${cardIds.length} card${cardIds.length !== 1 ? 's' : ''}. Check back shortly for results.`);
+    } catch (err) {
+      alert(`Failed to start bulk comp generation: ${err instanceof Error ? err.message : 'Unknown error'}`);
+    } finally {
+      setBulkCompLoading(false);
+    }
+  }, [selectedCards]);
+
   const uniqueValues = useMemo(() => ({
     teams: [...new Set(state.cards.map(card => card.team))].sort(),
     brands: [...new Set(state.cards.map(card => card.brand))].sort(),
@@ -405,6 +477,9 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                 <button onClick={() => setShowMoveModal(true)} className="move-cards-btn">
                   Move to Collection
                 </button>
+                <button onClick={handleBulkComps} className="bulk-comps-btn" disabled={bulkCompLoading}>
+                  {bulkCompLoading ? 'Starting...' : 'Regenerate Comps'}
+                </button>
                 <button onClick={handleBulkDelete} className="bulk-delete-btn">
                   Delete Selected
                 </button>
@@ -435,6 +510,14 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                   Edit
                 </button>
               )}
+              <button
+                onClick={() => handleGenerateComps(card)}
+                className="comps-btn"
+                disabled={compLoadingId === card.id}
+                title="Regenerate comps"
+              >
+                {compLoadingId === card.id ? 'Loading...' : 'Comps'}
+              </button>
               <button onClick={() => handleDeleteCard(card.id)} className="delete-btn">
                 Delete
               </button>
@@ -480,6 +563,11 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                       ${popPrices.get(card.id)!.toFixed(2)}
                     </span>
                   )}
+                  {medianPrices.has(card.id) && (
+                    <span className="card-median-price-badge" title="Median comp price">
+                      Median ${medianPrices.get(card.id)!.toFixed(2)}
+                    </span>
+                  )}
                   {exportedIds.has(card.id) && (
                     <span className="card-ebay-badge" title="Exported to eBay">eBay</span>
                   )}
@@ -506,6 +594,21 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
           cards={state.cards.filter(card => selectedCards.has(card.id))}
           onClose={() => setShowMoveModal(false)}
           onMove={handleMoveCards}
+        />
+      )}
+
+      {compReport && (
+        <CompReportModal
+          report={compReport}
+          onClose={() => {
+            setCompReport(null);
+            setCompReportCardId(null);
+          }}
+          onRefresh={async (cardId) => {
+            const updated = await apiService.generateComps(cardId);
+            if (compReportCardId) applyCompReport(compReportCardId, updated);
+            return updated;
+          }}
         />
       )}
     </div>
