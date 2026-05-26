@@ -140,6 +140,10 @@ const CompReportModal: React.FC<CompReportModalProps> = ({ report, onClose, onRe
             <span className="comp-report-aggregate-value">{formatPrice(currentReport.aggregateAverage)}</span>
           </div>
           <div className="comp-report-aggregate-item">
+            <span className="comp-report-aggregate-label">Median</span>
+            <span className="comp-report-aggregate-value">{formatPrice(currentReport.aggregateMedian)}</span>
+          </div>
+          <div className="comp-report-aggregate-item">
             <span className="comp-report-aggregate-label">Low</span>
             <span className="comp-report-aggregate-value">{formatPrice(currentReport.aggregateLow)}</span>
           </div>
