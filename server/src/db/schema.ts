@@ -138,6 +138,7 @@ export const cardCompReports = sqliteTable('card_comp_reports', {
   cardId: text('cardId').notNull().references(() => cards.id, { onDelete: 'cascade' }),
   condition: text('condition'),
   aggregateAverage: real('aggregateAverage'),
+  aggregateMedian: real('aggregateMedian'),
   aggregateLow: real('aggregateLow'),
   aggregateHigh: real('aggregateHigh'),
   popMultiplier: real('popMultiplier'),

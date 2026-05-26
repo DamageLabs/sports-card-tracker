@@ -85,6 +85,13 @@
       "when": 1772841600000,
       "tag": "0012_card_enhanced_attributes",
       "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1772928000000,
+      "tag": "0013_comp_aggregate_median",
+      "breakpoints": true
     }
   ]
 }
