@@ -1,0 +1,53 @@
+Card: David Robinson 1989 NBA Hoops #138
+Condition: 10: GEM MINT
+Generated: 2026-05-29T13:19:34.955Z
+
+--- SportsCardsPro ---
+Market Value: $89.99
+Average Price: $89.99
+
+--- eBay ---
+Market Value: $593.82
+Average Price: $593.82
+Range: $49.00 - $750.00
+Recent Sales:
+  May 26, 2026 - $550.50 (eBay, PSA 10)
+  May 26, 2026 - $595.00 (eBay, PSA 10)
+  May 20, 2026 - $650.00 (eBay, PSA 10)
+  May 18, 2026 - $615.00 (eBay, PSA 10)
+  May 17, 2026 - $629.00 (eBay, PSA 10)
+  May 12, 2026 - $595.00 (eBay, PSA 10)
+  May 11, 2026 - $638.89 (eBay, PSA 10)
+  May 9, 2026 - $585.00 (eBay, PSA 10)
+  Apr 30, 2026 - $625.00 (eBay, PSA 10)
+  Apr 27, 2026 - $750.00 (eBay, PSA 10)
+  Apr 19, 2026 - $590.00 (eBay, PSA 10)
+  Apr 12, 2026 - $581.00 (eBay, PSA 10)
+  Apr 5, 2026 - $660.00 (eBay, PSA 10)
+  Mar 29, 2026 - $560.13 (eBay, PSA 10)
+  Mar 1, 2026 - $710.69 (eBay, PSA 10)
+  Mar 1, 2026 - $499.00 (eBay, PSA 10)
+  May 25, 2026 - $75.00 (eBay, PSA 10)
+  Apr 21, 2026 - $600.00 (eBay, PSA 10)
+  May 21, 2026 - $75.00 (eBay, PSA 10)
+  May 10, 2026 - $49.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $80.05
+Average Price: $80.05
+Range: $80.05 - $80.05
+Recent Sales:
+   - $80.05 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $487.60
+Median: $590.00
+Low: $75.00
+High: $650.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 118
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $609.50 (+25%)

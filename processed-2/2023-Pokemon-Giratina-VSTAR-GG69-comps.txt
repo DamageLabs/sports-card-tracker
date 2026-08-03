@@ -1,0 +1,29 @@
+Card: Giratina VSTAR 2023 Pokemon #GG69
+Condition: 10: GEM MINT
+Generated: 2026-06-01T22:36:45.282Z
+
+--- SportsCardsPro ---
+Market Value: $828.70
+Average Price: $828.70
+
+--- eBay ---
+Market Value: $932.98
+Average Price: $932.98
+Range: $899.95 - $999.00
+Recent Sales:
+  May 22, 2026 - $900.00 (eBay, BGS 10)
+  May 22, 2026 - $899.95 (eBay, BGS 10)
+  May 27, 2026 - $999.00 (eBay, BGS 10)
+
+--- 130Point ---
+Market Value: $244.00
+Average Price: $244.00
+Range: $244.00 - $244.00
+Recent Sales:
+   - $244.00 (Goldin)
+
+--- Aggregate ---
+Average: $732.77
+Median: $900.00
+Low: $244.00
+High: $999.00

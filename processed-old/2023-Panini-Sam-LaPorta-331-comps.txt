@@ -1,0 +1,64 @@
+Card: Sam LaPorta 2023 Panini #331
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:02:13.928Z
+
+--- SportsCardsPro ---
+Market Value: $3.34
+Average Price: $3.34
+
+--- eBay ---
+Market Value: $81.77
+Average Price: $81.77
+Range: $29.99 - $400.00
+Recent Sales:
+  May 10, 2026 - $200.00 (eBay, PSA 10)
+  Mar 14, 2026 - $85.00 (eBay, PSA 10)
+  May 17, 2026 - $110.99 (eBay, PSA 10)
+  May 19, 2026 - $65.00 (eBay, PSA 10)
+  Mar 1, 2026 - $115.00 (eBay, PSA 10)
+  Mar 26, 2026 - $54.99 (eBay, PSA 10)
+  Apr 8, 2026 - $29.99 (eBay, PSA 10)
+  May 3, 2026 - $29.99 (eBay, PSA 10)
+  May 10, 2026 - $82.50 (eBay, PSA 10)
+  Mar 28, 2026 - $39.99 (eBay, PSA 10)
+  Apr 5, 2026 - $100.00 (eBay, PSA 10)
+  Apr 27, 2026 - $134.50 (eBay, PSA 10)
+  Apr 22, 2026 - $34.99 (eBay, PSA 10)
+  Apr 19, 2026 - $35.00 (eBay, PSA 10)
+  Mar 24, 2026 - $30.00 (eBay, PSA 10)
+  May 17, 2026 - $175.00 (eBay, PSA 10)
+  Apr 16, 2026 - $400.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $79.07
+Average Price: $79.07
+Range: $35.00 - $366.00
+Recent Sales:
+   - $39.31 (Pristine, PSA 10)
+   - $52.83 (Pristine, PSA 10)
+   - $95.00 (eBay, PSA 10)
+   - $35.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $44.01 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+   - $366.00 (eBay, PSA 10)
+   - $51.00 (eBay, PSA 10)
+   - $102.50 (eBay, PSA 10)
+   - $86.00 (eBay, PSA 10)
+   - $55.00 (eBay, PSA 10)
+   - $110.00 (eBay, PSA 10)
+   - $122.50 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $132.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $86.95
+Low: $34.99
+High: $200.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 7
+Percentile: Top 28.57%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $106.08 (+22%)

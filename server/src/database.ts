@@ -150,6 +150,8 @@ CREATE TABLE IF NOT EXISTS card_comp_reports (
   aggregateMedian real,
   aggregateLow real,
   aggregateHigh real,
+  psa10Median real,
+  psa9Median real,
   popMultiplier real,
   popAdjustedAverage real,
   popData text,
@@ -1339,6 +1341,8 @@ class Database {
       aggregateMedian: report.aggregateMedian,
       aggregateLow: report.aggregateLow,
       aggregateHigh: report.aggregateHigh,
+      psa10Median: report.psa10Median,
+      psa9Median: report.psa9Median,
       popMultiplier: report.popMultiplier ?? null,
       popAdjustedAverage: report.popAdjustedAverage ?? null,
       popData: report.popData ? JSON.stringify(report.popData) : null,
@@ -1386,6 +1390,8 @@ class Database {
       aggregateMedian: report.aggregateMedian,
       aggregateLow: report.aggregateLow,
       aggregateHigh: report.aggregateHigh,
+      psa10Median: report.psa10Median,
+      psa9Median: report.psa9Median,
       popData: report.popData,
       popMultiplier: report.popMultiplier,
       popAdjustedAverage: report.popAdjustedAverage,
@@ -1461,12 +1467,14 @@ class Database {
     return results;
   }
 
-  public async getPriceSummary(): Promise<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; popAdjustedAverage: number | null; images: string[] }[]> {
+  public async getPriceSummary(): Promise<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; psa10Median: number | null; psa9Median: number | null; popAdjustedAverage: number | null; images: string[] }[]> {
     const rows = this.db
       .select({
         cardId: cardCompReports.cardId,
         aggregateAverage: cardCompReports.aggregateAverage,
         aggregateMedian: cardCompReports.aggregateMedian,
+        psa10Median: cardCompReports.psa10Median,
+        psa9Median: cardCompReports.psa9Median,
         popAdjustedAverage: cardCompReports.popAdjustedAverage,
         images: cards.images,
         generatedAt: cardCompReports.generatedAt,
@@ -1477,7 +1485,7 @@ class Database {
       .all();
 
     const seen = new Set<string>();
-    const results: { cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; popAdjustedAverage: number | null; images: string[] }[] = [];
+    const results: { cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; psa10Median: number | null; psa9Median: number | null; popAdjustedAverage: number | null; images: string[] }[] = [];
     for (const row of rows) {
       if (seen.has(row.cardId)) continue;
       seen.add(row.cardId);
@@ -1486,6 +1494,8 @@ class Database {
         cardId: row.cardId,
         aggregateAverage: row.aggregateAverage ?? null,
         aggregateMedian: row.aggregateMedian ?? null,
+        psa10Median: row.psa10Median ?? null,
+        psa9Median: row.psa9Median ?? null,
         popAdjustedAverage: row.popAdjustedAverage ?? null,
         images,
       });
@@ -1525,6 +1535,8 @@ class Database {
       aggregateMedian: row.aggregateMedian,
       aggregateLow: row.aggregateLow,
       aggregateHigh: row.aggregateHigh,
+      psa10Median: row.psa10Median,
+      psa9Median: row.psa9Median,
       popData,
       popMultiplier: row.popMultiplier ?? undefined,
       popAdjustedAverage: row.popAdjustedAverage ?? undefined,

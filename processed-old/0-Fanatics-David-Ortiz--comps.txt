@@ -1,0 +1,74 @@
+Card: David Ortiz 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-09T03:13:36.252Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $151.09
+Average Price: $151.09
+Range: $28.00 - $1175.00
+Recent Sales:
+  Mar 7, 2026 - $275.00 (eBay)
+  Apr 26, 2026 - $456.51 (eBay)
+  Apr 10, 2026 - $125.00 (eBay)
+  Mar 1, 2026 - $134.50 (eBay)
+  May 3, 2026 - $221.25 (eBay)
+  Mar 9, 2026 - $130.50 (eBay)
+  Apr 8, 2026 - $30.00 (eBay, PSA 9)
+  Feb 18, 2026 - $152.50 (eBay)
+  Apr 26, 2026 - $96.00 (eBay)
+  Apr 26, 2026 - $105.50 (eBay)
+  Apr 27, 2026 - $130.00 (eBay)
+  May 8, 2026 - $1175.00 (eBay)
+  Mar 11, 2026 - $162.50 (eBay)
+  Apr 9, 2026 - $499.99 (eBay)
+  May 2, 2026 - $249.99 (eBay)
+  May 1, 2026 - $69.99 (eBay)
+  May 2, 2026 - $69.95 (eBay)
+  Feb 15, 2026 - $152.50 (eBay)
+  Feb 19, 2026 - $28.00 (eBay)
+  May 3, 2026 - $110.00 (eBay)
+
+--- 130Point ---
+Market Value: $293.12
+Average Price: $293.12
+Range: $22.00 - $1310.40
+Recent Sales:
+   - $417.68 (Pristine)
+   - $468.00 (Pristine)
+   - $147.42 (Pristine)
+   - $210.60 (Pristine)
+   - $169.53 (Pristine)
+   - $71.37 (Pristine)
+   - $22.00 (eBay)
+   - $169.30 (Pristine)
+   - $1310.40 (Pristine)
+   - $138.02 (Pristine)
+   - $300.98 (Pristine)
+   - $184.28 (Pristine)
+   - $147.42 (Pristine)
+   - $221.13 (Pristine)
+   - $409.51 (Pristine)
+   - $214.99 (Pristine)
+   - $214.99 (Pristine)
+   - $191.10 (Pristine)
+   - $496.08 (Pristine)
+   - $552.83 (Pristine)
+   - $449.63 (Pristine)
+   - $319.41 (Pristine)
+   - $448.40 (Pristine)
+   - $112.41 (Pristine)
+   - $468.00 (Pristine)
+   - $324.09 (Pristine)
+   - $406.33 (Pristine)
+   - $813.15 (Pristine)
+   - $276.41 (Pristine)
+   - $289.46 (Pristine)
+
+--- Aggregate ---
+Average: $253.25
+Low: $71.37
+High: $499.99

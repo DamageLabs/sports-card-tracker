@@ -1,0 +1,60 @@
+Card: Abdul Carter 2025 Panini #FYFBH-ACR
+Condition: RAW
+Generated: 2026-05-07T13:27:40.810Z
+
+--- SportsCardsPro ---
+Market Value: $10.00
+Average Price: $10.00
+
+--- eBay ---
+Market Value: $2.17
+Average Price: $2.17
+Range: $1.00 - $3.99
+Recent Sales:
+  Apr 12, 2026 - $3.99 (eBay)
+  Apr 25, 2026 - $1.00 (eBay)
+  Mar 1, 2026 - $2.99 (eBay)
+  May 1, 2026 - $1.99 (eBay)
+  Apr 19, 2026 - $2.49 (eBay)
+  Apr 10, 2026 - $2.59 (eBay)
+  Mar 29, 2026 - $2.25 (eBay)
+  Apr 6, 2026 - $2.00 (eBay)
+  Feb 15, 2026 - $1.99 (eBay)
+  Feb 12, 2026 - $3.00 (eBay)
+  Mar 1, 2026 - $1.75 (eBay)
+  Apr 10, 2026 - $1.76 (eBay)
+  Mar 17, 2026 - $1.20 (eBay)
+  Mar 13, 2026 - $1.50 (eBay)
+  May 6, 2026 - $1.25 (eBay)
+  May 6, 2026 - $1.59 (eBay)
+  Apr 27, 2026 - $3.25 (eBay)
+  Feb 16, 2026 - $3.50 (eBay)
+  Mar 20, 2026 - $3.99 (eBay)
+  May 6, 2026 - $1.25 (eBay)
+
+--- 130Point ---
+Market Value: $2.41
+Average Price: $2.41
+Range: $0.90 - $8.00
+Recent Sales:
+   - $3.99 (eBay)
+   - $2.59 (eBay)
+   - $8.00 (eBay)
+   - $0.90 (eBay)
+   - $2.25 (eBay)
+   - $2.25 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $3.99 (eBay)
+   - $3.00 (eBay)
+   - $2.99 (eBay)
+   - $3.50 (eBay)
+   - $1.99 (eBay)
+   - $1.35 (eBay)
+   - $3.00 (eBay)
+
+--- Aggregate ---
+Average: $2.29
+Low: $0.99
+High: $3.99

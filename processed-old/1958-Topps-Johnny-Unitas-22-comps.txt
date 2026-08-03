@@ -1,0 +1,48 @@
+Card: Johnny Unitas 1958 Topps #22
+Condition: 5: EXCELLENT
+Generated: 2026-05-21T05:23:49.143Z
+
+--- SportsCardsPro ---
+Market Value: $10.10
+Average Price: $10.10
+
+--- eBay ---
+Market Value: $180.99
+Average Price: $180.99
+Range: $150.00 - $215.00
+Recent Sales:
+  Mar 24, 2026 - $150.00 (eBay, PSA 5)
+  Mar 23, 2026 - $199.00 (eBay, PSA 5)
+  Mar 4, 2026 - $159.95 (eBay, PSA 5)
+  Mar 1, 2026 - $215.00 (eBay, PSA 5)
+
+--- 130Point ---
+Market Value: $92.76
+Average Price: $92.76
+Range: $51.75 - $180.00
+Recent Sales:
+   - $180.00 (eBay, PSA 5)
+   - $94.00 (PWCC, PSA 5)
+   - $84.00 (PWCC, PSA 5)
+   - $112.80 (PWCC, PSA 5)
+   - $110.40 (PWCC, PSA 5)
+   - $150.00 (PWCC, PSA 5)
+   - $105.00 (PWCC, PSA 5)
+   - $105.00 (PWCC, PSA 5)
+   - $71.00 (PWCC, PSA 5)
+   - $61.00 (PWCC, PSA 5)
+   - $73.67 (PWCC, PSA 5)
+   - $53.53 (PWCC, PSA 5)
+   - $51.75 (PWCC, PSA 5)
+
+--- Aggregate ---
+Average: $116.65
+Low: $53.53
+High: $199.00
+
+--- Population Report ---
+PSA 5 Pop: 1
+Total Graded: 17
+Percentile: Top 5.88%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $145.81 (+25%)

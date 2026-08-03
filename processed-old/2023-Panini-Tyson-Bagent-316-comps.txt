@@ -1,0 +1,42 @@
+Card: Tyson Bagent 2023 Panini #316
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:11:31.465Z
+
+--- SportsCardsPro ---
+Market Value: $108.50
+Average Price: $108.50
+
+--- eBay ---
+Market Value: $260.25
+Average Price: $260.25
+Range: $150.00 - $399.95
+Recent Sales:
+  Feb 26, 2026 - $399.95 (eBay, PSA 10)
+  Feb 24, 2026 - $275.00 (eBay, PSA 10)
+  Mar 11, 2026 - $340.00 (eBay, PSA 10)
+  May 10, 2026 - $365.00 (eBay, PSA 10)
+  May 3, 2026 - $150.00 (eBay, PSA 10)
+  Apr 1, 2026 - $231.50 (eBay, PSA 10)
+  Apr 12, 2026 - $199.99 (eBay, PSA 10)
+  Feb 28, 2026 - $150.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $165.50
+Average Price: $165.50
+Range: $120.00 - $231.50
+Recent Sales:
+   - $145.00 (eBay, PSA 10)
+   - $231.50 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $239.66
+Low: $145.00
+High: $365.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 4
+Percentile: Top 75%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $288.07 (+20%)

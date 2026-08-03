@@ -1,0 +1,43 @@
+Card: Marvin Harrison Jr. 2024 Panini #219
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:33:23.046Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $50.11
+Average Price: $50.11
+Range: $30.00 - $290.00
+Recent Sales:
+  Feb 23, 2026 - $147.50 (eBay, PSA 10)
+  Apr 5, 2026 - $44.99 (eBay, PSA 10)
+  May 18, 2026 - $30.00 (eBay, PSA 10)
+  Apr 5, 2026 - $40.00 (eBay, PSA 10)
+  May 13, 2026 - $42.24 (eBay, PSA 10)
+  Feb 21, 2026 - $39.99 (eBay, PSA 10)
+  May 12, 2026 - $35.00 (eBay, PSA 10)
+  Mar 19, 2026 - $290.00 (eBay, PSA 10)
+  Mar 25, 2026 - $35.00 (eBay, PSA 10)
+  Mar 8, 2026 - $39.99 (eBay, PSA 10)
+  Mar 22, 2026 - $39.00 (eBay, PSA 10)
+  Mar 8, 2026 - $52.50 (eBay, PSA 10)
+  May 8, 2026 - $35.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $147.50
+Average Price: $147.50
+Range: $147.50 - $147.50
+Recent Sales:
+   - $147.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $40.72
+Low: $30.00
+High: $147.50
+
+--- Population Report ---
+PSA 10 Pop: 23
+Total Graded: 23
+Percentile: Top 100%
+Rarity Tier: low
+Pop-Adjusted Average: $45.36 (+11%)

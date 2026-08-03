@@ -1,0 +1,27 @@
+Card: Aaron Rodgers 2021 Panini #K10
+Condition: 9: MINT
+Generated: 2026-05-19T03:58:39.340Z
+
+--- SportsCardsPro ---
+Market Value: $24.99
+Average Price: $24.99
+
+--- 130Point ---
+Market Value: $450.00
+Average Price: $450.00
+Range: $270.00 - $630.00
+Recent Sales:
+   - $630.00 (Goldin)
+   - $270.00 (Goldin)
+
+--- Aggregate ---
+Average: $450.00
+Low: $270.00
+High: $630.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 7
+Percentile: Top 85.71%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $562.50 (+25%)

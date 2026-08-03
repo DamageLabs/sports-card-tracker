@@ -1,0 +1,55 @@
+Card: Michael Jordan 1995 Topps #SP2
+Condition: 9: MINT
+Generated: 2026-05-20T19:29:26.548Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $427.00
+Average Price: $427.00
+Range: $351.00 - $516.00
+Recent Sales:
+  May 17, 2026 - $516.00 (eBay, PSA 9)
+  May 10, 2026 - $499.99 (eBay, PSA 9)
+  Apr 30, 2026 - $383.00 (eBay, PSA 9)
+  Apr 7, 2026 - $399.99 (eBay, PSA 9)
+  Apr 3, 2026 - $425.00 (eBay, PSA 9)
+  Mar 29, 2026 - $351.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $128.96
+Average Price: $128.96
+Range: $3.13 - $425.00
+Recent Sales:
+   - $399.99 (eBay, PSA 9)
+   - $425.00 (eBay, PSA 9)
+   - $351.00 (eBay, PSA 9)
+   - $198.00 (PWCC, PSA 9)
+   - $160.00 (PWCC, PSA 9)
+   - $124.00 (PWCC, PSA 9)
+   - $125.00 (PWCC, PSA 9)
+   - $98.40 (PWCC, PSA 9)
+   - $120.00 (MySlabs, PSA 9)
+   - $145.00 (MySlabs, PSA 9)
+   - $112.80 (PWCC, PSA 9)
+   - $120.00 (PWCC, PSA 9)
+   - $120.00 (PWCC, PSA 9)
+   - $103.20 (PWCC, PSA 9)
+   - $94.00 (PWCC, PSA 9)
+   - $224.00 (PWCC, PSA 9)
+   - $61.00 (PWCC, PSA 9)
+   - $50.00 (PWCC, PSA 9)
+   - $25.00 (PWCC, PSA 9)
+   - $3.13 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $228.02
+Low: $50.00
+High: $499.99
+
+--- Population Report ---
+PSA 9 Pop: 364
+Total Graded: 1489
+Percentile: Top 27%
+Rarity Tier: high
+Pop-Adjusted Average: $226.65 (-1%)

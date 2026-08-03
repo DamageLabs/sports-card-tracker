@@ -1,0 +1,59 @@
+Card: Wyatt Langford 2025 Fanatics #
+Condition: RAW
+Generated: 2026-05-27T22:36:59.004Z
+
+--- eBay ---
+Market Value: $64.92
+Average Price: $64.92
+Range: $20.00 - $279.99
+Recent Sales:
+  Apr 20, 2026 - $129.99 (eBay)
+  May 25, 2026 - $79.99 (eBay)
+  May 26, 2026 - $74.99 (eBay)
+  Mar 2, 2026 - $279.99 (eBay)
+  May 16, 2026 - $20.00 (eBay)
+  May 1, 2026 - $235.00 (eBay)
+  May 24, 2026 - $49.00 (eBay)
+  May 24, 2026 - $34.00 (eBay)
+  May 21, 2026 - $49.99 (eBay)
+  Apr 11, 2026 - $50.00 (eBay, PSA 8)
+  May 8, 2026 - $55.00 (eBay)
+  May 7, 2026 - $39.99 (eBay)
+  Apr 1, 2026 - $59.99 (eBay)
+  May 13, 2026 - $55.00 (eBay)
+  Apr 24, 2026 - $125.00 (eBay)
+  May 7, 2026 - $50.00 (eBay)
+  May 2, 2026 - $69.99 (eBay)
+  Mar 20, 2026 - $49.00 (eBay)
+  Apr 28, 2026 - $40.99 (eBay)
+  Apr 10, 2026 - $100.00 (eBay)
+
+--- 130Point ---
+Market Value: $35.63
+Average Price: $35.63
+Range: $1.17 - $110.94
+Recent Sales:
+   - $76.17 (Pristine)
+   - $84.77 (Pristine)
+   - $22.11 (Pristine)
+   - $110.94 (Pristine)
+   - $24.57 (Pristine, SGC 10)
+   - $36.86 (Pristine)
+   - $4.91 (Heritage, BGS 9)
+   - $1.17 (Pristine)
+   - $81.08 (Pristine)
+   - $23.34 (Heritage, BGS 9)
+   - $10.00 (Goldin)
+   - $59.67 (Pristine, PSA 10)
+   - $23.40 (Pristine)
+   - $20.00 (Pristine)
+   - $26.91 (Pristine, PSA 9)
+   - $23.40 (Pristine)
+
+--- Aggregate ---
+Average: $50.57
+Median: $50.00
+Low: $20.00
+High: $110.94
+Projected PSA 10 Median: $252.50
+Projected PSA 9 Median: $154.50

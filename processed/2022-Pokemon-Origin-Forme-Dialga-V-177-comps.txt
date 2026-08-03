@@ -1,0 +1,48 @@
+Card: Origin Forme Dialga V 2022 Pokemon #177
+Condition: 10: GEM MINT
+Generated: 2026-06-03T01:09:23.779Z
+
+--- SportsCardsPro ---
+Market Value: $61.80
+Average Price: $61.80
+
+--- eBay ---
+Market Value: $200.50
+Average Price: $200.50
+Range: $175.19 - $250.00
+Recent Sales:
+  May 27, 2026 - $229.99 (eBay, PSA 10)
+  May 26, 2026 - $215.00 (eBay, PSA 10)
+  May 13, 2026 - $205.00 (eBay, PSA 10)
+  May 1, 2026 - $180.00 (eBay, PSA 10)
+  Apr 24, 2026 - $200.00 (eBay, PSA 10)
+  Mar 22, 2026 - $175.19 (eBay, PSA 10)
+  Mar 19, 2026 - $190.00 (eBay, PSA 10)
+  May 19, 2026 - $205.00 (eBay, PSA 10)
+  May 27, 2026 - $204.99 (eBay, PSA 10)
+  May 19, 2026 - $210.00 (eBay, PSA 10)
+  May 28, 2026 - $250.00 (eBay, PSA 10)
+  Apr 4, 2026 - $178.00 (eBay, PSA 10)
+  May 20, 2026 - $214.99 (eBay, PSA 10)
+  Mar 30, 2026 - $179.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $69.50
+Average Price: $69.50
+Range: $61.00 - $78.00
+Recent Sales:
+   - $61.00 (Goldin)
+   - $78.00 (Goldin)
+
+--- Aggregate ---
+Average: $200.23
+Median: $200.00
+Low: $78.00
+High: $250.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 10
+Percentile: Top 30%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $240.67 (+20%)

@@ -1,0 +1,6 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,NETO-2025-47-RAW,215,2025 Topps Bowman's Best Zach Neto #47 Los Angeles Angels,,5.48,1,,3000,<p><b>2025 Topps Bowman's Best Zach Neto #47</b></p><p><b>Serial Numbered:</b> 293/300</p><p>Los Angeles Angels | Baseball</p><p><b>Market Data:</b> Avg Market Value: $6.09 | Recent Sales Range: $0.99 - $44.99 | Based on 2 market sources</p><p>Card shipped in protective sleeve and toploader with tracking.</p>,FixedPrice

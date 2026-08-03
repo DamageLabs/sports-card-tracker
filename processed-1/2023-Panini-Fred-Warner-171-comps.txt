@@ -1,0 +1,50 @@
+Card: Fred Warner 2023 Panini #171
+Condition: RAW
+Generated: 2026-05-27T23:44:45.823Z
+
+--- SportsCardsPro ---
+Market Value: $4.88
+Average Price: $4.88
+
+--- eBay ---
+Market Value: $7.68
+Average Price: $7.68
+Range: $0.99 - $45.00
+Recent Sales:
+  May 6, 2026 - $0.99 (eBay)
+  Apr 7, 2026 - $1.00 (eBay)
+  Apr 3, 2026 - $2.50 (eBay)
+  Mar 28, 2026 - $3.30 (eBay)
+  Mar 15, 2026 - $17.00 (eBay)
+  Mar 1, 2026 - $6.00 (eBay)
+  Apr 25, 2026 - $10.00 (eBay)
+  Mar 1, 2026 - $1.49 (eBay)
+  May 12, 2026 - $19.99 (eBay)
+  Apr 12, 2026 - $3.00 (eBay)
+  Apr 15, 2026 - $45.00 (eBay)
+  May 23, 2026 - $24.00 (eBay)
+  May 9, 2026 - $3.99 (eBay)
+  May 26, 2026 - $2.00 (eBay)
+  May 23, 2026 - $2.59 (eBay)
+  Apr 9, 2026 - $15.99 (eBay)
+  Apr 18, 2026 - $19.99 (eBay)
+  May 22, 2026 - $5.39 (eBay)
+  Apr 18, 2026 - $2.02 (eBay)
+
+--- 130Point ---
+Market Value: $1.76
+Average Price: $1.76
+Range: $1.00 - $2.87
+Recent Sales:
+   - $1.00 (eBay)
+   - $1.15 (eBay)
+   - $2.00 (eBay)
+   - $2.87 (eBay)
+
+--- Aggregate ---
+Average: $6.80
+Median: $3.00
+Low: $1.00
+High: $24.00
+Projected PSA 10 Median: $109.99
+Projected PSA 9 Median: $105.00

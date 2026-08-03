@@ -1,0 +1,45 @@
+Card: Micah Parsons 2021 Panini #331
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:34:15.408Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $60.20
+Average Price: $60.20
+Range: $39.99 - $390.00
+Recent Sales:
+  Mar 13, 2026 - $39.99 (eBay, PSA 10)
+  May 10, 2026 - $50.00 (eBay, PSA 10)
+  May 14, 2026 - $55.00 (eBay, PSA 10)
+  May 13, 2026 - $65.00 (eBay, PSA 10)
+  Apr 7, 2026 - $55.00 (eBay, PSA 10)
+  Apr 9, 2026 - $59.99 (eBay, PSA 10)
+  Mar 28, 2026 - $45.99 (eBay, PSA 10)
+  Apr 9, 2026 - $99.99 (eBay, PSA 10)
+  May 8, 2026 - $65.00 (eBay, PSA 10)
+  Mar 21, 2026 - $62.00 (eBay, PSA 10)
+  May 11, 2026 - $43.99 (eBay, PSA 10)
+  Mar 6, 2026 - $390.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $42.49
+Average Price: $42.49
+Range: $26.00 - $58.97
+Recent Sales:
+   - $26.00 (eBay, PSA 10)
+   - $58.97 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $56.11
+Low: $43.99
+High: $65.00
+
+--- Population Report ---
+PSA 10 Pop: 16
+Total Graded: 29
+Percentile: Top 55.17%
+Rarity Tier: low
+Pop-Adjusted Average: $63.40 (+13%)

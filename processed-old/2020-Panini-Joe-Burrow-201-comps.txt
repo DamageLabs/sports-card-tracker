@@ -1,0 +1,31 @@
+Card: Joe Burrow 2020 Panini #201
+Condition: 8.5: NEAR MINT-MINT+
+Generated: 2026-05-21T05:22:30.062Z
+
+--- SportsCardsPro ---
+Market Value: $6.50
+Average Price: $6.50
+
+--- eBay ---
+Market Value: $614.50
+Average Price: $614.50
+Range: $23.99 - $1599.00
+Recent Sales:
+  Apr 3, 2026 - $799.00 (eBay, BGS 8.5)
+  Apr 26, 2026 - $320.00 (eBay, BGS 8.5)
+  Feb 22, 2026 - $440.00 (eBay, BGS 8.5)
+  Mar 4, 2026 - $899.00 (eBay, BGS 8.5)
+  Mar 1, 2026 - $23.99 (eBay, BGS 8.5)
+  Mar 4, 2026 - $1599.00 (eBay, BGS 8.5)
+
+--- 130Point ---
+Market Value: $2760.00
+Average Price: $2760.00
+Range: $2760.00 - $2760.00
+Recent Sales:
+   - $2760.00 (Goldin, BGS 10)
+
+--- Aggregate ---
+Average: $681.26
+Low: $23.99
+High: $1599.00

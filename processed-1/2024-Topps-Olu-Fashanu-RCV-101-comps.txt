@@ -1,0 +1,41 @@
+Card: Olu Fashanu 2024 Topps #RCV-101
+Condition: RAW
+Generated: 2026-05-27T23:30:27.169Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $4.17
+Average Price: $4.17
+Range: $1.79 - $10.00
+Recent Sales:
+  Feb 27, 2026 - $2.25 (eBay)
+  Apr 21, 2026 - $3.95 (eBay)
+  Apr 23, 2026 - $7.99 (eBay)
+  Mar 11, 2026 - $2.99 (eBay)
+  Apr 20, 2026 - $6.00 (eBay)
+  Apr 2, 2026 - $1.79 (eBay)
+  Apr 29, 2026 - $10.00 (eBay)
+  Mar 26, 2026 - $1.83 (eBay)
+
+--- 130Point ---
+Market Value: $2.45
+Average Price: $2.45
+Range: $1.75 - $46.68
+Recent Sales:
+   - $4.09 (eBay)
+   - $1.76 (eBay)
+   - $1.79 (eBay)
+   - $2.99 (eBay)
+   - $1.83 (eBay)
+   - $2.25 (eBay)
+   - $1.75 (eBay)
+   - $46.68 (Pristine, PSA 9)
+
+--- Aggregate ---
+Average: $4.09
+Median: $2.62
+Low: $1.76
+High: $10.00
+Projected PSA 10 Median: $76.00
+Projected PSA 9 Median: $2.25

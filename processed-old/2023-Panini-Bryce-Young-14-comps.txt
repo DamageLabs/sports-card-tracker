@@ -1,0 +1,50 @@
+Card: Bryce Young 2023 Panini #14
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:07:14.688Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $190.87
+Average Price: $190.87
+Range: $45.20 - $499.99
+Recent Sales:
+  Apr 11, 2026 - $499.99 (eBay, PSA 10)
+  Mar 27, 2026 - $245.00 (eBay, PSA 10)
+  Mar 21, 2026 - $230.00 (eBay, PSA 10)
+  Mar 5, 2026 - $194.50 (eBay, PSA 10)
+  Feb 24, 2026 - $230.00 (eBay, PSA 10)
+  Mar 17, 2026 - $215.00 (eBay, PSA 10)
+  Apr 30, 2026 - $45.20 (eBay, PSA 10)
+  Apr 24, 2026 - $399.95 (eBay, PSA 10)
+  Apr 14, 2026 - $324.95 (eBay, PSA 10)
+  Feb 27, 2026 - $204.50 (eBay, PSA 10)
+  Feb 24, 2026 - $204.50 (eBay, PSA 10)
+  May 12, 2026 - $55.00 (eBay, PSA 10)
+  May 14, 2026 - $105.00 (eBay, PSA 10)
+  Mar 15, 2026 - $72.00 (eBay, PSA 10)
+  Apr 1, 2026 - $65.00 (eBay, PSA 10)
+  May 2, 2026 - $200.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $184.83
+Average Price: $184.83
+Range: $180.00 - $265.00
+Recent Sales:
+   - $265.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $194.50 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $178.82
+Low: $55.00
+High: $399.95
+
+--- Population Report ---
+PSA 10 Pop: 53
+Total Graded: 144
+Percentile: Top 36.81%
+Rarity Tier: medium
+Pop-Adjusted Average: $192.77 (+8%)

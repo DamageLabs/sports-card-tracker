@@ -1,0 +1,37 @@
+Card: Jordy Nelson 2016 Panini #29
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-19T23:00:07.480Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $850.88
+Average Price: $850.88
+Range: $14.50 - $2800.00
+Recent Sales:
+  Apr 28, 2026 - $14.50 (eBay, PSA 8)
+  Mar 26, 2026 - $199.00 (eBay, PSA 8)
+  May 17, 2026 - $390.00 (eBay, PSA 8)
+  Apr 29, 2026 - $2800.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $1588.13
+Average Price: $1588.13
+Range: $100.00 - $6000.00
+Recent Sales:
+   - $100.00 (eBay, PSA 8)
+   - $150.00 (eBay, PSA 8)
+   - $102.50 (eBay, PSA 8)
+   - $6000.00 (PWCC, PSA 8)
+
+--- Aggregate ---
+Average: $771.29
+Low: $14.50
+High: $6000.00
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $964.11 (+25%)

@@ -1,0 +1,83 @@
+Card: Ken Griffey Jr. 2022 Panini #54
+Condition: RAW
+Generated: 2026-03-01T04:32:06.220Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $5.28
+Average Price: $5.28
+Range: $0.50 - $189.99
+Recent Sales:
+  Feb 27, 2026 - $2.99 (eBay)
+  Feb 22, 2026 - $1.27 (eBay)
+  Feb 20, 2026 - $2.25 (eBay)
+  Feb 17, 2026 - $2.99 (eBay)
+  Feb 10, 2026 - $4.99 (eBay)
+  Feb 7, 2026 - $5.00 (eBay)
+  Feb 4, 2026 - $23.99 (eBay)
+  Feb 2, 2026 - $8.39 (eBay)
+  Jan 29, 2026 - $5.00 (eBay)
+  Jan 28, 2026 - $3.95 (eBay)
+  Jan 27, 2026 - $24.25 (eBay)
+  Jan 23, 2026 - $2.99 (eBay)
+  Jan 22, 2026 - $2.50 (eBay)
+  Jan 22, 2026 - $4.92 (eBay)
+  Jan 19, 2026 - $0.99 (eBay)
+  Jan 14, 2026 - $3.00 (eBay)
+  Jan 10, 2026 - $0.50 (eBay)
+  Jan 7, 2026 - $189.99 (eBay)
+  Dec 27, 2025 - $19.95 (eBay)
+  Dec 24, 2025 - $5.00 (eBay)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2022 Panini Select Ken Griffey Jr. 54
+
+--- MarketMovers ---
+Average Price: $5.41
+Range: $0.99 - $19.95
+Recent Sales:
+  2026-02-21 - $2.25 (mendota1418)
+  2026-02-10 - $4.99 (heavyh_12)
+  2026-02-08 - $5.00 (crhu-69)
+  2026-01-30 - $3.00 (jaybrown0515)
+  2026-01-28 - $3.95 (the_barkman)
+  2026-01-27 - $19.00 (resty_5093)
+  2026-01-23 - $2.50 (dem-480)
+  2026-01-22 - $4.92 (ta-727033)
+  2026-01-20 - $0.99 (thosew_0)
+  2026-01-15 - $3.00 (staara0)
+  2025-12-27 - $19.95 (collectiblesathruz)
+  2025-12-25 - $5.00 (topgun.33)
+  2025-12-25 - $1.00 (brownfamcollects)
+  2025-12-25 - $2.54 (dw_2005)
+  2025-12-23 - $2.99 (cardboardcounty24)
+
+--- 130Point ---
+Market Value: $3.00
+Average Price: $3.00
+Range: $0.99 - $19.00
+Recent Sales:
+   - $2.25 (eBay)
+   - $2.99 (eBay)
+   - $4.99 (eBay)
+   - $5.00 (eBay)
+   - $3.00 (eBay)
+   - $19.00 (eBay)
+   - $2.50 (eBay)
+   - $0.99 (eBay)
+   - $3.00 (eBay)
+   - $5.00 (eBay)
+   - $1.00 (eBay)
+   - $2.54 (eBay)
+   - $2.99 (eBay)
+   - $1.25 (eBay)
+   - $2.50 (eBay)
+
+--- PSA ---
+Error: No PSA sales data found for: 2022 Panini Select Ken Griffey Jr. #54 Concourse Prizm
+
+--- Aggregate ---
+Average: $3.99
+Low: $1.25
+High: $19.00

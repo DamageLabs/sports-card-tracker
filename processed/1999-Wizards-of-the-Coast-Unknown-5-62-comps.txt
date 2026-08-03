@@ -1,0 +1,41 @@
+Card: Unknown 1999 Wizards of the Coast #5/62
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-06-03T01:15:34.463Z
+
+--- SportsCardsPro ---
+Market Value: $0.79
+Average Price: $0.79
+
+--- eBay ---
+Market Value: $95.00
+Average Price: $95.00
+Range: $44.99 - $145.00
+Recent Sales:
+  Mar 8, 2026 - $145.00 (eBay, CGC 8)
+  May 27, 2026 - $44.99 (eBay, CGC 8)
+
+--- 130Point ---
+Market Value: $152.40
+Average Price: $152.40
+Range: $20.00 - $813.00
+Recent Sales:
+   - $30.00 (eBay)
+   - $72.99 (eBay)
+   - $20.00 (eBay)
+   - $50.00 (eBay)
+   - $60.00 (eBay)
+   - $184.00 (Heritage)
+   - $139.00 (Heritage)
+   - $204.00 (Heritage)
+   - $275.00 (Heritage)
+   - $813.00 (Heritage)
+   - $214.00 (Heritage)
+   - $50.00 (Heritage)
+   - $275.00 (Heritage)
+   - $275.00 (Heritage)
+
+--- Aggregate ---
+Average: $130.53
+Median: $142.00
+Low: $30.00
+High: $275.00

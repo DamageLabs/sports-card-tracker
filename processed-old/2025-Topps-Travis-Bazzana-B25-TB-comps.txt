@@ -1,0 +1,72 @@
+Card: Travis Bazzana 2025 Topps #B25-TB
+Condition: RAW
+Generated: 2026-05-07T23:42:00.183Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $66.05
+Average Price: $66.05
+Range: $30.00 - $150.00
+Recent Sales:
+  May 6, 2026 - $82.00 (eBay)
+  May 6, 2026 - $70.00 (eBay)
+  May 4, 2026 - $53.00 (eBay)
+  May 4, 2026 - $53.00 (eBay)
+  May 4, 2026 - $144.99 (eBay)
+  May 3, 2026 - $76.00 (eBay)
+  May 2, 2026 - $43.00 (eBay)
+  Apr 28, 2026 - $69.99 (eBay)
+  Apr 28, 2026 - $85.00 (eBay)
+  Apr 28, 2026 - $100.00 (eBay)
+  Apr 26, 2026 - $48.74 (eBay)
+  Apr 26, 2026 - $46.00 (eBay)
+  Apr 25, 2026 - $150.00 (eBay)
+  Apr 24, 2026 - $64.99 (eBay)
+  Apr 19, 2026 - $33.00 (eBay)
+  Apr 17, 2026 - $106.50 (eBay)
+  Apr 17, 2026 - $91.00 (eBay)
+  Apr 12, 2026 - $42.01 (eBay)
+  Apr 12, 2026 - $30.00 (eBay)
+  Apr 7, 2026 - $41.01 (eBay)
+
+--- 130Point ---
+Market Value: $46.85
+Average Price: $46.85
+Range: $0.99 - $4000.00
+Recent Sales:
+   - $44.00 (Goldin)
+   - $11.49 (eBay)
+   - $5.00 (eBay)
+   - $2001.00 (eBay, PSA 10)
+   - $70.00 (eBay)
+   - $99.50 (eBay)
+   - $0.99 (eBay)
+   - $50.00 (eBay, PSA 8)
+   - $1.60 (eBay)
+   - $91.00 (eBay, PSA 9)
+   - $250.00 (eBay)
+   - $4000.00 (eBay, PSA 10)
+   - $8.00 (eBay)
+   - $81.50 (eBay)
+   - $5.25 (eBay)
+   - $12.50 (eBay)
+   - $58.00 (eBay)
+   - $39.00 (eBay)
+   - $14.99 (eBay)
+   - $135.00 (eBay)
+   - $2.99 (eBay)
+   - $69.00 (eBay)
+   - $60.00 (eBay)
+   - $117.50 (eBay, PSA 10)
+   - $104.50 (eBay)
+   - $39.99 (eBay, BGS 9.5)
+   - $14.50 (eBay)
+   - $2.83 (eBay)
+   - $25.00 (eBay)
+   - $10.00 (eBay)
+
+--- Aggregate ---
+Average: $59.14
+Low: $5.25
+High: $144.99

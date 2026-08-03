@@ -1,0 +1,76 @@
+Card: Kobe Bryant 1996 Skybox #30
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-29T13:17:17.749Z
+
+--- SportsCardsPro ---
+Market Value: $32.00
+Average Price: $32.00
+
+--- eBay ---
+Market Value: $656.99
+Average Price: $656.99
+Range: $400.00 - $800.00
+Recent Sales:
+  May 26, 2026 - $710.00 (eBay, PSA 8)
+  May 23, 2026 - $799.99 (eBay, PSA 8)
+  May 16, 2026 - $750.00 (eBay, PSA 8)
+  May 12, 2026 - $731.00 (eBay, PSA 8)
+  May 10, 2026 - $749.99 (eBay, PSA 8)
+  May 1, 2026 - $799.95 (eBay, PSA 8)
+  Apr 24, 2026 - $740.00 (eBay, PSA 8)
+  Apr 22, 2026 - $500.00 (eBay, PSA 8)
+  Apr 21, 2026 - $400.00 (eBay, PSA 8)
+  Apr 19, 2026 - $575.00 (eBay, PSA 8)
+  Apr 15, 2026 - $800.00 (eBay, PSA 8)
+  Apr 15, 2026 - $625.00 (eBay, PSA 8)
+  Apr 11, 2026 - $604.99 (eBay, PSA 8)
+  Apr 9, 2026 - $589.99 (eBay, PSA 8)
+  Apr 8, 2026 - $599.00 (eBay, PSA 8)
+  Mar 30, 2026 - $600.00 (eBay, PSA 8)
+  Apr 1, 2026 - $575.00 (eBay, PSA 8)
+  Mar 29, 2026 - $610.00 (eBay, PSA 8)
+  Mar 19, 2026 - $595.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $441.05
+Average Price: $441.05
+Range: $252.00 - $26500.00
+Recent Sales:
+   - $604.99 (eBay, PSA 8)
+   - $589.99 (eBay, PSA 8)
+   - $500.00 (eBay, PSA 8)
+   - $575.00 (eBay, PSA 8)
+   - $560.00 (eBay, PSA 8)
+   - $610.00 (eBay, PSA 8)
+   - $516.00 (PWCC, PSA 8)
+   - $595.00 (eBay, PSA 8)
+   - $540.00 (eBay, PSA 8)
+   - $600.00 (eBay, PSA 8)
+   - $456.00 (PWCC, PSA 8)
+   - $396.00 (PWCC, PSA 8)
+   - $26500.00 (PWCC, PSA 8)
+   - $396.00 (PWCC, PSA 8)
+   - $450.00 (PWCC, PSA 8)
+   - $300.00 (PWCC, PSA 8)
+   - $325.00 (PWCC, PSA 8)
+   - $264.00 (PWCC, PSA 8)
+   - $264.00 (PWCC, PSA 8)
+   - $312.00 (PWCC, PSA 8)
+   - $336.00 (PWCC, PSA 8)
+   - $345.00 (PWCC, PSA 8)
+   - $252.00 (PWCC, PSA 8)
+   - $288.00 (PWCC, PSA 8)
+   - $300.00 (PWCC, PSA 8)
+
+--- Aggregate ---
+Average: $554.89
+Median: $575.00
+Low: $300.00
+High: $799.95
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 2
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $693.61 (+25%)

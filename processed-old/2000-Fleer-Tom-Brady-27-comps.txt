@@ -1,0 +1,108 @@
+Card: Tom Brady 2000 Fleer #27
+Condition: Graded
+Generated: 2026-02-27T20:18:08.761Z
+
+--- SportsCardsPro ---
+Market Value: $13.53
+Average Price: $13.53
+
+--- eBay ---
+Market Value: $171.46
+Average Price: $171.46
+Range: $139.95 - $204.66
+Recent Sales:
+  Feb 26, 2026 - $204.66 (eBay, PSA 8)
+  Feb 17, 2026 - $200.00 (eBay, PSA 8)
+  Feb 15, 2026 - $145.00 (eBay, PSA 8)
+  Feb 14, 2026 - $199.99 (eBay, PSA 8)
+  Feb 9, 2026 - $200.00 (eBay, PSA 8)
+  Feb 6, 2026 - $142.50 (eBay, PSA 8)
+  Jan 25, 2026 - $140.00 (eBay, PSA 8)
+  Dec 18, 2025 - $149.99 (eBay, PSA 8)
+  Dec 6, 2025 - $165.00 (eBay, PSA 8)
+  Feb 22, 2026 - $185.00 (eBay, PSA 8)
+  Feb 23, 2026 - $189.00 (eBay, PSA 8)
+  Feb 16, 2026 - $174.99 (eBay, PSA 8)
+  Feb 2, 2026 - $159.99 (eBay, PSA 8)
+  Feb 14, 2026 - $174.99 (eBay, PSA 8)
+  Feb 8, 2026 - $179.99 (eBay, PSA 8)
+  Jan 11, 2026 - $139.95 (eBay, PSA 8)
+  Jan 7, 2026 - $150.00 (eBay, PSA 8)
+  Feb 14, 2026 - $184.00 (eBay, PSA 8)
+
+--- CardLadder ---
+Market Value: $168.06
+Average Price: $158.08
+Range: $125.00 - $189.00
+Recent Sales:
+  02/26/2026 - $168.06 (Card Ladder)
+  02/23/2026 - $189.00 (Card Ladder)
+  02/22/2026 - $172.83 (Card Ladder)
+  02/21/2026 - $150.00 (Card Ladder)
+  02/15/2026 - $151.67 (Card Ladder)
+  02/14/2026 - $170.45 (Card Ladder)
+  02/12/2026 - $145.00 (Card Ladder)
+  02/11/2026 - $125.00 (Card Ladder)
+  02/10/2026 - $151.70 (Card Ladder)
+  02/09/2026 - $150.50 (Card Ladder)
+  02/08/2026 - $179.99 (Card Ladder)
+  02/07/2026 - $165.00 (Card Ladder)
+  02/06/2026 - $151.00 (Card Ladder)
+  02/02/2026 - $160.00 (Card Ladder)
+  01/31/2026 - $141.05 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $117.25
+Range: $97.76 - $146.85
+Recent Sales:
+  2025-12-06 - $146.85 (wilra9968)
+  2025-10-28 - $135.00 (smittyssalesshop)
+  2025-07-08 - $122.50 (jsam2425)
+  2025-03-12 - $105.00 (Market Movers)
+  2024-11-03 - $113.50 (terr-chanc)
+  2024-09-19 - $117.50 (bakes1232)
+  2024-09-08 - $115.00 (meelypops)
+  2024-09-02 - $102.50 (amt_memorabilia)
+  2024-08-12 - $125.00 (dinomike22)
+  2024-08-07 - $99.00 (bet_breaks)
+  2024-08-01 - $119.99 (ohiosportscards_ig)
+  2023-11-18 - $107.59 (ddjf5353)
+  2023-11-12 - $97.76 (wags22air)
+  2023-11-05 - $126.50 (pc_sportscards)
+  2023-10-15 - $125.00 (thespirited)
+
+--- 130Point ---
+Market Value: $146.67
+Average Price: $146.67
+Range: $22.00 - $4100.00
+Recent Sales:
+   - $195.00 (eBay, PSA 8)
+   - $187.50 (eBay, PSA 8)
+   - $82.50 (eBay, PSA 8)
+   - $175.00 (eBay, PSA 8)
+   - $22.00 (eBay, PSA 8)
+   - $150.00 (eBay, PSA 8)
+   - $90.00 (eBay, PSA 8)
+   - $4100.00 (eBay, PSA 8)
+
+--- PSA ---
+Market Value: $126.39
+Average Price: $126.39
+Range: $93.00 - $165.00
+Recent Sales:
+  Jan 31, 2026 - $141.05 (eBay, 8)
+  Nov 6, 2025 - $165.00 (eBay, 8)
+  Oct 11, 2025 - $106.51 (eBay, 8)
+  Oct 10, 2025 - $93.00 (eBay, 8)
+
+--- Aggregate ---
+Average: $161.00
+Low: $107.59
+High: $200.00
+
+--- Population Report ---
+PSA 8 Pop: 38
+Total Graded: 118
+Percentile: Top 57.63%
+Rarity Tier: medium
+Pop-Adjusted Average: $175.82 (+9%)

@@ -1,0 +1,48 @@
+Card: Travis Hunter 2025 Panini #FYFBH-THR
+Condition: RAW
+Generated: 2026-05-07T12:36:10.711Z
+
+--- SportsCardsPro ---
+Market Value: $12.92
+Average Price: $12.92
+
+--- eBay ---
+Market Value: $3.52
+Average Price: $3.52
+Range: $1.50 - $215.00
+Recent Sales:
+  Apr 29, 2026 - $2.99 (eBay)
+  Apr 5, 2026 - $3.25 (eBay)
+  Apr 24, 2026 - $3.38 (eBay)
+  Apr 29, 2026 - $3.14 (eBay)
+  Feb 19, 2026 - $5.00 (eBay)
+  Apr 29, 2026 - $2.99 (eBay)
+  Mar 14, 2026 - $3.00 (eBay)
+  May 5, 2026 - $3.99 (eBay)
+  Mar 10, 2026 - $3.75 (eBay)
+  Apr 12, 2026 - $4.30 (eBay)
+  Apr 27, 2026 - $4.99 (eBay)
+  Feb 9, 2026 - $4.99 (eBay)
+  Mar 24, 2026 - $3.99 (eBay)
+  Feb 20, 2026 - $4.00 (eBay)
+  Apr 28, 2026 - $1.50 (eBay)
+  May 6, 2026 - $215.00 (eBay)
+  Mar 2, 2026 - $1.55 (eBay)
+  Mar 3, 2026 - $3.00 (eBay)
+  Apr 2, 2026 - $2.50 (eBay)
+  May 3, 2026 - $2.25 (eBay)
+
+--- 130Point ---
+Market Value: $30.08
+Average Price: $30.08
+Range: $8.13 - $75.00
+Recent Sales:
+   - $8.13 (Pristine)
+   - $20.00 (Pristine)
+   - $17.20 (Pristine)
+   - $75.00 (eBay)
+
+--- Aggregate ---
+Average: $7.45
+Low: $2.25
+High: $75.00

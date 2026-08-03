@@ -1,0 +1,73 @@
+Card: Victor Wembanyama 2023 Panini #136
+Condition: 9: MINT
+Generated: 2026-05-04T23:11:29.951Z
+
+--- SportsCardsPro ---
+Market Value: $10.47
+Average Price: $10.47
+
+--- MarketMovers ---
+Average Price: $1267.82
+Range: $48.00 - $13200.00
+Recent Sales:
+  2026-05-04 - $2759.59 (murozond)
+  2026-05-04 - $65.00 (murozond)
+  2026-05-04 - $68.00 (murozond)
+  2026-05-04 - $67.00 (murozond)
+  2026-05-04 - $610.00 (dcsports87)
+  2026-05-04 - $59.68 (daivca0)
+  2026-05-04 - $79.00 (dcsports87)
+  2026-05-03 - $50.00 (waki6855)
+  2026-05-03 - $13200.00 (PWCC)
+  2026-05-03 - $48.00 (beckleywilliam)
+  2026-05-03 - $60.00 (stemill-8726)
+  2026-05-03 - $925.00 (PWCC)
+  2026-05-03 - $900.00 (sportscomicsandmore)
+  2026-05-03 - $63.00 (thesmyzcardsandcollectables)
+  2026-05-03 - $63.00 (PWCC)
+
+--- 130Point ---
+Market Value: $173.48
+Average Price: $173.48
+Range: $53.00 - $880.00
+Recent Sales:
+   - $87.75 (Pristine, PSA 9)
+   - $329.95 (eBay, PSA 9)
+   - $815.00 (eBay, PSA 9)
+   - $374.99 (eBay, PSA 9)
+   - $67.00 (eBay, PSA 9)
+   - $63.00 (eBay, PSA 9)
+   - $193.50 (eBay, PSA 9)
+   - $65.00 (eBay, PSA 9)
+   - $275.00 (eBay, PSA 9)
+   - $300.00 (eBay, PSA 9)
+   - $179.00 (eBay, PSA 9)
+   - $380.00 (eBay, PSA 9)
+   - $400.00 (eBay, PSA 9)
+   - $54.00 (eBay, PSA 9)
+   - $54.00 (eBay, PSA 9)
+   - $60.00 (eBay, PSA 9)
+   - $53.00 (eBay, PSA 9)
+   - $60.00 (eBay, PSA 9)
+   - $880.00 (eBay, PSA 9)
+   - $750.00 (PWCC, PSA 9)
+   - $66.97 (eBay, PSA 9)
+   - $73.00 (eBay, PSA 9)
+   - $60.00 (eBay, PSA 9)
+   - $55.32 (eBay, PSA 9)
+   - $75.00 (eBay, PSA 9)
+   - $215.00 (eBay, PSA 9)
+   - $184.50 (eBay, PSA 9)
+   - $360.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $215.91
+Low: $54.00
+High: $880.00
+
+--- Population Report ---
+PSA 9 Pop: 16655
+Total Graded: 46637
+Percentile: Top 93.78%
+Rarity Tier: very-high
+Pop-Adjusted Average: $205.12 (-5%)

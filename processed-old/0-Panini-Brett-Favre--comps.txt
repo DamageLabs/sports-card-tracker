@@ -1,0 +1,46 @@
+Card: Brett Favre 0 Panini #
+Condition: RAW
+Generated: 2026-05-18T23:57:45.542Z
+
+--- SportsCardsPro ---
+Market Value: $11.37
+Average Price: $11.37
+
+--- 130Point ---
+Market Value: $51.52
+Average Price: $51.52
+Range: $0.35 - $632.97
+Recent Sales:
+   - $260.25 (Pristine)
+   - $194.10 (Pristine)
+   - $106.47 (Pristine)
+   - $124.61 (Pristine)
+   - $24.57 (Pristine, SGC 9.5)
+   - $632.97 (Pristine)
+   - $49.14 (Pristine)
+   - $23.34 (Pristine)
+   - $61.16 (Pristine)
+   - $106.03 (Pristine)
+   - $25.00 (eBay)
+   - $5.00 (eBay)
+   - $21.53 (eBay)
+   - $1.99 (eBay)
+   - $150.00 (eBay)
+   - $1.00 (eBay)
+   - $12.99 (eBay)
+   - $142.50 (eBay)
+   - $30.00 (eBay)
+   - $130.22 (Pristine)
+   - $2.75 (eBay)
+   - $5.59 (eBay)
+   - $0.35 (eBay)
+   - $1.97 (eBay)
+   - $1.00 (eBay)
+   - $5.50 (eBay)
+   - $325.00 (eBay)
+   - $0.80 (eBay)
+
+--- Aggregate ---
+Average: $57.04
+Low: $1.00
+High: $260.25

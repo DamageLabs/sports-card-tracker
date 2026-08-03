@@ -1,0 +1,20 @@
+Card: Randy Johnson 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T21:29:59.619Z
+
+--- SportsCardsPro ---
+Market Value: $3.00
+Average Price: $3.00
+
+--- 130Point ---
+Market Value: $101.00
+Average Price: $101.00
+Range: $77.00 - $124.99
+Recent Sales:
+   - $77.00 (eBay)
+   - $124.99 (eBay)
+
+--- Aggregate ---
+Average: $101.00
+Low: $77.00
+High: $124.99

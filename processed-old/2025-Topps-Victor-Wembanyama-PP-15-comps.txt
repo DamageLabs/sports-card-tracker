@@ -1,0 +1,94 @@
+Card: Victor Wembanyama 2025 Topps #PP-15
+Condition: RAW
+Generated: 2026-05-04T23:59:03.242Z
+
+--- SportsCardsPro ---
+Market Value: $10.47
+Average Price: $10.47
+
+--- eBay ---
+Market Value: $3.10
+Average Price: $3.10
+Range: $0.99 - $90.00
+Recent Sales:
+  May 4, 2026 - $1.99 (eBay)
+  May 4, 2026 - $3.99 (eBay)
+  May 4, 2026 - $1.49 (eBay)
+  May 4, 2026 - $1.99 (eBay)
+  May 4, 2026 - $5.99 (eBay)
+  May 4, 2026 - $5.99 (eBay)
+  May 3, 2026 - $2.99 (eBay)
+  May 3, 2026 - $2.00 (eBay)
+  May 3, 2026 - $90.00 (eBay, PSA 10)
+  May 3, 2026 - $5.00 (eBay)
+  May 3, 2026 - $82.00 (eBay, PSA 10)
+  May 3, 2026 - $4.99 (eBay)
+  May 3, 2026 - $1.49 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 3, 2026 - $1.75 (eBay)
+  May 3, 2026 - $1.25 (eBay)
+  May 3, 2026 - $2.25 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 3, 2026 - $1.49 (eBay)
+  May 3, 2026 - $14.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $17.24
+Range: $0.99 - $90.00
+Recent Sales:
+  2026-05-04 - $2.00 (brmar-553007)
+  2026-05-04 - $90.00 (liamese1979)
+  2026-05-04 - $5.00 (autosystems123)
+  2026-05-04 - $82.00 (dcsports87)
+  2026-05-04 - $4.99 (tzcards)
+  2026-05-03 - $1.49 (moonrocksports)
+  2026-05-03 - $0.99 (elchingonsportscards)
+  2026-05-03 - $1.75 (dcsportscardsandcollectibles)
+  2026-05-03 - $1.25 (mr.goodfinds17)
+  2026-05-03 - $2.25 (ccom3628)
+  2026-05-03 - $50.40 (PWCC)
+  2026-05-03 - $0.99 (ensabahcor)
+  2026-05-03 - $1.49 (mortscards)
+  2026-05-03 - $8.00 (swift_jumper6)
+  2026-05-03 - $6.04 (comc_consignment)
+
+--- 130Point ---
+Market Value: $2.16
+Average Price: $2.16
+Range: $0.99 - $80.00
+Recent Sales:
+   - $73.56 (Pristine, CGC 10)
+   - $58.50 (Pristine, CGC 10)
+   - $0.99 (eBay)
+   - $1.79 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $3.00 (eBay)
+   - $1.25 (eBay)
+   - $80.00 (eBay)
+   - $1.79 (eBay)
+   - $3.50 (eBay)
+   - $2.99 (eBay)
+   - $1.95 (eBay)
+   - $2.29 (eBay)
+   - $2.25 (eBay)
+   - $1.99 (eBay)
+   - $2.25 (eBay)
+   - $2.99 (eBay)
+   - $3.00 (eBay)
+   - $2.49 (eBay)
+   - $1.99 (eBay)
+   - $1.25 (eBay)
+   - $2.03 (eBay)
+   - $1.50 (eBay)
+   - $2.25 (eBay)
+   - $1.40 (eBay)
+   - $1.50 (eBay)
+   - $2.99 (eBay)
+   - $1.76 (eBay)
+   - $1.00 (eBay)
+
+--- Aggregate ---
+Average: $6.52
+Low: $1.00
+High: $73.56

@@ -1,0 +1,48 @@
+Card: Patrick Mahomes II 2022 Panini #MH4
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:10:00.838Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $56.21
+Average Price: $56.21
+Range: $44.99 - $69.99
+Recent Sales:
+  May 18, 2026 - $55.00 (eBay, PSA 10)
+  May 12, 2026 - $49.99 (eBay, PSA 10)
+  Apr 21, 2026 - $60.00 (eBay, PSA 10)
+  Apr 24, 2026 - $69.99 (eBay, PSA 10)
+  Apr 1, 2026 - $59.99 (eBay, PSA 10)
+  Mar 24, 2026 - $54.95 (eBay, PSA 10)
+  Mar 5, 2026 - $44.99 (eBay, PSA 10)
+  Mar 3, 2026 - $54.99 (eBay, PSA 10)
+  Apr 14, 2026 - $56.00 (eBay, PSA 10)
+  May 6, 2026 - $54.95 (eBay, PSA 10)
+  Mar 4, 2026 - $59.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $95.73
+Average Price: $95.73
+Range: $44.00 - $313.00
+Recent Sales:
+   - $100.74 (Pristine, PSA 10)
+   - $76.17 (Pristine, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $44.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $313.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $61.60
+Low: $49.99
+High: $150.00
+
+--- Population Report ---
+PSA 10 Pop: 241
+Total Graded: 314
+Percentile: Top 76.75%
+Rarity Tier: high
+Pop-Adjusted Average: $62.34 (+1%)

@@ -1,0 +1,6 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,III-0--RAW,215,0 Panini Emanate Kenneth Walker III # Seattle Seahawks,,51.96,1,,3000,<p><b>0 Panini Emanate Kenneth Walker III #</b></p><p><b>Serial Numbered:</b> 79/99</p><p>Autograph</p><p>Seattle Seahawks | Football</p><p><b>VINTAGE</b></p><p><b>Market Data:</b> Avg Market Value: $57.73 | Recent Sales Range: $12.99 - $200.00 | Based on 1 market source</p><p>Card shipped in protective sleeve and toploader with tracking.</p>,FixedPrice

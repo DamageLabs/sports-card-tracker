@@ -1,0 +1,54 @@
+Card: Tom Brady 2021 Panini #AGS-TB2
+Condition: RAW
+Generated: 2026-05-07T13:13:27.228Z
+
+--- SportsCardsPro ---
+Market Value: $24.67
+Average Price: $24.67
+
+--- eBay ---
+Market Value: $1.80
+Average Price: $1.80
+Range: $0.99 - $20.00
+Recent Sales:
+  May 2, 2026 - $1.25 (eBay)
+  Apr 30, 2026 - $0.99 (eBay)
+  Apr 29, 2026 - $2.22 (eBay)
+  Apr 28, 2026 - $1.99 (eBay)
+  Apr 18, 2026 - $0.99 (eBay)
+  Apr 10, 2026 - $2.01 (eBay)
+  Apr 5, 2026 - $1.00 (eBay)
+  Apr 2, 2026 - $8.99 (eBay)
+  Mar 27, 2026 - $1.99 (eBay)
+  Mar 19, 2026 - $2.00 (eBay)
+  Mar 19, 2026 - $4.00 (eBay)
+  Mar 17, 2026 - $0.99 (eBay)
+  Mar 10, 2026 - $0.99 (eBay)
+  Mar 5, 2026 - $1.65 (eBay)
+  Feb 16, 2026 - $2.00 (eBay)
+  Feb 13, 2026 - $20.00 (eBay)
+  Feb 11, 2026 - $1.64 (eBay)
+  Feb 9, 2026 - $0.99 (eBay)
+  Mar 25, 2026 - $15.00 (eBay)
+  May 1, 2026 - $1.45 (eBay)
+
+--- 130Point ---
+Market Value: $2.50
+Average Price: $2.50
+Range: $0.99 - $20.00
+Recent Sales:
+   - $1.00 (eBay)
+   - $8.99 (eBay)
+   - $1.99 (eBay)
+   - $2.00 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $2.00 (eBay)
+   - $20.00 (eBay)
+   - $1.56 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $2.29
+Low: $0.99
+High: $8.99

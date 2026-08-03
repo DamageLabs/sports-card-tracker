@@ -1,0 +1,82 @@
+Card: Wyatt Langford 2023 Bowman #BDC106
+Condition: 9: MINT
+Generated: 2026-03-01T01:54:06.627Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $26.99
+Average Price: $26.99
+Range: $19.99 - $60.00
+Recent Sales:
+  Feb 22, 2026 - $26.99 (eBay, PSA 9)
+  Feb 12, 2026 - $20.00 (eBay, PSA 9)
+  Feb 8, 2026 - $19.99 (eBay, PSA 9)
+  Jan 11, 2026 - $35.99 (eBay, PSA 9)
+  Dec 4, 2025 - $24.99 (eBay, PSA 9)
+  Dec 13, 2025 - $29.99 (eBay, PSA 9)
+  Feb 23, 2026 - $23.00 (eBay, PSA 9)
+  Jan 28, 2026 - $24.99 (eBay, PSA 9)
+  Feb 9, 2026 - $29.99 (eBay, PSA 9)
+  Jan 11, 2026 - $60.00 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $300.00
+Average Price: $292.40
+Range: $200.00 - $350.00
+Recent Sales:
+  02/26/2026 - $300.00 (Card Ladder)
+  02/23/2026 - $287.98 (Card Ladder)
+  02/22/2026 - $291.00 (Card Ladder)
+  02/21/2026 - $349.50 (Card Ladder)
+  02/18/2026 - $283.26 (Card Ladder)
+  02/16/2026 - $333.33 (Card Ladder)
+  02/09/2026 - $289.93 (Card Ladder)
+  02/07/2026 - $281.00 (Card Ladder)
+  02/06/2026 - $262.00 (Card Ladder)
+  02/05/2026 - $200.00 (Card Ladder)
+  02/02/2026 - $263.99 (Card Ladder)
+  01/29/2026 - $312.00 (Card Ladder)
+  01/25/2026 - $282.00 (Card Ladder)
+  01/23/2026 - $350.00 (Card Ladder)
+  01/20/2026 - $300.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $149.50
+Range: $149.50 - $149.50
+Recent Sales:
+  2024-03-16 - $149.50 (a66pe_83)
+
+--- 130Point ---
+Market Value: $205.50
+Average Price: $205.50
+Range: $18.00 - $480.00
+Recent Sales:
+   - $118.50 (eBay, PSA 9)
+   - $18.00 (eBay, PSA 9)
+   - $480.00 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $131.00
+Average Price: $131.00
+Range: $15.50 - $222.50
+Recent Sales:
+  Jun 25, 2025 - $15.50 (eBay, 9)
+  May 21, 2024 - $48.00 (eBay, 9)
+  Apr 7, 2024 - $222.50 (eBay, 9)
+  Apr 1, 2024 - $177.50 (eBay, 9)
+  Mar 28, 2024 - $167.50 (eBay, 9)
+
+--- Aggregate ---
+Average: $173.08
+Low: $20.00
+High: $333.33
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $216.35 (+25%)

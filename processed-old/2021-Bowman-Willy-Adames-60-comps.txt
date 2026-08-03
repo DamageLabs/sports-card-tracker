@@ -1,0 +1,62 @@
+Card: Willy Adames 2021 Bowman #60
+Condition: RAW
+Generated: 2026-05-07T23:39:51.432Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $1.26
+Average Price: $1.26
+Range: $0.73 - $55.00
+Recent Sales:
+  Mar 10, 2026 - $1.00 (eBay)
+  Feb 24, 2026 - $55.00 (eBay)
+  Feb 6, 2026 - $0.99 (eBay)
+  Feb 17, 2026 - $1.99 (eBay)
+  Apr 23, 2026 - $1.59 (eBay)
+  Feb 15, 2026 - $3.99 (eBay)
+  Mar 22, 2026 - $1.24 (eBay)
+  Feb 14, 2026 - $0.99 (eBay)
+  Mar 25, 2026 - $1.59 (eBay)
+  Feb 19, 2026 - $1.50 (eBay)
+  Feb 21, 2026 - $0.99 (eBay)
+  Mar 13, 2026 - $0.73 (eBay)
+  Apr 4, 2026 - $0.99 (eBay)
+  Apr 15, 2026 - $0.99 (eBay)
+  Apr 13, 2026 - $0.73 (eBay)
+
+--- 130Point ---
+Market Value: $1.28
+Average Price: $1.28
+Range: $0.10 - $30.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $0.72 (eBay)
+   - $1.25 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $1.59 (eBay)
+   - $1.99 (eBay)
+   - $2.72 (eBay)
+   - $3.25 (eBay)
+   - $30.00 (eBay)
+   - $0.99 (eBay)
+   - $0.44 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $0.10 (eBay)
+   - $1.00 (eBay)
+   - $1.50 (eBay)
+   - $2.75 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $0.30 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $1.29
+Low: $0.73
+High: $2.75

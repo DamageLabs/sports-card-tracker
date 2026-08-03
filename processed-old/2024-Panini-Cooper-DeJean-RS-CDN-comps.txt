@@ -1,0 +1,40 @@
+Card: Cooper DeJean 2024 Panini #RS-CDN
+Condition: 10: GEM MINT
+Generated: 2026-03-02T04:15:03.123Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $150.66
+Average Price: $150.66
+Range: $104.99 - $249.00
+Recent Sales:
+  Jan 18, 2026 - $139.99 (eBay, PSA 10)
+  Feb 8, 2026 - $120.00 (eBay, PSA 10)
+  Dec 27, 2025 - $149.99 (eBay, PSA 10)
+  Feb 5, 2026 - $105.00 (eBay, PSA 10)
+  Feb 20, 2026 - $104.99 (eBay, PSA 10)
+  Jan 7, 2026 - $169.99 (eBay, PSA 10)
+  Dec 21, 2025 - $219.00 (eBay, PSA 10)
+  Jan 19, 2026 - $249.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $114.18
+Average Price: $114.18
+Range: $52.56 - $149.99
+Recent Sales:
+   - $139.99 (eBay, PSA 10)
+   - $149.99 (eBay, PSA 10)
+   - $52.56 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $131.29
+Low: $104.99
+High: $219.00
+
+--- Population Report ---
+PSA 10 Pop: 7
+Total Graded: 12
+Percentile: Top 58.33%
+Rarity Tier: low
+Pop-Adjusted Average: $152.96 (+17%)

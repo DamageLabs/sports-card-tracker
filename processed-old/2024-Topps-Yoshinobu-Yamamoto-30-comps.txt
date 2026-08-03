@@ -1,0 +1,95 @@
+Card: Yoshinobu Yamamoto 2024 Topps #30
+Condition: 10: GEM MINT
+Generated: 2026-03-01T03:09:36.587Z
+
+--- SportsCardsPro ---
+Market Value: $122.91
+Average Price: $122.91
+
+--- eBay ---
+Market Value: $214.50
+Average Price: $214.50
+Range: $69.00 - $599.00
+Recent Sales:
+  Feb 3, 2026 - $99.99 (eBay, PSA 10)
+  Dec 28, 2025 - $69.00 (eBay, PSA 10)
+  Dec 4, 2025 - $599.00 (eBay, PSA 10)
+  Dec 4, 2025 - $599.00 (eBay, PSA 10)
+  Feb 27, 2026 - $280.00 (eBay, PSA 10)
+  Feb 25, 2026 - $139.00 (eBay, PSA 10)
+  Feb 20, 2026 - $329.99 (eBay, PSA 10)
+  Feb 20, 2026 - $99.99 (eBay, PSA 10)
+  Feb 12, 2026 - $300.00 (eBay, PSA 10)
+  Feb 27, 2026 - $165.00 (eBay, PSA 10)
+  Dec 21, 2025 - $140.50 (eBay, PSA 10)
+  Feb 5, 2026 - $299.99 (eBay, PSA 10)
+  Feb 21, 2026 - $250.00 (eBay, PSA 10)
+  Feb 5, 2026 - $175.00 (eBay, PSA 10)
+  Feb 16, 2026 - $100.00 (eBay, PSA 10)
+  Dec 16, 2025 - $159.99 (eBay, PSA 10)
+  Feb 16, 2026 - $198.00 (eBay, PSA 10)
+  Feb 3, 2026 - $300.00 (eBay, PSA 10)
+  Jan 22, 2026 - $279.99 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Topps Chrome Yoshinobu Yamamoto 30
+
+--- MarketMovers ---
+Average Price: $85.83
+Range: $28.00 - $240.00
+Recent Sales:
+  2025-11-02 - $95.00 (bearstatecards)
+  2025-09-29 - $49.99 (ajmm-collectibles)
+  2025-09-05 - $240.00 (Market Movers)
+  2025-04-11 - $56.00 (munsungan)
+  2025-03-14 - $45.99 (drewscrew)
+  2025-02-26 - $39.99 (psa)
+  2025-02-07 - $35.00 (psa)
+  2025-02-04 - $28.00 (dcsports87)
+  2025-02-03 - $182.50 (madmav_collectibles)
+
+--- 130Point ---
+Market Value: $622.66
+Average Price: $622.66
+Range: $35.00 - $8500.00
+Recent Sales:
+   - $106.50 (eBay, PSA 10)
+   - $44.00 (eBay, PSA 10)
+   - $78.77 (eBay, PSA 10)
+   - $125.50 (eBay, PSA 10)
+   - $8500.00 (eBay, PSA 10)
+   - $4500.00 (eBay, PSA 10)
+   - $2308.00 (eBay, PSA 10)
+   - $2385.00 (Pristine, PSA 10)
+   - $700.00 (eBay, PSA 10)
+   - $1700.00 (eBay, PSA 10)
+   - $225.00 (eBay, PSA 10)
+   - $139.00 (eBay, PSA 10)
+   - $575.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $158.49 (eBay, PSA 10)
+   - $5877.00 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $109.99 (Heritage, PSA 10)
+   - $35.00 (eBay, PSA 10)
+   - $49.99 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $39.00
+Average Price: $39.00
+Range: $38.00 - $40.00
+Recent Sales:
+  Feb 3, 2025 - $40.00 (eBay, 10)
+  Nov 24, 2024 - $38.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $188.67
+Low: $49.99
+High: $575.00
+
+--- Population Report ---
+PSA 10 Pop: 15
+Total Graded: 41
+Percentile: Top 36.59%
+Rarity Tier: low
+Pop-Adjusted Average: $213.58 (+13%)

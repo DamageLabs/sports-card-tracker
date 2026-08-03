@@ -141,6 +141,8 @@ export const cardCompReports = sqliteTable('card_comp_reports', {
   aggregateMedian: real('aggregateMedian'),
   aggregateLow: real('aggregateLow'),
   aggregateHigh: real('aggregateHigh'),
+  psa10Median: real('psa10Median'),
+  psa9Median: real('psa9Median'),
   popMultiplier: real('popMultiplier'),
   popAdjustedAverage: real('popAdjustedAverage'),
   popData: text('popData'),

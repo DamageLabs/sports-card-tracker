@@ -1,0 +1,74 @@
+Card: Luke Dickerson 2025 Topps #B25-LD1
+Condition: RAW
+Generated: 2026-05-07T23:43:46.360Z
+
+--- SportsCardsPro ---
+Market Value: $3.12
+Average Price: $3.12
+
+--- eBay ---
+Market Value: $6.26
+Average Price: $6.26
+Range: $3.64 - $27.99
+Recent Sales:
+  May 1, 2026 - $4.50 (eBay)
+  Apr 24, 2026 - $5.95 (eBay)
+  Apr 1, 2026 - $5.00 (eBay)
+  Mar 22, 2026 - $4.25 (eBay)
+  Mar 22, 2026 - $5.50 (eBay)
+  Apr 24, 2026 - $4.99 (eBay)
+  May 5, 2026 - $4.99 (eBay)
+  Apr 24, 2026 - $6.99 (eBay)
+  May 6, 2026 - $27.99 (eBay)
+  Apr 2, 2026 - $5.00 (eBay)
+  May 3, 2026 - $15.00 (eBay)
+  Apr 7, 2026 - $3.99 (eBay)
+  Apr 24, 2026 - $5.00 (eBay)
+  Apr 18, 2026 - $5.99 (eBay)
+  Mar 31, 2026 - $5.99 (eBay)
+  Mar 24, 2026 - $17.50 (eBay)
+  Apr 26, 2026 - $5.00 (eBay)
+  Apr 13, 2026 - $3.64 (eBay)
+  Apr 14, 2026 - $12.74 (eBay)
+  Mar 22, 2026 - $9.99 (eBay)
+
+--- 130Point ---
+Market Value: $11.94
+Average Price: $11.94
+Range: $0.99 - $53.26
+Recent Sales:
+   - $28.00 (eBay, PSA 9)
+   - $12.00 (eBay)
+   - $16.99 (eBay)
+   - $8.00 (eBay)
+   - $16.00 (eBay)
+   - $8.40 (PWCC, CGC Auth)
+   - $7.50 (eBay)
+   - $12.50 (eBay)
+   - $25.00 (eBay)
+   - $3.66 (eBay)
+   - $17.00 (eBay)
+   - $40.00 (eBay)
+   - $16.99 (eBay)
+   - $1.63 (eBay)
+   - $10.00 (eBay)
+   - $12.00 (eBay)
+   - $12.50 (eBay)
+   - $9.95 (eBay)
+   - $5.00 (eBay)
+   - $1.80 (eBay)
+   - $0.99 (eBay)
+   - $8.75 (eBay)
+   - $53.26 (eBay)
+   - $28.79 (eBay, PSA 9)
+   - $5.00 (eBay)
+   - $21.50 (eBay)
+   - $13.50 (eBay)
+   - $6.00 (eBay)
+   - $9.00 (eBay)
+   - $8.99 (eBay)
+
+--- Aggregate ---
+Average: $10.37
+Low: $3.66
+High: $27.99

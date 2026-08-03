@@ -151,6 +151,18 @@ const CompReportModal: React.FC<CompReportModalProps> = ({ report, onClose, onRe
             <span className="comp-report-aggregate-label">High</span>
             <span className="comp-report-aggregate-value">{formatPrice(currentReport.aggregateHigh)}</span>
           </div>
+          {(currentReport.psa10Median !== null || currentReport.psa9Median !== null) && (
+            <>
+              <div className="comp-report-aggregate-item">
+                <span className="comp-report-aggregate-label">If PSA 10</span>
+                <span className="comp-report-aggregate-value">{formatPrice(currentReport.psa10Median)}</span>
+              </div>
+              <div className="comp-report-aggregate-item">
+                <span className="comp-report-aggregate-label">If PSA 9</span>
+                <span className="comp-report-aggregate-value">{formatPrice(currentReport.psa9Median)}</span>
+              </div>
+            </>
+          )}
         </div>
 
         {/* Pop report section */}

@@ -1,0 +1,22 @@
+Card: Anthony Rendon 2021 Topps #42
+Condition: RAW
+Generated: 2026-05-07T23:37:58.891Z
+
+--- SportsCardsPro ---
+Market Value: $2.97
+Average Price: $2.97
+
+--- 130Point ---
+Market Value: $71.81
+Average Price: $71.81
+Range: $1.75 - $247.50
+Recent Sales:
+   - $1.75 (eBay)
+   - $247.50 (eBay)
+   - $17.99 (eBay)
+   - $20.00 (eBay)
+
+--- Aggregate ---
+Average: $71.81
+Low: $1.75
+High: $247.50

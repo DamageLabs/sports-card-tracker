@@ -1,0 +1,6 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,JOHNSON-0--RAW,215,0 Fanatics Emanate Randy Johnson Green # Arizona Diamondbacks,,90.90,1,,3000,<p><b>0 Fanatics Emanate Randy Johnson #</b></p><p><b>Serial Numbered:</b> 71/99</p><p>Green | Autograph</p><p>Arizona Diamondbacks | Baseball</p><p><b>VINTAGE</b></p><p><b>Market Data:</b> Avg Market Value: $101.00 | Recent Sales Range: $77.00 - $124.99 | Based on 1 market source</p><p>Card shipped in protective sleeve and toploader with tracking.</p>,FixedPrice

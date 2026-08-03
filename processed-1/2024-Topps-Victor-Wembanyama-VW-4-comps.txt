@@ -1,0 +1,35 @@
+Card: Victor Wembanyama 2024 Topps #VW-4
+Condition: RAW
+Generated: 2026-05-26T18:45:34.430Z
+
+--- SportsCardsPro ---
+Market Value: $9.60
+Average Price: $9.60
+
+--- 130Point ---
+Market Value: $50.12
+Average Price: $50.12
+Range: $31.00 - $427.00
+Recent Sales:
+   - $76.05 (Pristine)
+   - $45.00 (eBay)
+   - $45.00 (eBay)
+   - $59.99 (eBay)
+   - $49.99 (eBay)
+   - $60.00 (eBay)
+   - $49.99 (eBay)
+   - $49.28 (eBay)
+   - $57.00 (eBay)
+   - $39.99 (eBay)
+   - $45.00 (eBay)
+   - $31.00 (eBay)
+   - $39.00 (eBay)
+   - $427.00 (Goldin)
+
+--- Aggregate ---
+Average: $50.92
+Median: $49.64
+Low: $39.00
+High: $76.05
+Projected PSA 10 Median: $189.99
+Projected PSA 9 Median: $104.97

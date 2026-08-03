@@ -1,0 +1,71 @@
+Card: Joe Mauer 0 Panini #
+Condition: RAW
+Generated: 2026-05-08T16:51:11.595Z
+
+--- SportsCardsPro ---
+Market Value: $7.88
+Average Price: $7.88
+
+--- eBay ---
+Market Value: $68.47
+Average Price: $68.47
+Range: $28.88 - $150.00
+Recent Sales:
+  Apr 16, 2026 - $30.00 (eBay)
+  Mar 3, 2026 - $79.99 (eBay)
+  Feb 11, 2026 - $79.99 (eBay)
+  Apr 9, 2026 - $69.99 (eBay)
+  Mar 12, 2026 - $85.00 (eBay)
+  Apr 3, 2026 - $49.99 (eBay)
+  Apr 24, 2026 - $90.00 (eBay)
+  Mar 6, 2026 - $79.99 (eBay)
+  Feb 13, 2026 - $49.99 (eBay)
+  Feb 26, 2026 - $89.99 (eBay)
+  May 4, 2026 - $28.88 (eBay)
+  Mar 9, 2026 - $66.66 (eBay)
+  Feb 10, 2026 - $65.00 (eBay)
+  Mar 6, 2026 - $41.00 (eBay)
+  Mar 15, 2026 - $64.95 (eBay)
+  Apr 6, 2026 - $81.00 (eBay)
+  May 7, 2026 - $39.00 (eBay)
+  Apr 18, 2026 - $150.00 (eBay)
+  Mar 7, 2026 - $75.00 (eBay)
+  Feb 24, 2026 - $70.00 (eBay)
+
+--- 130Point ---
+Market Value: $10.55
+Average Price: $10.55
+Range: $0.14 - $145.00
+Recent Sales:
+   - $43.00 (eBay)
+   - $1.50 (eBay)
+   - $60.00 (eBay)
+   - $0.16 (eBay)
+   - $1.31 (eBay)
+   - $1.75 (eBay)
+   - $1.99 (eBay)
+   - $2.00 (eBay)
+   - $5.00 (eBay)
+   - $40.00 (eBay)
+   - $2.25 (eBay)
+   - $145.00 (eBay)
+   - $1.99 (eBay)
+   - $83.69 (eBay)
+   - $0.71 (eBay)
+   - $1.79 (eBay)
+   - $1.99 (eBay)
+   - $0.22 (eBay)
+   - $12.00 (eBay, SGC 8)
+   - $0.15 (eBay)
+   - $6.50 (eBay)
+   - $1.76 (eBay)
+   - $0.14 (eBay)
+   - $39.99 (eBay, PSA 10)
+   - $26.99 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $8.00 (eBay)
+
+--- Aggregate ---
+Average: $41.66
+Low: $1.50
+High: $90.00

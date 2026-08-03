@@ -1,0 +1,30 @@
+Card: Christian Walker 2022 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:57:27.558Z
+
+--- SportsCardsPro ---
+Market Value: $1.63
+Average Price: $1.63
+
+--- eBay ---
+Market Value: $138.67
+Average Price: $138.67
+Range: $26.00 - $295.00
+Recent Sales:
+  Apr 27, 2026 - $26.00 (eBay)
+  Apr 6, 2026 - $95.00 (eBay)
+  Mar 23, 2026 - $295.00 (eBay)
+
+--- 130Point ---
+Market Value: $155.55
+Average Price: $155.55
+Range: $95.00 - $271.66
+Recent Sales:
+   - $95.00 (eBay)
+   - $271.66 (eBay)
+   - $100.00 (eBay)
+
+--- Aggregate ---
+Average: $119.16
+Low: $26.00
+High: $295.00

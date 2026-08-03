@@ -1,0 +1,67 @@
+Card: Joe Burrow 2025 Panini #3
+Condition: RAW
+Generated: 2026-05-07T13:13:29.151Z
+
+--- SportsCardsPro ---
+Market Value: $5.69
+Average Price: $5.69
+
+--- eBay ---
+Market Value: $1.15
+Average Price: $1.15
+Range: $0.01 - $2.00
+Recent Sales:
+  May 6, 2026 - $1.00 (eBay)
+  May 5, 2026 - $1.54 (eBay)
+  May 5, 2026 - $0.49 (eBay)
+  May 4, 2026 - $1.25 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 3, 2026 - $0.01 (eBay)
+  May 3, 2026 - $0.88 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 3, 2026 - $1.75 (eBay)
+  May 1, 2026 - $2.00 (eBay)
+  May 1, 2026 - $0.50 (eBay)
+  May 1, 2026 - $1.50 (eBay)
+  Apr 30, 2026 - $1.79 (eBay)
+
+--- 130Point ---
+Market Value: $1.45
+Average Price: $1.45
+Range: $0.75 - $42.11
+Recent Sales:
+   - $9.22 (Pristine)
+   - $1.00 (eBay)
+   - $2.99 (eBay)
+   - $0.99 (eBay)
+   - $2.60 (eBay)
+   - $0.75 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $5.50 (eBay)
+   - $1.39 (eBay)
+   - $0.88 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $14.00 (eBay)
+   - $0.99 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $42.11 (eBay)
+   - $1.75 (eBay)
+   - $2.99 (eBay)
+   - $1.25 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $0.99 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $1.00 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $1.48
+Low: $0.88
+High: $5.50

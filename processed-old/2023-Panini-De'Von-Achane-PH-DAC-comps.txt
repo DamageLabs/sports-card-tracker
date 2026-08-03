@@ -1,0 +1,52 @@
+Card: De'Von Achane 2023 Panini #PH-DAC
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:13:06.919Z
+
+--- SportsCardsPro ---
+Market Value: $2.11
+Average Price: $2.11
+
+--- eBay ---
+Market Value: $84.79
+Average Price: $84.79
+Range: $35.00 - $249.95
+Recent Sales:
+  May 19, 2026 - $79.50 (eBay, PSA 10)
+  May 17, 2026 - $125.00 (eBay, PSA 10)
+  Apr 29, 2026 - $89.99 (eBay, PSA 10)
+  May 13, 2026 - $150.00 (eBay, PSA 10)
+  Mar 10, 2026 - $51.00 (eBay, PSA 10)
+  Apr 25, 2026 - $89.00 (eBay, PSA 10)
+  Apr 9, 2026 - $55.00 (eBay, PSA 10)
+  Mar 16, 2026 - $139.99 (eBay, PSA 10)
+  May 10, 2026 - $185.00 (eBay, PSA 10)
+  May 5, 2026 - $44.99 (eBay, PSA 10)
+  May 14, 2026 - $35.00 (eBay, PSA 10)
+  Mar 10, 2026 - $249.95 (eBay, PSA 10)
+  May 20, 2026 - $45.00 (eBay, PSA 10)
+  May 5, 2026 - $54.99 (eBay, PSA 10)
+  Apr 24, 2026 - $60.00 (eBay, PSA 10)
+  May 5, 2026 - $77.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $129.98
+Average Price: $129.98
+Range: $55.28 - $200.00
+Recent Sales:
+   - $55.28 (Pristine, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $149.95 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $90.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $93.61
+Low: $44.99
+High: $185.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 4
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $117.01 (+25%)

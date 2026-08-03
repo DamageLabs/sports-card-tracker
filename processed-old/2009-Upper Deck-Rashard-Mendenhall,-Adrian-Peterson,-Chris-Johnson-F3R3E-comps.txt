@@ -1,0 +1,31 @@
+Card: Rashard Mendenhall, Adrian Peterson, Chris Johnson 2009 Upper Deck #F3R3E
+Condition: RAW
+Generated: 2026-03-01T21:59:00.903Z
+
+--- SportsCardsPro ---
+Market Value: $17.49
+Average Price: $17.49
+
+--- eBay ---
+Market Value: $13.83
+Average Price: $13.83
+Range: $3.25 - $29.00
+Recent Sales:
+  Dec 18, 2025 - $15.00 (eBay)
+  Feb 9, 2026 - $3.25 (eBay)
+  Jan 18, 2026 - $19.50 (eBay)
+  Feb 14, 2026 - $7.00 (eBay)
+  Dec 24, 2025 - $29.00 (eBay)
+
+--- PSA ---
+Market Value: $47.13
+Average Price: $47.13
+Range: $4.25 - $90.00
+Recent Sales:
+  Oct 8, 2025 - $90.00 (eBay, 10)
+  Dec 15, 2024 - $4.25 (eBay, 7)
+
+--- Aggregate ---
+Average: $10.87
+Low: $3.25
+High: $29.00

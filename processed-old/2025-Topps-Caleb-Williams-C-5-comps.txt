@@ -1,0 +1,46 @@
+Card: Caleb Williams 2025 Topps #C-5
+Condition: RAW
+Generated: 2026-05-07T13:24:53.007Z
+
+--- SportsCardsPro ---
+
+--- 130Point ---
+Market Value: $36.30
+Average Price: $36.30
+Range: $2.46 - $2402.95
+Recent Sales:
+   - $60.84 (Pristine, CGC 10)
+   - $28.26 (Pristine)
+   - $35.03 (Pristine, PSA 9)
+   - $57.63 (Pristine)
+   - $2.46 (Pristine)
+   - $34.83 (Pristine, SGC 10)
+   - $8.60 (Pristine)
+   - $18.43 (Pristine, PSA 8)
+   - $51.44 (Pristine)
+   - $31.59 (Pristine)
+   - $44.23 (Pristine, PSA 9)
+   - $28.08 (Pristine, PSA 8)
+   - $24.57 (Pristine, PSA 9)
+   - $33.17 (Pristine, SGC 9.5)
+   - $47.91 (Pristine, PSA 9)
+   - $25.80 (Pristine, BGS 8.5)
+   - $6.14 (Pristine)
+   - $19.66 (Pristine, CGC 9)
+   - $24.01 (Pristine)
+   - $86.19 (Pristine, CGC 9)
+   - $41.24 (Pristine, CGC 10)
+   - $86.00 (Pristine, CGC 9.5)
+   - $14.33 (Pristine)
+   - $164.62 (Pristine, PSA 10)
+   - $14.74 (Pristine)
+   - $2402.95 (Pristine, PSA 10)
+   - $21.50 (Pristine)
+   - $12.29 (Pristine)
+   - $55.28 (Pristine)
+   - $1802.97 (Pristine, BGS 9.5)
+
+--- Aggregate ---
+Average: $37.38
+Low: $8.60
+High: $164.62

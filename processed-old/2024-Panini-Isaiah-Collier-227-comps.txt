@@ -1,0 +1,65 @@
+Card: Isaiah Collier 2024 Panini #227
+Condition: 10: GEM MINT
+Generated: 2026-02-28T23:43:42.800Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $92.29
+Average Price: $92.29
+Range: $15.01 - $199.99
+Recent Sales:
+  Feb 4, 2026 - $75.00 (eBay, PSA 10)
+  Feb 5, 2026 - $40.00 (eBay, PSA 10)
+  Feb 3, 2026 - $199.99 (eBay, PSA 10)
+  Feb 13, 2026 - $99.95 (eBay, PSA 10)
+  Feb 6, 2026 - $99.99 (eBay, PSA 10)
+  Dec 7, 2025 - $125.00 (eBay, PSA 10)
+  Feb 7, 2026 - $149.99 (eBay, PSA 10)
+  Feb 4, 2026 - $27.00 (eBay, PSA 10)
+  Dec 27, 2025 - $99.99 (eBay, PSA 10)
+  Feb 4, 2026 - $79.95 (eBay, PSA 10)
+  Feb 7, 2026 - $99.99 (eBay, PSA 10)
+  Feb 21, 2026 - $199.99 (eBay, PSA 10)
+  Dec 25, 2025 - $15.01 (eBay, PSA 10)
+  Jan 12, 2026 - $53.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Panini Prizm Isaiah Collier 227
+
+--- MarketMovers ---
+Average Price: $47.00
+Range: $47.00 - $47.00
+Recent Sales:
+  2025-05-04 - $47.00 (psa)
+
+--- 130Point ---
+Market Value: $37.63
+Average Price: $37.63
+Range: $7.50 - $199.99
+Recent Sales:
+   - $7.50 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $30.00 (eBay, PSA 10)
+   - $8.50 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $127.50
+Average Price: $127.50
+Range: $127.50 - $127.50
+Recent Sales:
+  Nov 16, 2024 - $127.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $87.90
+Low: $8.50
+High: $199.99
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 7
+Percentile: Top 42.86%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $105.65 (+20%)

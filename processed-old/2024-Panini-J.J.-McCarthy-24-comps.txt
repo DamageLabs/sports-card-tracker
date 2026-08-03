@@ -1,0 +1,45 @@
+Card: J.J. McCarthy 2024 Panini #24
+Condition: 9: MINT
+Generated: 2026-05-21T05:21:31.240Z
+
+--- SportsCardsPro ---
+Market Value: $21.50
+Average Price: $21.50
+
+--- eBay ---
+Market Value: $39.00
+Average Price: $39.00
+Range: $13.99 - $140.00
+Recent Sales:
+  Mar 24, 2026 - $140.00 (eBay, PSA 9)
+  Apr 8, 2026 - $20.99 (eBay, PSA 9)
+  Mar 12, 2026 - $13.99 (eBay, PSA 9)
+  Apr 1, 2026 - $16.00 (eBay, PSA 9)
+  May 20, 2026 - $80.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $60.36
+Average Price: $60.36
+Range: $9.99 - $400.00
+Recent Sales:
+   - $261.88 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $400.00 (eBay, PSA 9)
+   - $75.00 (eBay, PSA 9)
+   - $10.51 (eBay, PSA 9)
+   - $12.65 (eBay, PSA 9)
+   - $9.99 (eBay, PSA 9)
+   - $16.50 (eBay, PSA 9)
+   - $16.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $53.49
+Low: $10.51
+High: $261.88
+
+--- Population Report ---
+PSA 9 Pop: 37
+Total Graded: 92
+Percentile: Top 82.61%
+Rarity Tier: medium
+Pop-Adjusted Average: $58.46 (+9%)

@@ -1,0 +1,22 @@
+Card: Peyton Manning 2022 Panini #CC-7
+Condition: RAW
+Generated: 2026-05-27T21:59:52.013Z
+
+--- SportsCardsPro ---
+Market Value: $34.99
+Average Price: $34.99
+
+--- 130Point ---
+Market Value: $19.99
+Average Price: $19.99
+Range: $19.99 - $19.99
+Recent Sales:
+   - $19.99 (eBay)
+
+--- Aggregate ---
+Average: $19.99
+Median: $19.99
+Low: $19.99
+High: $19.99
+Projected PSA 10 Median: $19.99
+Projected PSA 9 Median: $211.25

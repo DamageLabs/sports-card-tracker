@@ -1,0 +1,54 @@
+Card: Mew ex 2025 Pokemon #191
+Condition: 9: MINT
+Generated: 2026-06-01T22:35:53.816Z
+
+--- SportsCardsPro ---
+Market Value: $325.36
+Average Price: $325.36
+
+--- eBay ---
+Market Value: $302.89
+Average Price: $302.89
+Range: $209.97 - $649.00
+Recent Sales:
+  May 23, 2026 - $300.88 (eBay, PSA 9)
+  May 18, 2026 - $262.00 (eBay, PSA 9)
+  May 9, 2026 - $337.13 (eBay, PSA 9)
+  Apr 18, 2026 - $220.25 (eBay, PSA 9)
+  May 31, 2026 - $270.00 (eBay, PSA 9)
+  May 29, 2026 - $300.00 (eBay, PSA 9)
+  Apr 8, 2026 - $209.97 (eBay, PSA 9)
+  May 26, 2026 - $649.00 (eBay, PSA 9)
+  May 31, 2026 - $429.99 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $177.16
+Average Price: $177.16
+Range: $12.00 - $424.99
+Recent Sales:
+   - $88.98 (eBay, PSA 9)
+   - $28.00 (eBay, PSA 9)
+   - $89.00 (eBay, PSA 9)
+   - $55.00 (eBay, PSA 9)
+   - $424.99 (eBay, PSA 9)
+   - $86.00 (eBay, PSA 9)
+   - $424.99 (eBay, PSA 9)
+   - $12.00 (eBay, PSA 9)
+   - $385.26 (eBay, PSA 9)
+   - $400.00 (eBay, PSA 9)
+   - $138.50 (eBay, PSA 9)
+   - $134.50 (eBay, PSA 9)
+   - $118.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $243.85
+Median: $241.13
+Low: $55.00
+High: $429.99
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $304.82 (+25%)

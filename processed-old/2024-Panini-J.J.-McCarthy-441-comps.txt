@@ -1,0 +1,47 @@
+Card: J.J. McCarthy 2024 Panini #441
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:21:05.508Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $162.54
+Average Price: $162.54
+Range: $39.00 - $475.00
+Recent Sales:
+  May 10, 2026 - $475.00 (eBay, PSA 10)
+  Apr 5, 2026 - $50.00 (eBay, PSA 10)
+  Mar 7, 2026 - $100.00 (eBay, PSA 10)
+  Feb 24, 2026 - $330.00 (eBay, PSA 10)
+  Apr 26, 2026 - $275.00 (eBay, PSA 10)
+  Mar 17, 2026 - $280.00 (eBay, PSA 10)
+  Mar 7, 2026 - $455.00 (eBay, PSA 10)
+  May 18, 2026 - $230.50 (eBay, PSA 10)
+  Mar 22, 2026 - $222.50 (eBay, PSA 10)
+  May 8, 2026 - $40.00 (eBay, PSA 10)
+  May 18, 2026 - $75.00 (eBay, PSA 10)
+  Apr 23, 2026 - $99.99 (eBay, PSA 10)
+  Mar 19, 2026 - $55.00 (eBay, PSA 10)
+  May 15, 2026 - $39.00 (eBay, PSA 10)
+  May 17, 2026 - $70.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $163.50
+Average Price: $163.50
+Range: $75.00 - $288.00
+Recent Sales:
+   - $288.00 (PWCC, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $127.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $143.34
+Low: $40.00
+High: $455.00
+
+--- Population Report ---
+PSA 10 Pop: 26
+Total Graded: 39
+Percentile: Top 66.67%
+Rarity Tier: medium
+Pop-Adjusted Average: $158.96 (+11%)

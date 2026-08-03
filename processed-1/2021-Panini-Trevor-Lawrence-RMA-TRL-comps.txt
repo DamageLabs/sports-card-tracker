@@ -1,0 +1,77 @@
+Card: Trevor Lawrence 2021 Panini #RMA-TRL
+Condition: RAW
+Generated: 2026-05-27T22:50:57.914Z
+
+--- SportsCardsPro ---
+Market Value: $3.62
+Average Price: $3.62
+
+--- eBay ---
+Market Value: $8.38
+Average Price: $8.38
+Range: $0.01 - $449.99
+Recent Sales:
+  May 24, 2026 - $5.00 (eBay)
+  Mar 6, 2026 - $3.99 (eBay)
+  Mar 5, 2026 - $7.00 (eBay)
+  Mar 4, 2026 - $5.50 (eBay)
+  Mar 17, 2026 - $15.99 (eBay)
+  Apr 12, 2026 - $4.99 (eBay)
+  May 3, 2026 - $150.00 (eBay)
+  Mar 1, 2026 - $39.94 (eBay)
+  Feb 27, 2026 - $4.00 (eBay)
+  Mar 19, 2026 - $7.00 (eBay)
+  Apr 6, 2026 - $9.99 (eBay)
+  Apr 18, 2026 - $2.97 (eBay)
+  Apr 16, 2026 - $5.99 (eBay)
+  Apr 6, 2026 - $4.95 (eBay)
+  May 23, 2026 - $1.00 (eBay)
+  Apr 13, 2026 - $1.79 (eBay)
+  May 16, 2026 - $9.99 (eBay)
+  Mar 8, 2026 - $449.99 (eBay)
+  Mar 29, 2026 - $0.01 (eBay)
+  May 1, 2026 - $29.99 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $18.36
+Average Price: $18.36
+Range: $1.00 - $300.00
+Recent Sales:
+   - $10.06 (eBay)
+   - $74.00 (eBay)
+   - $2.49 (eBay)
+   - $3.00 (eBay)
+   - $1.00 (eBay)
+   - $300.00 (eBay)
+   - $7.50 (eBay)
+   - $70.00 (eBay)
+   - $3.84 (eBay)
+   - $9.99 (eBay)
+   - $2.03 (eBay)
+   - $1.99 (eBay)
+   - $12.50 (eBay)
+   - $78.00 (eBay)
+   - $3.26 (eBay)
+   - $5.50 (eBay)
+   - $70.00 (eBay)
+   - $8.50 (eBay)
+   - $61.00 (eBay, PSA 10)
+   - $4.25 (eBay)
+   - $65.00 (eBay)
+   - $2.25 (eBay)
+   - $1.94 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $132.50 (eBay)
+   - $1.65 (eBay)
+   - $56.00 (eBay)
+   - $1.00 (eBay)
+   - $1.25 (eBay)
+
+--- Aggregate ---
+Average: $14.76
+Median: $5.50
+Low: $1.00
+High: $78.00
+Projected PSA 10 Median: $63.83
+Projected PSA 9 Median: $29.13

@@ -1,0 +1,53 @@
+Card: Garrett Nussmeier 2024 Bowman #PAGNU
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:15:47.884Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $105.49
+Average Price: $105.49
+Range: $31.50 - $750.00
+Recent Sales:
+  May 13, 2026 - $84.99 (eBay, PSA 10)
+  May 20, 2026 - $40.00 (eBay, PSA 10)
+  Mar 4, 2026 - $199.99 (eBay, PSA 10)
+  Apr 27, 2026 - $165.99 (eBay, PSA 10)
+  May 10, 2026 - $46.00 (eBay, PSA 10)
+  May 20, 2026 - $31.50 (eBay, PSA 10)
+  Apr 14, 2026 - $750.00 (eBay, PSA 10)
+  Feb 21, 2026 - $49.99 (eBay, PSA 10)
+  Apr 26, 2026 - $127.50 (eBay, PSA 10)
+  Apr 21, 2026 - $55.99 (eBay, PSA 10)
+  Mar 16, 2026 - $39.99 (eBay, PSA 10)
+  Apr 15, 2026 - $149.99 (eBay, PSA 10)
+  Mar 10, 2026 - $199.95 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $172.44
+Average Price: $172.44
+Range: $46.00 - $350.00
+Recent Sales:
+   - $149.99 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $250.00 (eBay, PSA 10)
+   - $350.00 (eBay, PSA 10)
+   - $184.50 (eBay, PSA 10)
+   - $147.50 (eBay, PSA 10)
+   - $165.00 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $138.99 (eBay, PSA 10)
+   - $46.00 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $118.71
+Low: $39.99
+High: $300.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $148.39 (+25%)

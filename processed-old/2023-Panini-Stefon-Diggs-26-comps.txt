@@ -1,0 +1,52 @@
+Card: Stefon Diggs 2023 Panini #26
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:06:59.427Z
+
+--- SportsCardsPro ---
+Market Value: $4.25
+Average Price: $4.25
+
+--- eBay ---
+Market Value: $136.78
+Average Price: $136.78
+Range: $15.00 - $699.00
+Recent Sales:
+  Mar 25, 2026 - $122.50 (eBay, PSA 10)
+  Apr 8, 2026 - $44.99 (eBay, PSA 10)
+  Mar 28, 2026 - $15.00 (eBay, PSA 10)
+  Apr 25, 2026 - $21.00 (eBay, PSA 10)
+  Mar 21, 2026 - $49.99 (eBay, PSA 10)
+  Mar 25, 2026 - $49.99 (eBay, PSA 10)
+  Apr 4, 2026 - $499.99 (eBay, PSA 10)
+  Apr 12, 2026 - $699.00 (eBay, PSA 10)
+  May 22, 2026 - $169.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $164.86
+Average Price: $164.86
+Range: $26.00 - $625.00
+Recent Sales:
+   - $56.16 (Pristine, PSA 10)
+   - $26.00 (eBay, PSA 10)
+   - $625.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $42.00 (eBay, PSA 10)
+   - $127.50 (eBay, PSA 10)
+   - $44.99 (eBay, PSA 10)
+   - $65.00 (eBay, PSA 10)
+   - $610.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $499.99 (eBay, PSA 10)
+   - $33.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $153.63
+Low: $21.00
+High: $610.00
+
+--- Population Report ---
+PSA 10 Pop: 36
+Total Graded: 68
+Percentile: Top 52.94%
+Rarity Tier: medium
+Pop-Adjusted Average: $168.07 (+9%)

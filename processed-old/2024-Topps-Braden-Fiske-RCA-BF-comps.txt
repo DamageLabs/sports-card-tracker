@@ -1,0 +1,80 @@
+Card: Braden Fiske 2024 Topps #RCA-BF
+Condition: RAW
+Generated: 2026-03-01T20:30:42.707Z
+
+--- SportsCardsPro ---
+Market Value: $14.18
+Average Price: $14.18
+
+--- eBay ---
+Market Value: $2.81
+Average Price: $2.81
+Range: $0.99 - $15.00
+Recent Sales:
+  Dec 6, 2025 - $3.50 (eBay)
+  Dec 27, 2025 - $1.75 (eBay)
+  Jan 28, 2026 - $2.49 (eBay)
+  Jan 26, 2026 - $2.99 (eBay)
+  Dec 30, 2025 - $2.99 (eBay)
+  Dec 4, 2025 - $3.50 (eBay)
+  Jan 26, 2026 - $5.00 (eBay)
+  Feb 19, 2026 - $2.25 (eBay)
+  Jan 19, 2026 - $15.00 (eBay)
+  Jan 24, 2026 - $2.99 (eBay)
+  Dec 16, 2025 - $1.25 (eBay)
+  Feb 19, 2026 - $0.99 (eBay)
+  Dec 18, 2025 - $2.00 (eBay)
+  Dec 1, 2025 - $2.99 (eBay)
+  Dec 27, 2025 - $15.00 (eBay)
+  Jan 4, 2026 - $2.95 (eBay)
+  Feb 20, 2026 - $1.79 (eBay)
+  Dec 20, 2025 - $0.99 (eBay)
+  Jan 20, 2026 - $3.75 (eBay)
+
+--- 130Point ---
+Market Value: $41.26
+Average Price: $41.26
+Range: $0.99 - $545.00
+Recent Sales:
+   - $1.00 (eBay)
+   - $5.99 (eBay)
+   - $82.50 (eBay)
+   - $61.67 (eBay)
+   - $450.00 (eBay)
+   - $19.99 (eBay)
+   - $4.00 (eBay)
+   - $250.00 (eBay)
+   - $5.00 (eBay)
+   - $1.55 (eBay)
+   - $1.99 (eBay)
+   - $1.25 (eBay)
+   - $20.00 (eBay)
+   - $64.99 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $20.00 (eBay)
+   - $545.00 (eBay, PSA 10)
+   - $30.00 (eBay)
+   - $2.00 (eBay)
+   - $0.99 (eBay)
+   - $40.00 (eBay, PSA 9)
+   - $103.50 (eBay)
+   - $30.00 (eBay)
+   - $500.00 (eBay)
+   - $74.99 (eBay)
+   - $296.00 (eBay)
+   - $3.00 (eBay)
+   - $3.99 (eBay)
+   - $81.00 (eBay)
+
+--- PSA ---
+Market Value: $52.00
+Average Price: $52.00
+Range: $52.00 - $52.00
+Recent Sales:
+  Oct 13, 2025 - $52.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $16.05
+Low: $0.99
+High: $103.50

@@ -1,0 +1,54 @@
+Card: Galarian Moltres V 2021 Pokemon #177
+Condition: 9: MINT
+Generated: 2026-06-03T01:08:24.601Z
+
+--- SportsCardsPro ---
+Market Value: $285.00
+Average Price: $285.00
+
+--- eBay ---
+Market Value: $196.97
+Average Price: $196.97
+Range: $167.90 - $275.00
+Recent Sales:
+  May 28, 2026 - $220.50 (eBay, PSA 9)
+  May 25, 2026 - $275.00 (eBay, PSA 9)
+  May 17, 2026 - $225.00 (eBay, PSA 9)
+  May 14, 2026 - $224.99 (eBay, PSA 9)
+  May 8, 2026 - $200.00 (eBay, PSA 9)
+  May 5, 2026 - $225.00 (eBay, PSA 9)
+  Apr 27, 2026 - $237.49 (eBay, PSA 9)
+  Apr 26, 2026 - $195.00 (eBay, PSA 9)
+  Apr 24, 2026 - $197.00 (eBay, PSA 9)
+  Apr 17, 2026 - $200.00 (eBay, PSA 9)
+  Apr 14, 2026 - $167.90 (eBay, PSA 9)
+  Apr 13, 2026 - $182.50 (eBay, PSA 9)
+  Apr 12, 2026 - $173.00 (eBay, PSA 9)
+  Apr 6, 2026 - $187.50 (eBay, PSA 9)
+  Apr 5, 2026 - $186.00 (eBay, PSA 9)
+  Mar 28, 2026 - $174.99 (eBay, PSA 9)
+  Mar 24, 2026 - $180.00 (eBay, PSA 9)
+  Mar 20, 2026 - $175.00 (eBay, PSA 9)
+  Mar 19, 2026 - $207.00 (eBay, PSA 9)
+  Mar 16, 2026 - $177.02 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $92.11
+Average Price: $92.11
+Range: $74.42 - $109.80
+Recent Sales:
+   - $74.42 (Goldin)
+   - $109.80 (Goldin)
+
+--- Aggregate ---
+Average: $207.95
+Median: $195.00
+Low: $167.90
+High: $275.00
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 3
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $253.70 (+22%)

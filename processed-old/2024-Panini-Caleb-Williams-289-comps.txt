@@ -1,0 +1,46 @@
+Card: Caleb Williams 2024 Panini #289
+Condition: 10: GEM MINT
+Generated: 2026-05-19T22:56:13.191Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $108.33
+Average Price: $108.33
+Range: $59.99 - $425.00
+Recent Sales:
+  May 4, 2026 - $85.00 (eBay, PSA 10)
+  May 16, 2026 - $89.99 (eBay, PSA 10)
+  May 18, 2026 - $425.00 (eBay, PSA 10)
+  Apr 9, 2026 - $69.99 (eBay, PSA 10)
+  Mar 9, 2026 - $84.99 (eBay, PSA 10)
+  Mar 17, 2026 - $79.99 (eBay, PSA 10)
+  Feb 27, 2026 - $84.99 (eBay, PSA 10)
+  Apr 18, 2026 - $299.99 (eBay, PSA 10)
+  Apr 14, 2026 - $399.99 (eBay, PSA 10)
+  Feb 20, 2026 - $80.00 (eBay, PSA 10)
+  Apr 11, 2026 - $90.00 (eBay, PSA 10)
+  Apr 9, 2026 - $65.00 (eBay, PSA 10)
+  Feb 27, 2026 - $125.00 (eBay, PSA 10)
+  Apr 18, 2026 - $120.00 (eBay, PSA 10)
+  Mar 16, 2026 - $89.99 (eBay, PSA 10)
+  May 18, 2026 - $59.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $540.00
+Average Price: $540.00
+Range: $540.00 - $540.00
+Recent Sales:
+   - $540.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $155.97
+Low: $59.99
+High: $425.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 3
+Percentile: Top 66.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $190.28 (+22%)

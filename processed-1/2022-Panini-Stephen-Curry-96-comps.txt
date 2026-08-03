@@ -1,0 +1,71 @@
+Card: Stephen Curry 2022 Panini #96
+Condition: 10: GEM MINT
+Generated: 2026-05-29T13:18:24.775Z
+
+--- SportsCardsPro ---
+Market Value: $29.04
+Average Price: $29.04
+
+--- eBay ---
+Market Value: $170.12
+Average Price: $170.12
+Range: $25.00 - $2350.00
+Recent Sales:
+  May 24, 2026 - $195.50 (eBay, PSA 10)
+  May 27, 2026 - $79.95 (eBay, PSA 10)
+  Mar 27, 2026 - $350.00 (eBay, PSA 10)
+  Apr 18, 2026 - $61.50 (eBay, PSA 10)
+  May 25, 2026 - $699.95 (eBay, PSA 10)
+  May 20, 2026 - $70.00 (eBay, PSA 10)
+  May 28, 2026 - $25.00 (eBay, PSA 10)
+  Mar 3, 2026 - $109.00 (eBay, PSA 10)
+  May 18, 2026 - $299.99 (eBay, PSA 10)
+  May 26, 2026 - $130.00 (eBay, PSA 10)
+  May 25, 2026 - $2350.00 (eBay, PSA 10)
+  May 4, 2026 - $184.99 (eBay, PSA 10)
+  May 26, 2026 - $249.99 (eBay, PSA 10)
+  May 8, 2026 - $64.99 (eBay, PSA 10)
+  May 19, 2026 - $285.00 (eBay, PSA 10)
+  May 10, 2026 - $117.16 (eBay, PSA 10)
+  Mar 16, 2026 - $75.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $86.26
+Average Price: $86.26
+Range: $42.00 - $709.99
+Recent Sales:
+   - $55.47 (Pristine, PSA 10)
+   - $95.94 (Pristine, PSA 10)
+   - $149.88 (Pristine, PSA 10)
+   - $111.15 (Pristine, PSA 10)
+   - $90.91 (Pristine, PSA 10)
+   - $90.75 (Pristine, PSA 10)
+   - $152.10 (Pristine, PSA 10)
+   - $57.74 (Pristine, PSA 10)
+   - $57.74 (Pristine, PSA 10)
+   - $60.20 (Pristine, PSA 10)
+   - $122.85 (Pristine, PSA 10)
+   - $62.65 (Pristine, PSA 10)
+   - $63.99 (eBay, PSA 10)
+   - $709.99 (eBay, PSA 10)
+   - $57.00 (eBay, PSA 10)
+   - $89.00 (eBay, PSA 10)
+   - $142.39 (eBay, PSA 10)
+   - $53.00 (eBay, PSA 10)
+   - $42.00 (eBay, PSA 10)
+   - $72.53 (Pristine, PSA 10)
+   - $620.00 (eBay, PSA 10)
+   - $52.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $132.55
+Median: $90.91
+Low: $53.00
+High: $620.00
+
+--- Population Report ---
+PSA 10 Pop: 10
+Total Graded: 18
+Percentile: Top 55.56%
+Rarity Tier: low
+Pop-Adjusted Average: $152.43 (+15%)

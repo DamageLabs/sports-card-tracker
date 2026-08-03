@@ -1,0 +1,45 @@
+Card: Patrick Mahomes II 2017 Panini #7
+Condition: 10: GEM MINT
+Generated: 2026-05-21T13:02:15.536Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $503.67
+Average Price: $503.67
+Range: $479.99 - $965.00
+Recent Sales:
+  May 19, 2026 - $600.00 (eBay, PSA 10)
+  Mar 15, 2026 - $480.00 (eBay, PSA 10)
+  Mar 2, 2026 - $480.00 (eBay, PSA 10)
+  Feb 28, 2026 - $479.99 (eBay, PSA 10)
+  Feb 21, 2026 - $483.00 (eBay, PSA 10)
+  Mar 14, 2026 - $499.00 (eBay, PSA 10)
+  Mar 17, 2026 - $480.00 (eBay, PSA 10)
+  May 18, 2026 - $965.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $564.83
+Average Price: $564.83
+Range: $397.72 - $750.30
+Recent Sales:
+   - $750.30 (Goldin)
+   - $494.10 (Goldin)
+   - $397.72 (Goldin)
+   - $552.00 (Goldin)
+   - $680.40 (Goldin)
+   - $532.80 (Goldin)
+
+--- Aggregate ---
+Average: $642.62
+Low: $480.00
+High: $965.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $803.27 (+25%)

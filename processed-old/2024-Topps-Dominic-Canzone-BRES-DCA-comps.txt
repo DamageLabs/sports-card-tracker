@@ -1,0 +1,66 @@
+Card: Dominic Canzone 2024 Topps #BRES-DCA
+Condition: RAW
+Generated: 2026-03-01T19:01:40.557Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $19.76
+Average Price: $19.76
+Range: $3.76 - $100.00
+Recent Sales:
+  Feb 7, 2026 - $24.99 (eBay)
+  Jan 3, 2026 - $14.00 (eBay)
+  Feb 20, 2026 - $16.63 (eBay)
+  Feb 22, 2026 - $15.85 (eBay)
+  Feb 26, 2026 - $34.99 (eBay)
+  Dec 13, 2025 - $19.99 (eBay)
+  Jan 13, 2026 - $3.76 (eBay)
+  Feb 28, 2026 - $30.00 (eBay)
+  Feb 26, 2026 - $55.00 (eBay)
+  Feb 13, 2026 - $100.00 (eBay, PSA 10)
+  Dec 28, 2025 - $44.98 (eBay)
+  Dec 17, 2025 - $79.99 (eBay)
+  Feb 26, 2026 - $14.00 (eBay)
+  Feb 12, 2026 - $7.50 (eBay)
+  Feb 24, 2026 - $17.27 (eBay)
+  Feb 27, 2026 - $20.00 (eBay)
+  Jan 3, 2026 - $10.39 (eBay)
+  Dec 28, 2025 - $6.00 (eBay)
+  Jan 7, 2026 - $5.50 (eBay)
+  Jan 30, 2026 - $5.00 (eBay)
+
+--- MarketMovers ---
+Average Price: $18.96
+Range: $6.50 - $29.99
+Recent Sales:
+  2026-02-26 - $20.00 (benchwarmer_breaks)
+  2026-02-21 - $16.63 (brianlee24)
+  2026-02-07 - $20.00 (halloffamememorabilia99)
+  2026-01-03 - $10.00 (hem_322185)
+  2025-11-25 - $25.00 (joguar_31)
+  2025-11-25 - $14.00 (ersav-702)
+  2025-11-19 - $16.63 (nv2vc-88)
+  2025-11-03 - $6.50 (gas-consignments)
+  2025-10-27 - $20.00 (benbryce97)
+  2025-10-24 - $13.71 (riba_4768)
+  2025-10-19 - $20.00 (caneu12)
+  2025-10-19 - $29.99 (angelsfan13)
+  2025-10-06 - $22.97 (chromewolfcollectibles)
+  2025-10-05 - $26.00 (dmca_93)
+  2025-10-01 - $23.00 (jooseyjake)
+
+--- 130Point ---
+Market Value: $16.66
+Average Price: $16.66
+Range: $10.00 - $20.00
+Recent Sales:
+   - $20.00 (eBay)
+   - $16.63 (eBay)
+   - $20.00 (eBay)
+   - $10.00 (eBay)
+
+--- Aggregate ---
+Average: $20.48
+Low: $7.50
+High: $55.00

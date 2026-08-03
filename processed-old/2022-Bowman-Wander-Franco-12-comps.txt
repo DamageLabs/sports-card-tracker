@@ -1,0 +1,69 @@
+Card: Wander Franco 2022 Bowman #12
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-03-01T03:09:35.121Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $5.00
+Average Price: $5.00
+Range: $0.99 - $9.99
+Recent Sales:
+  Feb 6, 2026 - $3.50 (eBay, PSA 8)
+  Jan 13, 2026 - $0.99 (eBay, PSA 8)
+  Dec 2, 2025 - $9.99 (eBay, PSA 8)
+  Feb 25, 2026 - $5.50 (eBay, PSA 8)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2022 Bowman Bowman Wander Franco 12
+
+--- MarketMovers ---
+Average Price: $3.86
+Range: $0.99 - $5.50
+Recent Sales:
+  2026-02-07 - $3.50 (comc_consignment)
+  2026-01-14 - $0.99 (mc_sportscards)
+  2025-10-23 - $4.99 (psa)
+  2025-10-23 - $4.99 (psa)
+  2025-08-11 - $5.01 (Market Movers)
+  2025-07-31 - $4.99 (Market Movers)
+  2025-07-31 - $4.99 (Market Movers)
+  2025-07-31 - $4.99 (Market Movers)
+  2025-07-31 - $4.99 (Market Movers)
+  2024-06-03 - $3.25 (probstein123)
+  2024-01-23 - $1.45 (dcsports87)
+  2023-10-11 - $1.99 (cheesysportsshop)
+  2023-07-28 - $1.25 (blpier_0)
+  2023-07-25 - $5.00 (gatton_bros_cards)
+  2023-07-03 - $5.50 (Market Movers)
+
+--- 130Point ---
+Market Value: $2.25
+Average Price: $2.25
+Range: $0.99 - $3.50
+Recent Sales:
+   - $3.50 (eBay, PSA 8)
+   - $0.99 (eBay, PSA 8)
+
+--- PSA ---
+Market Value: $37.33
+Average Price: $37.33
+Range: $32.99 - $42.00
+Recent Sales:
+  May 11, 2023 - $37.00 (Goldin Auctions, 9)
+  Dec 6, 2022 - $32.99 (eBay, 9)
+  Nov 5, 2022 - $42.00 (Goldin Auctions, 9)
+
+--- Aggregate ---
+Average: $4.42
+Low: $0.99
+High: $32.99
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 48
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $5.53 (+25%)

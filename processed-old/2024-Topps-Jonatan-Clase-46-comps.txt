@@ -1,0 +1,67 @@
+Card: Jonatan Clase 2024 Topps #46
+Condition: RAW
+Generated: 2026-03-01T04:32:18.486Z
+
+--- SportsCardsPro ---
+Market Value: $5.09
+Average Price: $5.09
+
+--- eBay ---
+Market Value: $4.47
+Average Price: $4.47
+Range: $0.10 - $420.00
+Recent Sales:
+  Feb 12, 2026 - $0.99 (eBay)
+  Feb 21, 2026 - $0.99 (eBay)
+  Feb 24, 2026 - $5.99 (eBay)
+  Feb 17, 2026 - $6.25 (eBay)
+  Feb 27, 2026 - $85.00 (eBay)
+  Feb 15, 2026 - $2.24 (eBay)
+  Dec 28, 2025 - $15.00 (eBay)
+  Feb 23, 2026 - $420.00 (eBay, PSA 9)
+  Feb 11, 2026 - $14.99 (eBay)
+  Dec 27, 2025 - $4.99 (eBay)
+  Jan 24, 2026 - $3.49 (eBay)
+  Jan 8, 2026 - $1.46 (eBay)
+  Feb 10, 2026 - $2.25 (eBay)
+  Feb 15, 2026 - $0.10 (eBay)
+  Feb 26, 2026 - $3.25 (eBay)
+  Feb 17, 2026 - $2.00 (eBay)
+  Feb 3, 2026 - $1.30 (eBay)
+  Dec 2, 2025 - $9.50 (eBay)
+  Feb 8, 2026 - $0.99 (eBay)
+  Dec 1, 2025 - $3.81 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Topps Inception Jonatan Clase 46
+
+--- MarketMovers ---
+Average Price: $3.33
+Range: $0.99 - $12.00
+Recent Sales:
+  2025-12-01 - $0.99 (dcsports87)
+  2025-11-21 - $12.00 (erskine_cards_collectibles)
+  2025-10-02 - $2.00 (PWCC)
+  2025-08-12 - $1.00 (PWCC)
+  2025-07-29 - $3.00 (Market Movers)
+  2025-07-27 - $0.99 (Market Movers)
+
+--- 130Point ---
+Market Value: $1.50
+Average Price: $1.50
+Range: $0.99 - $2.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $2.00 (PWCC, CGC Auth)
+
+--- PSA ---
+Market Value: $4.57
+Average Price: $4.57
+Range: $4.57 - $4.57
+Recent Sales:
+  Dec 14, 2024 - $4.57 (eBay, 9)
+
+--- Aggregate ---
+Average: $7.71
+Low: $0.99
+High: $85.00

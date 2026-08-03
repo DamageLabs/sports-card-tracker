@@ -1,0 +1,27 @@
+Card: Bobby Witt Jr. 0 Panini #
+Condition: RAW
+Generated: 2026-05-08T16:52:38.039Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $126.11
+Average Price: $126.11
+Range: $80.00 - $200.00
+Recent Sales:
+  May 4, 2026 - $80.00 (eBay)
+  Apr 25, 2026 - $200.00 (eBay)
+  Apr 24, 2026 - $125.00 (eBay)
+  Mar 17, 2026 - $110.00 (eBay)
+  Apr 25, 2026 - $135.00 (eBay)
+  Apr 7, 2026 - $125.00 (eBay)
+  Apr 18, 2026 - $100.00 (eBay)
+  Apr 21, 2026 - $89.99 (eBay)
+  Apr 22, 2026 - $129.99 (eBay)
+  Mar 25, 2026 - $165.00 (eBay)
+  Mar 3, 2026 - $155.00 (eBay)
+
+--- Aggregate ---
+Average: $121.73
+Low: $80.00
+High: $200.00

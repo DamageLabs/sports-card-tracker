@@ -1,0 +1,56 @@
+Card: A.J. Brown 2023 Panini #236
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:03:04.601Z
+
+--- SportsCardsPro ---
+Market Value: $7.00
+Average Price: $7.00
+
+--- eBay ---
+Market Value: $141.77
+Average Price: $141.77
+Range: $50.00 - $600.00
+Recent Sales:
+  Mar 20, 2026 - $92.50 (eBay, PSA 10)
+  Apr 8, 2026 - $119.99 (eBay, PSA 10)
+  May 20, 2026 - $539.99 (eBay, PSA 10)
+  May 1, 2026 - $119.99 (eBay, PSA 10)
+  Mar 9, 2026 - $50.00 (eBay, PSA 10)
+  Feb 22, 2026 - $180.00 (eBay, PSA 10)
+  Feb 27, 2026 - $600.00 (eBay, PSA 10)
+  Mar 14, 2026 - $79.00 (eBay, PSA 10)
+  May 18, 2026 - $65.00 (eBay, PSA 10)
+  Apr 7, 2026 - $114.99 (eBay, PSA 10)
+  Apr 20, 2026 - $114.99 (eBay, PSA 10)
+  Apr 20, 2026 - $64.99 (eBay, PSA 10)
+  May 16, 2026 - $68.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $164.69
+Average Price: $164.69
+Range: $25.00 - $1475.00
+Recent Sales:
+   - $25.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $90.91 (Pristine, PSA 10)
+   - $817.50 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $1475.00 (eBay, PSA 10)
+   - $85.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $46.00 (eBay, PSA 10)
+   - $125.50 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $42.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $140.75
+Low: $50.00
+High: $539.99
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $175.94 (+25%)

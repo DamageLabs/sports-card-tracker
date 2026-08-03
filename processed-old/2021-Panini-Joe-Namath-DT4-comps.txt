@@ -1,0 +1,44 @@
+Card: Joe Namath 2021 Panini #DT4
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:22:56.070Z
+
+--- SportsCardsPro ---
+Market Value: $5.95
+Average Price: $5.95
+
+--- eBay ---
+Market Value: $546.69
+Average Price: $546.69
+Range: $470.00 - $668.00
+Recent Sales:
+  Apr 23, 2026 - $668.00 (eBay, PSA 10)
+  Apr 20, 2026 - $600.00 (eBay, PSA 10)
+  Apr 19, 2026 - $581.00 (eBay, PSA 10)
+  Apr 1, 2026 - $574.95 (eBay, PSA 10)
+  Mar 23, 2026 - $510.00 (eBay, PSA 10)
+  Mar 12, 2026 - $480.00 (eBay, PSA 10)
+  Mar 12, 2026 - $536.00 (eBay, PSA 10)
+  Mar 5, 2026 - $556.00 (eBay, PSA 10)
+  Mar 4, 2026 - $599.00 (eBay, PSA 10)
+  Feb 27, 2026 - $555.00 (eBay, PSA 10)
+  Feb 21, 2026 - $470.00 (eBay, PSA 10)
+  Feb 21, 2026 - $475.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $510.00
+Average Price: $510.00
+Range: $510.00 - $510.00
+Recent Sales:
+   - $510.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $570.39
+Low: $480.00
+High: $668.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 5
+Percentile: Top 20%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $712.98 (+25%)

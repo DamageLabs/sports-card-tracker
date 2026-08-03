@@ -1,0 +1,60 @@
+Card: Malik Nabers 2024 Panini #271
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:32:33.459Z
+
+--- SportsCardsPro ---
+Market Value: $23.00
+Average Price: $23.00
+
+--- eBay ---
+Market Value: $132.98
+Average Price: $132.98
+Range: $54.99 - $339.99
+Recent Sales:
+  Feb 26, 2026 - $185.00 (eBay, PSA 10)
+  May 20, 2026 - $180.00 (eBay, PSA 10)
+  May 9, 2026 - $54.99 (eBay, PSA 10)
+  May 20, 2026 - $339.99 (eBay, PSA 10)
+  Apr 8, 2026 - $100.00 (eBay, PSA 10)
+  May 20, 2026 - $151.75 (eBay, PSA 10)
+  Apr 5, 2026 - $89.99 (eBay, PSA 10)
+  Mar 7, 2026 - $100.00 (eBay, PSA 10)
+  May 6, 2026 - $59.99 (eBay, PSA 10)
+  Apr 19, 2026 - $79.99 (eBay, PSA 10)
+  Apr 29, 2026 - $149.99 (eBay, PSA 10)
+  Mar 15, 2026 - $124.99 (eBay, PSA 10)
+  Apr 7, 2026 - $275.00 (eBay, PSA 10)
+  May 14, 2026 - $277.50 (eBay, PSA 10)
+  Apr 10, 2026 - $79.99 (eBay, PSA 10)
+  Mar 20, 2026 - $75.00 (eBay, PSA 10)
+  Mar 6, 2026 - $179.99 (eBay, PSA 10)
+  Feb 28, 2026 - $90.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $63.96
+Average Price: $63.96
+Range: $34.00 - $654.05
+Recent Sales:
+   - $654.05 (Pristine, PSA 10)
+   - $35.64 (Pristine, PSA 10)
+   - $48.99 (eBay, PSA 10)
+   - $55.00 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $59.99 (eBay, PSA 10)
+   - $34.00 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $39.99 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $126.81
+Low: $48.99
+High: $339.99
+
+--- Population Report ---
+PSA 10 Pop: 8
+Total Graded: 48
+Percentile: Top 16.67%
+Rarity Tier: low
+Pop-Adjusted Average: $147.11 (+16%)

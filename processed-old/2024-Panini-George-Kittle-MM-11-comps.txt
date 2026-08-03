@@ -1,0 +1,66 @@
+Card: George Kittle 2024 Panini #MM-11
+Condition: RAW
+Generated: 2026-03-01T22:07:04.749Z
+
+--- SportsCardsPro ---
+Market Value: $7.00
+Average Price: $7.00
+
+--- eBay ---
+Market Value: $5.51
+Average Price: $5.51
+Range: $0.99 - $69.99
+Recent Sales:
+  Feb 20, 2026 - $1.00 (eBay)
+  Feb 6, 2026 - $2.26 (eBay)
+  Jan 24, 2026 - $10.50 (eBay)
+  Dec 31, 2025 - $0.99 (eBay)
+  Dec 27, 2025 - $1.79 (eBay)
+  Dec 22, 2025 - $1.00 (eBay)
+  Jan 24, 2026 - $12.00 (eBay)
+  Feb 13, 2026 - $69.99 (eBay)
+  Dec 18, 2025 - $10.00 (eBay)
+
+--- MarketMovers ---
+Average Price: $3.18
+Range: $0.99 - $12.04
+Recent Sales:
+  2026-02-21 - $1.00 (dor5979)
+  2026-02-07 - $2.26 (comc_consignment)
+  2026-01-25 - $10.50 (cosscard)
+  2026-01-01 - $0.99 (baseballmichael7)
+  2025-12-28 - $1.79 (dohu42)
+  2025-12-22 - $1.00 (chappell2121)
+  2025-11-22 - $0.99 (road2canton)
+  2025-10-09 - $1.79 (dros-7078)
+  2025-10-05 - $12.04 (comc_consignment)
+  2025-09-19 - $1.79 (fastest-shipper)
+  2025-08-14 - $1.25 (Market Movers)
+  2025-07-04 - $3.99 (tjlsportscards)
+  2025-06-18 - $1.79 (smch0802)
+  2025-06-10 - $4.00 (josscha-9661)
+  2025-05-27 - $2.50 (whitewizardsportscards)
+
+--- 130Point ---
+Market Value: $1.44
+Average Price: $1.44
+Range: $0.99 - $10.50
+Recent Sales:
+   - $1.00 (eBay)
+   - $2.26 (eBay)
+   - $10.50 (eBay)
+   - $0.99 (eBay)
+   - $1.50 (eBay)
+   - $1.00 (eBay)
+
+--- PSA ---
+Market Value: $50.00
+Average Price: $50.00
+Range: $50.00 - $50.00
+Recent Sales:
+  Jul 31, 2025 - $50.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $4.06
+Low: $1.00
+High: $12.04

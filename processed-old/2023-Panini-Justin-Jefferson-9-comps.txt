@@ -1,0 +1,53 @@
+Card: Justin Jefferson 2023 Panini #9
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:27:50.409Z
+
+--- SportsCardsPro ---
+Market Value: $9.66
+Average Price: $9.66
+
+--- eBay ---
+Market Value: $806.25
+Average Price: $806.25
+Range: $525.00 - $1249.99
+Recent Sales:
+  Mar 1, 2026 - $850.00 (eBay, PSA 10)
+  Apr 14, 2026 - $700.00 (eBay, PSA 10)
+  May 10, 2026 - $575.00 (eBay, PSA 10)
+  Apr 21, 2026 - $1249.99 (eBay, PSA 10)
+  Apr 9, 2026 - $1099.99 (eBay, PSA 10)
+  May 13, 2026 - $525.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $681.94
+Average Price: $681.94
+Range: $317.00 - $6000.00
+Recent Sales:
+   - $600.00 (eBay, PSA 10)
+   - $325.00 (eBay, PSA 10)
+   - $317.00 (eBay, PSA 10)
+   - $325.00 (eBay, PSA 10)
+   - $600.00 (eBay, PSA 10)
+   - $1700.00 (eBay, PSA 10)
+   - $760.00 (eBay, PSA 10)
+   - $500.00 (eBay, PSA 10)
+   - $453.33 (eBay, PSA 10)
+   - $6000.00 (PWCC, PSA 10)
+   - $885.20 (eBay, PSA 10)
+   - $514.74 (Pristine, PSA 10)
+   - $1000.00 (eBay, PSA 10)
+   - $1075.00 (eBay, PSA 10)
+   - $770.00 (eBay, PSA 10)
+   - $700.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $712.67
+Low: $325.00
+High: $1249.99
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 2
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $890.83 (+25%)

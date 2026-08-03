@@ -1,0 +1,129 @@
+Card: Tom Brady 2000 Skybox #27
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-02-28T14:47:52.925Z
+
+--- SportsCardsPro ---
+Market Value: $13.53
+Average Price: $13.53
+
+--- eBay ---
+Market Value: $175.95
+Average Price: $175.95
+Range: $125.00 - $205.27
+Recent Sales:
+  Feb 27, 2026 - $155.00 (eBay, PSA 8)
+  Feb 26, 2026 - $205.27 (eBay, PSA 8)
+  Feb 24, 2026 - $150.00 (eBay, PSA 8)
+  Feb 23, 2026 - $189.00 (eBay, PSA 8)
+  Feb 22, 2026 - $187.50 (eBay, PSA 8)
+  Feb 22, 2026 - $185.00 (eBay, PSA 8)
+  Feb 21, 2026 - $200.00 (eBay, PSA 8)
+  Feb 17, 2026 - $200.00 (eBay, PSA 8)
+  Feb 16, 2026 - $125.00 (eBay, PSA 8)
+  Feb 16, 2026 - $174.99 (eBay, PSA 8)
+  Feb 15, 2026 - $200.00 (eBay, PSA 8)
+  Feb 15, 2026 - $145.00 (eBay, PSA 8)
+  Feb 14, 2026 - $155.75 (eBay, PSA 8)
+  Feb 14, 2026 - $184.00 (eBay, PSA 8)
+  Feb 14, 2026 - $152.50 (eBay, PSA 8)
+  Feb 14, 2026 - $199.99 (eBay, PSA 8)
+  Feb 14, 2026 - $174.99 (eBay, PSA 8)
+  Feb 12, 2026 - $175.00 (eBay, PSA 8)
+  Feb 10, 2026 - $155.50 (eBay, PSA 8)
+
+--- CardLadder ---
+Market Value: $167.60
+Average Price: $158.08
+Range: $125.00 - $189.00
+Recent Sales:
+  02/26/2026 - $168.06 (Card Ladder)
+  02/23/2026 - $189.00 (Card Ladder)
+  02/22/2026 - $172.83 (Card Ladder)
+  02/21/2026 - $150.00 (Card Ladder)
+  02/15/2026 - $151.67 (Card Ladder)
+  02/14/2026 - $170.45 (Card Ladder)
+  02/12/2026 - $145.00 (Card Ladder)
+  02/11/2026 - $125.00 (Card Ladder)
+  02/10/2026 - $151.70 (Card Ladder)
+  02/09/2026 - $150.50 (Card Ladder)
+  02/08/2026 - $179.99 (Card Ladder)
+  02/07/2026 - $165.00 (Card Ladder)
+  02/06/2026 - $151.00 (Card Ladder)
+  02/02/2026 - $160.00 (Card Ladder)
+  01/31/2026 - $141.05 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $161.19
+Range: $125.00 - $200.00
+Recent Sales:
+  2026-02-28 - $155.00 (aubriana1234)
+  2026-02-26 - $168.10 (slycardsmania)
+  2026-02-25 - $150.00 (dep_8440)
+  2026-02-23 - $156.00 (PWCC)
+  2026-02-23 - $187.50 (psa)
+  2026-02-22 - $175.00 (xtrainning-collectibles)
+  2026-02-22 - $150.00 (kc-fanatic)
+  2026-02-18 - $200.00 (ketteringcards)
+  2026-02-17 - $125.00 (gamon-8463)
+  2026-02-16 - $149.00 (cojcoll89)
+  2026-02-16 - $150.00 (PWCC)
+  2026-02-15 - $160.00 (stallingsboys)
+  2026-02-15 - $155.75 (dcsports87)
+  2026-02-14 - $184.00 (fischeja)
+  2026-02-14 - $152.50 (dc-sports-cards)
+
+--- 130Point ---
+Market Value: $155.11
+Average Price: $155.11
+Range: $125.00 - $230.00
+Recent Sales:
+   - $230.00 (eBay, PSA 8)
+   - $150.00 (eBay, PSA 8)
+   - $187.50 (eBay, PSA 8)
+   - $175.00 (eBay, PSA 8)
+   - $150.00 (eBay, PSA 8)
+   - $200.00 (eBay, PSA 8)
+   - $125.00 (eBay, PSA 8)
+   - $149.00 (eBay, PSA 8)
+   - $155.75 (eBay, PSA 8)
+   - $152.50 (eBay, PSA 8)
+   - $174.99 (eBay, PSA 8)
+   - $155.50 (eBay, PSA 8)
+   - $150.50 (eBay, PSA 8)
+   - $179.99 (eBay, PSA 8)
+   - $151.00 (eBay, PSA 8)
+   - $141.05 (eBay, PSA 8)
+   - $171.50 (eBay, PSA 8)
+   - $140.00 (eBay, PSA 8)
+   - $153.50 (eBay, PSA 8)
+   - $155.00 (eBay, PSA 8)
+   - $154.99 (eBay, PSA 8)
+   - $149.90 (eBay, PSA 8)
+   - $159.99 (eBay, PSA 8)
+   - $140.00 (eBay, PSA 8)
+   - $161.02 (eBay, PSA 8)
+   - $139.95 (eBay, PSA 8)
+   - $141.00 (eBay, PSA 8)
+   - $150.00 (eBay, PSA 8)
+
+--- PSA ---
+Market Value: $126.39
+Average Price: $126.39
+Range: $93.00 - $165.00
+Recent Sales:
+  Jan 31, 2026 - $141.05 (eBay, 8)
+  Nov 6, 2025 - $165.00 (eBay, 8)
+  Oct 11, 2025 - $106.51 (eBay, 8)
+  Oct 10, 2025 - $93.00 (eBay, 8)
+
+--- Aggregate ---
+Average: $160.83
+Low: $140.00
+High: $199.99
+
+--- Population Report ---
+PSA 8 Pop: 38
+Total Graded: 118
+Percentile: Top 57.63%
+Rarity Tier: medium
+Pop-Adjusted Average: $175.63 (+9%)

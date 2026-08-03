@@ -1,0 +1,30 @@
+Card: Robert Griffin III 2012 Bowman #BSARRG
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:08:54.546Z
+
+--- SportsCardsPro ---
+Market Value: $11.50
+Average Price: $11.50
+
+--- eBay ---
+Market Value: $40.00
+Average Price: $40.00
+Range: $35.00 - $45.00
+Recent Sales:
+  Apr 14, 2026 - $45.00 (eBay)
+  Mar 23, 2026 - $35.00 (eBay, BGS 9)
+
+--- 130Point ---
+Market Value: $148.70
+Average Price: $148.70
+Range: $9.99 - $327.44
+Recent Sales:
+   - $9.99 (PWCC, BGS 9.5)
+   - $89.88 (PWCC, BGS 9.5)
+   - $327.44 (PWCC, BGS 9.5)
+   - $167.50 (PWCC, BGS 9.5)
+
+--- Aggregate ---
+Average: $94.74
+Low: $9.99
+High: $327.44

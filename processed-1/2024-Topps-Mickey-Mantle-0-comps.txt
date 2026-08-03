@@ -1,0 +1,51 @@
+Card: Mickey Mantle 2024 Topps #0
+Condition: RAW
+Generated: 2026-05-26T18:26:18.281Z
+
+--- SportsCardsPro ---
+Market Value: $6.67
+Average Price: $6.67
+
+--- eBay ---
+Market Value: $97.03
+Average Price: $97.03
+Range: $3.50 - $400.00
+Recent Sales:
+  May 6, 2026 - $85.00 (eBay)
+  Feb 28, 2026 - $84.99 (eBay)
+  May 10, 2026 - $118.50 (eBay)
+  Apr 19, 2026 - $60.00 (eBay)
+  May 22, 2026 - $80.00 (eBay, BGS 9)
+  May 7, 2026 - $199.99 (eBay)
+  Apr 19, 2026 - $85.00 (eBay)
+  Apr 25, 2026 - $85.00 (eBay)
+  May 14, 2026 - $70.00 (eBay)
+  Apr 29, 2026 - $400.00 (eBay)
+  Apr 14, 2026 - $63.99 (eBay)
+  Apr 21, 2026 - $95.00 (eBay, BGS 9)
+  May 25, 2026 - $3.50 (eBay)
+  Mar 7, 2026 - $36.99 (eBay)
+  Mar 7, 2026 - $45.00 (eBay)
+  May 8, 2026 - $179.00 (eBay)
+  Mar 25, 2026 - $99.95 (eBay)
+  Apr 29, 2026 - $250.00 (eBay)
+  Mar 7, 2026 - $51.95 (eBay)
+  May 9, 2026 - $249.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $128.50
+Average Price: $128.50
+Range: $42.00 - $300.00
+Recent Sales:
+   - $42.00 (eBay)
+   - $300.00 (eBay)
+   - $86.00 (Pristine)
+   - $86.00 (Pristine)
+
+--- Aggregate ---
+Average: $112.47
+Median: $85.00
+Low: $42.00
+High: $250.00
+Projected PSA 10 Median: $5725.00
+Projected PSA 9 Median: $85.00

@@ -1,0 +1,75 @@
+Card: Chris Olave 2022 Panini #310
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:11:14.486Z
+
+--- SportsCardsPro ---
+Market Value: $7.87
+Average Price: $7.87
+
+--- eBay ---
+Market Value: $106.85
+Average Price: $106.85
+Range: $50.00 - $249.99
+Recent Sales:
+  Apr 18, 2026 - $75.00 (eBay, PSA 10)
+  May 6, 2026 - $249.99 (eBay, PSA 10)
+  May 12, 2026 - $55.00 (eBay, PSA 10)
+  Apr 11, 2026 - $59.99 (eBay, PSA 10)
+  Apr 29, 2026 - $125.00 (eBay, PSA 10)
+  Feb 21, 2026 - $50.00 (eBay, PSA 10)
+  Mar 21, 2026 - $69.99 (eBay, PSA 10)
+  Apr 18, 2026 - $76.39 (eBay, PSA 10)
+  May 8, 2026 - $199.99 (eBay, PSA 10)
+  Mar 7, 2026 - $99.00 (eBay, PSA 10)
+  Apr 19, 2026 - $89.99 (eBay, PSA 10)
+  Apr 18, 2026 - $75.00 (eBay, PSA 10)
+  Mar 26, 2026 - $175.00 (eBay, PSA 10)
+  Apr 22, 2026 - $160.00 (eBay, PSA 10)
+  Mar 27, 2026 - $170.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $58.43
+Average Price: $58.43
+Range: $1.17 - $2101.32
+Recent Sales:
+   - $55.47 (Pristine, PSA 10)
+   - $87.75 (Pristine, PSA 10)
+   - $2101.32 (Pristine, PSA 10)
+   - $32.76 (Pristine, PSA 10)
+   - $58.50 (Pristine, PSA 10)
+   - $28.26 (Pristine, PSA 10)
+   - $25.80 (Pristine, PSA 10)
+   - $25.80 (Pristine, PSA 10)
+   - $69.15 (Pristine, PSA 10)
+   - $49.14 (Pristine, PSA 10)
+   - $67.57 (Pristine, PSA 10)
+   - $103.81 (Pristine, PSA 10)
+   - $83.07 (Pristine, PSA 10)
+   - $138.82 (Pristine, PSA 10)
+   - $29.48 (Pristine, PSA 10)
+   - $57.74 (Pristine, PSA 10)
+   - $439.80 (Pristine, PSA 10)
+   - $65.11 (Pristine, PSA 10)
+   - $94.59 (Pristine, PSA 10)
+   - $57.74 (Pristine, PSA 10)
+   - $50.37 (Pristine, PSA 10)
+   - $48.36 (Pristine, PSA 10)
+   - $52.88 (Pristine, PSA 10)
+   - $27.03 (Pristine, PSA 10)
+   - $52.83 (Pristine, PSA 10)
+   - $93.37 (Pristine, PSA 10)
+   - $1.17 (Pristine, PSA 10)
+   - $35.22 (Pristine, PSA 10)
+   - $57.74 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $78.02
+Low: $28.26
+High: $199.99
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 6
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $97.52 (+25%)

@@ -1,0 +1,43 @@
+Card: Marvin Harrison Jr. 2024 Topps ##AUMH
+Condition: 9: MINT
+Generated: 2026-05-21T05:32:58.311Z
+
+--- SportsCardsPro ---
+Market Value: $0.29
+Average Price: $0.29
+
+--- eBay ---
+Market Value: $69.57
+Average Price: $69.57
+Range: $55.00 - $149.99
+Recent Sales:
+  May 8, 2026 - $64.00 (eBay, PSA 9)
+  Mar 28, 2026 - $65.00 (eBay, PSA 9)
+  Apr 22, 2026 - $55.00 (eBay, PSA 9)
+  Mar 31, 2026 - $65.00 (eBay, PSA 9)
+  May 10, 2026 - $58.00 (eBay, PSA 9)
+  Apr 18, 2026 - $99.99 (eBay, PSA 9)
+  Feb 22, 2026 - $149.99 (eBay, PSA 9)
+  Apr 15, 2026 - $60.00 (eBay, PSA 9)
+  Mar 2, 2026 - $75.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $110.83
+Average Price: $110.83
+Range: $65.00 - $149.99
+Recent Sales:
+   - $65.00 (eBay, PSA 9)
+   - $117.50 (eBay, PSA 9)
+   - $149.99 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $74.19
+Low: $55.00
+High: $149.99
+
+--- Population Report ---
+PSA 9 Pop: 9
+Total Graded: 22
+Percentile: Top 95.45%
+Rarity Tier: low
+Pop-Adjusted Average: $85.69 (+16%)

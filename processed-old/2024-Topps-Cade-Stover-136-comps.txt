@@ -1,0 +1,74 @@
+Card: Cade Stover 2024 Topps #136
+Condition: RAW
+Generated: 2026-03-01T21:58:36.702Z
+
+--- SportsCardsPro ---
+Market Value: $5.18
+Average Price: $5.18
+
+--- eBay ---
+Market Value: $2.26
+Average Price: $2.26
+Range: $0.50 - $6.00
+Recent Sales:
+  Feb 25, 2026 - $0.99 (eBay)
+  Feb 25, 2026 - $0.50 (eBay)
+  Feb 20, 2026 - $4.99 (eBay)
+  Feb 19, 2026 - $1.50 (eBay)
+  Feb 6, 2026 - $4.00 (eBay)
+  Feb 6, 2026 - $1.75 (eBay)
+  Feb 5, 2026 - $1.39 (eBay)
+  Feb 5, 2026 - $1.49 (eBay)
+  Jan 29, 2026 - $1.59 (eBay)
+  Jan 11, 2026 - $6.00 (eBay)
+  Jan 6, 2026 - $2.50 (eBay)
+  Dec 6, 2025 - $0.99 (eBay)
+  Feb 6, 2026 - $1.99 (eBay)
+  Jan 28, 2026 - $5.00 (eBay)
+  Dec 31, 2025 - $1.95 (eBay)
+  Feb 3, 2026 - $2.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $3.37
+Range: $0.99 - $12.10
+Recent Sales:
+  2026-02-26 - $0.99 (waxripper92)
+  2026-02-21 - $4.99 (des_cards)
+  2026-02-19 - $1.50 (raams396)
+  2026-02-06 - $4.00 (brmede_37)
+  2026-02-06 - $1.75 (jasonn0221)
+  2026-02-05 - $1.39 (cardsandcords)
+  2026-02-05 - $1.49 (virgilcha)
+  2026-01-29 - $1.59 (hogs_haven_cards)
+  2026-01-11 - $6.00 (kajoht_hoju9o)
+  2026-01-06 - $2.50 (coopdawgscardsstore)
+  2025-11-30 - $4.99 (mason3377)
+  2025-11-16 - $1.30 (ncny23)
+  2025-11-03 - $12.10 (mvpcardcollectors)
+  2025-10-21 - $4.95 (usa707)
+  2025-09-26 - $0.99 (wess_88)
+
+--- 130Point ---
+Market Value: $1.29
+Average Price: $1.29
+Range: $0.50 - $4.50
+Recent Sales:
+   - $0.99 (eBay)
+   - $0.50 (eBay)
+   - $4.50 (eBay)
+   - $1.20 (eBay)
+   - $1.75 (eBay)
+   - $1.49 (eBay)
+   - $1.00 (eBay)
+
+--- PSA ---
+Market Value: $58.77
+Average Price: $58.77
+Range: $58.77 - $58.77
+Recent Sales:
+  Jul 9, 2024 - $58.77 (eBay, 10)
+
+--- Aggregate ---
+Average: $2.38
+Low: $0.99
+High: $4.99

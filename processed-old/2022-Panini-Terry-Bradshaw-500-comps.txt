@@ -1,0 +1,68 @@
+Card: Terry Bradshaw 2022 Panini #500
+Condition: RAW
+Generated: 2026-05-07T13:03:56.406Z
+
+--- SportsCardsPro ---
+Market Value: $9.66
+Average Price: $9.66
+
+--- eBay ---
+Market Value: $11.22
+Average Price: $11.22
+Range: $0.99 - $125.00
+Recent Sales:
+  Apr 12, 2026 - $10.00 (eBay)
+  Mar 24, 2026 - $14.99 (eBay)
+  Apr 8, 2026 - $25.00 (eBay)
+  Mar 1, 2026 - $4.99 (eBay)
+  Apr 16, 2026 - $3.49 (eBay)
+  Mar 5, 2026 - $3.99 (eBay)
+  Apr 26, 2026 - $4.00 (eBay)
+  Apr 30, 2026 - $0.99 (eBay)
+  Feb 24, 2026 - $1.95 (eBay)
+  Mar 7, 2026 - $14.62 (eBay)
+  Mar 1, 2026 - $4.00 (eBay)
+  Mar 8, 2026 - $0.99 (eBay)
+  Mar 30, 2026 - $125.00 (eBay)
+  Mar 13, 2026 - $3.99 (eBay)
+  Apr 11, 2026 - $50.00 (eBay)
+  Apr 21, 2026 - $2.49 (eBay)
+  Mar 22, 2026 - $100.00 (eBay)
+  Mar 18, 2026 - $117.35 (eBay)
+  Mar 31, 2026 - $8.00 (eBay)
+  Mar 18, 2026 - $7.50 (eBay)
+
+--- 130Point ---
+Market Value: $169.30
+Average Price: $169.30
+Range: $14.74 - $299.52
+Recent Sales:
+   - $111.79 (Pristine)
+   - $276.41 (Pristine, PSA 10)
+   - $253.07 (Pristine)
+   - $224.84 (Pristine, PSA 9)
+   - $118.67 (Pristine)
+   - $205.16 (Pristine, PSA 9)
+   - $261.86 (Pristine)
+   - $49.14 (Pristine)
+   - $68.80 (Pristine)
+   - $128.99 (Pristine)
+   - $299.52 (Pristine, PSA 10)
+   - $191.88 (Pristine)
+   - $185.55 (Pristine)
+   - $14.74 (Pristine)
+   - $209.43 (Pristine)
+   - $118.17 (Pristine)
+   - $20.00 (Pristine, BGS 8)
+   - $35.22 (Pristine)
+   - $136.74 (Pristine)
+   - $288.94 (Pristine, PSA 9)
+   - $205.00 (eBay)
+   - $200.00 (eBay)
+   - $199.00 (eBay)
+   - $179.36 (Pristine)
+
+--- Aggregate ---
+Average: $79.68
+Low: $2.49
+High: $224.84

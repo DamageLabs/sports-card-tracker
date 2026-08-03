@@ -1,0 +1,76 @@
+Card: Leo De Vries 2024 Bowman #BCP-179
+Condition: 8.5: NEAR MINT-MINT+
+Generated: 2026-03-01T00:18:31.732Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $15.82
+Average Price: $15.82
+Range: $3.99 - $249.99
+Recent Sales:
+  Feb 27, 2026 - $9.99 (eBay)
+  Feb 20, 2026 - $65.00 (eBay)
+  Jan 11, 2026 - $6.00 (eBay)
+  Feb 25, 2026 - $13.99 (eBay)
+  Feb 4, 2026 - $15.00 (eBay)
+  Feb 25, 2026 - $40.00 (eBay)
+  Feb 25, 2026 - $5.59 (eBay)
+  Dec 23, 2025 - $4.99 (eBay)
+  Feb 1, 2026 - $5.00 (eBay)
+  Feb 22, 2026 - $249.99 (eBay)
+  Feb 19, 2026 - $19.99 (eBay, PSA 8)
+  Jan 28, 2026 - $159.00 (eBay)
+  Feb 24, 2026 - $9.50 (eBay)
+  Feb 17, 2026 - $3.99 (eBay)
+  Jan 26, 2026 - $120.00 (eBay)
+  Feb 11, 2026 - $5.49 (eBay)
+  Feb 26, 2026 - $4.99 (eBay)
+  Feb 7, 2026 - $5.99 (eBay)
+  Feb 26, 2026 - $14.99 (eBay)
+  Jan 27, 2026 - $3.99 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Bowman Chrome Prospects Leo De Vries BCP-179
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Bowman Chrome Prospects Leo De Vries #BCP-179 CGC 8.5
+
+--- 130Point ---
+Market Value: $37.13
+Average Price: $37.13
+Range: $1.99 - $330.00
+Recent Sales:
+   - $20.00 (eBay)
+   - $25.00 (eBay)
+   - $20.00 (eBay)
+   - $3.49 (eBay)
+   - $5.59 (eBay)
+   - $129.98 (eBay)
+   - $65.00 (eBay)
+   - $35.00 (eBay)
+   - $260.00 (eBay)
+   - $186.50 (eBay, PSA 10)
+   - $17.38 (eBay, PSA 8)
+   - $122.50 (eBay, PSA 9)
+   - $13.99 (eBay)
+   - $6.00 (eBay)
+   - $7.00 (eBay)
+   - $3.00 (eBay)
+   - $82.00 (eBay)
+   - $3.99 (eBay)
+   - $15.50 (eBay)
+   - $155.95 (eBay)
+   - $3.75 (eBay)
+   - $2.25 (eBay)
+   - $330.00 (eBay)
+   - $7.50 (eBay)
+   - $2.50 (eBay)
+   - $1.99 (eBay)
+
+--- Aggregate ---
+Average: $30.75
+Low: $3.49
+High: $159.00

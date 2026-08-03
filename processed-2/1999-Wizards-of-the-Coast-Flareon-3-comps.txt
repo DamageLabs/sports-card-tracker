@@ -1,0 +1,52 @@
+Card: Flareon 1999 Wizards of the Coast #3
+Condition: 9: MINT
+Generated: 2026-06-01T22:33:18.882Z
+
+--- SportsCardsPro ---
+Market Value: $405.00
+Average Price: $405.00
+
+--- eBay ---
+Market Value: $380.28
+Average Price: $380.28
+Range: $174.93 - $650.00
+Recent Sales:
+  May 28, 2026 - $439.95 (eBay, PSA 9)
+  May 18, 2026 - $315.00 (eBay, PSA 9)
+  May 13, 2026 - $174.93 (eBay, PSA 9)
+  Apr 12, 2026 - $635.00 (eBay, PSA 9)
+  Mar 16, 2026 - $650.00 (eBay, PSA 9)
+  Mar 15, 2026 - $599.99 (eBay, PSA 9)
+  Mar 8, 2026 - $299.00 (eBay, PSA 9)
+  Mar 7, 2026 - $599.99 (eBay, PSA 9)
+  Mar 3, 2026 - $269.12 (eBay, PSA 9)
+  May 31, 2026 - $230.00 (eBay, PSA 9)
+  May 22, 2026 - $340.00 (eBay, PSA 9)
+  May 29, 2026 - $255.00 (eBay, PSA 9)
+  Apr 6, 2026 - $199.99 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $182.00
+Average Price: $182.00
+Range: $8.99 - $1375.00
+Recent Sales:
+   - $8.99 (eBay)
+   - $29.99 (eBay)
+   - $1375.00 (Heritage)
+   - $195.20 (Goldin)
+   - $158.60 (Goldin)
+   - $209.00 (Heritage)
+   - $317.20 (Goldin)
+
+--- Aggregate ---
+Average: $300.13
+Median: $284.06
+Low: $174.93
+High: $599.99
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 12
+Percentile: Top 75%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $375.16 (+25%)

@@ -1,0 +1,62 @@
+Card: Drake Maye 2024 Panini #SE-DME
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:08:32.502Z
+
+--- SportsCardsPro ---
+Market Value: $109.50
+Average Price: $109.50
+
+--- eBay ---
+Market Value: $369.93
+Average Price: $369.93
+Range: $96.00 - $3500.00
+Recent Sales:
+  Mar 20, 2026 - $1050.00 (eBay, PSA 10)
+  Mar 1, 2026 - $237.99 (eBay, PSA 10)
+  May 1, 2026 - $650.00 (eBay, PSA 10)
+  Mar 31, 2026 - $3500.00 (eBay, PSA 10)
+  Apr 28, 2026 - $126.50 (eBay, PSA 10)
+  May 5, 2026 - $225.00 (eBay, PSA 10)
+  May 6, 2026 - $119.99 (eBay, PSA 10)
+  Feb 27, 2026 - $330.00 (eBay, PSA 10)
+  Apr 10, 2026 - $219.99 (eBay, PSA 10)
+  Feb 18, 2026 - $96.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $325.40
+Average Price: $325.40
+Range: $70.00 - $2325.00
+Recent Sales:
+   - $169.00 (eBay, PSA 10)
+   - $285.00 (eBay, PSA 10)
+   - $117.50 (eBay, PSA 10)
+   - $164.04 (eBay, PSA 10)
+   - $179.99 (eBay, PSA 10)
+   - $2250.00 (eBay, PSA 10)
+   - $162.50 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $2325.00 (eBay, PSA 10)
+   - $152.50 (eBay, PSA 10)
+   - $1955.00 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $87.00 (eBay, PSA 10)
+   - $109.50 (eBay, PSA 10)
+   - $1506.00 (eBay, PSA 10)
+   - $1050.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $182.50 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $187.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $355.77
+Low: $96.00
+High: $1955.00
+
+--- Population Report ---
+PSA 10 Pop: 9
+Total Graded: 17
+Percentile: Top 52.94%
+Rarity Tier: low
+Pop-Adjusted Average: $410.92 (+16%)

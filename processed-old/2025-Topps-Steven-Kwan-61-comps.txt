@@ -1,0 +1,71 @@
+Card: Steven Kwan 2025 Topps #61
+Condition: RAW
+Generated: 2026-05-07T23:39:08.994Z
+
+--- SportsCardsPro ---
+Market Value: $18.38
+Average Price: $18.38
+
+--- eBay ---
+Market Value: $2.23
+Average Price: $2.23
+Range: $0.99 - $14.99
+Recent Sales:
+  May 7, 2026 - $1.99 (eBay)
+  May 4, 2026 - $1.00 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  Apr 17, 2026 - $2.99 (eBay)
+  Apr 29, 2026 - $10.00 (eBay)
+  Apr 27, 2026 - $2.25 (eBay)
+  Apr 26, 2026 - $0.99 (eBay)
+  Apr 25, 2026 - $0.99 (eBay)
+  Apr 25, 2026 - $3.99 (eBay)
+  Apr 23, 2026 - $1.00 (eBay)
+  Apr 18, 2026 - $3.25 (eBay)
+  Apr 18, 2026 - $6.50 (eBay)
+  Apr 16, 2026 - $14.99 (eBay)
+  Apr 15, 2026 - $1.00 (eBay)
+  Apr 15, 2026 - $0.99 (eBay)
+  Apr 15, 2026 - $0.99 (eBay)
+  Apr 15, 2026 - $1.99 (eBay)
+
+--- 130Point ---
+Market Value: $11.33
+Average Price: $11.33
+Range: $0.78 - $52.50
+Recent Sales:
+   - $0.99 (eBay)
+   - $1.04 (eBay)
+   - $0.78 (eBay)
+   - $8.99 (eBay)
+   - $11.99 (eBay)
+   - $8.50 (eBay)
+   - $5.00 (eBay)
+   - $5.00 (eBay)
+   - $3.50 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $10.50 (eBay)
+   - $5.00 (eBay)
+   - $2.64 (eBay)
+   - $30.00 (eBay)
+   - $20.00 (eBay, PSA 9)
+   - $5.25 (eBay)
+   - $19.50 (eBay)
+   - $8.00 (eBay)
+   - $30.00 (eBay)
+   - $25.00 (eBay)
+   - $52.50 (eBay)
+   - $40.00 (eBay, PSA 9)
+   - $45.00 (eBay)
+   - $20.50 (eBay, PSA 9)
+   - $3.00 (eBay)
+   - $13.00 (eBay, SGC 10)
+   - $0.99 (eBay)
+   - $25.20 (PWCC, CGC Auth)
+   - $15.60 (PWCC, CGC Auth)
+
+--- Aggregate ---
+Average: $8.38
+Low: $0.99
+High: $30.00

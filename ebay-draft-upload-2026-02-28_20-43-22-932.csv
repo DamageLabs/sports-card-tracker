@@ -1,0 +1,6 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,CURRY-2021-AUR-SCU-PSA9,215,2021 Panini Obsidian Stephen Curry Aurora AU-E/E Orange #AUR-SCU PSA 9 Golden...,,587.55,1,,2750,<p><b>2021 Panini Obsidian Stephen Curry #AUR-SCU</b></p><p><b>Grade:</b> PSA 9<br><b>Serial Numbered:</b> 09/35</p><p>Aurora AU-E/E Orange | Autograph</p><p>Golden State Warriors</p><p>Card ships in PSA protective case with tracking.</p>,FixedPrice

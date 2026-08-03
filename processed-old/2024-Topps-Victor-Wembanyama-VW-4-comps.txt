@@ -1,0 +1,93 @@
+Card: Victor Wembanyama 2024 Topps #VW-4
+Condition: RAW
+Generated: 2026-03-01T19:52:17.323Z
+
+--- SportsCardsPro ---
+Market Value: $8.99
+Average Price: $8.99
+
+--- eBay ---
+Market Value: $51.44
+Average Price: $51.44
+Range: $27.00 - $274.95
+Recent Sales:
+  Feb 28, 2026 - $55.00 (eBay)
+  Feb 28, 2026 - $27.00 (eBay)
+  Jan 4, 2026 - $31.64 (eBay)
+  Feb 28, 2026 - $59.99 (eBay)
+  Feb 28, 2026 - $59.99 (eBay)
+  Feb 28, 2026 - $55.00 (eBay)
+  Feb 28, 2026 - $59.99 (eBay)
+  Feb 28, 2026 - $49.99 (eBay)
+  Feb 27, 2026 - $60.00 (eBay)
+  Feb 26, 2026 - $31.00 (eBay)
+  Feb 26, 2026 - $274.95 (eBay)
+  Feb 25, 2026 - $39.00 (eBay)
+  Feb 22, 2026 - $55.00 (eBay)
+  Feb 22, 2026 - $107.50 (eBay)
+  Feb 22, 2026 - $59.99 (eBay)
+  Feb 21, 2026 - $39.00 (eBay)
+  Feb 21, 2026 - $46.19 (eBay)
+  Feb 18, 2026 - $41.00 (eBay)
+  Feb 16, 2026 - $49.99 (eBay)
+  Feb 16, 2026 - $49.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $42.78
+Range: $31.00 - $55.00
+Recent Sales:
+  2026-03-01 - $45.00 (sirlexser13)
+  2026-02-28 - $31.64 (stickerchecker)
+  2026-02-27 - $31.00 (eyyc8999)
+  2026-02-26 - $39.00 (eyyc8999)
+  2026-02-22 - $39.00 (saltyskinz)
+  2026-02-21 - $46.05 (mcnas_7746)
+  2026-02-19 - $41.00 (thepennygame)
+  2026-02-17 - $40.00 (superseller330)
+  2026-02-11 - $55.00 (kc2865)
+  2026-02-11 - $42.00 (dallascardshow)
+  2026-02-08 - $41.48 (card-junction-sportscards)
+  2026-02-06 - $49.99 (maknoffer)
+  2026-02-06 - $49.49 (card_monk)
+  2026-02-05 - $39.99 (dy-838)
+  2026-02-05 - $51.00 (thepennygame)
+
+--- 130Point ---
+Market Value: $44.65
+Average Price: $44.65
+Range: $25.00 - $1900.00
+Recent Sales:
+   - $31.00 (eBay)
+   - $39.00 (eBay)
+   - $39.00 (eBay)
+   - $41.00 (eBay)
+   - $61.36 (eBay)
+   - $49.99 (eBay)
+   - $49.49 (eBay)
+   - $39.99 (eBay)
+   - $51.00 (eBay)
+   - $44.00 (eBay)
+   - $25.00 (eBay)
+   - $36.00 (eBay)
+   - $49.99 (eBay)
+   - $50.00 (eBay)
+   - $45.00 (eBay)
+   - $427.00 (Goldin)
+   - $1900.00 (eBay)
+   - $230.00 (eBay, PSA 9)
+   - $35.00 (eBay)
+   - $48.50 (eBay)
+   - $35.00 (eBay)
+   - $29.99 (eBay)
+
+--- PSA ---
+Market Value: $30.00
+Average Price: $30.00
+Range: $30.00 - $30.00
+Recent Sales:
+  Jan 4, 2026 - $30.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $45.17
+Low: $31.00
+High: $107.50

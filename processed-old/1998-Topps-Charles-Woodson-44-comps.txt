@@ -1,0 +1,52 @@
+Card: Charles Woodson 1998 Topps #44
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:24:15.670Z
+
+--- SportsCardsPro ---
+Market Value: $6.09
+Average Price: $6.09
+
+--- 130Point ---
+Market Value: $274.51
+Average Price: $274.51
+Range: $76.80 - $960.00
+Recent Sales:
+   - $960.00 (eBay, PSA 10)
+   - $145.00 (PWCC, PSA 10)
+   - $780.00 (PWCC, PSA 10)
+   - $93.60 (PWCC, PSA 10)
+   - $930.00 (PWCC, PSA 10)
+   - $76.80 (PWCC, PSA 10)
+   - $98.40 (PWCC, PSA 10)
+   - $115.20 (PWCC, PSA 10)
+   - $98.40 (PWCC, PSA 10)
+   - $126.00 (PWCC, PSA 10)
+   - $105.60 (PWCC, PSA 10)
+   - $130.00 (MySlabs, PSA 10)
+   - $600.00 (PWCC, PSA 10)
+   - $750.00 (PWCC, PSA 10)
+   - $216.00 (PWCC, PSA 10)
+   - $156.00 (PWCC, PSA 10)
+   - $840.00 (PWCC, PSA 10)
+   - $125.00 (MySlabs, PSA 10)
+   - $150.00 (MySlabs, PSA 10)
+   - $195.00 (PWCC, PSA 10)
+   - $250.00 (MySlabs, PSA 10)
+   - $375.00 (MySlabs, PSA 10)
+   - $313.88 (PWCC, PSA 10)
+   - $860.00 (PWCC, PSA 10)
+   - $204.43 (PWCC, PSA 10)
+   - $227.50 (PWCC, PSA 10)
+   - $251.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $298.22
+Low: $98.40
+High: $860.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 15
+Percentile: Top 20%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $358.46 (+20%)

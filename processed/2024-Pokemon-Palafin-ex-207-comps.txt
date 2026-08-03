@@ -1,0 +1,51 @@
+Card: Palafin ex 2024 Pokemon #207
+Condition: 10: GEM MINT
+Generated: 2026-06-03T01:08:50.776Z
+
+--- SportsCardsPro ---
+Market Value: $33.00
+Average Price: $33.00
+
+--- eBay ---
+Market Value: $57.43
+Average Price: $57.43
+Range: $40.95 - $680.00
+Recent Sales:
+  Apr 22, 2026 - $70.00 (eBay, PSA 10)
+  Apr 1, 2026 - $42.00 (eBay, PSA 10)
+  May 12, 2026 - $74.99 (eBay, PSA 10)
+  Apr 28, 2026 - $63.99 (eBay, PSA 10)
+  May 25, 2026 - $56.11 (eBay, PSA 10)
+  Apr 5, 2026 - $680.00 (eBay, PSA 10)
+  May 22, 2026 - $65.00 (eBay, PSA 10)
+  Apr 19, 2026 - $56.49 (eBay, PSA 10)
+  Jun 1, 2026 - $54.99 (eBay, PSA 10)
+  Apr 16, 2026 - $55.00 (eBay, PSA 10)
+  Apr 26, 2026 - $50.00 (eBay, PSA 10)
+  Apr 25, 2026 - $60.00 (eBay, PSA 10)
+  May 27, 2026 - $65.00 (eBay, PSA 10)
+  May 30, 2026 - $40.95 (eBay, PSA 10)
+  Apr 17, 2026 - $50.00 (eBay, PSA 10)
+  Apr 10, 2026 - $50.00 (eBay, PSA 10)
+  Apr 2, 2026 - $50.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $39.00
+Average Price: $39.00
+Range: $36.00 - $42.00
+Recent Sales:
+   - $42.00 (eBay, PSA 10)
+   - $36.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $56.21
+Median: $55.00
+Low: $40.95
+High: $70.00
+
+--- Population Report ---
+PSA 10 Pop: 28
+Total Graded: 37
+Percentile: Top 75.68%
+Rarity Tier: medium
+Pop-Adjusted Average: $62.11 (+10%)

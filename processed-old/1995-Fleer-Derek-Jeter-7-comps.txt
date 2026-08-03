@@ -1,0 +1,125 @@
+Card: Derek Jeter 1995 Fleer #7
+Condition: RAW
+Generated: 2026-03-01T19:07:33.488Z
+
+--- SportsCardsPro ---
+Market Value: $64.17
+Average Price: $64.17
+
+--- eBay ---
+Market Value: $2.67
+Average Price: $2.67
+Range: $0.98 - $47.00
+Recent Sales:
+  Feb 27, 2026 - $45.00 (eBay, PSA 9)
+  Feb 26, 2026 - $1.99 (eBay)
+  Feb 25, 2026 - $0.98 (eBay)
+  Feb 24, 2026 - $1.99 (eBay)
+  Feb 24, 2026 - $47.00 (eBay)
+  Feb 22, 2026 - $2.00 (eBay)
+  Feb 22, 2026 - $32.00 (eBay)
+  Feb 18, 2026 - $2.99 (eBay)
+  Feb 16, 2026 - $8.60 (eBay, PSA 8)
+  Feb 15, 2026 - $2.00 (eBay)
+  Feb 14, 2026 - $1.00 (eBay)
+  Feb 14, 2026 - $2.00 (eBay)
+  Feb 14, 2026 - $2.49 (eBay)
+  Feb 14, 2026 - $1.95 (eBay)
+  Feb 11, 2026 - $2.49 (eBay)
+  Feb 8, 2026 - $0.99 (eBay)
+  Feb 2, 2026 - $2.99 (eBay)
+  Feb 2, 2026 - $2.26 (eBay)
+  Feb 1, 2026 - $1.89 (eBay)
+  Jan 31, 2026 - $1.75 (eBay)
+
+--- MarketMovers ---
+Average Price: $6.59
+Range: $0.99 - $47.00
+Recent Sales:
+  2026-02-27 - $1.99 (jmatey13)
+  2026-02-25 - $47.00 (comc_consignment)
+  2026-02-23 - $2.00 (thesportscollectorsvault)
+  2026-02-22 - $28.00 (slabslobs)
+  2026-02-15 - $2.00 (steveaston)
+  2026-02-14 - $1.00 (halcon_sports)
+  2026-02-14 - $2.00 (lu_395986)
+  2026-02-14 - $1.95 (freddywestie)
+  2026-02-11 - $2.49 (house_divided)
+  2026-02-09 - $0.99 (volumeaccumulation)
+  2026-01-31 - $3.00 (sportstuff_and_more)
+  2026-01-28 - $2.15 (montereysportscards)
+  2026-01-23 - $1.95 (travmos_thrift_and_collectables)
+  2026-01-23 - $0.99 (tntnorthnj)
+  2026-01-15 - $1.30 (centraltxsportscards)
+
+--- 130Point ---
+Market Value: $2.79
+Average Price: $2.79
+Range: $0.73 - $49.14
+Recent Sales:
+   - $0.98 (eBay)
+   - $2.00 (eBay)
+   - $28.00 (eBay)
+   - $2.99 (eBay)
+   - $1.75 (eBay)
+   - $1.00 (eBay)
+   - $2.00 (eBay)
+   - $1.95 (eBay)
+   - $2.12 (eBay)
+   - $0.99 (eBay)
+   - $3.00 (eBay)
+   - $0.73 (eBay)
+   - $2.25 (eBay)
+   - $3.80 (eBay)
+   - $1.80 (eBay)
+   - $0.99 (eBay)
+   - $1.30 (eBay)
+   - $0.99 (eBay)
+   - $2.49 (eBay)
+   - $1.89 (eBay)
+   - $4.95 (eBay)
+   - $1.77 (eBay)
+   - $4.00 (eBay)
+   - $4.25 (eBay, SGC 8.5)
+   - $2.99 (eBay)
+   - $49.14 (Pristine, PSA 9)
+   - $15.60 (PWCC, SGC 9)
+   - $6.00 (PWCC, CGC Auth)
+   - $6.00 (PWCC, CGC Auth)
+   - $19.20 (PWCC, BGS 9)
+
+--- PSA ---
+Market Value: $8.83
+Average Price: $8.83
+Range: $0.99 - $113.00
+Recent Sales:
+  Oct 5, 2025 - $19.99 (eBay, 9)
+  Jul 21, 2025 - $56.00 (eBay, 10)
+  May 12, 2025 - $23.50 (eBay, 10)
+  May 8, 2025 - $9.50 (eBay, 9)
+  Apr 20, 2025 - $2.25 (eBay, 9)
+  Apr 8, 2025 - $6.50 (eBay, 7)
+  Jan 10, 2025 - $7.99 (eBay, 8)
+  Dec 27, 2024 - $5.50 (eBay, 7)
+  Nov 14, 2024 - $10.00 (eBay, 7)
+  Oct 30, 2024 - $7.50 (eBay, 8)
+  Oct 21, 2024 - $10.00 (eBay, 7)
+  Oct 3, 2024 - $9.99 (eBay, 7)
+  Aug 24, 2024 - $1.60 (eBay, 6)
+  Aug 22, 2024 - $4.50 (eBay, 8)
+  Jul 15, 2024 - $0.99 (eBay, 8)
+  May 27, 2024 - $0.99 (eBay, 7)
+  May 9, 2024 - $16.04 (eBay, 9)
+  Apr 11, 2024 - $9.99 (eBay, 8)
+  Mar 25, 2024 - $10.50 (eBay, 9)
+  Mar 16, 2023 - $1.25 (eBay, 7)
+  Mar 10, 2023 - $12.50 (eBay, 8)
+  Jan 16, 2023 - $9.99 (eBay, 9)
+  Dec 4, 2022 - $8.50 (eBay, 9)
+  Oct 21, 2022 - $4.99 (eBay, 7)
+  Jul 24, 2022 - $113.00 (Heritage Auctions, 10)
+
+--- Aggregate ---
+Average: $5.50
+Low: $0.99
+High: $32.00

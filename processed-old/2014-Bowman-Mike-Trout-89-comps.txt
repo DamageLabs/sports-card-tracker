@@ -1,0 +1,74 @@
+Card: Mike Trout 2014 Bowman #89
+Condition: RAW
+Generated: 2026-05-04T23:48:19.707Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $26.19
+Average Price: $26.19
+Range: $2.00 - $249.99
+Recent Sales:
+  May 4, 2026 - $3.99 (eBay)
+  Apr 19, 2026 - $36.00 (eBay, PSA 9)
+  Feb 18, 2026 - $5.99 (eBay)
+  Mar 31, 2026 - $28.75 (eBay)
+  Apr 19, 2026 - $7.99 (eBay)
+  Apr 17, 2026 - $15.00 (eBay)
+  Apr 28, 2026 - $6.50 (eBay)
+  Feb 20, 2026 - $249.99 (eBay, PSA 9)
+  Apr 13, 2026 - $9.99 (eBay)
+  Apr 26, 2026 - $55.00 (eBay, PSA 10)
+  Mar 3, 2026 - $19.97 (eBay)
+  Mar 15, 2026 - $69.50 (eBay, PSA 9)
+  Apr 23, 2026 - $2.00 (eBay)
+  May 1, 2026 - $35.00 (eBay)
+  Apr 3, 2026 - $5.99 (eBay)
+  Apr 22, 2026 - $49.99 (eBay)
+  Apr 24, 2026 - $100.00 (eBay, PSA 9)
+  Apr 30, 2026 - $180.00 (eBay, PSA 8)
+  Apr 29, 2026 - $21.00 (eBay)
+  Mar 22, 2026 - $3.99 (eBay)
+
+--- 130Point ---
+Market Value: $24.69
+Average Price: $24.69
+Range: $0.99 - $399.99
+Recent Sales:
+   - $92.43 (Pristine, PSA 10)
+   - $78.62 (Pristine, PSA 9)
+   - $46.80 (Pristine, CGC 10)
+   - $10.00 (Goldin)
+   - $40.54 (Pristine)
+   - $51.60 (Pristine, PSA 10)
+   - $1.85 (eBay)
+   - $3.99 (eBay)
+   - $87.75 (Pristine)
+   - $8.00 (eBay)
+   - $11.00 (eBay, SGC 9)
+   - $1.75 (eBay)
+   - $3.99 (eBay)
+   - $3.50 (eBay)
+   - $0.99 (eBay)
+   - $8.50 (eBay)
+   - $11.26 (eBay)
+   - $3.00 (eBay)
+   - $1.78 (eBay)
+   - $1.78 (eBay)
+   - $1.78 (eBay)
+   - $1.78 (eBay)
+   - $4.31 (eBay)
+   - $68.36 (Pristine, CGC 10)
+   - $287.00 (eBay, BGS 9.5)
+   - $35.00 (eBay)
+   - $265.00 (eBay, PSA 9)
+   - $43.00 (Pristine, CGC 10)
+   - $18.50 (eBay)
+   - $399.99 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $27.71
+Low: $1.78
+High: $100.00

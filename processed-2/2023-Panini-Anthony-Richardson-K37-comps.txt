@@ -1,0 +1,33 @@
+Card: Anthony Richardson 2023 Panini #K37
+Condition: 9: MINT
+Generated: 2026-05-29T17:24:19.425Z
+
+--- SportsCardsPro ---
+Market Value: $4.31
+Average Price: $4.31
+
+--- eBay ---
+Market Value: $316.80
+Average Price: $316.80
+Range: $220.00 - $580.38
+Recent Sales:
+  Mar 17, 2026 - $330.00 (eBay, PSA 9)
+  Mar 28, 2026 - $329.00 (eBay, PSA 9)
+  May 28, 2026 - $280.00 (eBay, PSA 9)
+  May 20, 2026 - $220.00 (eBay, PSA 9)
+  Mar 18, 2026 - $335.00 (eBay, PSA 9)
+  Mar 13, 2026 - $580.38 (eBay, PSA 9)
+  Mar 27, 2026 - $310.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $276.66
+Median: $319.50
+Low: $220.00
+High: $330.00
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $345.82 (+25%)

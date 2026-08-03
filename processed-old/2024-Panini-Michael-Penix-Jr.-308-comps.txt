@@ -1,0 +1,52 @@
+Card: Michael Penix Jr. 2024 Panini #308
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:36:09.665Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $93.60
+Average Price: $93.60
+Range: $24.99 - $249.99
+Recent Sales:
+  May 20, 2026 - $94.99 (eBay, PSA 10)
+  May 8, 2026 - $229.99 (eBay, PSA 10)
+  May 11, 2026 - $26.00 (eBay, PSA 10)
+  May 20, 2026 - $150.00 (eBay, PSA 10)
+  Mar 7, 2026 - $35.00 (eBay, PSA 10)
+  Mar 30, 2026 - $40.00 (eBay, PSA 10)
+  Mar 23, 2026 - $45.00 (eBay, PSA 10)
+  Feb 28, 2026 - $60.00 (eBay, PSA 10)
+  Feb 28, 2026 - $219.99 (eBay, PSA 10)
+  Mar 21, 2026 - $35.00 (eBay, PSA 10)
+  Mar 4, 2026 - $24.99 (eBay, PSA 10)
+  Feb 24, 2026 - $249.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $45.80
+Average Price: $45.80
+Range: $15.98 - $230.00
+Recent Sales:
+   - $15.98 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $18.00 (eBay, PSA 10)
+   - $52.61 (Pristine, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $35.00 (eBay, PSA 10)
+   - $230.00 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $31.59 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $85.33
+Low: $26.00
+High: $229.99
+
+--- Population Report ---
+PSA 10 Pop: 37
+Total Graded: 82
+Percentile: Top 45.12%
+Rarity Tier: medium
+Pop-Adjusted Average: $93.27 (+9%)

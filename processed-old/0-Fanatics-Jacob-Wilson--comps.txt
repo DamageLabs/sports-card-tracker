@@ -1,0 +1,73 @@
+Card: Jacob Wilson 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:54:16.065Z
+
+--- SportsCardsPro ---
+Market Value: $2.26
+Average Price: $2.26
+
+--- eBay ---
+Market Value: $114.36
+Average Price: $114.36
+Range: $15.00 - $900.00
+Recent Sales:
+  Feb 12, 2026 - $229.99 (eBay)
+  Feb 9, 2026 - $74.00 (eBay)
+  May 3, 2026 - $140.00 (eBay)
+  Feb 16, 2026 - $900.00 (eBay)
+  Apr 7, 2026 - $122.50 (eBay)
+  Mar 5, 2026 - $102.50 (eBay)
+  Feb 17, 2026 - $100.00 (eBay)
+  Mar 15, 2026 - $150.00 (eBay)
+  Mar 4, 2026 - $59.00 (eBay)
+  Feb 15, 2026 - $225.00 (eBay)
+  Apr 28, 2026 - $115.50 (eBay)
+  Mar 10, 2026 - $225.00 (eBay)
+  Feb 9, 2026 - $299.99 (eBay)
+  Mar 18, 2026 - $79.99 (eBay)
+  Apr 8, 2026 - $36.00 (eBay)
+  Mar 16, 2026 - $105.50 (eBay)
+  Mar 16, 2026 - $41.99 (eBay)
+  Apr 6, 2026 - $41.00 (eBay)
+  May 5, 2026 - $15.00 (eBay)
+  Mar 27, 2026 - $60.00 (eBay)
+
+--- 130Point ---
+Market Value: $32.37
+Average Price: $32.37
+Range: $0.99 - $180.00
+Recent Sales:
+   - $19.99 (eBay)
+   - $180.00 (eBay)
+   - $59.67 (Pristine)
+   - $4.99 (eBay)
+   - $11.61 (eBay)
+   - $0.99 (eBay)
+   - $36.00 (eBay)
+   - $22.50 (eBay)
+   - $49.99 (eBay)
+   - $69.73 (Pristine)
+   - $95.00 (eBay)
+   - $41.00 (eBay)
+   - $16.00 (eBay)
+   - $149.00 (eBay)
+   - $100.00 (eBay)
+   - $19.25 (eBay, PSA 9)
+   - $20.00 (eBay)
+   - $23.50 (eBay)
+   - $15.00 (eBay)
+   - $60.00 (eBay)
+   - $20.00 (eBay)
+   - $20.00 (eBay)
+   - $20.79 (eBay)
+   - $36.86 (Pristine)
+   - $18.00 (eBay)
+   - $15.50 (eBay, PSA 8)
+   - $16.00 (eBay)
+   - $80.00 (eBay)
+   - $5.00 (eBay)
+
+--- Aggregate ---
+Average: $63.19
+Low: $15.00
+High: $150.00

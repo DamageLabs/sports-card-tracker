@@ -1,0 +1,62 @@
+Card: Bryce Young 2023 Topps #TCABY
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:22:55.174Z
+
+--- SportsCardsPro ---
+Market Value: $0.50
+Average Price: $0.50
+
+--- eBay ---
+Market Value: $210.57
+Average Price: $210.57
+Range: $29.99 - $625.00
+Recent Sales:
+  Mar 25, 2026 - $459.99 (eBay, PSA 10)
+  May 25, 2026 - $625.00 (eBay, PSA 10)
+  Mar 8, 2026 - $170.00 (eBay, PSA 10)
+  Apr 26, 2026 - $67.99 (eBay, PSA 10)
+  Apr 27, 2026 - $210.00 (eBay, PSA 10)
+  May 7, 2026 - $29.99 (eBay, PSA 10)
+  Mar 7, 2026 - $199.00 (eBay, PSA 10)
+  Apr 22, 2026 - $318.75 (eBay, PSA 10)
+  Apr 26, 2026 - $200.00 (eBay, PSA 10)
+  Mar 31, 2026 - $199.99 (eBay, PSA 10)
+  Mar 28, 2026 - $55.00 (eBay, PSA 10)
+  Apr 16, 2026 - $225.00 (eBay, PSA 10)
+  Mar 16, 2026 - $40.00 (eBay, PSA 10)
+  Mar 27, 2026 - $599.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $211.24
+Average Price: $211.24
+Range: $73.72 - $599.99
+Recent Sales:
+   - $376.00 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $142.50 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $599.99 (eBay, PSA 10)
+   - $399.00 (eBay, PSA 10)
+   - $226.00 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $166.49 (eBay, PSA 10)
+   - $244.47 (Pristine, PSA 10)
+   - $190.42 (Pristine, PSA 10)
+   - $204.00 (PWCC, PSA 10)
+   - $73.72 (Pristine, PSA 10)
+   - $300.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $233.29
+Median: $200.00
+Low: $55.00
+High: $599.99
+
+--- Population Report ---
+PSA 10 Pop: 13
+Total Graded: 46
+Percentile: Top 28.26%
+Rarity Tier: low
+Pop-Adjusted Average: $265.72 (+14%)

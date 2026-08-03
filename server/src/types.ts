@@ -221,6 +221,8 @@ export interface CompReport {
   aggregateMedian: number | null;
   aggregateLow: number | null;
   aggregateHigh: number | null;
+  psa10Median: number | null;
+  psa9Median: number | null;
   popData?: PopulationData | null;
   popMultiplier?: number;
   popAdjustedAverage?: number | null;
@@ -260,6 +262,8 @@ export interface StoredCompReport {
   aggregateMedian: number | null;
   aggregateLow: number | null;
   aggregateHigh: number | null;
+  psa10Median: number | null;
+  psa9Median: number | null;
   popData?: PopulationData | null;
   popMultiplier?: number;
   popAdjustedAverage?: number | null;

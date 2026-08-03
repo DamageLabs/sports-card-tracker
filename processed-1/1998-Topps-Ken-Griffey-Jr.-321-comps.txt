@@ -1,0 +1,65 @@
+Card: Ken Griffey Jr. 1998 Topps #321
+Condition: RAW
+Generated: 2026-05-26T18:31:16.277Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $95.73
+Average Price: $95.73
+Range: $1.00 - $5000.00
+Recent Sales:
+  May 3, 2026 - $1.00 (eBay)
+  May 1, 2026 - $2.49 (eBay)
+  Apr 28, 2026 - $12.99 (eBay)
+  Apr 27, 2026 - $3.99 (eBay)
+  Apr 26, 2026 - $5.99 (eBay)
+  Apr 20, 2026 - $12.99 (eBay)
+  Apr 20, 2026 - $24.95 (eBay, PSA 7)
+  Apr 18, 2026 - $5000.00 (eBay, PSA 10)
+  Apr 9, 2026 - $9.00 (eBay)
+  Apr 6, 2026 - $14.95 (eBay)
+  Apr 5, 2026 - $9.99 (eBay)
+  Mar 31, 2026 - $860.00 (eBay)
+
+--- 130Point ---
+Market Value: $253.60
+Average Price: $253.60
+Range: $7.20 - $4869.60
+Recent Sales:
+   - $9.00 (eBay)
+   - $10.00 (eBay)
+   - $9.99 (eBay)
+   - $860.00 (eBay)
+   - $31.98 (eBay, PSA 9)
+   - $9.50 (eBay)
+   - $12.44 (eBay)
+   - $7.20 (PWCC, CGC Auth)
+   - $7.20 (PWCC, CGC Auth)
+   - $1260.00 (PWCC, PSA 9)
+   - $20.40 (PWCC, PSA 9)
+   - $432.00 (PWCC, PSA 8)
+   - $9.60 (PWCC)
+   - $64.80 (PWCC, BGS 9.5)
+   - $867.42 (Goldin)
+   - $49.14 (Pristine, PSA 9)
+   - $8.40 (Goldin)
+   - $15.60 (Goldin)
+   - $4869.60 (Goldin)
+   - $850.00 (PWCC, PSA 9)
+   - $420.00 (PWCC, SGC 9)
+   - $317.00 (PWCC, PSA 8)
+   - $1051.00 (PWCC, PSA 9)
+   - $2025.00 (PWCC, PSA 10)
+   - $368.14 (PWCC, BGS 9)
+   - $69.00 (PWCC, PSA 10)
+   - $90.00 (PWCC, PSA 10)
+   - $565.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $205.30
+Median: $22.67
+Low: $3.99
+High: $1051.00
+Projected PSA 10 Median: $932.50
+Projected PSA 9 Median: $59.57

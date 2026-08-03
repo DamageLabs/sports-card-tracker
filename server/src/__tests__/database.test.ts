@@ -339,6 +339,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: '2023-06-01T00:00:00Z',
       });
 
@@ -362,6 +364,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: '2023-06-01T00:00:00Z',
       });
 
@@ -450,6 +454,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
       });
 
@@ -476,6 +482,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 80,
         aggregateHigh: 120,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
       });
 
@@ -495,6 +503,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         popAdjustedAverage: 60,
         popMultiplier: 1.2,
         generatedAt: new Date().toISOString(),
@@ -516,6 +526,8 @@ describe('Database', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
       });
 

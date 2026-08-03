@@ -1,0 +1,48 @@
+Card: Jalen Hurts 2023 Panini #192
+Condition: 10: GEM MINT
+Generated: 2026-05-19T13:02:16.768Z
+
+--- SportsCardsPro ---
+Market Value: $5.62
+Average Price: $5.62
+
+--- 130Point ---
+Market Value: $110.81
+Average Price: $110.81
+Range: $26.00 - $1225.00
+Recent Sales:
+   - $1083.54 (Pristine, PSA 10)
+   - $33.17 (Pristine, PSA 10)
+   - $63.88 (Pristine, PSA 10)
+   - $30.72 (Pristine, PSA 10)
+   - $65.71 (Pristine, PSA 10)
+   - $61.43 (Pristine, PSA 10)
+   - $67.57 (Pristine, PSA 10)
+   - $50.31 (Pristine, PSA 10)
+   - $36.86 (Pristine, PSA 10)
+   - $30.42 (Pristine, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $30.71 (Pristine, PSA 10)
+   - $199.00 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $95.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $65.00 (eBay, PSA 10)
+   - $1225.00 (eBay, PSA 10)
+   - $142.50 (eBay, PSA 10)
+   - $420.00 (eBay, PSA 10)
+   - $142.60 (eBay, PSA 10)
+   - $325.00 (eBay, PSA 10)
+   - $26.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $119.52
+Low: $30.71
+High: $420.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 7
+Percentile: Top 14.29%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $149.41 (+25%)

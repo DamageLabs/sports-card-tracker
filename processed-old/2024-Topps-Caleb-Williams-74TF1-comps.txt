@@ -1,0 +1,54 @@
+Card: Caleb Williams 2024 Topps #74TF1
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:08:45.041Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $170.50
+Average Price: $170.50
+Range: $79.00 - $299.00
+Recent Sales:
+  Mar 31, 2026 - $139.99 (eBay, PSA 10)
+  Mar 3, 2026 - $79.00 (eBay, PSA 10)
+  Apr 23, 2026 - $125.00 (eBay, PSA 10)
+  May 13, 2026 - $118.00 (eBay, PSA 10)
+  May 13, 2026 - $150.00 (eBay, PSA 10)
+  May 18, 2026 - $224.99 (eBay, PSA 10)
+  May 12, 2026 - $200.00 (eBay, PSA 10)
+  May 6, 2026 - $189.00 (eBay, PSA 10)
+  May 20, 2026 - $299.00 (eBay, PSA 10)
+  May 13, 2026 - $210.00 (eBay, PSA 10)
+  May 8, 2026 - $225.00 (eBay, PSA 10)
+  Apr 18, 2026 - $156.00 (eBay, PSA 10)
+  Apr 24, 2026 - $137.50 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $200.76
+Average Price: $200.76
+Range: $52.00 - $1250.00
+Recent Sales:
+   - $84.77 (Pristine, PSA 10)
+   - $1250.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $166.20 (eBay, PSA 10)
+   - $450.00 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $52.00 (eBay, PSA 10)
+   - $145.00 (eBay, PSA 10)
+   - $143.65 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $58.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $178.71
+Low: $84.77
+High: $450.00
+
+--- Population Report ---
+PSA 10 Pop: 8
+Total Graded: 12
+Percentile: Top 66.67%
+Rarity Tier: low
+Pop-Adjusted Average: $207.30 (+16%)

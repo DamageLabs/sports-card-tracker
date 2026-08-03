@@ -1,0 +1,73 @@
+Card: Terry Bradshaw 1971 Topps #156
+Condition: 4: VERY GOOD-EXCELLENT
+Generated: 2026-05-19T22:56:56.542Z
+
+--- SportsCardsPro ---
+Market Value: $9.08
+Average Price: $9.08
+
+--- eBay ---
+Market Value: $227.23
+Average Price: $227.23
+Range: $160.21 - $888.00
+Recent Sales:
+  May 17, 2026 - $220.00 (eBay, PSA 4)
+  May 17, 2026 - $219.00 (eBay, PSA 4)
+  May 16, 2026 - $888.00 (eBay, PSA 4)
+  May 14, 2026 - $219.00 (eBay, PSA 4)
+  May 12, 2026 - $219.99 (eBay, PSA 4)
+  May 10, 2026 - $160.50 (eBay, PSA 4)
+  Apr 30, 2026 - $200.00 (eBay, PSA 4)
+  Apr 28, 2026 - $259.99 (eBay, PSA 4)
+  Apr 13, 2026 - $182.50 (eBay, PSA 4)
+  Apr 9, 2026 - $242.50 (eBay, PSA 4)
+  Apr 8, 2026 - $310.99 (eBay, PSA 4)
+  Apr 7, 2026 - $272.00 (eBay, PSA 4)
+  Apr 7, 2026 - $239.95 (eBay, PSA 4)
+  Apr 3, 2026 - $237.50 (eBay, PSA 4)
+  Mar 29, 2026 - $244.00 (eBay, PSA 4)
+  Mar 20, 2026 - $250.00 (eBay, PSA 4)
+  Mar 25, 2026 - $220.00 (eBay, PSA 4)
+  Mar 24, 2026 - $160.21 (eBay, PSA 4)
+  Mar 19, 2026 - $182.00 (eBay, PSA 4)
+
+--- 130Point ---
+Market Value: $188.63
+Average Price: $188.63
+Range: $115.00 - $275.00
+Recent Sales:
+   - $182.50 (eBay, PSA 4)
+   - $242.50 (eBay, PSA 4)
+   - $275.00 (eBay, PSA 4)
+   - $272.00 (eBay, PSA 4)
+   - $239.95 (eBay, PSA 4)
+   - $237.50 (eBay, PSA 4)
+   - $244.00 (eBay, PSA 4)
+   - $250.00 (eBay, PSA 4)
+   - $180.00 (eBay, PSA 4)
+   - $160.21 (eBay, PSA 4)
+   - $182.00 (eBay, PSA 4)
+   - $220.00 (eBay, PSA 4)
+   - $115.00 (eBay, PSA 4)
+   - $192.00 (PWCC, PSA 4)
+   - $180.00 (PWCC, PSA 4)
+   - $132.00 (PWCC, PSA 4)
+   - $132.00 (PWCC, PSA 4)
+   - $150.00 (PWCC, PSA 4)
+   - $165.00 (Goldin, PSA 4)
+   - $144.00 (PWCC, PSA 4)
+   - $156.00 (PWCC, PSA 4)
+   - $175.00 (PWCC, PSA 4)
+   - $156.00 (PWCC, PSA 4)
+
+--- Aggregate ---
+Average: $208.87
+Low: $150.00
+High: $275.00
+
+--- Population Report ---
+PSA 4 Pop: 38
+Total Graded: 296
+Percentile: Top 36.15%
+Rarity Tier: medium
+Pop-Adjusted Average: $228.09 (+9%)

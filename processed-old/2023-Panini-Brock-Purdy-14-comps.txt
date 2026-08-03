@@ -1,0 +1,44 @@
+Card: Brock Purdy 2023 Panini #14
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:06:22.622Z
+
+--- SportsCardsPro ---
+Market Value: $9.85
+Average Price: $9.85
+
+--- eBay ---
+Market Value: $162.11
+Average Price: $162.11
+Range: $44.95 - $300.00
+Recent Sales:
+  May 9, 2026 - $176.50 (eBay, PSA 10)
+  May 1, 2026 - $250.00 (eBay, PSA 10)
+  Apr 27, 2026 - $197.50 (eBay, PSA 10)
+  Apr 13, 2026 - $239.99 (eBay, PSA 10)
+  Apr 13, 2026 - $300.00 (eBay, PSA 10)
+  May 20, 2026 - $299.99 (eBay, PSA 10)
+  Apr 24, 2026 - $49.99 (eBay, PSA 10)
+  Apr 26, 2026 - $85.00 (eBay, PSA 10)
+  Feb 26, 2026 - $100.00 (eBay, PSA 10)
+  May 2, 2026 - $59.99 (eBay, PSA 10)
+  Apr 8, 2026 - $44.95 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $237.50
+Average Price: $237.50
+Range: $215.00 - $260.00
+Recent Sales:
+   - $215.00 (eBay, PSA 10)
+   - $260.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $187.80
+Low: $49.99
+High: $299.99
+
+--- Population Report ---
+PSA 10 Pop: 64
+Total Graded: 117
+Percentile: Top 54.7%
+Rarity Tier: medium
+Pop-Adjusted Average: $200.76 (+7%)

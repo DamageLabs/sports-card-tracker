@@ -1,0 +1,26 @@
+Card: Lamar Jackson 2022 Panini #19
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:09:07.991Z
+
+--- SportsCardsPro ---
+Market Value: $15.00
+Average Price: $15.00
+
+--- 130Point ---
+Market Value: $155.00
+Average Price: $155.00
+Range: $155.00 - $155.00
+Recent Sales:
+   - $155.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $155.00
+Low: $155.00
+High: $155.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $193.75 (+25%)

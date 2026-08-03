@@ -1,0 +1,73 @@
+Card: Blake Griffin 2009 Panini #161
+Condition: 7.5: NEAR MINT+
+Generated: 2026-03-02T04:14:28.827Z
+
+--- SportsCardsPro ---
+Market Value: $18.00
+Average Price: $18.00
+
+--- eBay ---
+Market Value: $130.83
+Average Price: $130.83
+Range: $34.99 - $255.00
+Recent Sales:
+  Jan 14, 2026 - $34.99 (eBay, PSA 7.5)
+  Feb 27, 2026 - $255.00 (eBay, PSA 10)
+  Dec 10, 2025 - $125.00 (eBay, PSA 9)
+  Feb 18, 2026 - $177.50 (eBay, PSA 10)
+  Jan 10, 2026 - $89.99 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $927.28
+Average Price: $395.23
+Range: $126.94 - $1400.00
+Recent Sales:
+  06/10/2024 - $280.08 (Card Ladder)
+  05/12/2024 - $264.00 (Card Ladder)
+  01/06/2024 - $300.00 (Card Ladder)
+  11/30/2022 - $410.00 (Card Ladder)
+  01/30/2022 - $404.00 (Card Ladder)
+  11/15/2021 - $575.00 (Card Ladder)
+  06/28/2021 - $700.00 (Card Ladder)
+  05/21/2021 - $1400.00 (Card Ladder)
+  05/15/2020 - $300.00 (Card Ladder)
+  11/25/2019 - $251.50 (Card Ladder)
+  09/19/2019 - $220.50 (Card Ladder)
+  03/21/2019 - $214.50 (Card Ladder)
+  02/06/2017 - $293.88 (Card Ladder)
+  02/11/2014 - $126.94 (Card Ladder)
+  02/10/2013 - $188.09 (Card Ladder)
+
+--- 130Point ---
+Market Value: $89.21
+Average Price: $89.21
+Range: $26.01 - $125.00
+Recent Sales:
+   - $34.99 (eBay, PSA 7.5)
+   - $125.00 (eBay, PSA 9)
+   - $105.60 (PWCC, PSA 10)
+   - $26.01 (PWCC, PSA 10)
+   - $80.00 (PWCC, PSA 10)
+   - $102.50 (PWCC, PSA 10)
+   - $91.00 (PWCC, PSA 10)
+   - $99.00 (PWCC, PSA 10)
+   - $111.38 (PWCC, PSA 10)
+
+--- PSA ---
+Market Value: $39.00
+Average Price: $39.00
+Range: $39.00 - $39.00
+Recent Sales:
+  Sep 8, 2025 - $39.00 (eBay, 8)
+
+--- Aggregate ---
+Average: $185.82
+Low: $34.99
+High: $404.00
+
+--- Population Report ---
+PSA 7.5 Pop: 0
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $232.27 (+25%)

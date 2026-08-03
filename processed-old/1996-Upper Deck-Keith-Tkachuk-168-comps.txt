@@ -1,0 +1,42 @@
+Card: Keith Tkachuk 1996 Upper Deck #168
+Condition: RAW
+Generated: 2026-05-07T19:14:54.662Z
+
+--- SportsCardsPro ---
+Market Value: $20.00
+Average Price: $20.00
+
+--- eBay ---
+Market Value: $20.56
+Average Price: $20.56
+Range: $0.99 - $249.99
+Recent Sales:
+  Apr 1, 2026 - $2.99 (eBay)
+  Mar 4, 2026 - $249.99 (eBay)
+  Apr 21, 2026 - $0.99 (eBay)
+  Mar 30, 2026 - $0.99 (eBay)
+  Mar 27, 2026 - $23.99 (eBay)
+  Apr 25, 2026 - $24.99 (eBay)
+  Feb 16, 2026 - $3.66 (eBay)
+  Mar 21, 2026 - $92.42 (eBay)
+  Mar 8, 2026 - $12.14 (eBay)
+  May 1, 2026 - $12.50 (eBay)
+  Apr 24, 2026 - $29.30 (eBay)
+  Mar 4, 2026 - $1.17 (eBay)
+  Apr 1, 2026 - $22.01 (eBay)
+
+--- 130Point ---
+Market Value: $1.66
+Average Price: $1.66
+Range: $0.11 - $15.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $1.49 (eBay)
+   - $15.00 (eBay)
+   - $0.11 (eBay)
+   - $2.50 (eBay)
+
+--- Aggregate ---
+Average: $12.34
+Low: $0.99
+High: $29.30

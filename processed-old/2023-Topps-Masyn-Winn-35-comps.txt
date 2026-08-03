@@ -1,0 +1,90 @@
+Card: Masyn Winn 2023 Topps #35
+Condition: RAW
+Generated: 2026-03-01T19:07:39.531Z
+
+--- SportsCardsPro ---
+Market Value: $15.25
+Average Price: $15.25
+
+--- eBay ---
+Market Value: $3.53
+Average Price: $3.53
+Range: $0.98 - $111.00
+Recent Sales:
+  Jan 14, 2026 - $1.50 (eBay)
+  Feb 21, 2026 - $1.99 (eBay)
+  Feb 21, 2026 - $0.99 (eBay)
+  Feb 28, 2026 - $12.00 (eBay)
+  Feb 7, 2026 - $1.50 (eBay)
+  Feb 22, 2026 - $10.00 (eBay)
+  Dec 4, 2025 - $1.69 (eBay)
+  Jan 7, 2026 - $1.00 (eBay)
+  Feb 14, 2026 - $5.00 (eBay)
+  Feb 23, 2026 - $2.00 (eBay)
+  Dec 27, 2025 - $41.00 (eBay)
+  Dec 15, 2025 - $0.99 (eBay)
+  Feb 23, 2026 - $4.99 (eBay)
+  Jan 4, 2026 - $0.99 (eBay)
+  Dec 3, 2025 - $0.98 (eBay)
+  Feb 10, 2026 - $1.25 (eBay)
+  Feb 18, 2026 - $111.00 (eBay)
+  Feb 26, 2026 - $40.00 (eBay, PSA 10)
+  Jan 19, 2026 - $1.50 (eBay)
+  Feb 23, 2026 - $3.99 (eBay)
+
+--- 130Point ---
+Market Value: $9.58
+Average Price: $9.58
+Range: $0.99 - $164.95
+Recent Sales:
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $2.99 (eBay)
+   - $1.50 (eBay)
+   - $2.99 (eBay)
+   - $78.00 (eBay)
+   - $154.15 (eBay, PSA 10)
+   - $23.00 (eBay)
+   - $76.05 (eBay)
+   - $17.99 (eBay)
+   - $18.00 (eBay)
+   - $2.54 (eBay)
+   - $1.65 (eBay)
+   - $1.99 (eBay)
+   - $2.99 (eBay)
+   - $4.50 (eBay)
+   - $164.95 (eBay)
+   - $4.76 (eBay)
+   - $16.99 (eBay)
+   - $10.00 (eBay)
+   - $14.00 (eBay)
+   - $18.00 (eBay)
+   - $4.25 (eBay)
+   - $2.13 (eBay)
+   - $4.00 (eBay)
+   - $16.50 (eBay)
+   - $17.50 (eBay)
+   - $17.50 (eBay)
+   - $3.99 (eBay)
+   - $4.25 (eBay)
+
+--- PSA ---
+Market Value: $16.44
+Average Price: $16.44
+Range: $4.25 - $44.00
+Recent Sales:
+  Jan 5, 2025 - $9.00 (eBay, 9)
+  Dec 23, 2024 - $11.50 (eBay, 9)
+  Dec 10, 2024 - $7.50 (eBay, 9)
+  Nov 1, 2024 - $4.25 (eBay, 9)
+  Oct 31, 2024 - $15.00 (eBay, 9)
+  Oct 28, 2024 - $42.00 (eBay, 10)
+  Oct 18, 2024 - $9.99 (eBay, 9)
+  Oct 14, 2024 - $10.50 (eBay, 9)
+  Oct 11, 2024 - $26.01 (eBay, 10)
+  Sep 20, 2024 - $44.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $9.75
+Low: $1.00
+High: $42.00

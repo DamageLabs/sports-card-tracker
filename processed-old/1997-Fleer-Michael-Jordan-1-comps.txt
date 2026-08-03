@@ -1,0 +1,62 @@
+Card: Michael Jordan 1997 Fleer #1
+Condition: 9: MINT
+Generated: 2026-05-04T23:12:23.253Z
+
+--- SportsCardsPro ---
+Market Value: $13.31
+Average Price: $13.31
+
+--- eBay ---
+Market Value: $260.75
+Average Price: $260.75
+Range: $174.47 - $1379.00
+Recent Sales:
+  Apr 29, 2026 - $500.00 (eBay, PSA 9)
+  Apr 9, 2026 - $217.00 (eBay, PSA 9)
+  Apr 6, 2026 - $225.00 (eBay, PSA 9)
+  Mar 4, 2026 - $224.99 (eBay, PSA 9)
+  Mar 3, 2026 - $199.99 (eBay, PSA 9)
+  Mar 2, 2026 - $200.00 (eBay, PSA 9)
+  Feb 14, 2026 - $174.47 (eBay, PSA 9)
+  Apr 6, 2026 - $199.99 (eBay, PSA 9)
+  Mar 12, 2026 - $1379.00 (eBay, PSA 9)
+  Apr 20, 2026 - $319.00 (eBay, PSA 9)
+
+--- MarketMovers ---
+Average Price: $1807.26
+Range: $61.01 - $13420.00
+Recent Sales:
+  2026-04-30 - $500.00 (nosm-3198)
+  2026-01-18 - $141.38 (dcsports87)
+  2026-01-10 - $149.95 (myoung8110)
+  2025-12-21 - $146.94 (dcsports87)
+  2025-06-12 - $61.01 (slabsharksinc)
+  2025-04-23 - $89.00 (dcsports87)
+  2025-03-25 - $87.00 (murozond)
+  2024-10-30 - $73.60 (dub_collects)
+  2024-10-13 - $80.00 (pc_pirate)
+  2024-10-07 - $12000.00 (Market Movers)
+  2024-08-21 - $79.74 (cmp2sportscards)
+  2024-02-28 - $109.99 (mrbbllc)
+  2023-12-31 - $13420.00 (Goldin Auctions)
+  2023-09-23 - $80.76 (omezi84_6)
+  2023-09-09 - $89.49 (omezi84_6)
+
+--- 130Point ---
+Market Value: $13420.00
+Average Price: $13420.00
+Range: $13420.00 - $13420.00
+Recent Sales:
+   - $13420.00 (Goldin)
+
+--- Aggregate ---
+Average: $294.12
+Low: $80.76
+High: $1379.00
+
+--- Population Report ---
+PSA 9 Pop: 421
+Total Graded: 1207
+Percentile: Top 38.94%
+Rarity Tier: high
+Pop-Adjusted Average: $290.59 (-1%)

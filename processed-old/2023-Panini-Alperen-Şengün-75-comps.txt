@@ -1,0 +1,74 @@
+Card: Alperen Şengün 2023 Panini #75
+Condition: RAW
+Generated: 2026-05-07T19:20:22.444Z
+
+--- SportsCardsPro ---
+Market Value: $1.85
+Average Price: $1.85
+
+--- eBay ---
+Market Value: $75.42
+Average Price: $75.42
+Range: $0.99 - $306.00
+Recent Sales:
+  Mar 20, 2026 - $10.25 (eBay)
+  Apr 5, 2026 - $24.99 (eBay)
+  May 5, 2026 - $1.99 (eBay)
+  Apr 24, 2026 - $20.00 (eBay)
+  Apr 27, 2026 - $0.99 (eBay)
+  Feb 10, 2026 - $75.00 (eBay)
+  Mar 4, 2026 - $30.00 (eBay)
+  Mar 3, 2026 - $83.90 (eBay, PSA 9)
+  Apr 26, 2026 - $4.99 (eBay)
+  Feb 6, 2026 - $249.99 (eBay)
+  Mar 9, 2026 - $130.00 (eBay)
+  Feb 16, 2026 - $139.99 (eBay)
+  Apr 26, 2026 - $306.00 (eBay, PSA 9)
+  Mar 4, 2026 - $130.27 (eBay)
+  Mar 9, 2026 - $52.00 (eBay)
+  Apr 26, 2026 - $35.80 (eBay)
+  Mar 2, 2026 - $139.95 (eBay)
+  Feb 6, 2026 - $143.80 (eBay, PSA 9)
+  Apr 8, 2026 - $300.00 (eBay, PSA 9)
+  Apr 17, 2026 - $39.99 (eBay)
+
+--- 130Point ---
+Market Value: $7.93
+Average Price: $7.93
+Range: $0.99 - $215.00
+Recent Sales:
+   - $3.50 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $23.01 (eBay)
+   - $2.07 (eBay)
+   - $3.01 (eBay)
+   - $1.99 (eBay)
+   - $3.00 (eBay)
+   - $8.50 (eBay)
+   - $163.50 (eBay, PSA 9)
+   - $1.44 (eBay)
+   - $48.00 (eBay, PSA 9)
+   - $215.00 (eBay)
+   - $45.60 (PWCC, PSA 10)
+   - $4.25 (eBay)
+   - $1.12 (eBay)
+   - $16.01 (eBay)
+   - $4.50 (eBay)
+   - $20.00 (eBay)
+   - $10.56 (eBay)
+   - $7.50 (eBay)
+   - $2.25 (eBay)
+   - $3.25 (eBay)
+   - $2.25 (eBay)
+   - $2.10 (eBay)
+   - $200.00 (eBay, PSA 9)
+   - $6.99 (eBay)
+
+--- Aggregate ---
+Average: $34.32
+Low: $0.99
+High: $215.00

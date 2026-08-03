@@ -1,0 +1,36 @@
+Card: Kenneth Walker III 0 Panini #
+Condition: RAW
+Generated: 2026-05-08T10:36:52.635Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $63.53
+Average Price: $63.53
+Range: $12.99 - $225.00
+Recent Sales:
+  Feb 10, 2026 - $90.00 (eBay)
+  Feb 8, 2026 - $99.99 (eBay)
+  Mar 23, 2026 - $65.00 (eBay)
+  May 4, 2026 - $39.95 (eBay)
+  Feb 12, 2026 - $129.99 (eBay)
+  Feb 19, 2026 - $104.50 (eBay)
+  Feb 8, 2026 - $124.99 (eBay)
+  Apr 4, 2026 - $200.00 (eBay)
+  Feb 8, 2026 - $33.00 (eBay)
+  May 4, 2026 - $47.00 (eBay)
+  Feb 8, 2026 - $29.99 (eBay)
+  Mar 13, 2026 - $50.00 (eBay)
+  Apr 1, 2026 - $29.99 (eBay)
+  Feb 23, 2026 - $75.00 (eBay)
+  Feb 8, 2026 - $30.00 (eBay)
+  Feb 8, 2026 - $40.00 (eBay)
+  Feb 8, 2026 - $39.99 (eBay)
+  Mar 17, 2026 - $225.00 (eBay)
+  Mar 21, 2026 - $49.99 (eBay)
+  May 7, 2026 - $12.99 (eBay)
+
+--- Aggregate ---
+Average: $57.73
+Low: $12.99
+High: $200.00

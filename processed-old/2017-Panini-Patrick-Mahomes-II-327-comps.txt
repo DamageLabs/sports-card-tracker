@@ -1,0 +1,47 @@
+Card: Patrick Mahomes II 2017 Panini #327
+Condition: 7: NEAR MINT
+Generated: 2026-05-21T13:00:41.604Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $197.36
+Average Price: $197.36
+Range: $163.05 - $349.99
+Recent Sales:
+  May 20, 2026 - $188.50 (eBay, PSA 7)
+  May 19, 2026 - $178.50 (eBay, PSA 7)
+  May 19, 2026 - $167.50 (eBay, PSA 7)
+  May 10, 2026 - $225.00 (eBay, PSA 7)
+  May 6, 2026 - $202.50 (eBay, PSA 7)
+  May 6, 2026 - $185.00 (eBay, PSA 7)
+  May 5, 2026 - $178.50 (eBay, PSA 7)
+  Apr 25, 2026 - $349.99 (eBay, PSA 7)
+  Apr 20, 2026 - $200.00 (eBay, PSA 7)
+  Apr 18, 2026 - $170.00 (eBay, PSA 7)
+  Apr 4, 2026 - $163.05 (eBay, PSA 7)
+  Mar 9, 2026 - $170.50 (eBay, PSA 7)
+  Feb 22, 2026 - $305.00 (eBay, PSA 7)
+
+--- 130Point ---
+Market Value: $189.35
+Average Price: $189.35
+Range: $100.00 - $305.00
+Recent Sales:
+   - $163.05 (eBay, PSA 7)
+   - $305.00 (eBay, PSA 7)
+   - $100.00 (MySlabs, PSA 7)
+
+--- Aggregate ---
+Average: $191.31
+Low: $163.05
+High: $305.00
+
+--- Population Report ---
+PSA 7 Pop: 3
+Total Graded: 193
+Percentile: Top 74.09%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $229.96 (+20%)

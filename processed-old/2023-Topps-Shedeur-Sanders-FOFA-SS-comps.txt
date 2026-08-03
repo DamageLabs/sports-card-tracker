@@ -1,0 +1,36 @@
+Card: Shedeur Sanders 2023 Topps #FOFA-SS
+Condition: 7: NEAR MINT
+Generated: 2026-03-02T01:06:58.499Z
+
+--- SportsCardsPro ---
+Market Value: $22.20
+Average Price: $22.20
+
+--- eBay ---
+Market Value: $85.50
+Average Price: $85.50
+Range: $71.00 - $99.99
+Recent Sales:
+  Jan 9, 2026 - $71.00 (eBay, PSA 7)
+  Jan 7, 2026 - $99.99 (eBay, PSA 7)
+
+--- 130Point ---
+Market Value: $62.00
+Average Price: $62.00
+Range: $15.00 - $99.99
+Recent Sales:
+   - $15.00 (eBay, PSA 7)
+   - $71.00 (eBay, PSA 7)
+   - $99.99 (eBay, PSA 7)
+
+--- Aggregate ---
+Average: $75.44
+Low: $15.00
+High: $99.99
+
+--- Population Report ---
+PSA 7 Pop: 1
+Total Graded: 18
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $94.31 (+25%)

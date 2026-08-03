@@ -1,0 +1,103 @@
+Card: Drake Maye 2024 Panini #329
+Condition: 9: MINT
+Generated: 2026-02-28T22:16:18.858Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $325.66
+Average Price: $325.66
+Range: $182.50 - $558.93
+Recent Sales:
+  Feb 8, 2026 - $182.50 (eBay, PSA 9)
+  Feb 8, 2026 - $204.27 (eBay, PSA 9)
+  Jan 29, 2026 - $327.00 (eBay, PSA 9)
+  Jan 28, 2026 - $324.99 (eBay, PSA 9)
+  Jan 24, 2026 - $399.00 (eBay, PSA 9)
+  Jan 17, 2026 - $323.00 (eBay, PSA 9)
+  Jan 12, 2026 - $272.00 (eBay, PSA 9)
+  Jan 12, 2026 - $265.00 (eBay, PSA 9)
+  Jan 10, 2026 - $294.00 (eBay, PSA 9)
+  Jan 6, 2026 - $350.00 (eBay, PSA 9)
+  Jan 4, 2026 - $315.00 (eBay, PSA 9)
+  Dec 30, 2025 - $450.00 (eBay, PSA 9)
+  Dec 30, 2025 - $350.00 (eBay, PSA 9)
+  Dec 28, 2025 - $350.00 (eBay, PSA 9)
+  Dec 22, 2025 - $265.00 (eBay, PSA 9)
+  Dec 15, 2025 - $558.93 (eBay, PSA 9)
+  Dec 7, 2025 - $399.99 (eBay, PSA 9)
+  Dec 4, 2025 - $299.99 (eBay, PSA 9)
+  Dec 2, 2025 - $350.00 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $768.78
+Average Price: $492.64
+Range: $270.00 - $850.00
+Recent Sales:
+  02/22/2026 - $765.00 (Card Ladder)
+  12/25/2025 - $850.00 (Card Ladder)
+  12/08/2025 - $707.77 (Card Ladder)
+  11/25/2025 - $596.87 (Card Ladder)
+  11/21/2025 - $560.00 (Card Ladder)
+  11/14/2025 - $800.00 (Card Ladder)
+  10/23/2025 - $500.00 (Card Ladder)
+  10/19/2025 - $400.00 (Card Ladder)
+  09/21/2025 - $270.00 (Card Ladder)
+  08/04/2025 - $340.00 (Card Ladder)
+  07/14/2025 - $299.00 (Card Ladder)
+  06/29/2025 - $330.00 (Card Ladder)
+  06/22/2025 - $330.00 (Card Ladder)
+  06/06/2025 - $305.00 (Card Ladder)
+  05/25/2025 - $336.00 (Card Ladder)
+
+--- MarketMovers ---
+Market Value: $7.05
+Average Price: $289.28
+Range: $182.50 - $425.00
+Recent Sales:
+  2026-02-09 - $182.50 (cardsproshop)
+  2026-02-09 - $204.27 (aturbyfill1)
+  2026-01-30 - $327.00 (hoodyscollectibles)
+  2026-01-24 - $320.00 (whoscrazy)
+  2026-01-18 - $323.00 (auctionbybjw)
+  2026-01-13 - $265.00 (masecardsssss)
+  2026-01-12 - $252.00 (PWCC)
+  2026-01-10 - $294.00 (kylesjones3123)
+  2026-01-04 - $315.00 (martin_k292)
+  2025-12-31 - $425.00 (harwellhits)
+  2025-12-28 - $300.00 (t-birdcards)
+  2025-12-22 - $265.00 (tuckcane)
+  2025-12-07 - $335.00 (nepa_sports_cards)
+  2025-12-04 - $299.99 (patti3236)
+  2025-11-24 - $231.50 (4_sharp_corners)
+
+--- 130Point ---
+Market Value: $292.72
+Average Price: $292.72
+Range: $120.31 - $558.93
+Recent Sales:
+   - $182.50 (eBay, PSA 9)
+   - $204.27 (eBay, PSA 9)
+   - $327.00 (eBay, PSA 9)
+   - $323.00 (eBay, PSA 9)
+   - $265.00 (eBay, PSA 9)
+   - $315.00 (eBay, PSA 9)
+   - $425.00 (eBay, PSA 9)
+   - $558.93 (eBay, PSA 9)
+   - $299.99 (eBay, PSA 9)
+   - $120.31 (Pristine, PSA 9)
+
+--- PSA ---
+Error: No PSA sales data found for: 2024 Panini Prizm Drake Maye #329 Black & White Checker
+
+--- Aggregate ---
+Average: $319.99
+Low: $182.50
+High: $560.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 2
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $399.99 (+25%)

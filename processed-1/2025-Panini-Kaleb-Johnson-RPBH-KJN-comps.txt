@@ -1,0 +1,20 @@
+Card: Kaleb Johnson 2025 Panini #RPBH-KJN
+Condition: RAW
+Generated: 2026-05-27T23:24:25.746Z
+
+--- SportsCardsPro ---
+
+--- 130Point ---
+Market Value: $0.99
+Average Price: $0.99
+Range: $0.99 - $0.99
+Recent Sales:
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $0.99
+Median: $0.99
+Low: $0.99
+High: $0.99
+Projected PSA 10 Median: $3.97
+Projected PSA 9 Median: $2.62

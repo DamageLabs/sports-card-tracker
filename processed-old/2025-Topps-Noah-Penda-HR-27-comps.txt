@@ -1,0 +1,45 @@
+Card: Noah Penda 2025 Topps #HR-27
+Condition: RAW
+Generated: 2026-05-07T19:15:16.319Z
+
+--- SportsCardsPro ---
+Market Value: $79.99
+Average Price: $79.99
+
+--- eBay ---
+Market Value: $2.60
+Average Price: $2.60
+Range: $0.99 - $165.00
+Recent Sales:
+  May 4, 2026 - $1.75 (eBay)
+  Mar 26, 2026 - $2.25 (eBay)
+  Apr 16, 2026 - $2.99 (eBay)
+  Mar 10, 2026 - $2.13 (eBay)
+  Mar 26, 2026 - $165.00 (eBay)
+  Apr 27, 2026 - $1.81 (eBay)
+  Apr 27, 2026 - $0.99 (eBay)
+  Apr 29, 2026 - $1.00 (eBay)
+  Feb 17, 2026 - $1.99 (eBay)
+  Apr 29, 2026 - $1.25 (eBay)
+  Feb 22, 2026 - $4.99 (eBay)
+  Mar 24, 2026 - $1.89 (eBay)
+  Feb 7, 2026 - $5.26 (eBay)
+  Mar 28, 2026 - $2.25 (eBay)
+  Mar 25, 2026 - $28.00 (eBay)
+
+--- 130Point ---
+Market Value: $1.87
+Average Price: $1.87
+Range: $1.00 - $101.00
+Recent Sales:
+   - $1.82 (eBay)
+   - $1.00 (eBay)
+   - $2.25 (eBay)
+   - $101.00 (eBay)
+   - $1.50 (eBay)
+   - $1.89 (eBay)
+
+--- Aggregate ---
+Average: $3.89
+Low: $0.99
+High: $101.00

@@ -1,0 +1,41 @@
+Card: Drake Maye 2024 Topps #CAE-DM
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:13:39.584Z
+
+--- SportsCardsPro ---
+Market Value: $49.00
+Average Price: $49.00
+
+--- eBay ---
+Market Value: $125.25
+Average Price: $125.25
+Range: $88.99 - $289.00
+Recent Sales:
+  May 12, 2026 - $88.99 (eBay, PSA 10)
+  May 9, 2026 - $175.00 (eBay, PSA 10)
+  May 8, 2026 - $155.50 (eBay, PSA 10)
+  May 20, 2026 - $289.00 (eBay, PSA 10)
+  Apr 17, 2026 - $116.00 (eBay, PSA 10)
+  Apr 3, 2026 - $110.00 (eBay, PSA 10)
+  Apr 16, 2026 - $105.00 (eBay, PSA 10)
+  May 9, 2026 - $89.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $183.75
+Average Price: $183.75
+Range: $112.50 - $255.00
+Recent Sales:
+   - $255.00 (eBay, PSA 10)
+   - $112.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $151.68
+Low: $88.99
+High: $289.00
+
+--- Population Report ---
+PSA 10 Pop: 156
+Total Graded: 240
+Percentile: Top 65%
+Rarity Tier: high
+Pop-Adjusted Average: $156.38 (+3%)

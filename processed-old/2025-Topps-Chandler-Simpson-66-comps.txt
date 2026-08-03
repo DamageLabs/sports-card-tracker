@@ -1,0 +1,72 @@
+Card: Chandler Simpson 2025 Topps #66
+Condition: RAW
+Generated: 2026-05-07T23:38:41.477Z
+
+--- SportsCardsPro ---
+Market Value: $2.92
+Average Price: $2.92
+
+--- eBay ---
+Market Value: $2.60
+Average Price: $2.60
+Range: $0.99 - $9.49
+Recent Sales:
+  May 7, 2026 - $3.99 (eBay)
+  May 5, 2026 - $2.00 (eBay)
+  May 4, 2026 - $1.25 (eBay)
+  May 4, 2026 - $1.75 (eBay)
+  May 2, 2026 - $3.00 (eBay)
+  May 1, 2026 - $0.99 (eBay)
+  May 1, 2026 - $4.00 (eBay)
+  Apr 29, 2026 - $5.02 (eBay)
+  Apr 29, 2026 - $7.49 (eBay)
+  Apr 29, 2026 - $1.75 (eBay)
+  Apr 27, 2026 - $0.99 (eBay)
+  Apr 26, 2026 - $9.49 (eBay)
+  Apr 26, 2026 - $2.25 (eBay)
+  Apr 25, 2026 - $3.38 (eBay)
+  Apr 25, 2026 - $2.25 (eBay)
+  Apr 24, 2026 - $0.99 (eBay)
+  Apr 24, 2026 - $1.50 (eBay)
+  Apr 23, 2026 - $3.25 (eBay)
+
+--- 130Point ---
+Market Value: $16.15
+Average Price: $16.15
+Range: $0.99 - $207.28
+Recent Sales:
+   - $28.00 (eBay)
+   - $72.00 (eBay)
+   - $25.00 (eBay)
+   - $4.00 (eBay)
+   - $2.85 (eBay)
+   - $31.00 (eBay)
+   - $16.50 (eBay)
+   - $20.18 (eBay)
+   - $25.00 (eBay)
+   - $14.99 (eBay)
+   - $14.09 (eBay)
+   - $30.00 (eBay)
+   - $15.00 (eBay)
+   - $0.99 (eBay)
+   - $16.00 (eBay)
+   - $14.99 (eBay)
+   - $1.00 (eBay)
+   - $207.28 (eBay)
+   - $20.00 (eBay)
+   - $20.50 (eBay)
+   - $11.61 (eBay)
+   - $15.00 (eBay)
+   - $19.27 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $10.00 (eBay)
+   - $14.00 (eBay)
+   - $2.75 (eBay)
+   - $15.50 (eBay)
+   - $37.00 (eBay)
+
+--- Aggregate ---
+Average: $10.35
+Low: $0.99
+High: $30.00

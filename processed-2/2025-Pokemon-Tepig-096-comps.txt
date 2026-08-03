@@ -1,0 +1,45 @@
+Card: Tepig 2025 Pokemon #096
+Condition: 10: GEM MINT
+Generated: 2026-06-01T22:36:19.252Z
+
+--- SportsCardsPro ---
+Market Value: $150.00
+Average Price: $150.00
+
+--- eBay ---
+Market Value: $305.74
+Average Price: $305.74
+Range: $50.00 - $499.95
+Recent Sales:
+  May 30, 2026 - $400.00 (eBay, PSA 10)
+  May 12, 2026 - $499.95 (eBay, PSA 10)
+  May 29, 2026 - $420.67 (eBay, PSA 10)
+  May 31, 2026 - $440.00 (eBay, PSA 10)
+  May 29, 2026 - $465.00 (eBay, PSA 10)
+  May 30, 2026 - $50.00 (eBay, PSA 10)
+  Mar 29, 2026 - $195.00 (eBay, PSA 10)
+  Mar 27, 2026 - $195.00 (eBay, PSA 10)
+  Mar 29, 2026 - $195.99 (eBay, PSA 10)
+  Apr 13, 2026 - $200.00 (eBay, PSA 10)
+  May 4, 2026 - $239.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $114.00
+Average Price: $114.00
+Range: $38.00 - $190.00
+Recent Sales:
+   - $190.00 (eBay, PSA 10)
+   - $38.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $306.61
+Median: $239.99
+Low: $38.00
+High: $465.00
+
+--- Population Report ---
+PSA 10 Pop: 253
+Total Graded: 1233
+Percentile: Top 20.52%
+Rarity Tier: high
+Pop-Adjusted Average: $309.67 (+1%)

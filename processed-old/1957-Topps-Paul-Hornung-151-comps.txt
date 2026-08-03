@@ -1,0 +1,62 @@
+Card: Paul Hornung 1957 Topps #151
+Condition: 5: EXCELLENT
+Generated: 2026-05-19T22:58:41.408Z
+
+--- SportsCardsPro ---
+Market Value: $10.31
+Average Price: $10.31
+
+--- eBay ---
+Market Value: $392.75
+Average Price: $392.75
+Range: $211.50 - $587.00
+Recent Sales:
+  May 7, 2026 - $587.00 (eBay, PSA 5)
+  Apr 30, 2026 - $450.00 (eBay, PSA 5)
+  Apr 5, 2026 - $380.00 (eBay, PSA 5)
+  Mar 29, 2026 - $211.50 (eBay, PSA 5)
+  Mar 12, 2026 - $449.99 (eBay, PSA 5)
+  Mar 1, 2026 - $290.99 (eBay, PSA 5)
+
+--- 130Point ---
+Market Value: $295.26
+Average Price: $295.26
+Range: $189.50 - $410.00
+Recent Sales:
+   - $380.00 (eBay, PSA 5)
+   - $211.50 (eBay, PSA 5)
+   - $324.00 (PWCC, PSA 5)
+   - $345.00 (Goldin, PSA 5)
+   - $348.00 (PWCC, PSA 5)
+   - $372.00 (PWCC, PSA 5)
+   - $300.00 (PWCC, PSA 5)
+   - $264.00 (PWCC, PSA 5)
+   - $360.00 (PWCC, PSA 5)
+   - $310.00 (PWCC, PSA 5)
+   - $380.00 (PWCC, PSA 5)
+   - $366.00 (PWCC, PSA 5)
+   - $346.01 (PWCC, PSA 5)
+   - $410.00 (PWCC, PSA 5)
+   - $283.00 (PWCC, PSA 5)
+   - $302.00 (PWCC, PSA 5)
+   - $194.44 (PWCC, PSA 5)
+   - $214.50 (PWCC, PSA 5)
+   - $238.50 (PWCC, PSA 5)
+   - $211.00 (PWCC, PSA 5)
+   - $228.50 (PWCC, PSA 5)
+   - $261.00 (PWCC, PSA 5)
+   - $211.00 (PWCC, PSA 5)
+   - $189.50 (PWCC, PSA 5)
+   - $325.00 (PWCC, PSA 5)
+
+--- Aggregate ---
+Average: $319.31
+Low: $211.00
+High: $450.00
+
+--- Population Report ---
+PSA 5 Pop: 7
+Total Graded: 104
+Percentile: Top 12.5%
+Rarity Tier: low
+Pop-Adjusted Average: $371.99 (+17%)

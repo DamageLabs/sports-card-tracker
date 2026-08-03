@@ -1,0 +1,42 @@
+Card: Sam Darnold 2018 Panini #3
+Condition: 9.5: MINT+
+Generated: 2026-05-19T23:14:34.515Z
+
+--- SportsCardsPro ---
+Market Value: $9.66
+Average Price: $9.66
+
+--- eBay ---
+Market Value: $386.00
+Average Price: $386.00
+Range: $135.50 - $975.00
+Recent Sales:
+  Apr 1, 2026 - $499.00 (eBay, BGS 9.5)
+  Apr 14, 2026 - $400.00 (eBay, BGS 9.5)
+  Apr 1, 2026 - $975.00 (eBay, BGS 9.5)
+  May 10, 2026 - $135.50 (eBay, BGS 9.5)
+  Feb 25, 2026 - $599.99 (eBay, BGS 9.5)
+  Feb 18, 2026 - $282.00 (eBay, BGS 9.5)
+  Feb 27, 2026 - $149.00 (eBay, BGS 9.5)
+
+--- 130Point ---
+Market Value: $334.64
+Average Price: $334.64
+Range: $32.94 - $3360.00
+Recent Sales:
+   - $325.00 (eBay, BGS 9.5)
+   - $450.00 (eBay, BGS 9.5)
+   - $875.00 (eBay, BGS 9.5)
+   - $209.99 (eBay, BGS 9.5)
+   - $305.00 (eBay, BGS 9.5)
+   - $353.81 (Pristine, BGS 9.5)
+   - $282.00 (eBay, BGS 9.5)
+   - $138.00 (PWCC, BGS 9.5)
+   - $32.94 (Pristine, BGS 9.5)
+   - $3360.00 (PWCC, BGS 9.5)
+   - $73.00 (PWCC, BGS 9.5)
+
+--- Aggregate ---
+Average: $341.40
+Low: $73.00
+High: $975.00

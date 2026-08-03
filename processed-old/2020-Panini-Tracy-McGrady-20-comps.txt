@@ -1,0 +1,65 @@
+Card: Tracy McGrady 2020 Panini #20
+Condition: 9: MINT
+Generated: 2026-02-28T23:42:57.843Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $164.31
+Average Price: $164.31
+Range: $42.99 - $350.00
+Recent Sales:
+  Dec 31, 2025 - $42.99 (eBay, PSA 9)
+  Dec 1, 2025 - $99.95 (eBay, PSA 10)
+  Dec 12, 2025 - $350.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2020 Panini Hoops Tracy McGrady 20
+
+--- MarketMovers ---
+Average Price: $31.49
+Range: $29.99 - $33.00
+Recent Sales:
+  2025-03-11 - $29.99 (hipejay)
+  2024-10-05 - $33.00 (dcsports87)
+
+--- 130Point ---
+Market Value: $52.32
+Average Price: $52.32
+Range: $40.95 - $66.00
+Recent Sales:
+   - $50.00 (eBay, PSA 9)
+   - $66.00 (eBay, PSA 9)
+   - $40.95 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $21.77
+Average Price: $21.77
+Range: $5.50 - $30.10
+Recent Sales:
+  Mar 4, 2025 - $16.50 (eBay, 9)
+  Sep 30, 2024 - $13.50 (eBay, 9)
+  Oct 25, 2023 - $15.73 (eBay, 9)
+  Dec 29, 2022 - $5.50 (eBay, 9)
+  Jan 4, 2022 - $21.00 (eBay, 9)
+  Sep 12, 2021 - $26.00 (eBay, 9)
+  Sep 12, 2021 - $24.00 (eBay, 9)
+  Sep 12, 2021 - $30.10 (eBay, 9)
+  Sep 12, 2021 - $26.00 (eBay, 9)
+  Sep 12, 2021 - $26.00 (eBay, 9)
+  Sep 12, 2021 - $23.00 (eBay, 9)
+  Sep 12, 2021 - $26.00 (eBay, 9)
+
+--- Aggregate ---
+Average: $33.86
+Low: $13.50
+High: $99.95
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $42.33 (+25%)

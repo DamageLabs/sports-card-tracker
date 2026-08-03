@@ -1,0 +1,72 @@
+Card: Barry Sanders 1989 Topps #83T
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:03:54.578Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $253.09
+Average Price: $253.09
+Range: $211.28 - $1700.00
+Recent Sales:
+  May 20, 2026 - $524.00 (eBay, PSA 10)
+  May 19, 2026 - $225.44 (eBay, PSA 10)
+  May 18, 2026 - $299.00 (eBay, PSA 10)
+  May 17, 2026 - $399.99 (eBay, PSA 10)
+  May 17, 2026 - $275.00 (eBay, PSA 10)
+  May 17, 2026 - $239.00 (eBay, PSA 10)
+  May 17, 2026 - $239.00 (eBay, PSA 10)
+  May 17, 2026 - $229.99 (eBay, PSA 10)
+  May 17, 2026 - $219.99 (eBay, PSA 10)
+  May 17, 2026 - $211.28 (eBay, PSA 10)
+  May 17, 2026 - $213.50 (eBay, PSA 10)
+  May 17, 2026 - $229.99 (eBay, PSA 10)
+  May 15, 2026 - $1700.00 (eBay, PSA 10)
+  May 15, 2026 - $225.00 (eBay, PSA 10)
+  May 15, 2026 - $239.99 (eBay, PSA 10)
+  May 15, 2026 - $224.99 (eBay, PSA 10)
+  May 14, 2026 - $305.00 (eBay, PSA 10)
+  May 12, 2026 - $219.99 (eBay, PSA 10)
+  May 12, 2026 - $223.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $204.25
+Average Price: $204.25
+Range: $170.00 - $2000.00
+Recent Sales:
+   - $200.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $205.50 (eBay, PSA 10)
+   - $190.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $203.50 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $199.00 (eBay, PSA 10)
+   - $202.50 (eBay, PSA 10)
+   - $203.50 (eBay, PSA 10)
+   - $2000.00 (eBay, PSA 10)
+   - $185.50 (eBay, PSA 10)
+   - $1550.00 (eBay, PSA 10)
+   - $187.50 (eBay, PSA 10)
+   - $1302.00 (eBay, PSA 10)
+   - $225.00 (eBay, PSA 10)
+   - $222.50 (eBay, PSA 10)
+   - $222.50 (eBay, PSA 10)
+   - $196.50 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $210.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $267.36
+Low: $187.50
+High: $1302.00
+
+--- Population Report ---
+PSA 10 Pop: 336
+Total Graded: 1027
+Percentile: Top 32.72%
+Rarity Tier: high
+Pop-Adjusted Average: $266.56 (+0%)

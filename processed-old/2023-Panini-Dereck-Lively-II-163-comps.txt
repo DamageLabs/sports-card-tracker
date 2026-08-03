@@ -1,0 +1,62 @@
+Card: Dereck Lively II 2023 Panini #163
+Condition: 10: GEM MINT
+Generated: 2026-02-28T23:44:11.923Z
+
+--- SportsCardsPro ---
+Market Value: $11.75
+Average Price: $11.75
+
+--- eBay ---
+Market Value: $43.99
+Average Price: $43.99
+Range: $16.00 - $127.50
+Recent Sales:
+  Jan 23, 2026 - $34.99 (eBay, PSA 10)
+  Feb 26, 2026 - $69.99 (eBay, PSA 10)
+  Feb 27, 2026 - $45.00 (eBay, PSA 10)
+  Dec 27, 2025 - $29.99 (eBay, PSA 10)
+  Jan 15, 2026 - $36.00 (eBay, PSA 10)
+  Dec 9, 2025 - $127.50 (eBay, PSA 10)
+  Jan 26, 2026 - $59.99 (eBay, PSA 10)
+  Jan 15, 2026 - $49.95 (eBay, PSA 10)
+  Dec 12, 2025 - $30.00 (eBay, PSA 10)
+  Dec 9, 2025 - $39.99 (eBay, PSA 10)
+  Dec 22, 2025 - $16.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2023 Panini Prizm Dereck Lively II 163
+
+--- MarketMovers ---
+Average Price: $56.08
+Range: $21.50 - $132.50
+Recent Sales:
+  2026-01-23 - $34.99 (dgcardsales)
+  2025-11-18 - $41.18 (psa)
+  2025-07-23 - $30.00 (CardsHQ)
+  2025-04-13 - $41.00 (dcsports87)
+  2025-03-14 - $21.50 (psa)
+  2025-01-16 - $36.00 (psa)
+  2024-10-10 - $84.95 (Market Movers)
+  2024-10-01 - $92.00 (carabao)
+  2024-09-22 - $42.00 (PWCC)
+  2024-09-21 - $51.00 (psa)
+  2024-07-01 - $51.00 (probstein123)
+  2024-06-05 - $132.50 (hcards112)
+  2024-05-30 - $71.00 (hobbyhouse23)
+  2024-05-20 - $66.11 (amelle91)
+  2024-04-08 - $46.00 (hoodyscollectibles)
+
+--- 130Point ---
+Market Value: $29.99
+Average Price: $29.99
+Range: $29.99 - $29.99
+Recent Sales:
+   - $29.99 (eBay, PSA 10)
+
+--- PSA ---
+Error: No PSA sales data found for: 2023 Panini Prizm Dereck Lively II #163 Ruby Wave
+
+--- Aggregate ---
+Average: $48.32
+Low: $29.99
+High: $71.00

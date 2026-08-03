@@ -1,0 +1,58 @@
+Card: Jayden Daniels 2024 Panini #16
+Condition: 9: MINT
+Generated: 2026-05-21T05:19:11.130Z
+
+--- SportsCardsPro ---
+Market Value: $7.00
+Average Price: $7.00
+
+--- eBay ---
+Market Value: $869.85
+Average Price: $869.85
+Range: $700.00 - $1100.00
+Recent Sales:
+  May 19, 2026 - $899.99 (eBay, PSA 9)
+  May 18, 2026 - $866.50 (eBay, PSA 9)
+  May 2, 2026 - $1100.00 (eBay, PSA 9)
+  Apr 27, 2026 - $879.00 (eBay, PSA 9)
+  Apr 23, 2026 - $1045.00 (eBay, PSA 9)
+  Apr 23, 2026 - $899.99 (eBay, PSA 9)
+  Apr 22, 2026 - $854.00 (eBay, PSA 9)
+  Apr 19, 2026 - $850.00 (eBay, PSA 9)
+  Apr 23, 2026 - $800.00 (eBay, PSA 9)
+  May 19, 2026 - $725.00 (eBay, PSA 9)
+  May 15, 2026 - $899.00 (eBay, PSA 9)
+  Mar 23, 2026 - $799.99 (eBay, PSA 9)
+  May 1, 2026 - $950.00 (eBay, PSA 9)
+  Feb 22, 2026 - $700.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $34.69
+Average Price: $34.69
+Range: $13.55 - $1105.65
+Recent Sales:
+   - $51.60 (Pristine, PSA 9)
+   - $41.77 (Pristine, PSA 9)
+   - $37.44 (Pristine, PSA 9)
+   - $43.30 (Pristine, PSA 9)
+   - $13.55 (Pristine, PSA 9)
+   - $39.31 (Pristine, PSA 9)
+   - $59.67 (Pristine, PSA 9)
+   - $21.47 (Pristine, PSA 9)
+   - $27.03 (Pristine, PSA 9)
+   - $1105.65 (Pristine, PSA 9)
+   - $20.00 (Pristine, PSA 9)
+   - $20.00 (eBay, PSA 9)
+   - $19.99 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $555.34
+Low: $20.00
+High: $1045.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 5
+Percentile: Top 60%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $694.17 (+25%)

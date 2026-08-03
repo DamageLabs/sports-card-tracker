@@ -1,0 +1,51 @@
+Card: Jonny DeLuca 2024 Topps #BRES-JD
+Condition: RAW
+Generated: 2026-05-26T18:38:34.950Z
+
+--- SportsCardsPro ---
+Market Value: $40.00
+Average Price: $40.00
+
+--- 130Point ---
+Market Value: $34.30
+Average Price: $34.30
+Range: $1.17 - $466.83
+Recent Sales:
+   - $380.25 (Pristine)
+   - $245.70 (Pristine)
+   - $46.68 (Pristine, BGS 8.5)
+   - $58.50 (Pristine)
+   - $466.83 (Pristine, PSA 10)
+   - $3.69 (Pristine)
+   - $6.14 (Pristine)
+   - $6.49 (Pristine)
+   - $17.55 (Pristine)
+   - $20.88 (Pristine, PSA 10)
+   - $4.91 (Pristine)
+   - $2.46 (Pristine)
+   - $3.69 (Pristine)
+   - $1.17 (Pristine)
+   - $4.91 (Pristine)
+   - $12.29 (Pristine)
+   - $12.29 (Pristine)
+   - $6.14 (Pristine)
+   - $2.46 (Pristine)
+   - $29.25 (Pristine)
+   - $18.43 (Pristine)
+   - $119.34 (Pristine)
+   - $88.03 (Pristine)
+   - $121.62 (Pristine)
+   - $87.75 (Pristine)
+   - $43.29 (Pristine)
+   - $51.60 (Pristine)
+   - $65.02 (Pristine)
+   - $45.24 (Pristine)
+   - $6.14 (Pristine)
+
+--- Aggregate ---
+Average: $36.66
+Median: $19.66
+Low: $2.46
+High: $245.70
+Projected PSA 10 Median: $30.00
+Projected PSA 9 Median: $17.95

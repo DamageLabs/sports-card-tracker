@@ -1,0 +1,66 @@
+Card: Justin Verlander 2024 Topps #CAE-12
+Condition: 9: MINT
+Generated: 2026-03-01T00:20:55.647Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $159.50
+Average Price: $159.50
+Range: $8.50 - $449.99
+Recent Sales:
+  Feb 11, 2026 - $449.99 (eBay, PSA 9)
+  Jan 15, 2026 - $20.00 (eBay, PSA 9)
+  Jan 4, 2026 - $8.50 (eBay, PSA 9)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2024 Topps Chrome Justin Verlander CAE-12
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Topps Chrome Justin Verlander #CAE-12 All Etch-Black Refractor PSA 9
+
+--- 130Point ---
+Market Value: $47.46
+Average Price: $47.46
+Range: $8.50 - $155.00
+Recent Sales:
+   - $20.50 (eBay, PSA 9)
+   - $19.99 (eBay, PSA 9)
+   - $15.01 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $47.91 (Pristine, PSA 9)
+   - $95.00 (eBay, PSA 9)
+   - $94.00 (eBay, PSA 9)
+   - $27.00 (eBay, PSA 9)
+   - $34.99 (eBay, PSA 9)
+   - $100.00 (eBay, PSA 9)
+   - $26.00 (eBay, PSA 9)
+   - $16.27 (eBay, PSA 9)
+   - $36.00 (eBay, PSA 9)
+   - $149.00 (eBay, PSA 9)
+   - $32.00 (eBay, PSA 9)
+   - $113.50 (eBay, PSA 9)
+   - $155.00 (eBay, PSA 9)
+   - $8.50 (eBay, PSA 9)
+   - $21.00 (eBay, PSA 9)
+   - $17.50 (eBay, PSA 9)
+   - $110.00 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $21.50
+Average Price: $21.50
+Range: $21.50 - $21.50
+Recent Sales:
+  Nov 3, 2024 - $21.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $54.65
+Low: $15.01
+High: $155.00
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 14
+Percentile: Top 78.57%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $66.67 (+22%)

@@ -1,0 +1,49 @@
+Card: Bucky Irving 2024 Topps #RFA-M
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:07:41.205Z
+
+--- SportsCardsPro ---
+Market Value: $6.37
+Average Price: $6.37
+
+--- eBay ---
+Market Value: $95.50
+Average Price: $95.50
+Range: $50.00 - $150.00
+Recent Sales:
+  Mar 20, 2026 - $125.00 (eBay, PSA 10)
+  May 20, 2026 - $88.00 (eBay, PSA 10)
+  Apr 13, 2026 - $50.00 (eBay, PSA 10)
+  Apr 16, 2026 - $99.00 (eBay, PSA 10)
+  Apr 10, 2026 - $69.99 (eBay, PSA 10)
+  May 5, 2026 - $150.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $74.85
+Average Price: $74.85
+Range: $14.50 - $240.00
+Recent Sales:
+   - $50.00 (eBay, PSA 10)
+   - $14.50 (eBay, PSA 10)
+   - $89.00 (eBay, PSA 10)
+   - $69.99 (eBay, PSA 10)
+   - $35.00 (eBay, PSA 10)
+   - $90.00 (eBay, PSA 10)
+   - $76.05 (Pristine, PSA 10)
+   - $110.40 (PWCC, PSA 10)
+   - $148.65 (Pristine, PSA 10)
+   - $44.40 (PWCC, PSA 10)
+   - $35.00 (PWCC, PSA 10)
+   - $240.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $84.69
+Low: $35.00
+High: $150.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $105.86 (+25%)

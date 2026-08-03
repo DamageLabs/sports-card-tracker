@@ -1,0 +1,27 @@
+Card: J.J. McCarthy 2024 Panini #RPB-JMY
+Condition: RAW
+Generated: 2026-05-26T17:23:44.475Z
+
+--- SportsCardsPro ---
+Market Value: $1.85
+Average Price: $1.85
+
+--- 130Point ---
+Market Value: $5.26
+Average Price: $5.26
+Range: $0.99 - $23.40
+Recent Sales:
+   - $23.40 (Pristine)
+   - $0.99 (eBay)
+   - $3.00 (eBay)
+   - $3.99 (eBay)
+   - $3.00 (eBay)
+   - $11.03 (eBay, SGC 9)
+
+--- Aggregate ---
+Average: $6.41
+Median: $3.50
+Low: $0.99
+High: $23.40
+Projected PSA 10 Median: $45.20
+Projected PSA 9 Median: $16.50

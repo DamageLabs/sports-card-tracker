@@ -1,0 +1,46 @@
+Card: Buster Posey 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-09T03:11:48.557Z
+
+--- SportsCardsPro ---
+Market Value: $12.90
+Average Price: $12.90
+
+--- eBay ---
+Market Value: $149.21
+Average Price: $149.21
+Range: $61.00 - $299.99
+Recent Sales:
+  Apr 15, 2026 - $175.00 (eBay)
+  Apr 9, 2026 - $299.99 (eBay)
+  May 8, 2026 - $299.00 (eBay)
+  Feb 12, 2026 - $80.00 (eBay)
+  Mar 17, 2026 - $69.99 (eBay)
+  Apr 8, 2026 - $61.00 (eBay)
+  Apr 21, 2026 - $125.50 (eBay)
+  Mar 26, 2026 - $94.99 (eBay)
+  Feb 15, 2026 - $199.99 (eBay)
+
+--- 130Point ---
+Market Value: $573.72
+Average Price: $573.72
+Range: $149.99 - $1749.15
+Recent Sales:
+   - $175.00 (eBay)
+   - $350.00 (eBay, PSA 9)
+   - $180.00 (eBay)
+   - $399.26 (Pristine)
+   - $1632.15 (Pristine)
+   - $402.07 (Pristine)
+   - $149.99 (eBay)
+   - $272.73 (Pristine)
+   - $399.57 (Pristine)
+   - $1749.15 (Pristine)
+   - $1749.15 (Pristine)
+   - $450.00 (PWCC)
+   - $300.98 (Pristine)
+
+--- Aggregate ---
+Average: $323.20
+Low: $94.99
+High: $1632.15

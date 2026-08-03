@@ -1,0 +1,67 @@
+Card: Jonny DeLuca 2024 Topps #BRES-JD
+Condition: RAW
+Generated: 2026-03-01T19:01:20.424Z
+
+--- SportsCardsPro ---
+Market Value: $40.00
+Average Price: $40.00
+
+--- eBay ---
+Market Value: $3.93
+Average Price: $3.93
+Range: $0.99 - $24.95
+Recent Sales:
+  Feb 23, 2026 - $5.50 (eBay)
+  Jan 11, 2026 - $3.79 (eBay)
+  Feb 7, 2026 - $4.50 (eBay)
+  Jan 4, 2026 - $3.00 (eBay)
+  Jan 28, 2026 - $5.00 (eBay)
+  Jan 15, 2026 - $5.00 (eBay)
+  Jan 15, 2026 - $5.00 (eBay)
+  Feb 25, 2026 - $24.95 (eBay)
+  Dec 8, 2025 - $6.00 (eBay)
+  Feb 14, 2026 - $2.25 (eBay)
+  Dec 26, 2025 - $2.00 (eBay)
+  Jan 11, 2026 - $5.99 (eBay)
+  Dec 28, 2025 - $1.29 (eBay)
+  Jan 1, 2026 - $3.00 (eBay)
+  Jan 21, 2026 - $1.50 (eBay)
+  Feb 23, 2026 - $2.29 (eBay)
+  Feb 25, 2026 - $4.99 (eBay)
+  Feb 27, 2026 - $20.00 (eBay)
+  Dec 11, 2025 - $2.75 (eBay)
+  Jan 9, 2026 - $0.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $4.78
+Range: $2.76 - $9.00
+Recent Sales:
+  2026-02-24 - $5.50 (leoscardshop)
+  2026-01-11 - $3.79 (naples_cardworks)
+  2025-10-22 - $5.00 (robs_cards1)
+  2025-08-28 - $3.25 (Market Movers)
+  2025-08-15 - $9.00 (Market Movers)
+  2025-08-08 - $3.99 (Market Movers)
+  2025-07-30 - $6.49 (Market Movers)
+  2025-07-11 - $3.25 (pokecolor_official)
+  2025-07-09 - $2.76 (gecards_shop)
+
+--- 130Point ---
+Market Value: $4.64
+Average Price: $4.64
+Range: $3.79 - $5.50
+Recent Sales:
+   - $5.50 (eBay)
+   - $3.79 (eBay)
+
+--- PSA ---
+Market Value: $15.50
+Average Price: $15.50
+Range: $15.50 - $15.50
+Recent Sales:
+  Jun 2, 2024 - $15.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $5.58
+Low: $2.25
+High: $20.00

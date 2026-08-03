@@ -1,0 +1,49 @@
+Card: Trea Turner 2024 Topps #TMS2-17
+Condition: 9: MINT
+Generated: 2026-03-01T00:22:36.084Z
+
+--- SportsCardsPro ---
+Market Value: $3.25
+Average Price: $3.25
+
+--- eBay ---
+Market Value: $24.44
+Average Price: $24.44
+Range: $4.99 - $43.89
+Recent Sales:
+  Jan 24, 2026 - $4.99 (eBay, PSA 9)
+  Jan 18, 2026 - $43.89 (eBay, PSA 9)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2024 Topps Mega Star Trea Turner TMS2-17
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Topps Mega Star Trea Turner #TMS2-17 Red Foil PSA 9
+
+--- 130Point ---
+Market Value: $20.95
+Average Price: $20.95
+Range: $4.00 - $43.89
+Recent Sales:
+   - $43.89 (eBay, PSA 9)
+   - $4.00 (eBay)
+   - $14.95 (eBay)
+
+--- PSA ---
+Market Value: $43.00
+Average Price: $43.00
+Range: $43.00 - $43.00
+Recent Sales:
+  Aug 10, 2024 - $43.00 (eBay, 8)
+
+--- Aggregate ---
+Average: $23.85
+Low: $4.00
+High: $43.89
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $29.81 (+25%)

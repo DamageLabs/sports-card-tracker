@@ -1,0 +1,34 @@
+Card: Tua Tagovailoa 2020 Panini #103
+Condition: 9.5: MINT+
+Generated: 2026-05-29T17:32:11.917Z
+
+--- SportsCardsPro ---
+Market Value: $4.80
+Average Price: $4.80
+
+--- eBay ---
+Market Value: $283.33
+Average Price: $283.33
+Range: $225.00 - $349.99
+Recent Sales:
+  Mar 19, 2026 - $275.00 (eBay, BGS 7.5)
+  Mar 14, 2026 - $349.99 (eBay, BGS 9.5)
+  Mar 19, 2026 - $225.00 (eBay, BGS 8.5)
+
+--- 130Point ---
+Market Value: $42.91
+Average Price: $42.91
+Range: $11.50 - $184.99
+Recent Sales:
+   - $184.99 (eBay, BGS 9.5)
+   - $11.50 (eBay, BGS 9.5)
+   - $113.50 (eBay, BGS 9.5)
+   - $17.06 (Pristine, BGS 9.5)
+   - $18.97 (Pristine, BGS 9.5)
+   - $22.11 (Pristine, BGS 9.5)
+
+--- Aggregate ---
+Average: $130.60
+Median: $113.50
+Low: $11.50
+High: $349.99

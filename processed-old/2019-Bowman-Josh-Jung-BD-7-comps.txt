@@ -1,0 +1,77 @@
+Card: Josh Jung 2019 Bowman #BD-7
+Condition: 8.5: NEAR MINT-MINT+
+Generated: 2026-03-01T03:02:50.776Z
+
+--- SportsCardsPro ---
+Market Value: $8.02
+Average Price: $8.02
+
+--- eBay ---
+Market Value: $18.10
+Average Price: $18.10
+Range: $1.49 - $130.00
+Recent Sales:
+  Jan 22, 2026 - $1.49 (eBay)
+  Jan 29, 2026 - $9.95 (eBay, SGC 10)
+  Feb 27, 2026 - $15.00 (eBay, PSA 10)
+  Jan 22, 2026 - $1.79 (eBay)
+  Jan 21, 2026 - $4.00 (eBay)
+  Feb 3, 2026 - $25.00 (eBay, PSA 10)
+  Feb 26, 2026 - $59.99 (eBay, PSA Auth)
+  Feb 21, 2026 - $130.00 (eBay)
+  Feb 13, 2026 - $1.79 (eBay)
+  Feb 13, 2026 - $59.99 (eBay, SGC 10)
+  Jan 18, 2026 - $1.99 (eBay, BGS 9)
+  Feb 17, 2026 - $55.00 (eBay)
+  Feb 12, 2026 - $16.19 (eBay, PSA 10)
+  Dec 24, 2025 - $8.00 (eBay, SGC 10)
+  Jan 24, 2026 - $1.99 (eBay)
+  Feb 12, 2026 - $3.00 (eBay)
+  Feb 15, 2026 - $24.99 (eBay)
+  Dec 19, 2025 - $80.00 (eBay, PSA 10)
+  Jan 28, 2026 - $17.49 (eBay, PSA 10)
+  Jan 18, 2026 - $10.75 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2019 Bowman Draft Josh Jung BD-7
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2019 Bowman Draft Josh Jung #BD-7 CGC 8.5
+
+--- 130Point ---
+Market Value: $8.69
+Average Price: $8.69
+Range: $0.99 - $100.00
+Recent Sales:
+   - $4.25 (eBay)
+   - $0.99 (eBay)
+   - $57.86 (eBay, BGS 9.5)
+   - $100.00 (eBay, BGS 9.5)
+   - $1.00 (eBay)
+   - $20.00 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $59.99 (eBay, SGC 10)
+   - $2.25 (eBay, SGC 9)
+   - $23.50 (eBay, PSA 10)
+   - $0.99 (eBay)
+   - $30.00 (eBay, SGC 9.5)
+   - $9.95 (eBay, SGC 10)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $1.99 (eBay)
+   - $16.00 (eBay, PSA 10)
+   - $1.42 (eBay)
+   - $1.79 (eBay)
+   - $30.00 (eBay, SGC 9.5)
+   - $30.00 (eBay, SGC 9.5)
+   - $3.50 (eBay)
+   - $5.00 (eBay)
+   - $5.00 (eBay)
+   - $2.99 (eBay)
+   - $4.00 (eBay)
+
+--- Aggregate ---
+Average: $16.64
+Low: $0.99
+High: $59.99

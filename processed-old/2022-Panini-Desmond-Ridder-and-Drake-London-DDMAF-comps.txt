@@ -1,0 +1,35 @@
+Card: Desmond Ridder and Drake London 2022 Panini #DDMAF
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-21T13:05:45.179Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $55.66
+Average Price: $55.66
+Range: $43.00 - $79.99
+Recent Sales:
+  Apr 14, 2026 - $43.00 (eBay, PSA 8)
+  Mar 9, 2026 - $52.00 (eBay, PSA 8)
+  May 14, 2026 - $49.99 (eBay, PSA 8)
+  Apr 16, 2026 - $79.99 (eBay, PSA 8)
+  Mar 28, 2026 - $65.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $54.90
+Average Price: $54.90
+Range: $54.90 - $54.90
+Recent Sales:
+   - $54.90 (Goldin)
+
+--- Aggregate ---
+Average: $55.30
+Low: $43.00
+High: $79.99
+
+--- Population Report ---
+PSA 8 Pop: 0
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $69.13 (+25%)

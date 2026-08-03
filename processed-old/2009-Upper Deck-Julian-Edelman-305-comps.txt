@@ -1,0 +1,56 @@
+Card: Julian Edelman 2009 Upper Deck #305
+Condition: 9: MINT
+Generated: 2026-05-21T05:26:41.628Z
+
+--- SportsCardsPro ---
+Market Value: $25.08
+Average Price: $25.08
+
+--- eBay ---
+Market Value: $194.99
+Average Price: $194.99
+Range: $109.99 - $380.00
+Recent Sales:
+  Apr 14, 2026 - $109.99 (eBay, PSA 9)
+  Apr 21, 2026 - $139.99 (eBay, PSA 9)
+  May 5, 2026 - $149.99 (eBay, PSA 9)
+  Apr 3, 2026 - $380.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $206.26
+Average Price: $206.26
+Range: $22.50 - $2499.99
+Recent Sales:
+   - $2499.99 (eBay, PSA 9)
+   - $51.28 (eBay, PSA 9)
+   - $117.50 (eBay, PSA 9)
+   - $725.00 (eBay, PSA 9)
+   - $49.75 (eBay, PSA 9)
+   - $89.65 (eBay, PSA 9)
+   - $99.99 (eBay, PSA 9)
+   - $25.25 (eBay, PSA 9)
+   - $475.00 (eBay, PSA 9)
+   - $550.00 (eBay, PSA 9)
+   - $150.26 (eBay, PSA 9)
+   - $87.00 (eBay, PSA 9)
+   - $949.00 (eBay, PSA 9)
+   - $22.50 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $45.00 (eBay, PSA 9)
+   - $400.00 (eBay, PSA 9)
+   - $700.00 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+   - $49.00 (eBay, PSA 9)
+   - $194.40 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $206.92
+Low: $30.00
+High: $725.00
+
+--- Population Report ---
+PSA 9 Pop: 11
+Total Graded: 15
+Percentile: Top 86.67%
+Rarity Tier: low
+Pop-Adjusted Average: $237.13 (+15%)

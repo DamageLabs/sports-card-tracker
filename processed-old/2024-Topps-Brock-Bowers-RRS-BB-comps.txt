@@ -1,0 +1,46 @@
+Card: Brock Bowers 2024 Topps #RRS-BB
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:05:47.569Z
+
+--- SportsCardsPro ---
+Market Value: $3.49
+Average Price: $3.49
+
+--- eBay ---
+Market Value: $215.42
+Average Price: $215.42
+Range: $49.49 - $350.00
+Recent Sales:
+  May 20, 2026 - $275.00 (eBay, PSA 10)
+  Feb 23, 2026 - $145.00 (eBay, PSA 10)
+  May 19, 2026 - $230.00 (eBay, PSA 10)
+  Mar 28, 2026 - $350.00 (eBay, PSA 10)
+  Apr 25, 2026 - $49.49 (eBay, PSA 10)
+  May 20, 2026 - $207.50 (eBay, PSA 10)
+  Apr 26, 2026 - $160.00 (eBay, PSA 10)
+  May 2, 2026 - $275.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $104.62
+Average Price: $104.62
+Range: $23.00 - $164.49
+Recent Sales:
+   - $111.15 (Pristine, PSA 10)
+   - $83.07 (Pristine, PSA 10)
+   - $23.00 (eBay, PSA 10)
+   - $51.88 (eBay, PSA 10)
+   - $132.50 (eBay, PSA 10)
+   - $164.49 (eBay, PSA 10)
+   - $144.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $168.09
+Low: $49.49
+High: $275.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $210.11 (+25%)

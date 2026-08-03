@@ -1,0 +1,55 @@
+Card: Drake Maye 2024 Panini #218
+Condition: 9: MINT
+Generated: 2026-05-21T05:14:31.869Z
+
+--- SportsCardsPro ---
+Market Value: $14.50
+Average Price: $14.50
+
+--- eBay ---
+Market Value: $126.31
+Average Price: $126.31
+Range: $41.99 - $265.00
+Recent Sales:
+  Apr 29, 2026 - $177.50 (eBay, PSA 9)
+  Apr 18, 2026 - $265.00 (eBay, PSA 9)
+  Mar 4, 2026 - $105.00 (eBay, PSA 9)
+  Mar 24, 2026 - $249.99 (eBay, PSA 9)
+  May 13, 2026 - $59.99 (eBay, PSA 9)
+  Apr 24, 2026 - $41.99 (eBay, PSA 9)
+  Apr 12, 2026 - $52.00 (eBay, PSA 9)
+  May 20, 2026 - $54.99 (eBay, PSA 9)
+  May 19, 2026 - $208.00 (eBay, PSA 9)
+  May 20, 2026 - $249.99 (eBay, PSA 9)
+  May 6, 2026 - $159.99 (eBay, PSA 9)
+  May 10, 2026 - $195.00 (eBay, PSA 9)
+  May 19, 2026 - $44.79 (eBay, PSA 9)
+  Apr 1, 2026 - $70.00 (eBay, PSA 9)
+  May 10, 2026 - $56.99 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $81.37
+Average Price: $81.37
+Range: $44.23 - $975.00
+Recent Sales:
+   - $55.28 (Pristine, PSA 9)
+   - $52.66 (Pristine, PSA 9)
+   - $53.82 (Pristine, PSA 9)
+   - $79.85 (Pristine, PSA 9)
+   - $44.46 (Pristine, PSA 9)
+   - $44.23 (Pristine, PSA 9)
+   - $193.52 (eBay, PSA 9)
+   - $975.00 (eBay, PSA 9)
+   - $90.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $110.64
+Low: $44.46
+High: $249.99
+
+--- Population Report ---
+PSA 9 Pop: 32
+Total Graded: 68
+Percentile: Top 86.76%
+Rarity Tier: medium
+Pop-Adjusted Average: $121.59 (+10%)

@@ -1,0 +1,99 @@
+Card: Saquon Barkley 2018 Panini #156
+Condition: 9: MINT
+Generated: 2026-03-02T04:15:20.357Z
+
+--- SportsCardsPro ---
+Market Value: $83.95
+Average Price: $83.95
+
+--- eBay ---
+Market Value: $70.45
+Average Price: $70.45
+Range: $31.01 - $350.00
+Recent Sales:
+  Feb 26, 2026 - $88.00 (eBay, PSA 9)
+  Feb 24, 2026 - $350.00 (eBay, PSA 9)
+  Feb 23, 2026 - $31.01 (eBay, PSA 9)
+  Feb 22, 2026 - $100.00 (eBay, PSA 9)
+  Feb 2, 2026 - $89.99 (eBay, PSA 9)
+  Jan 31, 2026 - $43.99 (eBay, PSA 9)
+  Jan 26, 2026 - $50.00 (eBay, PSA 9)
+  Jan 15, 2026 - $102.50 (eBay, PSA 9)
+  Jan 3, 2026 - $45.00 (eBay, PSA 9)
+  Dec 28, 2025 - $50.57 (eBay, PSA 9)
+  Dec 21, 2025 - $50.00 (eBay, PSA 9)
+  Dec 12, 2025 - $79.95 (eBay, PSA 9)
+  Dec 11, 2025 - $84.95 (eBay, PSA 9)
+  Mar 1, 2026 - $66.00 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $29.96
+Average Price: $26.42
+Range: $16.80 - $40.00
+Recent Sales:
+  02/26/2026 - $30.00 (Card Ladder)
+  02/10/2026 - $20.50 (Card Ladder)
+  02/09/2026 - $20.50 (Card Ladder)
+  02/01/2026 - $24.99 (Card Ladder)
+  01/25/2026 - $21.60 (Card Ladder)
+  01/19/2026 - $26.00 (Card Ladder)
+  01/10/2026 - $40.00 (Card Ladder)
+  01/07/2026 - $31.00 (Card Ladder)
+  01/04/2026 - $16.80 (Card Ladder)
+  12/18/2025 - $31.00 (Card Ladder)
+  11/30/2025 - $23.40 (Card Ladder)
+  11/16/2025 - $25.00 (Card Ladder)
+  11/02/2025 - $24.50 (Card Ladder)
+  10/15/2025 - $31.00 (Card Ladder)
+  10/11/2025 - $29.99 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $128.77
+Range: $31.01 - $609.00
+Recent Sales:
+  2026-02-25 - $350.00 (psa)
+  2026-02-24 - $31.01 (fullcount1737)
+  2026-02-22 - $609.00 (harperson24)
+  2026-01-26 - $46.00 (ufgatoralum)
+  2026-01-16 - $102.50 (5_star_cards)
+  2025-12-29 - $48.04 (dickandjanessportscards)
+  2025-12-12 - $70.00 (atlasrimrepair)
+  2025-12-08 - $70.00 (CardsHQ)
+  2025-12-01 - $61.00 (psa)
+  2025-12-01 - $180.00 (psa)
+  2025-11-26 - $90.00 (kjgcollectibles)
+  2025-11-26 - $38.00 (4_sharp_corners)
+  2025-11-22 - $76.00 (coachrhynoscardsandmore)
+  2025-11-11 - $39.99 (contractor$)
+  2025-11-08 - $120.00 (psa)
+
+--- 130Point ---
+Market Value: $58.02
+Average Price: $58.02
+Range: $8.00 - $350.00
+Recent Sales:
+   - $350.00 (eBay, PSA 9)
+   - $31.01 (eBay, PSA 9)
+   - $48.00 (eBay, PSA 9)
+   - $102.50 (eBay, PSA 9)
+   - $50.57 (eBay, PSA 9)
+   - $8.00 (Goldin, PSA 9)
+
+--- PSA ---
+Market Value: $721.19
+Average Price: $721.19
+Range: $721.19 - $721.19
+Recent Sales:
+  Sep 21, 2021 - $721.19 (eBay, 9)
+
+--- Aggregate ---
+Average: $81.04
+Low: $24.99
+High: $350.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $101.30 (+25%)

@@ -1,0 +1,54 @@
+Card: Galarian Slowking V 2021 Pokemon #179
+Condition: 10: GEM MINT
+Generated: 2026-06-01T22:34:16.643Z
+
+--- SportsCardsPro ---
+Market Value: $67.00
+Average Price: $67.00
+
+--- eBay ---
+Market Value: $234.99
+Average Price: $234.99
+Range: $178.50 - $400.00
+Recent Sales:
+  May 27, 2026 - $400.00 (eBay, PSA 10)
+  May 26, 2026 - $305.00 (eBay, PSA 10)
+  May 13, 2026 - $301.10 (eBay, PSA 10)
+  May 8, 2026 - $279.99 (eBay, PSA 10)
+  May 6, 2026 - $255.00 (eBay, PSA 10)
+  May 5, 2026 - $299.95 (eBay, PSA 10)
+  May 2, 2026 - $275.00 (eBay, PSA 10)
+  Apr 30, 2026 - $260.00 (eBay, PSA 10)
+  Apr 30, 2026 - $249.95 (eBay, PSA 10)
+  Apr 27, 2026 - $237.49 (eBay, PSA 10)
+  Apr 25, 2026 - $209.99 (eBay, PSA 10)
+  Apr 23, 2026 - $210.00 (eBay, PSA 10)
+  Apr 18, 2026 - $214.50 (eBay, PSA 10)
+  Apr 18, 2026 - $199.99 (eBay, PSA 10)
+  Apr 17, 2026 - $199.00 (eBay, PSA 10)
+  Apr 16, 2026 - $189.99 (eBay, PSA 10)
+  Apr 14, 2026 - $199.99 (eBay, PSA 10)
+  Apr 12, 2026 - $189.99 (eBay, PSA 10)
+  Apr 11, 2026 - $198.99 (eBay, PSA 10)
+  Mar 24, 2026 - $178.50 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $75.50
+Average Price: $75.50
+Range: $66.00 - $85.00
+Recent Sales:
+   - $66.00 (Goldin)
+   - $85.00 (Goldin, PSA 10)
+
+--- Aggregate ---
+Average: $251.34
+Median: $226.00
+Low: $178.50
+High: $305.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $314.18 (+25%)

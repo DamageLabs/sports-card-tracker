@@ -1,0 +1,46 @@
+Card: Calvin Johnson 2025 Panini #4
+Condition: 9.5: MINT+
+Generated: 2026-05-29T17:33:48.526Z
+
+--- SportsCardsPro ---
+Market Value: $35.00
+Average Price: $35.00
+
+--- eBay ---
+Market Value: $421.79
+Average Price: $421.79
+Range: $240.00 - $669.00
+Recent Sales:
+  May 27, 2026 - $375.00 (eBay)
+  May 25, 2026 - $379.99 (eBay)
+  May 25, 2026 - $390.00 (eBay)
+  Mar 22, 2026 - $475.00 (eBay, SGC 9.5)
+  May 22, 2026 - $404.00 (eBay)
+  May 9, 2026 - $499.99 (eBay)
+  Mar 28, 2026 - $381.00 (eBay)
+  May 21, 2026 - $405.00 (eBay)
+  May 13, 2026 - $475.00 (eBay)
+  May 24, 2026 - $669.00 (eBay)
+  Mar 26, 2026 - $475.00 (eBay)
+  Apr 2, 2026 - $240.00 (eBay)
+  May 25, 2026 - $475.00 (eBay)
+  May 28, 2026 - $405.00 (eBay)
+  Apr 17, 2026 - $400.00 (eBay)
+  May 27, 2026 - $625.00 (eBay, PSA 10)
+  Apr 26, 2026 - $400.00 (eBay)
+  Apr 14, 2026 - $405.00 (eBay)
+  May 7, 2026 - $415.00 (eBay)
+  Mar 3, 2026 - $400.00 (eBay)
+
+--- 130Point ---
+Market Value: $44.00
+Average Price: $44.00
+Range: $44.00 - $44.00
+Recent Sales:
+   - $44.00 (Goldin)
+
+--- Aggregate ---
+Average: $440.67
+Median: $405.00
+Low: $375.00
+High: $625.00

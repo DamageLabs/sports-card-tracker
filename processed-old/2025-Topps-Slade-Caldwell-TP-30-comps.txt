@@ -1,0 +1,71 @@
+Card: Slade Caldwell 2025 Topps #TP-30
+Condition: RAW
+Generated: 2026-05-07T23:38:37.045Z
+
+--- SportsCardsPro ---
+Market Value: $14.49
+Average Price: $14.49
+
+--- eBay ---
+Market Value: $2.73
+Average Price: $2.73
+Range: $0.99 - $16.50
+Recent Sales:
+  May 6, 2026 - $9.25 (eBay)
+  May 5, 2026 - $0.99 (eBay)
+  May 5, 2026 - $0.99 (eBay)
+  May 5, 2026 - $0.99 (eBay)
+  May 5, 2026 - $0.99 (eBay)
+  May 5, 2026 - $1.00 (eBay)
+  May 5, 2026 - $1.00 (eBay)
+  May 4, 2026 - $6.50 (eBay)
+  Apr 27, 2026 - $16.50 (eBay)
+  Apr 16, 2026 - $0.99 (eBay)
+  Apr 25, 2026 - $15.50 (eBay)
+  Apr 24, 2026 - $1.25 (eBay)
+  Apr 23, 2026 - $0.99 (eBay)
+  Apr 23, 2026 - $0.99 (eBay)
+  Apr 21, 2026 - $6.00 (eBay)
+  Apr 19, 2026 - $2.91 (eBay)
+  Apr 18, 2026 - $1.33 (eBay)
+  Apr 15, 2026 - $3.25 (eBay)
+  Apr 14, 2026 - $3.51 (eBay)
+
+--- 130Point ---
+Market Value: $9.07
+Average Price: $9.07
+Range: $0.99 - $42.00
+Recent Sales:
+   - $3.21 (eBay)
+   - $42.00 (eBay)
+   - $6.50 (eBay)
+   - $11.50 (eBay)
+   - $6.15 (eBay)
+   - $20.50 (eBay)
+   - $4.50 (eBay)
+   - $0.99 (eBay)
+   - $4.99 (eBay)
+   - $10.00 (eBay)
+   - $7.76 (eBay)
+   - $1.60 (eBay)
+   - $15.00 (eBay)
+   - $1.99 (eBay)
+   - $22.00 (eBay)
+   - $26.37 (eBay)
+   - $7.50 (eBay)
+   - $1.89 (eBay)
+   - $5.24 (eBay)
+   - $15.00 (eBay)
+   - $17.50 (eBay)
+   - $2.26 (eBay)
+   - $4.25 (eBay)
+   - $6.50 (eBay)
+   - $9.00 (eBay)
+   - $37.00 (eBay)
+   - $15.50 (eBay)
+   - $8.55 (eBay)
+
+--- Aggregate ---
+Average: $8.23
+Low: $1.25
+High: $22.00

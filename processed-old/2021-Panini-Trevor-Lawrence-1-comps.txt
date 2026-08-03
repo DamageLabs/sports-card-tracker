@@ -1,0 +1,26 @@
+Card: Trevor Lawrence 2021 Panini #1
+Condition: 10: GEM MINT
+Generated: 2026-05-19T13:08:25.871Z
+
+--- SportsCardsPro ---
+Market Value: $3.62
+Average Price: $3.62
+
+--- 130Point ---
+Market Value: $1800.00
+Average Price: $1800.00
+Range: $1800.00 - $1800.00
+Recent Sales:
+   - $1800.00 (MySlabs, PSA 10)
+
+--- Aggregate ---
+Average: $1800.00
+Low: $1800.00
+High: $1800.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 5
+Percentile: Top 20%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $2250.00 (+25%)

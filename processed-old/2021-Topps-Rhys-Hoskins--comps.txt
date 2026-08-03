@@ -1,0 +1,45 @@
+Card: Rhys Hoskins 2021 Topps #
+Condition: RAW
+Generated: 2026-05-07T23:46:16.756Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $23.42
+Average Price: $23.42
+Range: $9.99 - $129.99
+Recent Sales:
+  Feb 19, 2026 - $9.99 (eBay)
+  Mar 14, 2026 - $19.99 (eBay)
+  Feb 23, 2026 - $35.99 (eBay)
+  Mar 11, 2026 - $39.99 (eBay)
+  Feb 22, 2026 - $14.99 (eBay)
+  Apr 20, 2026 - $35.99 (eBay)
+  Apr 15, 2026 - $16.49 (eBay)
+  Mar 1, 2026 - $129.99 (eBay)
+  Feb 17, 2026 - $54.99 (eBay)
+  Feb 6, 2026 - $29.99 (eBay)
+  Apr 5, 2026 - $22.99 (eBay)
+  Mar 20, 2026 - $30.00 (eBay)
+  Mar 21, 2026 - $15.00 (eBay)
+  Feb 21, 2026 - $19.99 (eBay)
+  Mar 7, 2026 - $19.99 (eBay)
+  Feb 16, 2026 - $22.50 (eBay)
+  Feb 12, 2026 - $10.99 (eBay)
+  Mar 17, 2026 - $18.99 (eBay)
+  Mar 18, 2026 - $19.99 (eBay)
+  Mar 14, 2026 - $19.99 (eBay)
+
+--- 130Point ---
+Market Value: $8.08
+Average Price: $8.08
+Range: $1.00 - $15.00
+Recent Sales:
+   - $8.23 (eBay)
+   - $15.00 (eBay)
+   - $1.00 (Heritage)
+
+--- Aggregate ---
+Average: $22.79
+Low: $9.99
+High: $39.99

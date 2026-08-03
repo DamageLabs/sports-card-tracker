@@ -1,0 +1,35 @@
+Card: Paul Hornung 2011 Panini #12
+Condition: 9: MINT
+Generated: 2026-05-21T13:03:06.820Z
+
+--- SportsCardsPro ---
+Market Value: $165.00
+Average Price: $165.00
+
+--- eBay ---
+Market Value: $269.00
+Average Price: $269.00
+Range: $44.99 - $493.00
+Recent Sales:
+  Mar 2, 2026 - $44.99 (eBay)
+  Feb 28, 2026 - $493.00 (eBay)
+
+--- 130Point ---
+Market Value: $53.40
+Average Price: $53.40
+Range: $37.20 - $69.60
+Recent Sales:
+   - $69.60 (PWCC, PSA 8)
+   - $37.20 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $166.87
+Low: $37.20
+High: $493.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $208.59 (+25%)

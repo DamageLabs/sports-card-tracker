@@ -1,0 +1,41 @@
+Card: Trevor Lawrence 2021 Panini #101
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:12:26.291Z
+
+--- SportsCardsPro ---
+Market Value: $3.62
+Average Price: $3.62
+
+--- eBay ---
+Market Value: $261.75
+Average Price: $261.75
+Range: $69.95 - $3499.99
+Recent Sales:
+  Apr 15, 2026 - $647.00 (eBay, PSA 10)
+  May 4, 2026 - $3499.99 (eBay, PSA 10)
+  Apr 13, 2026 - $200.00 (eBay, PSA 10)
+  May 22, 2026 - $69.95 (eBay, PSA 10)
+  May 7, 2026 - $129.99 (eBay, PSA 10)
+  Feb 26, 2026 - $70.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $4342.50
+Average Price: $4342.50
+Range: $1890.00 - $7200.00
+Recent Sales:
+   - $4080.00 (PWCC, PSA 10)
+   - $7200.00 (PWCC, PSA 10)
+   - $1890.00 (PWCC, PSA 10)
+   - $4200.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $1748.28
+Low: $69.95
+High: $4200.00
+
+--- Population Report ---
+PSA 10 Pop: 5
+Total Graded: 22
+Percentile: Top 22.73%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $2062.97 (+18%)

@@ -1,0 +1,52 @@
+Card: Bronny James Jr. 2024 Topps #ES-BJ
+Condition: RAW
+Generated: 2026-03-01T19:52:27.611Z
+
+--- SportsCardsPro ---
+Market Value: $2.00
+Average Price: $2.00
+
+--- eBay ---
+Market Value: $57.17
+Average Price: $57.17
+Range: $38.00 - $100.00
+Recent Sales:
+  Jan 14, 2026 - $38.00 (eBay)
+  Feb 19, 2026 - $100.00 (eBay)
+  Feb 2, 2026 - $53.00 (eBay)
+  Dec 8, 2025 - $67.00 (eBay)
+  Jan 30, 2026 - $45.00 (eBay)
+  Feb 13, 2026 - $55.00 (eBay)
+  Feb 4, 2026 - $53.00 (eBay)
+  Dec 13, 2025 - $70.00 (eBay)
+
+--- 130Point ---
+Market Value: $38.94
+Average Price: $38.94
+Range: $3.50 - $90.00
+Recent Sales:
+   - $3.99 (eBay)
+   - $26.50 (eBay)
+   - $90.00 (eBay)
+   - $3.50 (eBay)
+   - $40.00 (eBay)
+   - $75.00 (eBay)
+   - $4.99 (eBay)
+   - $53.00 (eBay)
+   - $56.66 (eBay)
+   - $5.24 (eBay)
+   - $50.00 (eBay)
+   - $74.99 (eBay)
+   - $38.00 (eBay)
+
+--- PSA ---
+Market Value: $13.26
+Average Price: $13.26
+Range: $13.26 - $13.26
+Recent Sales:
+  Nov 17, 2025 - $13.26 (eBay, 10)
+
+--- Aggregate ---
+Average: $48.16
+Low: $4.99
+High: $90.00

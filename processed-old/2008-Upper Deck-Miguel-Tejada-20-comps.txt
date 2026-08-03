@@ -1,0 +1,38 @@
+Card: Miguel Tejada 2008 Upper Deck #20
+Condition: 10: GEM MINT
+Generated: 2026-03-02T04:14:09.767Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $9.75
+Average Price: $9.75
+Range: $5.50 - $17.50
+Recent Sales:
+  Jan 10, 2026 - $15.00 (eBay, BGS 10)
+  Feb 19, 2026 - $8.25 (eBay, BGS Auth)
+  Dec 25, 2025 - $7.50 (eBay, BGS Auth)
+  Jan 15, 2026 - $12.00 (eBay, BGS Auth)
+  Dec 16, 2025 - $8.50 (eBay, BGS Auth)
+  Feb 15, 2026 - $7.50 (eBay, BGS Auth)
+  Jan 22, 2026 - $5.50 (eBay, BGS Auth)
+  Jan 30, 2026 - $11.50 (eBay, BGS Auth)
+  Feb 10, 2026 - $7.50 (eBay, BGS Auth)
+  Jan 2, 2026 - $10.00 (eBay, BGS Auth)
+  Jan 27, 2026 - $17.50 (eBay, BGS Auth)
+
+--- 130Point ---
+Market Value: $11.42
+Average Price: $11.42
+Range: $7.50 - $39.31
+Recent Sales:
+   - $8.25 (eBay, BGS Auth)
+   - $7.50 (eBay, BGS Auth)
+   - $17.50 (eBay, BGS Auth)
+   - $8.50 (eBay, BGS Auth)
+   - $39.31 (Pristine, BGS 10)
+
+--- Aggregate ---
+Average: $9.98
+Low: $7.50
+High: $17.50

@@ -1,0 +1,89 @@
+Card: Roman Wilson 2024 Topps #180
+Condition: RAW
+Generated: 2026-03-01T22:09:13.592Z
+
+--- SportsCardsPro ---
+Market Value: $8.05
+Average Price: $8.05
+
+--- eBay ---
+Market Value: $3.32
+Average Price: $3.32
+Range: $0.99 - $19.99
+Recent Sales:
+  Feb 3, 2026 - $0.99 (eBay)
+  Jan 17, 2026 - $1.75 (eBay)
+  Jan 20, 2026 - $1.69 (eBay)
+  Dec 6, 2025 - $2.49 (eBay)
+  Jan 21, 2026 - $1.99 (eBay)
+  Jan 30, 2026 - $1.00 (eBay)
+  Feb 25, 2026 - $19.99 (eBay)
+  Jan 6, 2026 - $1.15 (eBay)
+  Feb 12, 2026 - $0.99 (eBay)
+  Jan 12, 2026 - $0.99 (eBay)
+  Feb 2, 2026 - $7.50 (eBay)
+  Feb 15, 2026 - $6.00 (eBay)
+  Feb 19, 2026 - $16.50 (eBay)
+  Dec 12, 2025 - $5.50 (eBay)
+  Jan 26, 2026 - $10.50 (eBay)
+  Feb 16, 2026 - $1.99 (eBay)
+  Jan 15, 2026 - $8.00 (eBay)
+  Jan 30, 2026 - $1.99 (eBay)
+  Jan 4, 2026 - $4.24 (eBay)
+  Dec 14, 2025 - $1.25 (eBay)
+
+--- MarketMovers ---
+Average Price: $0.99
+Range: $0.99 - $0.99
+Recent Sales:
+  2025-11-30 - $0.99 (kybr-33)
+
+--- 130Point ---
+Market Value: $4.05
+Average Price: $4.05
+Range: $0.99 - $75.00
+Recent Sales:
+   - $15.00 (eBay)
+   - $6.20 (eBay)
+   - $2.99 (eBay)
+   - $2.00 (eBay)
+   - $6.00 (eBay)
+   - $13.00 (eBay)
+   - $1.25 (eBay)
+   - $1.99 (eBay)
+   - $6.00 (eBay)
+   - $12.00 (eBay)
+   - $0.99 (eBay)
+   - $4.00 (eBay)
+   - $2.00 (eBay)
+   - $5.00 (eBay)
+   - $0.99 (eBay)
+   - $1.49 (eBay)
+   - $2.99 (eBay)
+   - $75.00 (eBay)
+   - $7.00 (eBay)
+   - $4.00 (eBay)
+   - $1.29 (eBay)
+   - $6.00 (eBay)
+   - $2.25 (eBay)
+   - $10.50 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $2.75 (eBay)
+   - $10.50 (eBay)
+
+--- PSA ---
+Market Value: $28.83
+Average Price: $28.83
+Range: $18.50 - $35.00
+Recent Sales:
+  Jul 23, 2025 - $18.50 (eBay, 10)
+  Jun 10, 2024 - $35.00 (eBay, 10)
+  Jun 7, 2024 - $33.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $4.96
+Low: $0.99
+High: $16.50

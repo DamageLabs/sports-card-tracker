@@ -1,0 +1,49 @@
+Card: Bulbasaur 1999 Wizards of the Coast #44/102
+Condition: 9: MINT
+Generated: 2026-06-03T10:02:41.924Z
+
+--- SportsCardsPro ---
+Market Value: $54.00
+Average Price: $54.00
+
+--- 130Point ---
+Market Value: $40.09
+Average Price: $40.09
+Range: $11.70 - $147.42
+Recent Sales:
+   - $47.91 (Pristine, CGC 9)
+   - $39.31 (Pristine)
+   - $13.65 (Pristine)
+   - $64.35 (Pristine, BGS 6)
+   - $34.74 (Pristine)
+   - $104.42 (Pristine)
+   - $62.65 (Pristine)
+   - $18.43 (Pristine)
+   - $19.89 (Pristine)
+   - $89.80 (Pristine)
+   - $24.57 (Pristine)
+   - $21.06 (Pristine)
+   - $28.26 (Pristine)
+   - $24.57 (Pristine)
+   - $29.25 (Pristine, BGS 5.5)
+   - $23.40 (Pristine, BGS 6)
+   - $59.60 (Pristine)
+   - $53.75 (Pristine)
+   - $42.12 (Pristine)
+   - $17.20 (Pristine)
+   - $24.57 (Pristine)
+   - $11.70 (Pristine)
+   - $39.31 (Pristine)
+   - $38.08 (Pristine)
+   - $41.28 (Pristine)
+   - $36.86 (Pristine)
+   - $89.68 (Pristine, PSA 9)
+   - $84.77 (Pristine)
+   - $147.42 (Pristine)
+   - $41.77 (Pristine)
+
+--- Aggregate ---
+Average: $41.26
+Median: $38.70
+Low: $17.20
+High: $89.80

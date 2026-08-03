@@ -1,0 +1,63 @@
+Card: Isaiah Drake 2024 Topps #BE4-ID
+Condition: 10: GEM MINT
+Generated: 2026-03-01T00:22:08.287Z
+
+--- SportsCardsPro ---
+Market Value: $57.25
+Average Price: $57.25
+
+--- eBay ---
+Market Value: $3.33
+Average Price: $3.33
+Range: $0.99 - $22.00
+Recent Sales:
+  Feb 25, 2026 - $8.50 (eBay)
+  Feb 24, 2026 - $3.00 (eBay)
+  Dec 15, 2025 - $2.99 (eBay)
+  Feb 24, 2026 - $2.99 (eBay)
+  Dec 16, 2025 - $1.00 (eBay)
+  Dec 16, 2025 - $2.99 (eBay)
+  Feb 23, 2026 - $2.99 (eBay)
+  Feb 9, 2026 - $2.69 (eBay)
+  Dec 17, 2025 - $8.95 (eBay)
+  Dec 19, 2025 - $4.22 (eBay)
+  Feb 25, 2026 - $3.99 (eBay)
+  Dec 20, 2025 - $2.49 (eBay)
+  Dec 16, 2025 - $22.00 (eBay)
+  Feb 4, 2026 - $4.45 (eBay)
+  Dec 3, 2025 - $0.99 (eBay)
+  Dec 19, 2025 - $1.00 (eBay)
+  Dec 13, 2025 - $0.99 (eBay)
+  Jan 14, 2026 - $3.25 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Topps Bowman's Best Isaiah Drake BE4-ID
+
+--- MarketMovers ---
+Market Value: $7.90
+Average Price: $7.90
+
+--- 130Point ---
+Market Value: $2.69
+Average Price: $2.69
+Range: $0.99 - $10.00
+Recent Sales:
+   - $8.50 (eBay)
+   - $3.00 (eBay)
+   - $2.00 (eBay)
+   - $2.25 (eBay)
+   - $2.99 (eBay)
+   - $1.00 (eBay)
+   - $2.69 (eBay)
+   - $4.00 (eBay)
+   - $3.25 (eBay)
+   - $10.00 (eBay)
+   - $2.49 (eBay)
+   - $2.99 (eBay)
+   - $1.25 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $3.74
+Low: $1.00
+High: $8.50

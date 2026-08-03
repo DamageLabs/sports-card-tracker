@@ -1,0 +1,74 @@
+Card: Alexander Canario 2024 Topps #BRES-AC
+Condition: RAW
+Generated: 2026-03-01T19:01:52.555Z
+
+--- SportsCardsPro ---
+Market Value: $40.00
+Average Price: $40.00
+
+--- eBay ---
+Market Value: $9.50
+Average Price: $9.50
+Range: $0.99 - $60.00
+Recent Sales:
+  Jan 13, 2026 - $0.99 (eBay)
+  Jan 27, 2026 - $6.05 (eBay)
+  Dec 21, 2025 - $5.99 (eBay)
+  Dec 24, 2025 - $5.48 (eBay)
+  Dec 29, 2025 - $27.99 (eBay)
+  Feb 15, 2026 - $4.99 (eBay)
+  Jan 21, 2026 - $2.76 (eBay)
+  Dec 28, 2025 - $19.99 (eBay)
+  Jan 6, 2026 - $6.09 (eBay)
+  Jan 29, 2026 - $60.00 (eBay)
+  Dec 2, 2025 - $50.00 (eBay)
+  Jan 29, 2026 - $6.50 (eBay)
+  Jan 17, 2026 - $1.75 (eBay)
+  Jan 31, 2026 - $11.39 (eBay)
+  Dec 14, 2025 - $5.52 (eBay)
+  Feb 28, 2026 - $10.00 (eBay)
+  Feb 22, 2026 - $11.50 (eBay)
+  Feb 25, 2026 - $8.50 (eBay)
+  Feb 22, 2026 - $8.50 (eBay, PSA 8)
+  Dec 2, 2025 - $22.50 (eBay)
+
+--- MarketMovers ---
+Average Price: $6.33
+Range: $0.99 - $20.00
+Recent Sales:
+  2026-01-14 - $0.99 (scc_consignments)
+  2025-11-30 - $20.00 (geodes_collection)
+  2025-11-16 - $4.50 (stau9905)
+  2025-10-15 - $0.99 (thekodiakking45)
+  2025-10-13 - $0.99 (bezek_sports)
+  2025-10-02 - $4.25 (dmca_93)
+  2025-09-25 - $6.50 (dmca_93)
+  2025-09-24 - $9.99 (rookiecards617)
+  2025-09-24 - $9.95 (newbcards)
+  2025-09-24 - $4.99 (thepeoplescardbook)
+  2025-09-23 - $5.00 (steveathletics)
+  2025-09-14 - $10.50 (dmca_93)
+  2025-09-11 - $3.00 (pokecolor_official)
+  2025-09-08 - $6.29 (Market Movers)
+  2025-08-27 - $7.00 (Market Movers)
+
+--- 130Point ---
+Market Value: $0.99
+Average Price: $0.99
+Range: $0.99 - $0.99
+Recent Sales:
+   - $0.99 (eBay)
+
+--- PSA ---
+Market Value: $5.85
+Average Price: $5.85
+Range: $3.25 - $10.50
+Recent Sales:
+  Jun 8, 2025 - $3.25 (eBay, 9)
+  Aug 28, 2024 - $10.50 (eBay, 10)
+  Aug 26, 2024 - $3.81 (eBay, 9)
+
+--- Aggregate ---
+Average: $7.82
+Low: $1.75
+High: $20.00

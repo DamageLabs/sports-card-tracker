@@ -1,0 +1,73 @@
+Card: Tom Brady 2021 Panini #MON-B
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:00:32.519Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $141.51
+Average Price: $141.51
+Range: $45.00 - $850.00
+Recent Sales:
+  May 17, 2026 - $60.00 (eBay, PSA 10)
+  May 16, 2026 - $299.00 (eBay, PSA 10)
+  May 18, 2026 - $200.00 (eBay, PSA 10)
+  May 15, 2026 - $610.00 (eBay, PSA 10)
+  May 17, 2026 - $305.00 (eBay, PSA 10)
+  May 17, 2026 - $850.00 (eBay, PSA 10)
+  Mar 31, 2026 - $70.00 (eBay, PSA 10)
+  May 3, 2026 - $69.00 (eBay, PSA 10)
+  May 13, 2026 - $85.00 (eBay, PSA 10)
+  May 6, 2026 - $49.99 (eBay, PSA 10)
+  May 17, 2026 - $99.99 (eBay, PSA 10)
+  May 13, 2026 - $70.00 (eBay, PSA 10)
+  Apr 24, 2026 - $84.99 (eBay, PSA 10)
+  Apr 7, 2026 - $59.99 (eBay, PSA 10)
+  Apr 26, 2026 - $45.00 (eBay, PSA 10)
+  May 4, 2026 - $80.00 (eBay, PSA 10)
+  May 15, 2026 - $499.00 (eBay, PSA 10)
+  Mar 28, 2026 - $61.65 (eBay, PSA 10)
+  Apr 25, 2026 - $79.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $88.65
+Average Price: $88.65
+Range: $34.99 - $627.77
+Recent Sales:
+   - $148.65 (Pristine, PSA 10)
+   - $126.54 (Pristine, PSA 10)
+   - $58.24 (Pristine, PSA 10)
+   - $67.08 (Pristine, PSA 10)
+   - $69.08 (Pristine, PSA 10)
+   - $97.05 (Pristine, PSA 10)
+   - $114.25 (Pristine, PSA 10)
+   - $142.51 (Pristine, PSA 10)
+   - $60.63 (Pristine, PSA 10)
+   - $68.45 (Pristine, PSA 10)
+   - $55.28 (Pristine, PSA 10)
+   - $109.34 (Pristine, PSA 10)
+   - $60.84 (Pristine, PSA 10)
+   - $78.62 (Pristine, PSA 10)
+   - $101.58 (Pristine, PSA 10)
+   - $82.50 (Pristine, PSA 10)
+   - $34.99 (MySlabs, PSA 10)
+   - $627.77 (eBay, PSA 10)
+   - $228.50 (eBay, PSA 10)
+   - $92.57 (Pristine, PSA 10)
+   - $125.00 (eBay, PSA 10)
+   - $82.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $85.00 (eBay, PSA 10)
+   - $63.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $108.73
+Low: $55.28
+High: $499.00
+
+--- Population Report ---
+PSA 10 Pop: 83
+Total Graded: 106
+Percentile: Top 78.3%
+Rarity Tier: medium
+Pop-Adjusted Average: $115.04 (+6%)

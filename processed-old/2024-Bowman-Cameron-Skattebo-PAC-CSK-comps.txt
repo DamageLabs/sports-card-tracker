@@ -1,0 +1,62 @@
+Card: Cameron Skattebo 2024 Bowman #PAC-CSK
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:09:48.032Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $154.33
+Average Price: $154.33
+Range: $21.50 - $860.00
+Recent Sales:
+  May 17, 2026 - $279.99 (eBay, PSA 10)
+  May 20, 2026 - $75.99 (eBay, PSA 10)
+  May 10, 2026 - $21.50 (eBay, PSA 10)
+  Feb 20, 2026 - $255.00 (eBay, PSA 10)
+  May 18, 2026 - $860.00 (eBay, PSA 10)
+  Mar 11, 2026 - $70.00 (eBay, PSA 10)
+  Mar 31, 2026 - $64.99 (eBay, PSA 10)
+  Mar 7, 2026 - $180.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $275.97
+Average Price: $275.97
+Range: $6.00 - $2599.99
+Recent Sales:
+   - $244.47 (Pristine, PSA 10)
+   - $149.99 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $1300.00 (eBay, PSA 10)
+   - $1300.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $99.99 (eBay, PSA 10)
+   - $16.66 (eBay, PSA 10)
+   - $325.00 (eBay, PSA 10)
+   - $6.00 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $2599.99 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $49.99 (eBay, PSA 10)
+   - $1700.00 (eBay, PSA 10)
+   - $651.00 (eBay, PSA 10)
+   - $310.00 (eBay, PSA 10)
+   - $228.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $30.00 (eBay, PSA 10)
+   - $332.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $269.14
+Low: $21.50
+High: $1300.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 6
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $323.51 (+20%)

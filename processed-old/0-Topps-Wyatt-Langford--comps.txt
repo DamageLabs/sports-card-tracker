@@ -1,0 +1,72 @@
+Card: Wyatt Langford 0 Topps #
+Condition: RAW
+Generated: 2026-05-08T16:56:44.999Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $98.99
+Average Price: $98.99
+Range: $39.99 - $1240.00
+Recent Sales:
+  May 6, 2026 - $150.00 (eBay)
+  May 7, 2026 - $39.99 (eBay)
+  May 7, 2026 - $50.00 (eBay)
+  Mar 25, 2026 - $129.00 (eBay)
+  May 2, 2026 - $69.99 (eBay)
+  Feb 15, 2026 - $125.00 (eBay)
+  Apr 26, 2026 - $224.99 (eBay)
+  Mar 21, 2026 - $85.00 (eBay)
+  Apr 28, 2026 - $325.00 (eBay, SGC 9.5)
+  Feb 23, 2026 - $95.00 (eBay)
+  Mar 20, 2026 - $49.00 (eBay)
+  Apr 28, 2026 - $44.00 (eBay)
+  Apr 28, 2026 - $271.00 (eBay, PSA 9)
+  Apr 26, 2026 - $52.00 (eBay)
+  May 6, 2026 - $1240.00 (eBay, PSA 10)
+  Apr 11, 2026 - $50.00 (eBay, PSA 8)
+  Apr 10, 2026 - $134.95 (eBay)
+  May 2, 2026 - $105.00 (eBay)
+  Apr 16, 2026 - $54.99 (eBay)
+  Mar 24, 2026 - $59.99 (eBay)
+
+--- 130Point ---
+Market Value: $22.01
+Average Price: $22.01
+Range: $0.99 - $394.89
+Recent Sales:
+   - $4.91 (Heritage, BGS 9)
+   - $81.08 (Pristine)
+   - $23.34 (Heritage, BGS 9)
+   - $10.00 (Goldin)
+   - $23.40 (Pristine)
+   - $20.00 (Pristine)
+   - $141.28 (Pristine)
+   - $36.75 (Pristine)
+   - $1.49 (eBay)
+   - $3.25 (eBay)
+   - $88.89 (Heritage)
+   - $0.99 (eBay)
+   - $15.56 (eBay)
+   - $0.99 (eBay)
+   - $74.99 (eBay, PSA 10)
+   - $34.99 (eBay, PSA 9)
+   - $394.89 (eBay)
+   - $0.99 (eBay)
+   - $4.50 (eBay)
+   - $26.00 (Pristine)
+   - $1.49 (eBay)
+   - $1.69 (eBay)
+   - $1.99 (Heritage)
+   - $15.00 (eBay)
+   - $24.75 (eBay)
+   - $15.00 (eBay)
+   - $85.00 (eBay, PSA 10)
+   - $1.99 (eBay)
+   - $0.99 (Heritage)
+   - $62.11 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $53.65
+Low: $1.49
+High: $224.99

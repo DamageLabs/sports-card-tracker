@@ -1,0 +1,50 @@
+Card: Sam LaPorta 2023 Panini #332
+Condition: 9: MINT
+Generated: 2026-05-21T13:06:09.855Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $18.35
+Average Price: $18.35
+Range: $10.49 - $59.99
+Recent Sales:
+  May 13, 2026 - $22.99 (eBay, PSA 9)
+  May 20, 2026 - $19.99 (eBay, PSA 9)
+  May 9, 2026 - $10.49 (eBay, PSA 9)
+  Apr 3, 2026 - $36.00 (eBay, PSA 9)
+  May 18, 2026 - $15.99 (eBay, PSA 9)
+  May 10, 2026 - $24.99 (eBay, PSA 9)
+  Apr 19, 2026 - $13.60 (eBay, PSA 9)
+  Mar 10, 2026 - $13.99 (eBay, PSA 9)
+  Mar 5, 2026 - $15.59 (eBay, PSA 9)
+  May 16, 2026 - $19.95 (eBay, PSA 9)
+  Feb 23, 2026 - $19.99 (eBay, PSA 9)
+  Mar 14, 2026 - $59.99 (eBay, PSA 9)
+  May 18, 2026 - $15.00 (eBay, PSA 9)
+  Mar 20, 2026 - $15.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $30.89
+Average Price: $30.89
+Range: $5.01 - $89.00
+Recent Sales:
+   - $89.00 (eBay, PSA 9)
+   - $12.50 (eBay, PSA 9)
+   - $32.50 (eBay, PSA 9)
+   - $39.95 (eBay, PSA 9)
+   - $8.51 (eBay, PSA 9)
+   - $61.00 (eBay, PSA 9)
+   - $5.01 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $20.92
+Low: $10.49
+High: $59.99
+
+--- Population Report ---
+PSA 9 Pop: 314
+Total Graded: 572
+Percentile: Top 88.81%
+Rarity Tier: high
+Pop-Adjusted Average: $20.92 (+0%)

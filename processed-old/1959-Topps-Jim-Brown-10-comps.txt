@@ -1,0 +1,49 @@
+Card: Jim Brown 1959 Topps #10
+Condition: 4: VERY GOOD-EXCELLENT
+Generated: 2026-05-19T22:57:22.681Z
+
+--- SportsCardsPro ---
+Market Value: $8.72
+Average Price: $8.72
+
+--- eBay ---
+Market Value: $207.51
+Average Price: $207.51
+Range: $125.00 - $225.00
+Recent Sales:
+  Apr 26, 2026 - $219.05 (eBay, PSA 4)
+  Apr 8, 2026 - $225.00 (eBay, PSA 4)
+  Apr 1, 2026 - $125.00 (eBay, PSA 4)
+  Mar 23, 2026 - $199.99 (eBay, PSA 4)
+  Mar 11, 2026 - $203.50 (eBay, PSA 4)
+
+--- 130Point ---
+Market Value: $190.37
+Average Price: $190.37
+Range: $45.00 - $380.00
+Recent Sales:
+   - $225.00 (eBay, PSA 4)
+   - $125.00 (eBay, PSA 4)
+   - $199.99 (eBay, PSA 4)
+   - $203.50 (eBay, PSA 4)
+   - $245.70 (Pristine, PSA 4)
+   - $138.00 (PWCC, PSA 4)
+   - $198.00 (PWCC, PSA 4)
+   - $117.88 (Pristine, PSA 4)
+   - $186.00 (PWCC, PSA 4)
+   - $265.00 (MySlabs, PSA 4)
+   - $190.00 (PWCC, PSA 4)
+   - $380.00 (PWCC, PSA 4)
+   - $45.00 (PWCC, PSA 4)
+
+--- Aggregate ---
+Average: $193.34
+Low: $117.88
+High: $265.00
+
+--- Population Report ---
+PSA 4 Pop: 3
+Total Graded: 26
+Percentile: Top 46.15%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $232.40 (+20%)

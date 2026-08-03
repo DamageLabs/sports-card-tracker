@@ -1,0 +1,66 @@
+Card: Josh Allen 2018 Panini #95
+Condition: 10: GEM MINT
+Generated: 2026-05-19T22:55:35.054Z
+
+--- SportsCardsPro ---
+Market Value: $19.99
+Average Price: $19.99
+
+--- eBay ---
+Market Value: $397.00
+Average Price: $397.00
+Range: $84.99 - $1999.99
+Recent Sales:
+  Mar 10, 2026 - $349.99 (eBay, PSA 10)
+  May 13, 2026 - $250.00 (eBay, PSA 10)
+  Mar 6, 2026 - $249.99 (eBay, PSA 10)
+  Apr 14, 2026 - $84.99 (eBay, PSA 10)
+  May 18, 2026 - $1999.99 (eBay, PSA 10)
+  May 18, 2026 - $340.00 (eBay, PSA 10)
+  Mar 31, 2026 - $500.00 (eBay, PSA 10)
+  May 10, 2026 - $350.00 (eBay, PSA 10)
+  May 10, 2026 - $325.00 (eBay, PSA 10)
+  May 9, 2026 - $549.99 (eBay, PSA 10)
+  May 16, 2026 - $99.99 (eBay, PSA 10)
+  Apr 23, 2026 - $399.00 (eBay, PSA 10)
+  May 12, 2026 - $1199.99 (eBay, PSA 10)
+  May 4, 2026 - $550.00 (eBay, PSA 10)
+  May 19, 2026 - $575.00 (eBay, PSA 10)
+  Apr 30, 2026 - $324.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $272.47
+Average Price: $272.47
+Range: $40.00 - $7950.00
+Recent Sales:
+   - $300.00 (eBay, PSA 10)
+   - $310.00 (eBay, PSA 10)
+   - $405.00 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $84.99 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $130.00 (eBay, PSA 10)
+   - $425.00 (eBay, PSA 10)
+   - $105.50 (eBay, PSA 10)
+   - $500.00 (eBay, PSA 10)
+   - $112.50 (eBay, PSA 10)
+   - $400.00 (eBay, PSA 10)
+   - $349.00 (eBay, PSA 10)
+   - $7950.00 (eBay, PSA 10)
+   - $505.00 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $215.00 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $334.86
+Low: $84.99
+High: $1199.99
+
+--- Population Report ---
+PSA 10 Pop: 89
+Total Graded: 113
+Percentile: Top 78.76%
+Rarity Tier: medium
+Pop-Adjusted Average: $353.28 (+5%)

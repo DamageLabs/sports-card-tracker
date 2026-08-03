@@ -1,0 +1,34 @@
+Card: Nick Chubb 2022 Panini #MS-NCH
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:12:36.095Z
+
+--- SportsCardsPro ---
+Market Value: $7.76
+Average Price: $7.76
+
+--- eBay ---
+Market Value: $33.19
+Average Price: $33.19
+Range: $16.50 - $49.88
+Recent Sales:
+  May 11, 2026 - $49.88 (eBay, SGC 10)
+  May 12, 2026 - $16.50 (eBay, SGC 9.5)
+
+--- 130Point ---
+Market Value: $37.11
+Average Price: $37.11
+Range: $3.64 - $100.00
+Recent Sales:
+   - $100.00 (eBay, PSA 10)
+   - $25.00 (eBay)
+   - $3.64 (eBay)
+   - $55.00 (eBay, PSA 10)
+   - $6.00 (eBay)
+   - $43.00 (Pristine, PSA 9)
+   - $75.64 (Goldin)
+   - $18.00 (PWCC, SGC 10)
+
+--- Aggregate ---
+Average: $35.97
+Low: $6.00
+High: $75.64

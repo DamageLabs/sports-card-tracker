@@ -1,0 +1,30 @@
+Card: Michael Penix Jr. 2024 Panini #RRDP-MPJ
+Condition: 9: MINT
+Generated: 2026-05-19T04:31:35.999Z
+
+--- SportsCardsPro ---
+
+--- 130Point ---
+Market Value: $69.32
+Average Price: $69.32
+Range: $11.50 - $144.00
+Recent Sales:
+   - $41.00 (eBay, PSA 9)
+   - $78.62 (Pristine, PSA 9)
+   - $126.00 (PWCC, PSA 9)
+   - $11.50 (eBay, PSA 9)
+   - $89.00 (eBay, PSA 9)
+   - $12.00 (PWCC, PSA 9)
+   - $144.00 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $70.23
+Low: $11.50
+High: $144.00
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $85.68 (+22%)

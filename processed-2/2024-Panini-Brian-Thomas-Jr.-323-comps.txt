@@ -1,0 +1,52 @@
+Card: Brian Thomas Jr. 2024 Panini #323
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:26:22.919Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $129.47
+Average Price: $129.47
+Range: $35.99 - $250.00
+Recent Sales:
+  Mar 12, 2026 - $250.00 (eBay, PSA 10)
+  Apr 14, 2026 - $43.87 (eBay, PSA 10)
+  May 25, 2026 - $105.00 (eBay, PSA 10)
+  Apr 5, 2026 - $35.99 (eBay, PSA 10)
+  May 9, 2026 - $120.00 (eBay, PSA 10)
+  Apr 5, 2026 - $249.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $57.79
+Average Price: $57.79
+Range: $19.99 - $266.01
+Recent Sales:
+   - $101.97 (Pristine, PSA 10)
+   - $43.87 (eBay, PSA 10)
+   - $46.00 (eBay, PSA 10)
+   - $20.00 (eBay, PSA 10)
+   - $26.00 (eBay, PSA 10)
+   - $266.01 (eBay, PSA 10)
+   - $25.00 (eBay, PSA 10)
+   - $35.99 (eBay, PSA 10)
+   - $19.99 (eBay, PSA 10)
+   - $39.99 (eBay, PSA 10)
+   - $67.00 (eBay, PSA 10)
+   - $42.00 (eBay, PSA 10)
+   - $38.95 (eBay, PSA 10)
+   - $185.00 (eBay, PSA 10)
+   - $46.68 (Pristine, PSA 10)
+   - $180.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $78.82
+Median: $44.94
+Low: $25.00
+High: $249.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 3
+Percentile: Top 66.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $96.16 (+22%)

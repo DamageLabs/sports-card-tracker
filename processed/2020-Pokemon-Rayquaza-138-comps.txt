@@ -1,0 +1,82 @@
+Card: Rayquaza 2020 Pokemon #138
+Condition: 10: GEM MINT
+Generated: 2026-06-03T01:07:18.410Z
+
+--- SportsCardsPro ---
+Market Value: $83.25
+Average Price: $83.25
+
+--- eBay ---
+Market Value: $200.71
+Average Price: $200.71
+Range: $198.50 - $250.00
+Recent Sales:
+  Jun 1, 2026 - $200.00 (eBay, PSA 10)
+  Jun 1, 2026 - $200.00 (eBay, PSA 10)
+  Jun 1, 2026 - $200.00 (eBay, PSA 10)
+  Jun 1, 2026 - $200.00 (eBay, PSA 10)
+  Jun 1, 2026 - $200.00 (eBay, PSA 10)
+  May 31, 2026 - $200.00 (eBay, PSA 10)
+  May 30, 2026 - $200.00 (eBay, PSA 10)
+  May 29, 2026 - $200.00 (eBay, PSA 10)
+  May 27, 2026 - $203.50 (eBay, PSA 10)
+  May 26, 2026 - $204.00 (eBay, PSA 10)
+  May 25, 2026 - $199.99 (eBay, PSA 10)
+  May 25, 2026 - $200.00 (eBay, PSA 10)
+  May 25, 2026 - $200.00 (eBay, PSA 10)
+  May 25, 2026 - $198.50 (eBay, PSA 10)
+  May 24, 2026 - $200.00 (eBay, PSA 10)
+  May 21, 2026 - $202.50 (eBay, PSA 10)
+  May 20, 2026 - $200.00 (eBay, PSA 10)
+  May 19, 2026 - $250.00 (eBay, PSA 10)
+  May 18, 2026 - $215.00 (eBay, PSA 10)
+  May 18, 2026 - $215.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $38.95
+Average Price: $38.95
+Range: $25.20 - $105.00
+Recent Sales:
+   - $105.00 (eBay, PSA 10)
+   - $95.00 (eBay, PSA 10)
+   - $47.00 (eBay, PSA 10)
+   - $92.00 (eBay, PSA 10)
+   - $100.80 (PWCC, PSA 10)
+   - $91.20 (PWCC, PSA 10)
+   - $79.20 (PWCC, PSA 10)
+   - $32.40 (PWCC, PSA 10)
+   - $25.20 (PWCC, PSA 10)
+   - $28.80 (PWCC, PSA 10)
+   - $30.00 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $26.40 (PWCC, PSA 10)
+   - $39.60 (PWCC, PSA 10)
+   - $30.00 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $36.00 (PWCC, PSA 10)
+   - $36.00 (PWCC, PSA 10)
+   - $34.80 (PWCC, PSA 10)
+   - $32.40 (PWCC, PSA 10)
+   - $34.80 (PWCC, PSA 10)
+   - $38.40 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $40.80 (PWCC, PSA 10)
+   - $39.60 (PWCC, PSA 10)
+   - $28.80 (PWCC, PSA 10)
+   - $30.00 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $26.40 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $64.09
+Median: $36.00
+Low: $28.80
+High: $202.50
+
+--- Population Report ---
+PSA 10 Pop: 12993
+Total Graded: 21603
+Percentile: Top 60.14%
+Rarity Tier: very-high
+Pop-Adjusted Average: $60.89 (-5%)

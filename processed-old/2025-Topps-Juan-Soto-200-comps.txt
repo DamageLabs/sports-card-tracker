@@ -1,0 +1,74 @@
+Card: Juan Soto 2025 Topps #200
+Condition: RAW
+Generated: 2026-03-01T04:21:54.998Z
+
+--- SportsCardsPro ---
+Market Value: $15.58
+Average Price: $15.58
+
+--- eBay ---
+Market Value: $16.76
+Average Price: $16.76
+Range: $2.49 - $350.00
+Recent Sales:
+  Feb 28, 2026 - $10.99 (eBay)
+  Feb 28, 2026 - $5.99 (eBay)
+  Feb 28, 2026 - $4.25 (eBay)
+  Feb 28, 2026 - $2.49 (eBay)
+  Feb 27, 2026 - $8.00 (eBay)
+  Feb 25, 2026 - $2.80 (eBay)
+  Feb 24, 2026 - $44.00 (eBay)
+  Feb 21, 2026 - $14.99 (eBay)
+  Feb 21, 2026 - $4.95 (eBay)
+  Feb 20, 2026 - $49.99 (eBay)
+  Feb 15, 2026 - $6.75 (eBay)
+  Feb 15, 2026 - $50.00 (eBay)
+  Feb 14, 2026 - $3.99 (eBay)
+  Feb 27, 2026 - $10.00 (eBay)
+  Feb 28, 2026 - $42.99 (eBay)
+  Feb 27, 2026 - $350.00 (eBay)
+  Feb 27, 2026 - $8.50 (eBay)
+  Feb 28, 2026 - $23.24 (eBay)
+  Feb 27, 2026 - $12.00 (eBay)
+  Feb 16, 2026 - $37.99 (eBay)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2025 Topps Pristine Juan Soto 200
+
+--- MarketMovers ---
+Average Price: $19.62
+Range: $2.49 - $49.99
+Recent Sales:
+  2026-02-26 - $2.49 (ajm0122)
+  2026-02-25 - $2.80 (shcon-8078)
+  2026-02-25 - $44.00 (mandj_tradingcards)
+  2026-02-21 - $4.95 (dnk18655)
+  2026-02-20 - $49.99 (bigal31580)
+  2026-02-16 - $6.75 (glaciercardbreaks)
+  2026-02-15 - $42.00 (mpcardz_98)
+  2026-02-15 - $3.99 (nine20sportscards)
+
+--- 130Point ---
+Market Value: $14.92
+Average Price: $14.92
+Range: $2.80 - $49.99
+Recent Sales:
+   - $2.80 (Pristine)
+   - $44.00 (Pristine)
+   - $4.95 (Pristine)
+   - $49.99 (Pristine)
+   - $6.75 (Pristine)
+   - $3.99 (Pristine)
+
+--- PSA ---
+Market Value: $26.19
+Average Price: $26.19
+Range: $3.38 - $49.00
+Recent Sales:
+  May 26, 2020 - $49.00 (eBay, 9)
+  Apr 17, 2014 - $3.38 (Sirius Sports Auctions, 9)
+
+--- Aggregate ---
+Average: $18.03
+Low: $2.80
+High: $49.99

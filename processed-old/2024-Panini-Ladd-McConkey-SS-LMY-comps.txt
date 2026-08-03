@@ -1,0 +1,36 @@
+Card: Ladd McConkey 2024 Panini #SS-LMY
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:29:41.769Z
+
+--- SportsCardsPro ---
+Market Value: $22.22
+Average Price: $22.22
+
+--- eBay ---
+Market Value: $91.50
+Average Price: $91.50
+Range: $75.00 - $107.99
+Recent Sales:
+  May 6, 2026 - $107.99 (eBay, PSA 10)
+  Apr 13, 2026 - $75.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $176.33
+Average Price: $176.33
+Range: $75.00 - $238.00
+Recent Sales:
+   - $75.00 (eBay, PSA 10)
+   - $216.00 (PWCC, PSA 10)
+   - $238.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $137.58
+Low: $75.00
+High: $238.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $171.98 (+25%)

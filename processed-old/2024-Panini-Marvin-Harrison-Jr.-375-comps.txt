@@ -1,0 +1,57 @@
+Card: Marvin Harrison Jr. 2024 Panini #375
+Condition: 9: MINT
+Generated: 2026-05-19T23:05:28.897Z
+
+--- SportsCardsPro ---
+Market Value: $0.18
+Average Price: $0.18
+
+--- eBay ---
+Market Value: $45.55
+Average Price: $45.55
+Range: $12.00 - $257.00
+Recent Sales:
+  Apr 26, 2026 - $257.00 (eBay, PSA 9)
+  May 18, 2026 - $12.00 (eBay, PSA 9)
+  May 18, 2026 - $19.99 (eBay, PSA 9)
+  May 11, 2026 - $15.99 (eBay, PSA 9)
+  Apr 4, 2026 - $180.00 (eBay, PSA 9)
+  May 15, 2026 - $70.00 (eBay, PSA 9)
+  Mar 16, 2026 - $35.00 (eBay, PSA 9)
+  Apr 27, 2026 - $15.00 (eBay, PSA 9)
+  Mar 22, 2026 - $25.00 (eBay, PSA 9)
+  Mar 13, 2026 - $24.00 (eBay, PSA 9)
+  Apr 19, 2026 - $24.95 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $22.11
+Average Price: $22.11
+Range: $7.50 - $41.01
+Recent Sales:
+   - $23.40 (Pristine, PSA 9)
+   - $24.57 (Pristine, PSA 9)
+   - $33.00 (eBay, PSA 9)
+   - $20.50 (eBay, PSA 9)
+   - $7.50 (eBay, PSA 9)
+   - $34.00 (eBay, PSA 9)
+   - $14.74 (Pristine, PSA 9)
+   - $20.00 (eBay, PSA 9)
+   - $13.50 (eBay, PSA 9)
+   - $14.50 (eBay, PSA 9)
+   - $16.00 (eBay, PSA 9)
+   - $7.99 (eBay, PSA 9)
+   - $29.00 (eBay, PSA 9)
+   - $38.00 (eBay, PSA 9)
+   - $41.01 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $24.40
+Low: $12.00
+High: $70.00
+
+--- Population Report ---
+PSA 9 Pop: 9
+Total Graded: 14
+Percentile: Top 78.57%
+Rarity Tier: low
+Pop-Adjusted Average: $28.18 (+16%)

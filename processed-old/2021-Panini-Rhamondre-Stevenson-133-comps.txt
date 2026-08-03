@@ -1,0 +1,59 @@
+Card: Rhamondre Stevenson 2021 Panini #133
+Condition: 9: MINT
+Generated: 2026-05-21T13:05:19.442Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $44.10
+Average Price: $44.10
+Range: $32.00 - $59.99
+Recent Sales:
+  Apr 18, 2026 - $32.00 (eBay, PSA 9)
+  Feb 21, 2026 - $49.99 (eBay, PSA 9)
+  Apr 9, 2026 - $59.99 (eBay, PSA 9)
+  Apr 2, 2026 - $34.40 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $103.98
+Average Price: $103.98
+Range: $14.01 - $9600.00
+Recent Sales:
+   - $25.80 (Pristine, PSA 9)
+   - $28.26 (Pristine, PSA 9)
+   - $360.70 (eBay, PSA 9)
+   - $21.50 (eBay, PSA 9)
+   - $175.00 (eBay, PSA 9)
+   - $101.97 (Pristine, PSA 9)
+   - $235.17 (Pristine, PSA 9)
+   - $330.87 (eBay, PSA 9)
+   - $36.76 (eBay, PSA 9)
+   - $18.50 (eBay, PSA 9)
+   - $225.00 (eBay, PSA 9)
+   - $306.00 (eBay, PSA 9)
+   - $336.00 (PWCC, PSA 9)
+   - $14.01 (eBay, PSA 9)
+   - $34.40 (Pristine, PSA 9)
+   - $36.10 (eBay, PSA 9)
+   - $36.00 (eBay, PSA 9)
+   - $33.54 (Pristine, PSA 9)
+   - $32.00 (eBay, PSA 9)
+   - $165.50 (eBay, PSA 9)
+   - $46.00 (eBay, PSA 9)
+   - $9600.00 (PWCC, PSA 9)
+   - $82.31 (Pristine, PSA 9)
+   - $81.90 (Pristine, PSA 9)
+   - $45.45 (Pristine, PSA 9)
+   - $21.60 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $92.83
+Low: $21.60
+High: $330.87
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $113.25 (+22%)

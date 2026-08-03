@@ -1,0 +1,64 @@
+Card: Tom Brady 2016 Panini #3
+Condition: 10: GEM MINT
+Generated: 2026-05-19T22:59:15.963Z
+
+--- SportsCardsPro ---
+Market Value: $13.23
+Average Price: $13.23
+
+--- eBay ---
+Market Value: $414.26
+Average Price: $414.26
+Range: $99.99 - $999.99
+Recent Sales:
+  May 15, 2026 - $349.99 (eBay, PSA 10)
+  May 9, 2026 - $300.00 (eBay, PSA 10)
+  Mar 9, 2026 - $149.99 (eBay, PSA 10)
+  Feb 27, 2026 - $187.50 (eBay, PSA 10)
+  Apr 28, 2026 - $273.00 (eBay, PSA 10)
+  May 14, 2026 - $174.99 (eBay, PSA 10)
+  May 19, 2026 - $999.99 (eBay, PSA 10)
+  May 16, 2026 - $199.99 (eBay, PSA 10)
+  May 19, 2026 - $219.99 (eBay, PSA 10)
+  Feb 27, 2026 - $99.99 (eBay, PSA 10)
+  May 6, 2026 - $270.00 (eBay, PSA 10)
+  May 17, 2026 - $725.00 (eBay, PSA 10)
+  May 5, 2026 - $389.95 (eBay, PSA 10)
+  Apr 17, 2026 - $850.00 (eBay, PSA 10)
+  Mar 26, 2026 - $750.00 (eBay, PSA 10)
+  May 19, 2026 - $899.99 (eBay, PSA 10)
+  May 17, 2026 - $695.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $79.15
+Average Price: $79.15
+Range: $9.06 - $2945.00
+Recent Sales:
+   - $149.99 (eBay, PSA 10)
+   - $990.00 (PWCC, PSA 10)
+   - $135.00 (PWCC, PSA 10)
+   - $38.40 (PWCC, PSA 10)
+   - $64.80 (PWCC, PSA 10)
+   - $58.50 (Pristine, PSA 10)
+   - $58.80 (PWCC, PSA 10)
+   - $196.56 (Pristine, PSA 10)
+   - $44.23 (Pristine, PSA 10)
+   - $79.00 (PWCC, PSA 10)
+   - $2945.00 (PWCC, PSA 10)
+   - $64.00 (PWCC, PSA 10)
+   - $40.00 (MySlabs, PSA 10)
+   - $9.06 (PWCC, PSA 10)
+   - $16.00 (PWCC, PSA 10)
+   - $20.50 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $294.12
+Low: $38.40
+High: $990.00
+
+--- Population Report ---
+PSA 10 Pop: 133
+Total Graded: 199
+Percentile: Top 66.83%
+Rarity Tier: high
+Pop-Adjusted Average: $305.30 (+4%)

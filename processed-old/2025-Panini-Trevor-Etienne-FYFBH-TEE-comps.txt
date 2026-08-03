@@ -1,0 +1,45 @@
+Card: Trevor Etienne 2025 Panini #FYFBH-TEE
+Condition: RAW
+Generated: 2026-05-07T12:36:32.537Z
+
+--- SportsCardsPro ---
+Market Value: $1.85
+Average Price: $1.85
+
+--- eBay ---
+Market Value: $2.40
+Average Price: $2.40
+Range: $0.99 - $200.00
+Recent Sales:
+  Apr 1, 2026 - $1.04 (eBay)
+  Apr 2, 2026 - $1.49 (eBay)
+  Apr 28, 2026 - $2.25 (eBay)
+  Mar 8, 2026 - $1.99 (eBay)
+  May 4, 2026 - $1.99 (eBay)
+  Mar 24, 2026 - $1.49 (eBay)
+  May 4, 2026 - $35.00 (eBay)
+  Feb 23, 2026 - $3.75 (eBay)
+  Mar 24, 2026 - $1.99 (eBay)
+  May 2, 2026 - $0.99 (eBay)
+  Mar 28, 2026 - $4.99 (eBay)
+  Apr 25, 2026 - $4.75 (eBay)
+  Apr 16, 2026 - $1.25 (eBay)
+  May 6, 2026 - $6.99 (eBay)
+  Apr 30, 2026 - $1.59 (eBay)
+  Apr 21, 2026 - $1.55 (eBay)
+  May 6, 2026 - $1.25 (eBay)
+  Apr 28, 2026 - $200.00 (eBay)
+  Mar 25, 2026 - $2.49 (eBay)
+  Apr 19, 2026 - $2.00 (eBay)
+
+--- 130Point ---
+Market Value: $1.25
+Average Price: $1.25
+Range: $1.25 - $1.25
+Recent Sales:
+   - $1.25 (eBay)
+
+--- Aggregate ---
+Average: $4.55
+Low: $1.04
+High: $35.00

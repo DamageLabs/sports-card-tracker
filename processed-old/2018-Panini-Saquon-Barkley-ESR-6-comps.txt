@@ -1,0 +1,92 @@
+Card: Saquon Barkley 2018 Panini #ESR-6
+Condition: 10: GEM MINT
+Generated: 2026-02-28T22:15:50.037Z
+
+--- SportsCardsPro ---
+Market Value: $220.00
+Average Price: $220.00
+
+--- eBay ---
+Market Value: $78.02
+Average Price: $78.02
+Range: $41.00 - $1325.00
+Recent Sales:
+  Feb 27, 2026 - $75.00 (eBay, PSA 10)
+  Jan 20, 2026 - $100.00 (eBay, PSA 10)
+  Jan 4, 2026 - $41.00 (eBay, PSA 10)
+  Dec 14, 2025 - $75.00 (eBay, PSA 10)
+  Jan 22, 2026 - $55.72 (eBay, PSA 10)
+  Dec 4, 2025 - $78.00 (eBay, PSA 10)
+  Dec 20, 2025 - $1325.00 (eBay, PSA 10)
+  Jan 21, 2026 - $73.00 (eBay, PSA 10)
+  Dec 24, 2025 - $76.50 (eBay, PSA 10)
+  Dec 28, 2025 - $75.00 (eBay, PSA 10)
+  Jan 6, 2026 - $91.00 (eBay, PSA 10)
+  Dec 8, 2025 - $81.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $1942.77
+Average Price: $2425.82
+Range: $1982.23 - $2850.00
+Recent Sales:
+  10/02/2025 - $2443.00 (Card Ladder)
+  09/04/2025 - $2600.00 (Card Ladder)
+  06/06/2025 - $2580.00 (Card Ladder)
+  05/25/2025 - $2600.00 (Card Ladder)
+  05/16/2025 - $2550.00 (Card Ladder)
+  05/12/2025 - $2524.00 (Card Ladder)
+  04/13/2025 - $2310.00 (Card Ladder)
+  04/03/2025 - $2364.00 (Card Ladder)
+  03/09/2025 - $2225.00 (Card Ladder)
+  03/07/2025 - $2850.00 (Card Ladder)
+  02/23/2025 - $2225.00 (Card Ladder)
+  02/04/2025 - $2600.00 (Card Ladder)
+  02/03/2025 - $2400.00 (Card Ladder)
+  02/02/2025 - $1982.23 (Card Ladder)
+  01/07/2025 - $2134.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $39.89
+Range: $17.50 - $80.00
+Recent Sales:
+  2025-07-16 - $39.00 (Market Movers)
+  2025-01-28 - $80.00 (Market Movers)
+  2024-12-14 - $51.02 (jrussportscards37)
+  2024-11-17 - $62.00 (brcl516400)
+  2024-11-13 - $31.00 (blgcards)
+  2024-03-31 - $17.50 (perkworkscards)
+  2023-12-24 - $18.50 (pc_sportscards)
+  2023-11-01 - $30.00 (cardboard_dreams)
+  2023-09-16 - $30.00 (cardboard_dreams)
+
+--- 130Point ---
+Market Value: $82.50
+Average Price: $82.50
+Range: $51.00 - $275.00
+Recent Sales:
+   - $75.00 (eBay, PSA 10)
+   - $66.00 (eBay, PSA 10)
+   - $72.00 (eBay, PSA 10)
+   - $85.00 (eBay, PSA 10)
+   - $137.50 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+   - $79.99 (eBay, PSA 10)
+   - $275.00 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+   - $71.00 (eBay, PSA 10)
+   - $51.00 (eBay, PSA 10)
+
+--- PSA ---
+Error: No PSA sales data found for: 2018 Panini Donruss Elite Series Rookies Saquon Barkley #ESR-6
+
+--- Aggregate ---
+Average: $503.41
+Low: $39.00
+High: $2524.00
+
+--- Population Report ---
+PSA 10 Pop: 113
+Total Graded: 148
+Percentile: Top 76.35%
+Rarity Tier: high
+Pop-Adjusted Average: $526.06 (+4%)

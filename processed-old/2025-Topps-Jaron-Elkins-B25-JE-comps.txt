@@ -1,0 +1,72 @@
+Card: Jaron Elkins 2025 Topps #B25-JE
+Condition: RAW
+Generated: 2026-05-07T23:42:42.952Z
+
+--- SportsCardsPro ---
+Market Value: $3.12
+Average Price: $3.12
+
+--- eBay ---
+Market Value: $13.27
+Average Price: $13.27
+Range: $1.25 - $59.99
+Recent Sales:
+  May 4, 2026 - $5.50 (eBay)
+  May 4, 2026 - $2.26 (eBay)
+  Apr 30, 2026 - $5.50 (eBay)
+  Apr 29, 2026 - $4.00 (eBay)
+  Apr 28, 2026 - $6.99 (eBay)
+  Apr 28, 2026 - $22.01 (eBay)
+  Apr 28, 2026 - $45.00 (eBay)
+  Apr 27, 2026 - $59.99 (eBay)
+  Apr 27, 2026 - $59.95 (eBay)
+  Apr 26, 2026 - $5.00 (eBay)
+  Apr 26, 2026 - $5.00 (eBay)
+  Apr 23, 2026 - $9.99 (eBay)
+  Apr 23, 2026 - $19.95 (eBay)
+  Apr 23, 2026 - $49.99 (eBay)
+  Apr 22, 2026 - $1.25 (eBay)
+  Apr 22, 2026 - $4.00 (eBay)
+  Apr 22, 2026 - $6.50 (eBay)
+  Apr 20, 2026 - $5.30 (eBay)
+  Apr 19, 2026 - $33.00 (eBay)
+  Apr 19, 2026 - $11.99 (eBay)
+
+--- 130Point ---
+Market Value: $15.42
+Average Price: $15.42
+Range: $1.25 - $375.00
+Recent Sales:
+   - $145.00 (eBay)
+   - $14.00 (eBay)
+   - $34.00 (eBay)
+   - $35.00 (eBay)
+   - $10.00 (eBay)
+   - $99.99 (eBay, PSA 10)
+   - $375.00 (eBay)
+   - $8.00 (eBay)
+   - $13.99 (eBay)
+   - $10.00 (eBay)
+   - $12.99 (eBay)
+   - $12.99 (eBay)
+   - $5.00 (eBay)
+   - $1.25 (eBay)
+   - $19.99 (eBay)
+   - $9.99 (eBay)
+   - $9.99 (eBay)
+   - $9.99 (eBay)
+   - $9.00 (eBay)
+   - $4.02 (eBay)
+   - $2.25 (eBay)
+   - $22.15 (eBay)
+   - $11.75 (eBay)
+   - $22.68 (eBay)
+   - $22.39 (eBay)
+   - $9.50 (eBay)
+   - $10.00 (eBay)
+   - $40.00 (eBay)
+
+--- Aggregate ---
+Average: $15.00
+Low: $4.00
+High: $49.99

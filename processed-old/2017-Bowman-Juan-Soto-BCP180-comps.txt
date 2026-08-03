@@ -1,0 +1,125 @@
+Card: Juan Soto 2017 Bowman #BCP180
+Condition: 10: GEM MINT
+Generated: 2026-03-01T03:09:36.591Z
+
+--- SportsCardsPro ---
+Market Value: $15.58
+Average Price: $15.58
+
+--- eBay ---
+Market Value: $144.63
+Average Price: $144.63
+Range: $47.99 - $999.99
+Recent Sales:
+  Feb 23, 2026 - $80.00 (eBay, PSA 10)
+  Feb 18, 2026 - $59.99 (eBay, PSA 10)
+  Jan 31, 2026 - $53.01 (eBay, PSA 10)
+  Jan 28, 2026 - $79.99 (eBay, PSA 10)
+  Jan 16, 2026 - $999.99 (eBay, PSA 10)
+  Jan 16, 2026 - $399.99 (eBay, PSA 10)
+  Jan 11, 2026 - $199.99 (eBay, PSA 10)
+  Dec 16, 2025 - $53.00 (eBay, PSA 10)
+  Dec 21, 2025 - $250.00 (eBay, PSA 10)
+  Jan 14, 2026 - $239.99 (eBay, PSA 10)
+  Feb 27, 2026 - $74.99 (eBay, PSA 10)
+  Feb 17, 2026 - $99.99 (eBay, PSA 10)
+  Feb 23, 2026 - $47.99 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $40.57
+Average Price: $43.53
+Range: $23.63 - $60.00
+Recent Sales:
+  02/23/2026 - $40.50 (Card Ladder)
+  02/12/2026 - $49.00 (Card Ladder)
+  01/29/2026 - $55.00 (Card Ladder)
+  01/28/2026 - $49.99 (Card Ladder)
+  01/21/2026 - $50.00 (Card Ladder)
+  01/09/2026 - $40.00 (Card Ladder)
+  01/06/2026 - $47.00 (Card Ladder)
+  01/04/2026 - $60.00 (Card Ladder)
+  12/16/2025 - $46.00 (Card Ladder)
+  12/11/2025 - $37.00 (Card Ladder)
+  12/04/2025 - $50.00 (Card Ladder)
+  11/14/2025 - $30.00 (Card Ladder)
+  10/20/2025 - $40.00 (Card Ladder)
+  10/18/2025 - $23.63 (Card Ladder)
+  10/14/2025 - $34.83 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $73.33
+Range: $12.54 - $200.00
+Recent Sales:
+  2026-02-19 - $59.99 (slabcityrips)
+  2025-12-17 - $53.00 (4_sharp_corners)
+  2025-11-04 - $149.50 (pc_sportscards)
+  2025-10-24 - $102.48 (Goldin Auctions)
+  2025-10-18 - $55.00 (jamimcconnel7)
+  2025-10-18 - $55.00 (hickdesm)
+  2025-10-17 - $55.00 (scheuerman123)
+  2025-10-03 - $31.00 (jrdksmith7)
+  2025-10-03 - $12.54 (slabsharksinc)
+  2025-09-30 - $200.00 (burbanksportscards)
+  2025-09-12 - $196.42 (Goldin Auctions)
+  2025-09-11 - $37.00 (probstein123)
+  2025-09-07 - $31.00 (ducksdugout)
+  2025-09-07 - $31.00 (ducksdugout)
+  2025-09-07 - $31.00 (ducksdugout)
+
+--- 130Point ---
+Market Value: $88.97
+Average Price: $88.97
+Range: $36.00 - $825.00
+Recent Sales:
+   - $59.99 (eBay, PSA 10)
+   - $74.99 (eBay, PSA 10)
+   - $78.00 (PWCC, PSA 10)
+   - $49.20 (PWCC, PSA 10)
+   - $45.60 (PWCC, PSA 10)
+   - $43.20 (PWCC, PSA 10)
+   - $39.60 (PWCC, PSA 10)
+   - $153.56 (Pristine, PSA 10)
+   - $71.25 (Pristine, PSA 10)
+   - $36.00 (Goldin, PSA 10)
+   - $43.20 (PWCC, PSA 10)
+   - $44.40 (PWCC, PSA 10)
+   - $69.60 (PWCC, PSA 10)
+   - $76.80 (PWCC, PSA 10)
+   - $91.20 (PWCC, PSA 10)
+   - $93.60 (PWCC, PSA 10)
+   - $126.00 (PWCC, PSA 10)
+   - $825.00 (MySlabs, PSA 10)
+   - $115.20 (PWCC, PSA 10)
+   - $125.00 (PWCC, PSA 10)
+   - $130.00 (PWCC, PSA 10)
+   - $125.00 (PWCC, PSA 10)
+   - $120.00 (PWCC, PSA 10)
+   - $110.00 (PWCC, PSA 10)
+   - $110.00 (PWCC, PSA 10)
+   - $110.00 (PWCC, PSA 10)
+   - $112.50 (PWCC, PSA 10)
+   - $97.00 (PWCC, PSA 10)
+
+--- PSA ---
+Market Value: $136.64
+Average Price: $136.64
+Range: $34.00 - $1000.00
+Recent Sales:
+  Sep 14, 2024 - $100.00 (eBay, 10)
+  Nov 9, 2021 - $290.55 (eBay, 10)
+  Apr 5, 2021 - $1000.00 (eBay, 10)
+  Sep 8, 2019 - $41.00 (eBay, 10)
+  Jul 24, 2019 - $34.00 (eBay, 10)
+  Aug 8, 2018 - $115.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $75.96
+Low: $40.00
+High: $199.99
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 9
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $91.31 (+20%)

@@ -306,7 +306,7 @@ class CompService {
     ];
   }
 
-  async generateComps(request: CompRequest): Promise<CompReport> {
+  async generateComps(request: CompRequest, options?: { skipGradeProjection?: boolean }): Promise<CompReport> {
     // Filter adapters (skip PSA for non-PSA graded cards)
     const activeAdapters = this.adapters.filter(adapter => {
       if (adapter.source === 'PSA' && request.isGraded && request.gradingCompany && request.gradingCompany !== 'PSA') {
@@ -358,6 +358,26 @@ class CompService {
       }
     }
 
+    // Project PSA 10 / PSA 9 medians for ungraded cards by running the full
+    // pipeline twice more with grade-qualified requests. Cached after first
+    // call; only fires for raw cards on the top-level invocation.
+    let psa10Median: number | null = null;
+    let psa9Median: number | null = null;
+    if (!options?.skipGradeProjection && !request.isGraded) {
+      const projectionRequest = (grade: '10' | '9'): CompRequest => ({
+        ...request,
+        isGraded: true,
+        gradingCompany: 'PSA',
+        grade,
+      });
+      const [psa10Result, psa9Result] = await Promise.allSettled([
+        this.generateComps(projectionRequest('10'), { skipGradeProjection: true }),
+        this.generateComps(projectionRequest('9'), { skipGradeProjection: true }),
+      ]);
+      if (psa10Result.status === 'fulfilled') psa10Median = psa10Result.value.aggregateMedian;
+      if (psa9Result.status === 'fulfilled') psa9Median = psa9Result.value.aggregateMedian;
+    }
+
     return {
       cardId: request.cardId,
       player: request.player,
@@ -370,6 +390,8 @@ class CompService {
       aggregateMedian,
       aggregateLow,
       aggregateHigh,
+      psa10Median,
+      psa9Median,
       popData,
       popMultiplier: popMult,
       popAdjustedAverage,
@@ -397,7 +419,8 @@ class CompService {
     }
 
     // Write comp file to processed/ (secondary artifact)
-    const compFilename = `${request.year}-${request.brand}-${request.player.replace(/\s+/g, '-')}-${request.cardNumber}-comps.txt`;
+    const sanitize = (s: string): string => s.replace(/[/\\:*?"<>|]/g, '-').replace(/\s+/g, '-');
+    const compFilename = `${request.year}-${sanitize(request.brand)}-${sanitize(request.player)}-${sanitize(request.cardNumber)}-comps.txt`;
     const compContent = this.formatCompReport(report);
     const processedDir = this.fileService.getProcessedDir();
     fs.writeFileSync(path.join(processedDir, compFilename), compContent);
@@ -513,6 +536,8 @@ class CompService {
       if (report.aggregateMedian !== null) lines.push(`Median: $${report.aggregateMedian.toFixed(2)}`);
       if (report.aggregateLow !== null) lines.push(`Low: $${report.aggregateLow.toFixed(2)}`);
       if (report.aggregateHigh !== null) lines.push(`High: $${report.aggregateHigh.toFixed(2)}`);
+      if (report.psa10Median !== null) lines.push(`Projected PSA 10 Median: $${report.psa10Median.toFixed(2)}`);
+      if (report.psa9Median !== null) lines.push(`Projected PSA 9 Median: $${report.psa9Median.toFixed(2)}`);
     }
 
     if (report.popData) {

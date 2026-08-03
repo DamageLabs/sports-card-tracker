@@ -1,0 +1,34 @@
+Card: Todd Helton 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-09T03:12:32.206Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $100.98
+Average Price: $100.98
+Range: $45.00 - $209.50
+Recent Sales:
+  Mar 4, 2026 - $45.00 (eBay)
+  Apr 2, 2026 - $74.99 (eBay)
+  Apr 3, 2026 - $74.43 (eBay)
+  Mar 30, 2026 - $209.50 (eBay)
+
+--- 130Point ---
+Market Value: $59.75
+Average Price: $59.75
+Range: $25.00 - $219.60
+Recent Sales:
+   - $50.00 (eBay)
+   - $59.99 (eBay)
+   - $25.00 (eBay)
+   - $61.43 (Pristine)
+   - $67.57 (Pristine)
+   - $219.60 (Goldin)
+
+--- Aggregate ---
+Average: $86.28
+Low: $25.00
+High: $219.60

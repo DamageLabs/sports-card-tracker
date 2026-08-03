@@ -1,0 +1,44 @@
+Card: Tom Brady 2000 Fleer #234G
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-23T01:10:09.264Z
+
+--- SportsCardsPro ---
+Market Value: $24.67
+Average Price: $24.67
+
+--- eBay ---
+Market Value: $383.44
+Average Price: $383.44
+Range: $219.00 - $600.00
+Recent Sales:
+  May 21, 2026 - $550.00 (eBay, PSA 8)
+  May 12, 2026 - $525.00 (eBay, PSA 8)
+  Apr 19, 2026 - $499.99 (eBay, PSA 8)
+  Apr 11, 2026 - $529.00 (eBay, PSA 8)
+  Apr 3, 2026 - $395.00 (eBay, PSA 8)
+  Mar 8, 2026 - $600.00 (eBay, PSA 8)
+  May 8, 2026 - $235.00 (eBay, PSA 8)
+  Mar 31, 2026 - $235.00 (eBay, PSA 8)
+  Mar 18, 2026 - $232.00 (eBay, PSA 8)
+  Mar 14, 2026 - $219.00 (eBay, PSA 8)
+  May 12, 2026 - $250.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $400.10
+Average Price: $400.10
+Range: $271.20 - $529.00
+Recent Sales:
+   - $529.00 (eBay, PSA 8)
+   - $271.20 (Goldin)
+
+--- Aggregate ---
+Average: $404.55
+Low: $235.00
+High: $550.00
+
+--- Population Report ---
+PSA 8 Pop: 3
+Total Graded: 9
+Percentile: Top 55.56%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $486.27 (+20%)

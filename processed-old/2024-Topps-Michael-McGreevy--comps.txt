@@ -1,0 +1,43 @@
+Card: Michael McGreevy 2024 Topps #
+Condition: RAW
+Generated: 2026-05-07T23:41:17.456Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $18.11
+Average Price: $18.11
+Range: $4.99 - $100.00
+Recent Sales:
+  Apr 28, 2026 - $8.50 (eBay)
+  Apr 30, 2026 - $9.99 (eBay)
+  May 6, 2026 - $100.00 (eBay)
+  May 2, 2026 - $19.99 (eBay)
+  May 6, 2026 - $10.00 (eBay)
+  May 3, 2026 - $79.99 (eBay)
+  Apr 18, 2026 - $4.99 (eBay)
+  Mar 29, 2026 - $10.00 (eBay)
+  May 3, 2026 - $30.00 (eBay, PSA 9)
+  May 3, 2026 - $14.99 (eBay)
+  May 4, 2026 - $19.95 (eBay)
+  May 1, 2026 - $11.75 (eBay)
+  May 4, 2026 - $29.99 (eBay)
+  Feb 14, 2026 - $10.95 (eBay)
+  Mar 28, 2026 - $12.99 (eBay)
+  Apr 25, 2026 - $33.99 (eBay)
+  Apr 21, 2026 - $19.00 (eBay)
+  May 2, 2026 - $9.00 (eBay)
+  Apr 3, 2026 - $100.00 (eBay)
+  Mar 4, 2026 - $20.00 (eBay)
+
+--- 130Point ---
+Market Value: $5.00
+Average Price: $5.00
+Range: $5.00 - $5.00
+Recent Sales:
+   - $5.00 (eBay)
+
+--- Aggregate ---
+Average: $22.00
+Low: $5.00
+High: $100.00

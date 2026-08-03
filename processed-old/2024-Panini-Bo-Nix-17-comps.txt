@@ -1,0 +1,52 @@
+Card: Bo Nix 2024 Panini #17
+Condition: 9: MINT
+Generated: 2026-05-19T12:59:35.934Z
+
+--- SportsCardsPro ---
+Market Value: $9.71
+Average Price: $9.71
+
+--- 130Point ---
+Market Value: $31.41
+Average Price: $31.41
+Range: $13.50 - $1800.00
+Recent Sales:
+   - $30.71 (Pristine, PSA 9)
+   - $23.50 (eBay, PSA 9)
+   - $308.75 (eBay, PSA 9)
+   - $43.00 (eBay, PSA 9)
+   - $13.50 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+   - $21.50 (eBay, PSA 9)
+   - $31.00 (eBay, PSA 9)
+   - $25.01 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+   - $285.00 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $22.50 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+   - $18.00 (eBay, PSA 9)
+   - $42.00 (eBay, PSA 9)
+   - $39.31 (Pristine, PSA 9)
+   - $32.00 (eBay, PSA 9)
+   - $33.00 (eBay, PSA 9)
+   - $34.00 (eBay, PSA 9)
+   - $32.00 (eBay, PSA 9)
+   - $20.51 (eBay, PSA 9)
+   - $25.19 (eBay, PSA 9)
+   - $1800.00 (eBay, PSA 9)
+   - $27.00 (eBay, PSA 9)
+   - $85.60 (eBay, PSA 9)
+   - $16.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $36.75
+Low: $18.00
+High: $285.00
+
+--- Population Report ---
+PSA 9 Pop: 3
+Total Graded: 17
+Percentile: Top 82.35%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $44.17 (+20%)

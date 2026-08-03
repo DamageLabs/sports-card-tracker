@@ -1,0 +1,62 @@
+Card: Jacob Wilson 2024 Bowman #PA-JW
+Condition: 10: GEM MINT
+Generated: 2026-03-01T00:20:44.918Z
+
+--- SportsCardsPro ---
+Market Value: $20.00
+Average Price: $20.00
+
+--- eBay ---
+Market Value: $377.44
+Average Price: $377.44
+Range: $214.49 - $699.99
+Recent Sales:
+  Feb 18, 2026 - $430.78 (eBay, PSA 10)
+  Jan 11, 2026 - $329.00 (eBay, PSA 10)
+  Feb 23, 2026 - $250.00 (eBay, PSA 10)
+  Feb 4, 2026 - $499.99 (eBay, PSA 10)
+  Dec 23, 2025 - $699.99 (eBay, PSA 10)
+  Jan 12, 2026 - $214.49 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Bowman Sterling Jacob Wilson PA-JW
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Bowman Sterling Jacob Wilson #PA-JW Silver Refractor PSA 10
+
+--- 130Point ---
+Market Value: $123.80
+Average Price: $123.80
+Range: $56.00 - $430.78
+Recent Sales:
+   - $250.00 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $79.00 (eBay, PSA 10)
+   - $430.78 (eBay, PSA 10)
+   - $114.45 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $57.00 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+   - $228.49 (eBay, PSA 10)
+   - $128.01 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $47.00
+Average Price: $47.00
+Range: $47.00 - $47.00
+Recent Sales:
+  Dec 26, 2024 - $47.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $230.31
+Low: $57.00
+High: $499.99
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $287.88 (+25%)

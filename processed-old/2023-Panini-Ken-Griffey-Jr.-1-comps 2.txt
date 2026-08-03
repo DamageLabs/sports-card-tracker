@@ -1,0 +1,39 @@
+Card: Ken Griffey Jr. 2023 Panini #1
+Condition: RAW
+Generated: 2026-05-07T23:47:00.792Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $6.64
+Average Price: $6.64
+Range: $0.99 - $75.00
+Recent Sales:
+  Apr 29, 2026 - $6.58 (eBay)
+  Apr 29, 2026 - $3.99 (eBay)
+  Apr 23, 2026 - $2.49 (eBay)
+  Apr 17, 2026 - $1.00 (eBay)
+  Apr 21, 2026 - $1.99 (eBay)
+  Apr 20, 2026 - $30.00 (eBay)
+  Apr 19, 2026 - $1.80 (eBay)
+  Apr 18, 2026 - $75.00 (eBay, PSA 10)
+  Apr 13, 2026 - $5.95 (eBay)
+  Apr 12, 2026 - $5.99 (eBay)
+  Apr 12, 2026 - $0.99 (eBay)
+
+--- 130Point ---
+Market Value: $1.93
+Average Price: $1.93
+Range: $0.99 - $5.95
+Recent Sales:
+   - $0.99 (eBay)
+   - $2.26 (eBay)
+   - $2.08 (eBay)
+   - $1.39 (eBay)
+   - $5.95 (eBay)
+   - $2.00 (eBay)
+
+--- Aggregate ---
+Average: $4.42
+Low: $0.99
+High: $30.00

@@ -1,0 +1,66 @@
+Card: Josh Allen 2018 Panini #154
+Condition: 9: MINT
+Generated: 2026-05-21T05:24:43.606Z
+
+--- SportsCardsPro ---
+Market Value: $19.99
+Average Price: $19.99
+
+--- eBay ---
+Market Value: $485.94
+Average Price: $485.94
+Range: $203.66 - $1932.00
+Recent Sales:
+  May 20, 2026 - $550.00 (eBay, PSA 9)
+  May 20, 2026 - $649.99 (eBay, PSA 9)
+  May 19, 2026 - $275.00 (eBay, PSA 9)
+  May 19, 2026 - $299.00 (eBay, PSA 9)
+  May 18, 2026 - $825.00 (eBay, PSA 9)
+  May 17, 2026 - $527.20 (eBay, PSA 9)
+  May 17, 2026 - $570.00 (eBay, PSA 9)
+  May 17, 2026 - $450.00 (eBay, PSA 9)
+  May 17, 2026 - $300.00 (eBay, PSA 9)
+  May 17, 2026 - $550.00 (eBay, PSA 9)
+  May 17, 2026 - $259.99 (eBay, PSA 9)
+  May 17, 2026 - $589.00 (eBay, PSA 9)
+  May 17, 2026 - $599.00 (eBay, PSA 9)
+  May 17, 2026 - $429.95 (eBay, PSA 9)
+  May 17, 2026 - $600.00 (eBay, PSA 9)
+  May 16, 2026 - $203.66 (eBay, PSA 9)
+  May 12, 2026 - $1932.00 (eBay, PSA 9)
+  May 11, 2026 - $425.00 (eBay, PSA 9)
+  May 11, 2026 - $475.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $332.78
+Average Price: $332.78
+Range: $139.99 - $3141.50
+Recent Sales:
+   - $456.00 (eBay, PSA 9)
+   - $510.00 (eBay, PSA 9)
+   - $220.00 (eBay, PSA 9)
+   - $555.00 (eBay, PSA 9)
+   - $189.99 (eBay, PSA 9)
+   - $1310.81 (eBay, PSA 9)
+   - $212.52 (eBay, PSA 9)
+   - $200.50 (eBay, PSA 9)
+   - $239.99 (eBay, PSA 9)
+   - $199.38 (eBay, PSA 9)
+   - $139.99 (MySlabs, PSA 9)
+   - $3141.50 (Goldin, PSA 9)
+   - $200.00 (MySlabs, PSA 9)
+   - $350.00 (MySlabs, PSA 9)
+   - $200.00 (MySlabs, PSA 9)
+   - $650.00 (MySlabs, PSA 9)
+
+--- Aggregate ---
+Average: $419.63
+Low: $200.00
+High: $825.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $524.54 (+25%)

@@ -1,0 +1,38 @@
+Card: Samuel Baugh 1948 Bowman #22
+Condition: 1.5: POOR+
+Generated: 2026-05-19T23:12:59.462Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $234.66
+Average Price: $234.66
+Range: $95.00 - $350.00
+Recent Sales:
+  Mar 2, 2026 - $95.00 (eBay, SGC 1.5)
+  Apr 14, 2026 - $229.00 (eBay, SGC 2)
+  May 10, 2026 - $199.99 (eBay, SGC 2)
+  May 9, 2026 - $350.00 (eBay, SGC 60)
+  Mar 5, 2026 - $275.00 (eBay, SGC 4)
+
+--- 130Point ---
+Market Value: $158.94
+Average Price: $158.94
+Range: $66.77 - $290.00
+Recent Sales:
+   - $215.00 (eBay, SGC 2)
+   - $115.20 (PWCC, SGC 2)
+   - $126.00 (PWCC, SGC 3)
+   - $91.91 (PWCC, SGC 4)
+   - $194.50 (PWCC, SGC 5)
+   - $66.77 (PWCC, SGC Auth)
+   - $251.50 (PWCC, SGC 7)
+   - $290.00 (PWCC, SGC 6)
+   - $118.50 (PWCC, SGC 4)
+
+--- Aggregate ---
+Average: $195.46
+Low: $91.91
+High: $350.00

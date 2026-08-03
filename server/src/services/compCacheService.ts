@@ -18,6 +18,9 @@ class CompCacheService {
       request.brand.toLowerCase().trim(),
       request.cardNumber.trim(),
       (request.condition || '').toLowerCase().trim(),
+      request.isGraded ? '1' : '0',
+      (request.gradingCompany || '').toUpperCase().trim(),
+      (request.grade || '').trim(),
     ];
     return parts.join('|');
   }

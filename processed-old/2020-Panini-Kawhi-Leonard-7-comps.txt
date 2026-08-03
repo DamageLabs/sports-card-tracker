@@ -1,0 +1,70 @@
+Card: Kawhi Leonard 2020 Panini #7
+Condition: 9: MINT
+Generated: 2026-02-28T23:42:21.681Z
+
+--- SportsCardsPro ---
+Market Value: $8.02
+Average Price: $8.02
+
+--- eBay ---
+Market Value: $144.64
+Average Price: $144.64
+Range: $49.99 - $400.00
+Recent Sales:
+  Jan 10, 2026 - $50.00 (eBay, PSA 9)
+  Jan 11, 2026 - $49.99 (eBay, PSA 9)
+  Feb 25, 2026 - $400.00 (eBay, PSA 9)
+  Jan 5, 2026 - $78.57 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $62.15
+Average Price: $525.00
+Range: $525.00 - $525.00
+Recent Sales:
+  05/08/2021 - $525.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $46.88
+Range: $30.00 - $56.00
+Recent Sales:
+  2026-01-11 - $50.00 (psa)
+  2025-11-26 - $56.00 (amplify_sports)
+  2025-08-29 - $50.00 (Market Movers)
+  2025-07-20 - $48.00 (PWCC)
+  2025-07-01 - $52.00 (southsidesports)
+  2025-05-02 - $50.00 (victory_card_shop)
+  2025-03-20 - $50.00 (nale-us2014)
+  2025-03-01 - $50.00 (fate_llc)
+  2025-02-10 - $50.40 (PWCC)
+  2024-12-27 - $53.00 (tull_068)
+  2024-11-30 - $56.00 (cardymccardface)
+  2024-11-18 - $31.00 (camelot_collectibles)
+  2024-10-13 - $43.20 (PWCC)
+  2024-10-09 - $30.00 (Market Movers)
+  2024-09-22 - $33.60 (PWCC)
+
+--- 130Point ---
+Market Value: $49.47
+Average Price: $49.47
+Range: $43.20 - $105.60
+Recent Sales:
+   - $50.00 (eBay, PSA 9)
+   - $48.00 (PWCC, PSA 9)
+   - $50.40 (PWCC, PSA 9)
+   - $43.20 (PWCC, PSA 9)
+   - $105.60 (PWCC, PSA 9)
+
+--- PSA ---
+Error: No PSA sales data found for: 2020 Panini Mosaic Kawhi Leonard #7 Stained Glass
+
+--- Aggregate ---
+Average: $100.68
+Low: $43.20
+High: $400.00
+
+--- Population Report ---
+PSA 9 Pop: 126
+Total Graded: 276
+Percentile: Top 94.57%
+Rarity Tier: high
+Pop-Adjusted Average: $104.71 (+4%)

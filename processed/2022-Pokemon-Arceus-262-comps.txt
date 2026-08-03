@@ -1,0 +1,76 @@
+Card: Arceus 2022 Pokemon #262
+Condition: 10: GEM MINT
+Generated: 2026-06-03T01:07:44.315Z
+
+--- SportsCardsPro ---
+Market Value: $82.50
+Average Price: $82.50
+
+--- eBay ---
+Market Value: $256.11
+Average Price: $256.11
+Range: $160.83 - $275.00
+Recent Sales:
+  Jun 1, 2026 - $243.60 (eBay, PSA 10)
+  Nov 12, 2025 - $160.83 (eBay, PSA 10)
+  May 31, 2026 - $269.95 (eBay, PSA 10)
+  May 31, 2026 - $275.00 (eBay, PSA 10)
+  May 31, 2026 - $266.00 (eBay, PSA 10)
+  May 31, 2026 - $275.00 (eBay, PSA 10)
+  May 31, 2026 - $257.00 (eBay, PSA 10)
+  May 30, 2026 - $246.50 (eBay, PSA 10)
+  May 28, 2026 - $250.00 (eBay, PSA 10)
+  May 26, 2026 - $260.00 (eBay, PSA 10)
+  May 25, 2026 - $247.50 (eBay, PSA 10)
+  May 25, 2026 - $265.00 (eBay, PSA 10)
+  May 24, 2026 - $230.00 (eBay, PSA 10)
+  May 22, 2026 - $275.00 (eBay, PSA 10)
+  May 21, 2026 - $247.50 (eBay, PSA 10)
+  May 21, 2026 - $213.49 (eBay, PSA 10)
+  May 20, 2026 - $250.00 (eBay, PSA 10)
+  May 17, 2026 - $260.00 (eBay, PSA 10)
+  May 16, 2026 - $247.50 (eBay, PSA 10)
+  May 14, 2026 - $275.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $106.75
+Average Price: $106.75
+Range: $54.00 - $198.13
+Recent Sales:
+   - $198.13 (eBay, PSA 10)
+   - $142.50 (eBay, PSA 10)
+   - $172.50 (eBay, PSA 10)
+   - $109.00 (PWCC, PSA 10)
+   - $62.40 (PWCC, PSA 10)
+   - $72.00 (PWCC, PSA 10)
+   - $60.00 (Goldin, PSA 10)
+   - $72.00 (PWCC, PSA 10)
+   - $96.00 (PWCC, PSA 10)
+   - $72.00 (PWCC, PSA 10)
+   - $88.80 (PWCC, PSA 10)
+   - $91.20 (PWCC, PSA 10)
+   - $98.40 (PWCC, PSA 10)
+   - $60.00 (PWCC, PSA 10)
+   - $54.00 (PWCC, PSA 10)
+   - $88.80 (PWCC, PSA 10)
+   - $126.00 (PWCC, PSA 10)
+   - $160.00 (Goldin, PSA 10)
+   - $144.00 (PWCC, PSA 10)
+   - $144.00 (PWCC, PSA 10)
+   - $132.00 (PWCC, PSA 10)
+   - $132.00 (PWCC, PSA 10)
+   - $110.40 (PWCC, PSA 10)
+   - $140.00 (Goldin, PSA 10)
+
+--- Aggregate ---
+Average: $163.47
+Median: $143.25
+Low: $62.40
+High: $260.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $204.34 (+25%)

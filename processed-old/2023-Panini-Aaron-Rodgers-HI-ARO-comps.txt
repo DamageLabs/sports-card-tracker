@@ -1,0 +1,43 @@
+Card: Aaron Rodgers 2023 Panini #HI-ARO
+Condition: 9: MINT
+Generated: 2026-05-21T05:02:07.421Z
+
+--- SportsCardsPro ---
+Market Value: $24.99
+Average Price: $24.99
+
+--- eBay ---
+Market Value: $193.33
+Average Price: $193.33
+Range: $119.99 - $285.00
+Recent Sales:
+  May 12, 2026 - $119.99 (eBay, PSA 9)
+  Mar 22, 2026 - $175.00 (eBay, PSA 9)
+  Mar 27, 2026 - $285.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $236.21
+Average Price: $236.21
+Range: $11.50 - $550.00
+Recent Sales:
+   - $550.00 (eBay, PSA 9)
+   - $124.95 (eBay, PSA 9)
+   - $285.00 (eBay, PSA 9)
+   - $460.00 (eBay, PSA 9)
+   - $11.50 (eBay, PSA 9)
+   - $84.99 (eBay, PSA 9)
+   - $218.50 (eBay, PSA 9)
+   - $40.00 (eBay, PSA 9)
+   - $440.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $201.98
+Low: $40.00
+High: $460.00
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $252.47 (+25%)

@@ -1,0 +1,36 @@
+Card: Jason Witten 2003 Topps #372
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-21T05:17:46.236Z
+
+--- SportsCardsPro ---
+Market Value: $4.13
+Average Price: $4.13
+
+--- eBay ---
+Market Value: $81.49
+Average Price: $81.49
+Range: $32.99 - $129.99
+Recent Sales:
+  Apr 28, 2026 - $32.99 (eBay, PSA 8)
+  Apr 3, 2026 - $129.99 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $127.67
+Average Price: $127.67
+Range: $12.00 - $296.00
+Recent Sales:
+   - $296.00 (eBay, PSA 8)
+   - $75.00 (eBay, PSA 8)
+   - $12.00 (eBay, PSA 8)
+
+--- Aggregate ---
+Average: $88.52
+Low: $12.00
+High: $296.00
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 8
+Percentile: Top 62.5%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $110.65 (+25%)

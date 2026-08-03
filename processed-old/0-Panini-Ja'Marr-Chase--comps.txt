@@ -1,0 +1,48 @@
+Card: Ja'Marr Chase 0 Panini #
+Condition: RAW
+Generated: 2026-05-18T23:58:07.553Z
+
+--- SportsCardsPro ---
+Market Value: $8.96
+Average Price: $8.96
+
+--- 130Point ---
+Market Value: $76.04
+Average Price: $76.04
+Range: $1.17 - $356.85
+Recent Sales:
+   - $102.06 (Pristine, SGC 10)
+   - $68.80 (Pristine, SGC 10)
+   - $85.33 (Pristine, PSA 10)
+   - $38.08 (Pristine, PSA 9)
+   - $71.37 (Pristine, PSA 10)
+   - $32.22 (Pristine)
+   - $89.68 (Pristine)
+   - $177.70 (Pristine, PSA 10)
+   - $83.54 (Pristine, PSA 10)
+   - $25.80 (Pristine)
+   - $25.79 (Pristine, CGC 10)
+   - $356.85 (Pristine)
+   - $30.71 (Pristine)
+   - $33.17 (Pristine, PSA 9)
+   - $50.37 (Pristine, PSA 10)
+   - $76.17 (Pristine, SGC 9)
+   - $102.00 (Pristine, PSA 10)
+   - $257.99 (Pristine)
+   - $136.89 (Pristine, PSA 10)
+   - $127.53 (Pristine)
+   - $51.75 (Pristine, PSA 10)
+   - $121.62 (Pristine)
+   - $1.17 (Pristine, PSA 10)
+   - $91.49 (Pristine, PSA 10)
+   - $104.53 (Pristine, PSA 10)
+   - $67.57 (Pristine, PSA 10)
+   - $36.86 (Pristine)
+   - $71.25 (Pristine, CGC 10)
+   - $14.93 (Pristine)
+   - $208.85 (Pristine)
+
+--- Aggregate ---
+Average: $78.19
+Low: $25.79
+High: $208.85

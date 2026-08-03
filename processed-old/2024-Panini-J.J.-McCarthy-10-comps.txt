@@ -1,0 +1,51 @@
+Card: J.J. McCarthy 2024 Panini #10
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:20:40.413Z
+
+--- SportsCardsPro ---
+Market Value: $338.00
+Average Price: $338.00
+
+--- eBay ---
+Market Value: $267.46
+Average Price: $267.46
+Range: $169.99 - $325.00
+Recent Sales:
+  May 15, 2026 - $225.00 (eBay, PSA 10)
+  May 12, 2026 - $169.99 (eBay, PSA 10)
+  May 11, 2026 - $300.00 (eBay, PSA 10)
+  May 10, 2026 - $325.00 (eBay, PSA 10)
+  May 10, 2026 - $268.00 (eBay, PSA 10)
+  May 4, 2026 - $223.50 (eBay, PSA 10)
+  Apr 30, 2026 - $208.95 (eBay, PSA 10)
+  Apr 30, 2026 - $252.00 (eBay, PSA 10)
+  Apr 24, 2026 - $245.00 (eBay, PSA 10)
+  Apr 6, 2026 - $275.00 (eBay, PSA 10)
+  Mar 7, 2026 - $305.00 (eBay, PSA 10)
+  Mar 7, 2026 - $324.94 (eBay, PSA 10)
+  Mar 2, 2026 - $291.00 (eBay, PSA 10)
+  Feb 27, 2026 - $295.00 (eBay, PSA 10)
+  Feb 25, 2026 - $255.00 (eBay, PSA 10)
+  Feb 23, 2026 - $275.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $262.50
+Average Price: $262.50
+Range: $215.00 - $305.00
+Recent Sales:
+   - $215.00 (eBay, PSA 10)
+   - $305.00 (eBay, PSA 10)
+   - $255.00 (eBay, PSA 10)
+   - $275.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $257.73
+Low: $208.95
+High: $305.00
+
+--- Population Report ---
+PSA 10 Pop: 9
+Total Graded: 14
+Percentile: Top 64.29%
+Rarity Tier: low
+Pop-Adjusted Average: $297.68 (+16%)

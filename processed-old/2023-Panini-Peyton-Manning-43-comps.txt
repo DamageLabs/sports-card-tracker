@@ -1,0 +1,36 @@
+Card: Peyton Manning 2023 Panini #43
+Condition: 10: GEM MINT
+Generated: 2026-05-21T13:03:38.499Z
+
+--- SportsCardsPro ---
+Market Value: $20.00
+Average Price: $20.00
+
+--- eBay ---
+Market Value: $799.50
+Average Price: $799.50
+Range: $799.00 - $800.00
+Recent Sales:
+  Apr 29, 2026 - $800.00 (eBay, PSA 10)
+  Apr 21, 2026 - $799.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $1398.47
+Average Price: $1398.47
+Range: $270.43 - $3025.00
+Recent Sales:
+   - $3025.00 (eBay, PSA 10)
+   - $899.99 (eBay, PSA 10)
+   - $270.43 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $1016.80
+Low: $270.43
+High: $3025.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1271.00 (+25%)

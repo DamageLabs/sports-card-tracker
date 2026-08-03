@@ -1,0 +1,107 @@
+Card: Tom Brady 2000 Pacific #110
+Condition: 9: MINT
+Generated: 2026-02-28T14:48:03.332Z
+
+--- SportsCardsPro ---
+Market Value: $13.53
+Average Price: $13.53
+
+--- eBay ---
+Market Value: $1685.50
+Average Price: $1685.50
+Range: $456.00 - $4925.00
+Recent Sales:
+  Feb 17, 2026 - $456.00 (eBay, PSA 9)
+  Dec 15, 2025 - $461.00 (eBay, PSA 9)
+  Jan 5, 2026 - $900.00 (eBay, PSA 9)
+  Feb 1, 2026 - $4925.00 (eBay, PSA 9)
+
+--- CardLadder ---
+Market Value: $910.80
+Average Price: $483.73
+Range: $375.00 - $855.00
+Recent Sales:
+  01/05/2026 - $855.00 (Card Ladder)
+  12/15/2025 - $461.00 (Card Ladder)
+  11/10/2025 - $699.00 (Card Ladder)
+  09/25/2025 - $549.00 (Card Ladder)
+  06/24/2025 - $410.00 (Card Ladder)
+  06/15/2025 - $432.00 (Card Ladder)
+  04/03/2025 - $599.99 (Card Ladder)
+  03/25/2025 - $458.00 (Card Ladder)
+  02/04/2025 - $410.00 (Card Ladder)
+  01/31/2025 - $375.00 (Card Ladder)
+  01/29/2025 - $400.04 (Card Ladder)
+  01/16/2025 - $400.42 (Card Ladder)
+  01/15/2025 - $407.45 (Card Ladder)
+  12/08/2024 - $384.00 (Card Ladder)
+  12/02/2024 - $415.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $1559.63
+Range: $410.00 - $4250.00
+Recent Sales:
+  2026-01-05 - $855.00 (jmcards-4)
+  2025-12-16 - $461.00 (probstein123)
+  2025-12-08 - $3960.00 (PWCC)
+  2025-12-04 - $1100.00 (betterarms)
+  2025-11-10 - $699.00 (PWCC)
+  2025-10-30 - $475.00 (zackra-69)
+  2025-10-24 - $617.49 (sportscardswinterhaven)
+  2025-10-17 - $3300.00 (psa)
+  2025-09-26 - $549.00 (Goldin Auctions)
+  2025-09-23 - $4250.00 (mc_sportscards)
+  2025-08-11 - $3250.00 (CardsHQ)
+  2025-06-26 - $2436.00 (probstein123)
+  2025-06-24 - $410.00 (westywest22)
+  2025-06-15 - $432.00 (PWCC)
+  2025-04-03 - $599.99 (hometeammemorabilia)
+
+--- 130Point ---
+Market Value: $437.05
+Average Price: $437.05
+Range: $67.59 - $3960.00
+Recent Sales:
+   - $461.00 (eBay, PSA 9)
+   - $3960.00 (PWCC, PSA 9)
+   - $1100.00 (eBay, PSA 9)
+   - $432.00 (PWCC, PSA 9)
+   - $458.00 (PWCC, PSA 9)
+   - $384.00 (PWCC, PSA 9)
+   - $420.00 (PWCC, PSA 9)
+   - $660.00 (PWCC, PSA 9)
+   - $720.00 (PWCC, PSA 9)
+   - $750.00 (PWCC, PSA 9)
+   - $3850.21 (PWCC, PSA 9)
+   - $900.01 (PWCC, PSA 9)
+   - $202.50 (PWCC, PSA 9)
+   - $218.25 (PWCC, PSA 9)
+   - $144.28 (PWCC, PSA 9)
+   - $147.50 (PWCC, PSA 9)
+   - $112.00 (PWCC, PSA 9)
+   - $114.62 (PWCC, PSA 9)
+   - $1025.00 (PWCC, PSA 9)
+   - $120.50 (PWCC, PSA 9)
+   - $272.21 (PWCC, PSA 9)
+   - $67.59 (PWCC, PSA 9)
+   - $80.99 (PWCC, PSA 9)
+
+--- PSA ---
+Market Value: $470.50
+Average Price: $470.50
+Range: $430.00 - $511.00
+Recent Sales:
+  Aug 25, 2018 - $430.00 (eBay, 9)
+  Aug 12, 2018 - $511.00 (eBay, 9)
+
+--- Aggregate ---
+Average: $728.86
+Low: $147.50
+High: $3850.21
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $911.07 (+25%)

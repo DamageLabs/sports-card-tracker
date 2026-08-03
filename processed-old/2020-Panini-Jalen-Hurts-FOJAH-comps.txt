@@ -1,0 +1,63 @@
+Card: Jalen Hurts 2020 Panini #FOJAH
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-02-28T14:47:43.007Z
+
+--- SportsCardsPro ---
+Market Value: $3.00
+Average Price: $3.00
+
+--- eBay ---
+Market Value: $413.25
+Average Price: $413.25
+Range: $227.50 - $599.00
+Recent Sales:
+  Feb 18, 2026 - $599.00 (eBay, PSA 8)
+  Jan 5, 2026 - $227.50 (eBay, PSA 8)
+
+--- CardLadder ---
+Market Value: $140.78
+Average Price: $175.56
+Range: $102.50 - $270.76
+Recent Sales:
+  09/19/2025 - $163.00 (Card Ladder)
+  02/14/2024 - $102.50 (Card Ladder)
+  11/08/2023 - $177.50 (Card Ladder)
+  10/09/2023 - $237.50 (Card Ladder)
+  02/11/2023 - $270.76 (Card Ladder)
+  06/10/2022 - $125.00 (Card Ladder)
+  08/06/2021 - $166.68 (Card Ladder)
+  04/12/2021 - $161.50 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $353.80
+Range: $353.80 - $353.80
+Recent Sales:
+  2023-12-01 - $353.80 (Goldin Auctions)
+
+--- 130Point ---
+Market Value: $353.80
+Average Price: $353.80
+Range: $353.80 - $353.80
+Recent Sales:
+   - $353.80 (Goldin)
+
+--- PSA ---
+Market Value: $265.52
+Average Price: $265.52
+Range: $256.00 - $283.00
+Recent Sales:
+  Apr 5, 2025 - $256.00 (eBay, 8)
+  Mar 27, 2023 - $283.00 (eBay, 8)
+  Mar 16, 2023 - $257.57 (eBay, 8)
+
+--- Aggregate ---
+Average: $306.62
+Low: $161.50
+High: $599.00
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $383.28 (+25%)

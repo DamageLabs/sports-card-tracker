@@ -1,0 +1,49 @@
+Card: Kenny Pickett 2022 Panini #RPA-KP
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:28:43.470Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $37.39
+Average Price: $37.39
+Range: $31.78 - $43.00
+Recent Sales:
+  Apr 26, 2026 - $43.00 (eBay, PSA 10)
+  May 6, 2026 - $31.78 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $26.30
+Average Price: $26.30
+Range: $1.99 - $225.00
+Recent Sales:
+   - $9.99 (eBay, PSA 10)
+   - $18.00 (eBay, PSA 10)
+   - $15.00 (eBay, PSA 10)
+   - $63.00 (eBay, PSA 10)
+   - $12.50 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $49.50 (eBay, PSA 10)
+   - $6.14 (eBay, PSA 10)
+   - $14.08 (eBay, PSA 10)
+   - $24.97 (eBay, PSA 10)
+   - $13.00 (eBay, PSA 10)
+   - $1.99 (eBay, PSA 10)
+   - $1.99 (eBay, PSA 10)
+   - $11.50 (eBay, PSA 10)
+   - $223.50 (eBay, PSA 10)
+   - $225.00 (eBay, PSA 10)
+   - $44.00 (eBay, PSA 10)
+   - $11.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $27.70
+Low: $6.14
+High: $75.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 3
+Percentile: Top 66.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $33.79 (+22%)

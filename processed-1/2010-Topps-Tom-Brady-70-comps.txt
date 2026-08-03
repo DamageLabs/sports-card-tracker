@@ -1,0 +1,54 @@
+Card: Tom Brady 2010 Topps #70
+Condition: RAW
+Generated: 2026-05-27T22:09:31.676Z
+
+--- SportsCardsPro ---
+Market Value: $13.23
+Average Price: $13.23
+
+--- eBay ---
+Market Value: $21.91
+Average Price: $21.91
+Range: $13.00 - $1995.00
+Recent Sales:
+  May 26, 2026 - $33.00 (eBay)
+  May 26, 2026 - $21.50 (eBay)
+  May 25, 2026 - $70.00 (eBay)
+  May 17, 2026 - $26.00 (eBay)
+  May 13, 2026 - $28.23 (eBay)
+  May 9, 2026 - $21.25 (eBay)
+  Apr 5, 2026 - $22.50 (eBay, PSA 6)
+  Apr 4, 2026 - $26.00 (eBay, CSG 8.5)
+  Mar 26, 2026 - $17.25 (eBay)
+  Mar 8, 2026 - $19.10 (eBay)
+  Mar 7, 2026 - $13.38 (eBay)
+  Mar 7, 2026 - $17.50 (eBay)
+  Mar 6, 2026 - $13.00 (eBay)
+  Mar 1, 2026 - $16.17 (eBay)
+  Mar 14, 2026 - $19.99 (eBay)
+  May 20, 2026 - $25.00 (eBay)
+  Mar 4, 2026 - $17.46 (eBay)
+  May 13, 2026 - $20.00 (eBay)
+  May 14, 2026 - $25.00 (eBay)
+  Apr 20, 2026 - $1995.00 (eBay)
+
+--- 130Point ---
+Market Value: $23.19
+Average Price: $23.19
+Range: $10.00 - $34.40
+Recent Sales:
+   - $22.50 (eBay, PSA 6)
+   - $26.00 (eBay, CSG 8.5)
+   - $17.25 (eBay)
+   - $10.00 (eBay)
+   - $34.40 (Pristine)
+   - $19.20 (PWCC, PSA 8)
+   - $31.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $25.32
+Median: $22.00
+Low: $17.25
+High: $70.00
+Projected PSA 10 Median: $31.00
+Projected PSA 9 Median: $69.03

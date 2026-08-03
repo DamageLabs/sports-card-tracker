@@ -1,0 +1,46 @@
+Card: Zekrom ex 2025 Pokemon #166
+Condition: 9: MINT
+Generated: 2026-05-29T13:06:46.614Z
+
+--- SportsCardsPro ---
+Market Value: $333.07
+Average Price: $333.07
+
+--- 130Point ---
+Market Value: $191.32
+Average Price: $191.32
+Range: $130.00 - $222.50
+Recent Sales:
+   - $210.00 (eBay, PSA 9)
+   - $210.00 (eBay, PSA 9)
+   - $222.50 (eBay, PSA 9)
+   - $198.50 (eBay, PSA 9)
+   - $192.50 (eBay, PSA 9)
+   - $207.00 (eBay, PSA 9)
+   - $190.00 (eBay, PSA 9)
+   - $130.00 (eBay, PSA 9)
+   - $179.19 (eBay, PSA 9)
+   - $195.50 (eBay, PSA 9)
+   - $180.00 (eBay, PSA 9)
+   - $199.00 (eBay, PSA 9)
+   - $196.35 (eBay, PSA 9)
+   - $175.00 (eBay, PSA 9)
+   - $177.50 (eBay, PSA 9)
+   - $189.50 (eBay, PSA 9)
+   - $169.50 (eBay, PSA 9)
+   - $190.88 (eBay, PSA 9)
+   - $192.50 (eBay, PSA 9)
+   - $190.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $191.46
+Median: $191.69
+Low: $175.00
+High: $210.00
+
+--- Population Report ---
+PSA 9 Pop: 3322
+Total Graded: 10105
+Percentile: Top 94.56%
+Rarity Tier: very-high
+Pop-Adjusted Average: $181.89 (-5%)

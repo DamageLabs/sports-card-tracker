@@ -1,0 +1,62 @@
+Card: Jackson Chourio 2024 Topps #161
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-03-01T00:20:34.225Z
+
+--- SportsCardsPro ---
+Market Value: $4.50
+Average Price: $4.50
+
+--- eBay ---
+Market Value: $84.50
+Average Price: $84.50
+Range: $29.99 - $139.00
+Recent Sales:
+  Dec 23, 2025 - $139.00 (eBay, CGC 10)
+  Jan 3, 2026 - $29.99 (eBay, CGC 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2024 Topps Chrome Jackson Chourio 161
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Topps Chrome Jackson Chourio #161 Refractor CGC 8
+
+--- 130Point ---
+Market Value: $31.09
+Average Price: $31.09
+Range: $0.99 - $210.00
+Recent Sales:
+   - $44.99 (eBay, PSA 10)
+   - $0.99 (eBay)
+   - $199.99 (eBay, PSA 10)
+   - $42.99 (eBay, PSA 10)
+   - $4.85 (eBay)
+   - $1.50 (eBay)
+   - $210.00 (eBay)
+   - $51.00 (eBay, PSA 10)
+   - $107.50 (Heritage)
+   - $4.25 (eBay)
+   - $21.71 (eBay, PSA 8)
+   - $0.99 (eBay)
+   - $8.00 (eBay)
+   - $178.45 (eBay)
+   - $53.00 (eBay, PSA 10)
+   - $5.50 (eBay)
+   - $70.00 (eBay)
+   - $10.00 (eBay)
+   - $150.00 (eBay)
+   - $19.99 (eBay)
+   - $175.00 (eBay, PSA 8)
+   - $3.99 (eBay)
+   - $55.00 (eBay)
+   - $1.25 (eBay)
+   - $7.51 (eBay)
+   - $1.15 (eBay)
+   - $10.00 (eBay)
+   - $2.99 (eBay)
+   - $3.75 (eBay)
+   - $5.50 (eBay)
+
+--- Aggregate ---
+Average: $38.56
+Low: $1.25
+High: $175.00

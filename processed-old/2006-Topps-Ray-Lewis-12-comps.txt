@@ -1,0 +1,39 @@
+Card: Ray Lewis 2006 Topps #12
+Condition: 9: MINT
+Generated: 2026-05-21T13:04:54.201Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $108.51
+Average Price: $108.51
+Range: $70.00 - $199.99
+Recent Sales:
+  Mar 31, 2026 - $125.52 (eBay, PSA 9)
+  Mar 19, 2026 - $100.00 (eBay, PSA 9)
+  Mar 23, 2026 - $199.99 (eBay, PSA 9)
+  May 9, 2026 - $70.00 (eBay, PSA 9)
+  May 8, 2026 - $100.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $106.83
+Average Price: $106.83
+Range: $28.52 - $150.00
+Recent Sales:
+   - $120.50 (eBay, PSA 9)
+   - $100.00 (eBay, PSA 9)
+   - $100.00 (eBay, PSA 9)
+   - $28.52 (eBay, PSA 9)
+   - $150.00 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $100.60
+Low: $70.00
+High: $150.00
+
+--- Population Report ---
+PSA 9 Pop: 5
+Total Graded: 8
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $118.71 (+18%)

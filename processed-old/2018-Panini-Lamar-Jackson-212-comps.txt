@@ -1,0 +1,54 @@
+Card: Lamar Jackson 2018 Panini #212
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:30:42.487Z
+
+--- SportsCardsPro ---
+Market Value: $15.00
+Average Price: $15.00
+
+--- eBay ---
+Market Value: $477.85
+Average Price: $477.85
+Range: $275.00 - $1699.00
+Recent Sales:
+  Apr 19, 2026 - $499.99 (eBay, PSA 10)
+  Mar 6, 2026 - $460.00 (eBay, PSA 10)
+  May 12, 2026 - $1699.00 (eBay, PSA 10)
+  May 16, 2026 - $305.00 (eBay, PSA 10)
+  May 1, 2026 - $1200.00 (eBay, PSA 10)
+  May 10, 2026 - $305.00 (eBay, PSA 10)
+  Apr 9, 2026 - $299.99 (eBay, PSA 10)
+  Apr 3, 2026 - $275.00 (eBay, PSA 10)
+  Mar 18, 2026 - $275.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $871.99
+Average Price: $871.99
+Range: $110.50 - $1881.00
+Recent Sales:
+   - $552.00 (PWCC, PSA 10)
+   - $576.00 (PWCC, PSA 10)
+   - $432.00 (PWCC, PSA 10)
+   - $504.00 (PWCC, PSA 10)
+   - $755.00 (PWCC, PSA 10)
+   - $1440.00 (PWCC, PSA 10)
+   - $630.00 (PWCC, PSA 10)
+   - $1650.00 (PWCC, PSA 10)
+   - $877.00 (PWCC, PSA 10)
+   - $1550.00 (PWCC, PSA 10)
+   - $598.88 (PWCC, PSA 10)
+   - $1237.00 (PWCC, PSA 10)
+   - $1881.00 (PWCC, PSA 10)
+   - $110.50 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $769.39
+Low: $299.99
+High: $1699.00
+
+--- Population Report ---
+PSA 10 Pop: 53
+Total Graded: 311
+Percentile: Top 17.04%
+Rarity Tier: medium
+Pop-Adjusted Average: $829.41 (+8%)

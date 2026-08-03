@@ -1,0 +1,38 @@
+Card: Marvin Harrison Jr. 2024 Panini #12
+Condition: 9: MINT
+Generated: 2026-05-19T04:04:08.735Z
+
+--- SportsCardsPro ---
+Market Value: $4.53
+Average Price: $4.53
+
+--- 130Point ---
+Market Value: $333.09
+Average Price: $333.09
+Range: $275.00 - $380.00
+Recent Sales:
+   - $275.00 (eBay, PSA 9)
+   - $316.00 (eBay, PSA 9)
+   - $335.00 (eBay, PSA 9)
+   - $358.00 (eBay, PSA 9)
+   - $349.99 (eBay, PSA 9)
+   - $325.00 (eBay, PSA 9)
+   - $350.00 (eBay, PSA 9)
+   - $310.00 (eBay, PSA 9)
+   - $330.00 (eBay, PSA 9)
+   - $380.00 (eBay, PSA 9)
+   - $335.00 (eBay, PSA 9)
+   - $345.00 (eBay, PSA 9)
+   - $310.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $333.04
+Low: $310.00
+High: $358.00
+
+--- Population Report ---
+PSA 9 Pop: 7
+Total Graded: 24
+Percentile: Top 29.17%
+Rarity Tier: low
+Pop-Adjusted Average: $387.99 (+17%)

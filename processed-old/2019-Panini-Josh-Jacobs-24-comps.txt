@@ -1,0 +1,32 @@
+Card: Josh Jacobs 2019 Panini #24
+Condition: 9: MINT
+Generated: 2026-05-21T05:25:07.920Z
+
+--- SportsCardsPro ---
+Market Value: $7.80
+Average Price: $7.80
+
+--- eBay ---
+Market Value: $94.70
+Average Price: $94.70
+Range: $51.00 - $157.50
+Recent Sales:
+  Feb 23, 2026 - $99.99 (eBay, BGS 9)
+  Apr 30, 2026 - $157.50 (eBay, BGS 9)
+  Apr 11, 2026 - $85.12 (eBay, BGS 9)
+  Mar 8, 2026 - $51.00 (eBay, BGS 9)
+  Mar 24, 2026 - $99.00 (eBay, BGS 9)
+
+--- 130Point ---
+Market Value: $468.12
+Average Price: $468.12
+Range: $93.60 - $1193.16
+Recent Sales:
+   - $1193.16 (Goldin)
+   - $93.60 (PWCC, BGS 9)
+   - $117.60 (Goldin)
+
+--- Aggregate ---
+Average: $116.95
+Low: $85.12
+High: $157.50

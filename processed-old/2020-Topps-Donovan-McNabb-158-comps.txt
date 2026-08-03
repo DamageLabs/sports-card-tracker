@@ -1,0 +1,74 @@
+Card: Donovan McNabb 2020 Topps #158
+Condition: RAW
+Generated: 2026-03-01T22:08:58.937Z
+
+--- SportsCardsPro ---
+Market Value: $466.50
+Average Price: $466.50
+
+--- eBay ---
+Market Value: $9.86
+Average Price: $9.86
+Range: $0.99 - $77.00
+Recent Sales:
+  Feb 27, 2026 - $10.89 (eBay)
+  Dec 3, 2025 - $1.50 (eBay)
+  Dec 22, 2025 - $24.99 (eBay, PSA 8)
+  Dec 7, 2025 - $77.00 (eBay, PSA 10)
+  Dec 30, 2025 - $24.99 (eBay, PSA 8)
+  Feb 14, 2026 - $5.50 (eBay)
+  Dec 13, 2025 - $16.50 (eBay)
+  Jan 14, 2026 - $1.50 (eBay)
+  Dec 29, 2025 - $1.25 (eBay)
+  Dec 27, 2025 - $2.99 (eBay)
+  Jan 27, 2026 - $8.48 (eBay)
+  Jan 28, 2026 - $3.25 (eBay)
+  Dec 14, 2025 - $23.54 (eBay)
+  Jan 17, 2026 - $6.50 (eBay)
+  Dec 26, 2025 - $19.50 (eBay, PSA 9)
+  Jan 26, 2026 - $0.99 (eBay)
+  Dec 18, 2025 - $2.99 (eBay)
+
+--- 130Point ---
+Market Value: $3.95
+Average Price: $3.95
+Range: $0.01 - $24.99
+Recent Sales:
+   - $4.00 (eBay)
+   - $3.49 (eBay)
+   - $0.01 (eBay)
+   - $0.99 (eBay)
+   - $1.31 (eBay)
+   - $1.80 (eBay)
+   - $2.50 (eBay)
+   - $1.00 (eBay)
+   - $15.00 (eBay)
+   - $10.51 (eBay, PSA 8)
+   - $1.09 (eBay)
+   - $1.99 (eBay)
+   - $15.00 (eBay)
+   - $5.50 (eBay)
+   - $1.99 (eBay)
+   - $6.52 (eBay)
+   - $4.76 (eBay)
+   - $0.99 (eBay)
+   - $3.25 (eBay)
+   - $0.99 (eBay)
+   - $8.03 (eBay)
+   - $10.00 (eBay)
+   - $2.00 (eBay)
+   - $1.79 (eBay)
+   - $24.99 (eBay, SGC 9)
+   - $6.50 (eBay)
+
+--- PSA ---
+Market Value: $9.99
+Average Price: $9.99
+Range: $9.99 - $9.99
+Recent Sales:
+  Apr 15, 2018 - $9.99 (eBay, 9)
+
+--- Aggregate ---
+Average: $5.96
+Low: $0.99
+High: $19.50

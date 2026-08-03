@@ -1,0 +1,47 @@
+Card: Shedeur Sanders 2023 Bowman #55B-SSA
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-03-02T01:07:22.350Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $137.50
+Average Price: $137.50
+Range: $124.99 - $150.00
+Recent Sales:
+  Feb 3, 2026 - $124.99 (eBay, PSA 8)
+  Jan 10, 2026 - $150.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $51.60
+Average Price: $51.60
+Range: $6.00 - $126.00
+Recent Sales:
+   - $6.99 (eBay, PSA 8)
+   - $6.00 (eBay, PSA 8)
+   - $126.00 (PWCC, PSA 8)
+   - $125.00 (PWCC, PSA 8)
+   - $108.00 (PWCC, PSA 8)
+   - $10.80 (PWCC, PSA 8)
+   - $7.20 (PWCC, PSA 8)
+
+--- PSA ---
+Market Value: $519.00
+Average Price: $519.00
+Range: $519.00 - $519.00
+Recent Sales:
+  Sep 18, 2024 - $519.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $85.45
+Low: $6.99
+High: $150.00
+
+--- Population Report ---
+PSA 8 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $106.82 (+25%)

@@ -1,0 +1,60 @@
+Card: Anthony Richardson 2022 Panini #XRCA-AR
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:03:29.647Z
+
+--- SportsCardsPro ---
+Market Value: $525.28
+Average Price: $525.28
+
+--- eBay ---
+Market Value: $144.69
+Average Price: $144.69
+Range: $36.88 - $795.00
+Recent Sales:
+  Mar 6, 2026 - $79.99 (eBay, PSA 10)
+  Feb 20, 2026 - $99.99 (eBay, PSA 10)
+  Mar 2, 2026 - $75.00 (eBay, PSA 10)
+  Mar 8, 2026 - $90.00 (eBay, PSA 10)
+  May 4, 2026 - $100.00 (eBay, PSA 10)
+  May 18, 2026 - $36.88 (eBay, PSA 10)
+  Apr 23, 2026 - $795.00 (eBay, PSA 10)
+  Apr 27, 2026 - $300.00 (eBay, PSA 10)
+  Mar 6, 2026 - $113.50 (eBay, PSA 10)
+  May 7, 2026 - $299.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $85.97
+Average Price: $85.97
+Range: $7.50 - $1140.00
+Recent Sales:
+   - $220.00 (eBay, PSA 10)
+   - $19.95 (eBay, PSA 10)
+   - $110.00 (eBay, PSA 10)
+   - $172.50 (eBay, PSA 10)
+   - $23.62 (eBay, PSA 10)
+   - $33.80 (eBay, PSA 10)
+   - $103.99 (eBay, PSA 10)
+   - $15.99 (eBay, PSA 10)
+   - $52.83 (Pristine, PSA 10)
+   - $113.50 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $110.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $9.50 (eBay, PSA 10)
+   - $7.50 (eBay, PSA 10)
+   - $1140.00 (PWCC, PSA 10)
+   - $18.43 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $121.58
+Low: $18.43
+High: $300.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $151.98 (+25%)

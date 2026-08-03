@@ -1,0 +1,42 @@
+Card: Audric Estime 2024 Topps #RCC-AE
+Condition: RAW
+Generated: 2026-03-01T20:30:19.440Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $3.73
+Average Price: $3.73
+Range: $1.00 - $29.99
+Recent Sales:
+  Jan 20, 2026 - $3.25 (eBay)
+  Dec 19, 2025 - $5.49 (eBay)
+  Dec 14, 2025 - $1.90 (eBay)
+  Dec 20, 2025 - $3.99 (eBay)
+  Feb 16, 2026 - $2.00 (eBay)
+  Dec 19, 2025 - $29.99 (eBay)
+  Dec 22, 2025 - $1.00 (eBay)
+  Feb 4, 2026 - $2.45 (eBay)
+  Dec 18, 2025 - $1.25 (eBay)
+  Feb 11, 2026 - $9.49 (eBay)
+
+--- 130Point ---
+Market Value: $5.58
+Average Price: $5.58
+Range: $3.25 - $9.49
+Recent Sales:
+   - $9.49 (eBay)
+   - $4.00 (eBay)
+   - $3.25 (eBay)
+
+--- PSA ---
+Market Value: $52.00
+Average Price: $52.00
+Range: $52.00 - $52.00
+Recent Sales:
+  Oct 13, 2025 - $52.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $4.45
+Low: $1.90
+High: $9.49

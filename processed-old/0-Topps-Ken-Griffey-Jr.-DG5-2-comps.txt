@@ -1,0 +1,46 @@
+Card: Ken Griffey Jr. 0 Topps #DG5-2
+Condition: RAW
+Generated: 2026-05-07T23:47:44.337Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $30.47
+Average Price: $30.47
+Range: $3.25 - $499.99
+Recent Sales:
+  Apr 25, 2026 - $3.25 (eBay)
+  Apr 11, 2026 - $499.99 (eBay, PSA 8)
+  Mar 5, 2026 - $19.96 (eBay)
+  Feb 26, 2026 - $3.99 (eBay)
+  Apr 19, 2026 - $65.00 (eBay)
+  May 2, 2026 - $45.00 (eBay, BGS 9.5)
+  Apr 14, 2026 - $19.88 (eBay)
+  Apr 1, 2026 - $28.99 (eBay)
+
+--- 130Point ---
+Market Value: $9.68
+Average Price: $9.68
+Range: $2.00 - $475.00
+Recent Sales:
+   - $21.27 (Pristine)
+   - $10.90 (Pristine, CGC 7.5)
+   - $30.71 (Pristine)
+   - $15.97 (Pristine, CGC 8)
+   - $475.00 (Goldin)
+   - $2.00 (eBay)
+   - $6.00 (eBay)
+   - $5.74 (eBay)
+   - $5.99 (eBay)
+   - $9.50 (eBay)
+   - $6.67 (eBay)
+   - $10.62 (eBay)
+   - $4.81 (eBay)
+   - $14.74 (Pristine)
+   - $4.00 (eBay)
+   - $3.50 (eBay)
+
+--- Aggregate ---
+Average: $17.74
+Low: $3.25
+High: $65.00

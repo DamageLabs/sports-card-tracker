@@ -1,0 +1,79 @@
+Card: Michael Jordan 1990 Fleer #26
+Condition: 10: GEM MINT
+Generated: 2026-05-29T13:19:09.394Z
+
+--- SportsCardsPro ---
+Market Value: $13.17
+Average Price: $13.17
+
+--- eBay ---
+Market Value: $661.13
+Average Price: $661.13
+Range: $60.00 - $750.00
+Recent Sales:
+  May 29, 2026 - $60.00 (eBay, PSA 10)
+  May 28, 2026 - $750.00 (eBay, PSA 10)
+  May 27, 2026 - $650.00 (eBay, PSA 10)
+  May 27, 2026 - $692.00 (eBay, PSA 10)
+  May 27, 2026 - $670.00 (eBay, PSA 10)
+  May 27, 2026 - $663.00 (eBay, PSA 10)
+  May 27, 2026 - $670.00 (eBay, PSA 10)
+  May 27, 2026 - $655.00 (eBay, PSA 10)
+  May 26, 2026 - $633.00 (eBay, PSA 10)
+  May 26, 2026 - $656.00 (eBay, PSA 10)
+  May 26, 2026 - $645.00 (eBay, PSA 10)
+  May 26, 2026 - $699.99 (eBay, PSA 10)
+  May 25, 2026 - $701.00 (eBay, PSA 10)
+  May 24, 2026 - $635.00 (eBay, PSA 10)
+  May 24, 2026 - $627.00 (eBay, PSA 10)
+  May 24, 2026 - $670.00 (eBay, PSA 10)
+  May 24, 2026 - $710.00 (eBay, PSA 10)
+  May 24, 2026 - $621.00 (eBay, PSA 10)
+  May 24, 2026 - $650.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $534.58
+Average Price: $534.58
+Range: $295.00 - $699.99
+Recent Sales:
+   - $636.36 (Pristine, PSA 10)
+   - $575.00 (eBay, PSA 10)
+   - $545.00 (eBay, PSA 10)
+   - $484.00 (eBay, PSA 10)
+   - $699.99 (eBay, PSA 10)
+   - $596.00 (eBay, PSA 10)
+   - $596.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+   - $698.00 (eBay, PSA 10)
+   - $570.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+   - $570.00 (eBay, PSA 10)
+   - $529.00 (eBay, PSA 10)
+   - $500.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+   - $495.00 (eBay, PSA 10)
+   - $535.00 (eBay, PSA 10)
+   - $532.50 (eBay, PSA 10)
+   - $525.00 (eBay, PSA 10)
+   - $520.00 (eBay, PSA 10)
+   - $450.00 (eBay, PSA 10)
+   - $480.00 (eBay, PSA 10)
+   - $510.00 (eBay, PSA 10)
+   - $500.00 (eBay, PSA 10)
+   - $475.00 (eBay, PSA 10)
+   - $505.00 (eBay, PSA 10)
+   - $295.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $563.81
+Median: $550.00
+Low: $475.00
+High: $698.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 17
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $704.76 (+25%)

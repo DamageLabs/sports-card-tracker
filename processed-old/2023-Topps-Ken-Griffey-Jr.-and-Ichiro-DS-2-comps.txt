@@ -1,0 +1,52 @@
+Card: Ken Griffey Jr. and Ichiro 2023 Topps #DS-2
+Condition: RAW
+Generated: 2026-05-04T23:47:28.561Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $6.35
+Average Price: $6.35
+Range: $4.25 - $7.99
+Recent Sales:
+  Apr 21, 2026 - $6.99 (eBay)
+  Apr 5, 2026 - $5.49 (eBay)
+  Apr 17, 2026 - $5.99 (eBay)
+  Apr 4, 2026 - $5.00 (eBay)
+  Feb 15, 2026 - $7.50 (eBay)
+  Apr 14, 2026 - $7.99 (eBay)
+  May 4, 2026 - $6.50 (eBay)
+  Mar 31, 2026 - $6.00 (eBay)
+  Apr 26, 2026 - $4.25 (eBay)
+  Apr 1, 2026 - $6.99 (eBay)
+  Apr 14, 2026 - $7.99 (eBay)
+  Feb 28, 2026 - $5.00 (eBay)
+
+--- 130Point ---
+Market Value: $9.99
+Average Price: $9.99
+Range: $2.25 - $30.71
+Recent Sales:
+   - $30.71 (Pristine)
+   - $21.27 (Pristine)
+   - $10.90 (Pristine)
+   - $14.74 (Pristine)
+   - $6.14 (Pristine)
+   - $18.43 (Pristine)
+   - $24.88 (eBay)
+   - $7.99 (eBay)
+   - $6.99 (eBay)
+   - $7.99 (eBay)
+   - $8.99 (eBay)
+   - $7.00 (eBay)
+   - $7.99 (eBay)
+   - $8.00 (eBay)
+   - $5.99 (eBay)
+   - $5.69 (eBay)
+   - $2.25 (eBay)
+   - $7.50 (eBay)
+
+--- Aggregate ---
+Average: $8.02
+Low: $5.00
+High: $21.27

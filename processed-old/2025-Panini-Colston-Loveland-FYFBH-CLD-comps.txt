@@ -1,0 +1,62 @@
+Card: Colston Loveland 2025 Panini #FYFBH-CLD
+Condition: RAW
+Generated: 2026-05-07T12:35:49.048Z
+
+--- SportsCardsPro ---
+Market Value: $4.02
+Average Price: $4.02
+
+--- eBay ---
+Market Value: $5.63
+Average Price: $5.63
+Range: $3.00 - $19.95
+Recent Sales:
+  May 6, 2026 - $3.75 (eBay)
+  May 6, 2026 - $6.00 (eBay)
+  Apr 23, 2026 - $4.00 (eBay)
+  Apr 19, 2026 - $5.00 (eBay)
+  May 3, 2026 - $3.00 (eBay)
+  Mar 28, 2026 - $6.99 (eBay)
+  Apr 12, 2026 - $5.00 (eBay)
+  Mar 14, 2026 - $4.90 (eBay)
+  Mar 2, 2026 - $7.00 (eBay)
+  Apr 24, 2026 - $5.00 (eBay)
+  Apr 14, 2026 - $4.99 (eBay)
+  Apr 11, 2026 - $4.99 (eBay)
+  Apr 16, 2026 - $6.50 (eBay)
+  Apr 30, 2026 - $5.00 (eBay)
+  Apr 28, 2026 - $5.50 (eBay)
+  Mar 9, 2026 - $6.99 (eBay)
+  Mar 10, 2026 - $19.95 (eBay)
+  Mar 14, 2026 - $8.99 (eBay)
+  Mar 28, 2026 - $9.99 (eBay)
+  Apr 11, 2026 - $5.00 (eBay)
+
+--- 130Point ---
+Market Value: $6.46
+Average Price: $6.46
+Range: $1.00 - $40.00
+Recent Sales:
+   - $40.00 (eBay)
+   - $3.99 (eBay)
+   - $5.00 (eBay)
+   - $4.99 (eBay)
+   - $5.50 (eBay)
+   - $5.00 (eBay)
+   - $2.25 (eBay)
+   - $6.50 (eBay)
+   - $7.99 (eBay)
+   - $9.99 (eBay)
+   - $6.99 (eBay)
+   - $7.50 (eBay)
+   - $1.00 (eBay)
+   - $4.99 (eBay)
+   - $6.50 (eBay)
+   - $6.99 (eBay)
+   - $10.25 (eBay)
+   - $8.50 (eBay)
+
+--- Aggregate ---
+Average: $5.85
+Low: $3.00
+High: $9.99

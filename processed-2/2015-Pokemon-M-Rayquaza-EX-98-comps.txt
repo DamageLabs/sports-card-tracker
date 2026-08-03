@@ -1,0 +1,47 @@
+Card: M Rayquaza EX 2015 Pokemon #98
+Condition: 9: MINT
+Generated: 2026-06-01T22:33:50.892Z
+
+--- SportsCardsPro ---
+Market Value: $3424.50
+Average Price: $3424.50
+
+--- eBay ---
+Market Value: $2130.00
+Average Price: $2130.00
+Range: $1795.00 - $2749.00
+Recent Sales:
+  May 9, 2026 - $2500.00 (eBay, PSA 9)
+  May 27, 2026 - $2749.00 (eBay, PSA 9)
+  May 22, 2026 - $2000.00 (eBay, PSA 9)
+  Apr 10, 2026 - $2000.00 (eBay, PSA 9)
+  May 12, 2026 - $2350.00 (eBay, PSA 9)
+  Apr 5, 2026 - $1800.00 (eBay, PSA 9)
+  Mar 22, 2026 - $1795.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $535.74
+Average Price: $535.74
+Range: $38.00 - $1890.00
+Recent Sales:
+   - $38.00 (eBay, PSA 9)
+   - $84.99 (eBay, PSA 9)
+   - $1890.00 (eBay, PSA 9)
+   - $675.00 (eBay, PSA 9)
+   - $1888.99 (eBay, PSA 9)
+   - $157.00 (eBay, PSA 9)
+   - $299.95 (eBay, PSA 9)
+   - $108.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $1413.37
+Median: $1800.00
+Low: $84.99
+High: $2749.00
+
+--- Population Report ---
+PSA 9 Pop: 10
+Total Graded: 56
+Percentile: Top 28.57%
+Rarity Tier: low
+Pop-Adjusted Average: $1625.38 (+15%)

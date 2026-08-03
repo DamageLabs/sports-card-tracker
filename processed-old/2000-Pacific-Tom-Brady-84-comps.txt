@@ -1,0 +1,71 @@
+Card: Tom Brady 2000 Pacific #84
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-23T01:10:36.435Z
+
+--- SportsCardsPro ---
+Market Value: $13.23
+Average Price: $13.23
+
+--- eBay ---
+Market Value: $120.19
+Average Price: $120.19
+Range: $90.00 - $140.00
+Recent Sales:
+  May 18, 2026 - $140.00 (eBay, PSA 8)
+  May 13, 2026 - $139.99 (eBay, PSA 8)
+  May 12, 2026 - $125.00 (eBay, PSA 8)
+  May 7, 2026 - $112.50 (eBay, PSA 8)
+  Apr 22, 2026 - $113.58 (eBay, PSA 8)
+  Apr 21, 2026 - $113.50 (eBay, PSA 8)
+  Apr 9, 2026 - $115.00 (eBay, PSA 8)
+  Mar 31, 2026 - $90.00 (eBay, PSA 8)
+  Mar 28, 2026 - $140.00 (eBay, PSA 8)
+  Mar 19, 2026 - $129.99 (eBay, PSA 8)
+  Mar 8, 2026 - $102.51 (eBay, PSA 8)
+  Mar 8, 2026 - $92.51 (eBay, PSA 8)
+  Mar 5, 2026 - $129.99 (eBay, PSA 8)
+  Mar 4, 2026 - $126.50 (eBay, PSA 8)
+  Mar 2, 2026 - $113.50 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $115.33
+Average Price: $115.33
+Range: $60.00 - $450.00
+Recent Sales:
+   - $110.00 (eBay, PSA 8)
+   - $90.00 (eBay, PSA 8)
+   - $130.00 (eBay, PSA 8)
+   - $129.99 (eBay, PSA 8)
+   - $105.30 (Pristine, PSA 8)
+   - $86.40 (PWCC, PSA 8)
+   - $95.00 (PWCC, PSA 8)
+   - $81.60 (PWCC, PSA 8)
+   - $85.00 (PWCC, PSA 8)
+   - $93.60 (PWCC, PSA 8)
+   - $69.60 (PWCC, PSA 8)
+   - $72.00 (PWCC, PSA 8)
+   - $93.60 (PWCC, PSA 8)
+   - $93.60 (PWCC, PSA 8)
+   - $110.40 (PWCC, PSA 8)
+   - $132.00 (PWCC, PSA 8)
+   - $112.80 (PWCC, PSA 8)
+   - $198.00 (PWCC, PSA 8)
+   - $210.00 (PWCC, PSA 8)
+   - $198.00 (PWCC, PSA 8)
+   - $170.00 (PWCC, PSA 8)
+   - $280.00 (MySlabs, PSA 8)
+   - $76.00 (PWCC, PSA 8)
+   - $60.00 (PWCC, PSA 8)
+   - $450.00 (PWCC, PSA 8)
+
+--- Aggregate ---
+Average: $117.87
+Low: $81.60
+High: $198.00
+
+--- Population Report ---
+PSA 8 Pop: 11
+Total Graded: 40
+Percentile: Top 77.5%
+Rarity Tier: low
+Pop-Adjusted Average: $135.08 (+15%)

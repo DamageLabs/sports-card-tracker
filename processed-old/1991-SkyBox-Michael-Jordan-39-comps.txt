@@ -1,0 +1,146 @@
+Card: Michael Jordan 1991 SkyBox #39
+Condition: 10: GEM MINT
+Generated: 2026-02-28T23:42:42.748Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $182.03
+Average Price: $182.03
+Range: $153.76 - $269.33
+Recent Sales:
+  Feb 26, 2026 - $163.50 (eBay, PSA 10)
+  Feb 26, 2026 - $199.99 (eBay, PSA 10)
+  Feb 25, 2026 - $173.50 (eBay, PSA 10)
+  Feb 25, 2026 - $155.00 (eBay, PSA 10)
+  Feb 23, 2026 - $269.33 (eBay, PSA 10)
+  Feb 21, 2026 - $195.00 (eBay, PSA 10)
+  Feb 21, 2026 - $199.99 (eBay, PSA 10)
+  Feb 18, 2026 - $171.01 (eBay, PSA 10)
+  Feb 18, 2026 - $180.00 (eBay, PSA 10)
+  Feb 16, 2026 - $213.54 (eBay, PSA 10)
+  Feb 15, 2026 - $199.00 (eBay, PSA 10)
+  Feb 15, 2026 - $178.50 (eBay, PSA 10)
+  Feb 15, 2026 - $185.00 (eBay, PSA 10)
+  Feb 13, 2026 - $175.00 (eBay, PSA 10)
+  Feb 13, 2026 - $196.46 (eBay, PSA 10)
+  Feb 12, 2026 - $175.00 (eBay, PSA 10)
+  Feb 9, 2026 - $179.00 (eBay, PSA 10)
+  Feb 9, 2026 - $155.00 (eBay, PSA 10)
+  Feb 8, 2026 - $153.76 (eBay, PSA 10)
+  Feb 6, 2026 - $177.50 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $105.00
+Average Price: $97.27
+Range: $75.00 - $111.50
+Recent Sales:
+  02/28/2026 - $105.00 (Card Ladder)
+  02/27/2026 - $105.67 (Card Ladder)
+  02/25/2026 - $102.50 (Card Ladder)
+  02/23/2026 - $110.00 (Card Ladder)
+  02/22/2026 - $99.97 (Card Ladder)
+  02/21/2026 - $92.00 (Card Ladder)
+  02/18/2026 - $111.50 (Card Ladder)
+  02/16/2026 - $96.33 (Card Ladder)
+  02/13/2026 - $88.00 (Card Ladder)
+  02/11/2026 - $92.00 (Card Ladder)
+  02/10/2026 - $75.00 (Card Ladder)
+  02/08/2026 - $95.00 (Card Ladder)
+  02/05/2026 - $102.50 (Card Ladder)
+  02/04/2026 - $88.56 (Card Ladder)
+  02/01/2026 - $95.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $181.05
+Range: $163.50 - $211.26
+Recent Sales:
+  2026-02-26 - $163.50 (carlee_1582)
+  2026-02-26 - $199.99 (psa)
+  2026-02-26 - $173.50 (4_sharp_corners)
+  2026-02-22 - $195.00 (hallbeckards)
+  2026-02-21 - $199.99 (icfresh)
+  2026-02-19 - $171.01 (dcsports87)
+  2026-02-18 - $175.00 (perhamspo85)
+  2026-02-17 - $211.26 (alex-2133)
+  2026-02-16 - $179.00 (psa)
+  2026-02-16 - $178.50 (psa)
+  2026-02-15 - $175.00 (mr.collector817)
+  2026-02-14 - $170.00 (kengus34)
+  2026-02-14 - $175.00 (rmessner34)
+  2026-02-12 - $170.00 (emptytheattic85)
+  2026-02-10 - $179.00 (danshe_6618)
+
+--- 130Point ---
+Market Value: $173.62
+Average Price: $173.62
+Range: $148.00 - $299.99
+Recent Sales:
+   - $173.50 (eBay, PSA 10)
+   - $195.00 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $171.01 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $212.19 (eBay, PSA 10)
+   - $179.00 (eBay, PSA 10)
+   - $178.50 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $179.00 (eBay, PSA 10)
+   - $153.76 (eBay, PSA 10)
+   - $177.50 (eBay, PSA 10)
+   - $177.50 (eBay, PSA 10)
+   - $165.00 (eBay, PSA 10)
+   - $215.00 (eBay, PSA 10)
+   - $149.50 (eBay, PSA 10)
+   - $148.00 (eBay, PSA 10)
+   - $162.50 (eBay, PSA 10)
+   - $158.05 (eBay, PSA 10)
+   - $165.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $168.50 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $299.99 (eBay, PSA 10)
+   - $179.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $138.75
+Average Price: $138.75
+Range: $112.50 - $203.50
+Recent Sales:
+  Feb 2, 2026 - $177.50 (eBay, 10)
+  Jan 7, 2026 - $200.47 (eBay, 10)
+  Dec 31, 2025 - $160.00 (eBay, 10)
+  Dec 19, 2025 - $154.15 (eBay, 10)
+  Dec 12, 2025 - $137.50 (eBay, 10)
+  Dec 8, 2025 - $137.50 (eBay, 10)
+  Dec 5, 2025 - $128.10 (eBay, 10)
+  Nov 24, 2025 - $162.50 (eBay, 10)
+  Nov 21, 2025 - $147.50 (eBay, 10)
+  Nov 17, 2025 - $112.50 (eBay, 10)
+  Nov 14, 2025 - $128.50 (eBay, 10)
+  Nov 10, 2025 - $137.50 (eBay, 10)
+  Nov 7, 2025 - $122.50 (eBay, 10)
+  Nov 3, 2025 - $203.50 (eBay, 10)
+  Oct 31, 2025 - $117.50 (eBay, 10)
+  Oct 30, 2025 - $177.50 (eBay, 10)
+  Oct 24, 2025 - $121.00 (eBay, 10)
+  Oct 20, 2025 - $122.50 (eBay, 10)
+  Oct 17, 2025 - $114.10 (eBay, 10)
+  Oct 17, 2025 - $118.50 (eBay, 10)
+  Oct 13, 2025 - $126.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $166.69
+Low: $102.50
+High: $199.99
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 3
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $208.37 (+25%)

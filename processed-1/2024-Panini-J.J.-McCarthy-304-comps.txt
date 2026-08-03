@@ -1,0 +1,27 @@
+Card: J.J. McCarthy 2024 Panini #304
+Condition: RAW
+Generated: 2026-05-26T18:09:48.846Z
+
+--- SportsCardsPro ---
+Market Value: $8.95
+Average Price: $8.95
+
+--- 130Point ---
+Market Value: $24.31
+Average Price: $24.31
+Range: $1.99 - $149.33
+Recent Sales:
+   - $10.00 (eBay)
+   - $3.25 (eBay)
+   - $1.99 (eBay)
+   - $39.00 (eBay)
+   - $45.00 (eBay)
+   - $149.33 (Pristine, SGC 9.5)
+
+--- Aggregate ---
+Average: $32.87
+Median: $24.50
+Low: $1.99
+High: $149.33
+Projected PSA 10 Median: $47.22
+Projected PSA 9 Median: $22.50

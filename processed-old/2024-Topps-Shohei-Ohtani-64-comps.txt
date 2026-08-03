@@ -1,0 +1,49 @@
+Card: Shohei Ohtani 2024 Topps #64
+Condition: 9.5: MINT+
+Generated: 2026-03-01T03:07:56.062Z
+
+--- SportsCardsPro ---
+Market Value: $17.99
+Average Price: $17.99
+
+--- eBay ---
+Market Value: $14.00
+Average Price: $14.00
+Range: $9.50 - $46.00
+Recent Sales:
+  Feb 5, 2026 - $29.99 (eBay, CGC 9.5)
+  Jan 2, 2026 - $19.99 (eBay, CGC 9.5)
+  Jan 5, 2026 - $46.00 (eBay, CGC 9.5)
+  Feb 28, 2026 - $20.00 (eBay, CGC 9.5)
+  Feb 17, 2026 - $12.99 (eBay, CGC 9.5)
+  Feb 8, 2026 - $20.89 (eBay, CGC 9.5)
+  Dec 13, 2025 - $9.99 (eBay, CGC 9.5)
+  Feb 19, 2026 - $11.99 (eBay, CGC 9.5)
+  Feb 8, 2026 - $9.50 (eBay, CGC 9.5)
+  Dec 25, 2025 - $10.61 (eBay, CGC 9.5)
+  Dec 27, 2025 - $10.50 (eBay, CGC 9.5)
+  Feb 28, 2026 - $12.00 (eBay, CGC 9.5)
+  Feb 14, 2026 - $9.99 (eBay, CGC 9.5)
+  Jan 29, 2026 - $10.99 (eBay, CGC 9.5)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2024 Topps 50/50 Shohei Ohtani 64
+
+--- MarketMovers ---
+Average Price: $14.53
+Range: $9.06 - $20.00
+Recent Sales:
+  2026-02-06 - $20.00 (utlx1159)
+  2025-11-24 - $9.06 (dcsports87)
+
+--- 130Point ---
+Market Value: $20.00
+Average Price: $20.00
+Range: $20.00 - $20.00
+Recent Sales:
+   - $20.00 (eBay, CGC 9.5)
+
+--- Aggregate ---
+Average: $15.14
+Low: $9.99
+High: $20.89

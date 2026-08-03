@@ -1,0 +1,77 @@
+Card: Victor Wembanyama 2024 Panini #2
+Condition: RAW
+Generated: 2026-05-04T23:58:54.542Z
+
+--- SportsCardsPro ---
+Market Value: $10.47
+Average Price: $10.47
+
+--- eBay ---
+Market Value: $12.55
+Average Price: $12.55
+Range: $0.99 - $19999.00
+Recent Sales:
+  May 4, 2026 - $5.00 (eBay)
+  Apr 20, 2026 - $5.00 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 3, 2026 - $0.99 (eBay)
+  May 2, 2026 - $49.88 (eBay)
+  Apr 30, 2026 - $2.25 (eBay)
+  Apr 30, 2026 - $4.99 (eBay)
+  Apr 29, 2026 - $18.50 (eBay)
+  Apr 28, 2026 - $1.50 (eBay)
+  Apr 28, 2026 - $19999.00 (eBay)
+  Apr 28, 2026 - $5.00 (eBay)
+  Apr 28, 2026 - $9.99 (eBay)
+  Oct 25, 2025 - $2.00 (eBay)
+  Apr 27, 2026 - $4.99 (eBay)
+  Apr 26, 2026 - $3.99 (eBay)
+  Apr 25, 2026 - $60.00 (eBay)
+  Apr 25, 2026 - $67.00 (eBay, PSA 9)
+  Apr 25, 2026 - $2.63 (eBay)
+
+--- MarketMovers ---
+Average Price: $14.78
+Range: $0.99 - $125.00
+Recent Sales:
+  2026-04-29 - $5.00 (pfra6436)
+  2026-04-25 - $2.63 (ray65138613)
+  2026-04-20 - $12.75 (ray65138613)
+  2026-04-10 - $7.99 (sportyspicecollectibles)
+  2026-04-07 - $19.99 (columbusmilsales)
+  2026-04-07 - $5.99 (shvande_77)
+  2026-04-02 - $4.00 (johnson980)
+  2026-03-27 - $125.00 (basketcasebreaks)
+  2026-03-20 - $4.95 (corydoncardsandcollectibles)
+  2026-03-19 - $4.99 (kern_collections)
+  2026-03-19 - $2.35 (hermba-0)
+  2026-03-18 - $15.00 (psa)
+  2026-03-10 - $0.99 (wiretowire4)
+  2026-03-09 - $3.00 (benjas_treasure_box)
+  2026-03-05 - $7.00 (riverfrontrips)
+
+--- 130Point ---
+Market Value: $5.66
+Average Price: $5.66
+Range: $1.79 - $125.00
+Recent Sales:
+   - $7.99 (eBay)
+   - $19.99 (eBay)
+   - $5.99 (eBay)
+   - $4.00 (eBay)
+   - $1.79 (eBay)
+   - $125.00 (eBay, PSA 10)
+   - $4.50 (eBay)
+   - $4.99 (eBay)
+   - $2.35 (eBay)
+   - $15.00 (eBay, PSA 8)
+   - $3.00 (eBay)
+   - $3.00 (eBay)
+   - $6.50 (eBay)
+   - $4.00 (eBay)
+   - $3.31 (eBay)
+
+--- Aggregate ---
+Average: $9.62
+Low: $2.25
+High: $60.00

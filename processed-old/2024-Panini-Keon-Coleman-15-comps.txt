@@ -1,0 +1,56 @@
+Card: Keon Coleman 2024 Panini #15
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:29:10.274Z
+
+--- SportsCardsPro ---
+Market Value: $4.99
+Average Price: $4.99
+
+--- eBay ---
+Market Value: $218.23
+Average Price: $218.23
+Range: $175.00 - $259.99
+Recent Sales:
+  May 16, 2026 - $193.50 (eBay, PSA 10)
+  May 14, 2026 - $220.00 (eBay, PSA 10)
+  May 10, 2026 - $223.50 (eBay, PSA 10)
+  May 8, 2026 - $259.99 (eBay, PSA 10)
+  May 4, 2026 - $199.00 (eBay, PSA 10)
+  Apr 20, 2026 - $250.00 (eBay, PSA 10)
+  Apr 9, 2026 - $175.00 (eBay, PSA 10)
+  Apr 7, 2026 - $235.00 (eBay, PSA 10)
+  Apr 7, 2026 - $199.99 (eBay, PSA 10)
+  Apr 6, 2026 - $215.00 (eBay, PSA 10)
+  Apr 6, 2026 - $197.50 (eBay, PSA 10)
+  Mar 31, 2026 - $225.00 (eBay, PSA 10)
+  Mar 30, 2026 - $197.50 (eBay, PSA 10)
+  Mar 28, 2026 - $219.99 (eBay, PSA 10)
+  Mar 15, 2026 - $234.50 (eBay, PSA 10)
+  Mar 4, 2026 - $195.00 (eBay, PSA 10)
+  Mar 1, 2026 - $249.99 (eBay, PSA 10)
+  Feb 24, 2026 - $246.50 (eBay, PSA 10)
+  Feb 24, 2026 - $215.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $200.25
+Average Price: $200.25
+Range: $175.00 - $235.00
+Recent Sales:
+   - $175.00 (eBay, PSA 10)
+   - $235.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $191.00 (eBay, PSA 10)
+   - $195.00 (eBay, PSA 10)
+   - $215.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $214.79
+Low: $191.00
+High: $250.00
+
+--- Population Report ---
+PSA 10 Pop: 8
+Total Graded: 10
+Percentile: Top 80%
+Rarity Tier: low
+Pop-Adjusted Average: $249.15 (+16%)

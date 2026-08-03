@@ -1,0 +1,35 @@
+Card: Julio Jones 2011 Panini #221A
+Condition: 9: MINT
+Generated: 2026-05-21T05:25:44.810Z
+
+--- SportsCardsPro ---
+Market Value: $12.95
+Average Price: $12.95
+
+--- eBay ---
+Market Value: $155.83
+Average Price: $155.83
+Range: $99.99 - $1850.00
+Recent Sales:
+  Mar 9, 2026 - $99.99 (eBay, BGS 9)
+  Apr 1, 2026 - $117.50 (eBay, BGS 9)
+  Apr 12, 2026 - $250.00 (eBay, BGS 9)
+  May 2, 2026 - $1850.00 (eBay, BGS 9)
+  Apr 13, 2026 - $99.99 (eBay, BGS 9)
+
+--- 130Point ---
+Market Value: $132.82
+Average Price: $132.82
+Range: $27.60 - $510.00
+Recent Sales:
+   - $85.00 (eBay, BGS 9)
+   - $117.50 (eBay, BGS 9)
+   - $510.00 (eBay, BGS 9)
+   - $240.00 (PWCC, BGS 9)
+   - $27.60 (PWCC, BGS 9)
+   - $88.80 (PWCC, BGS 9)
+
+--- Aggregate ---
+Average: $298.43
+Low: $85.00
+High: $1850.00

@@ -1,0 +1,44 @@
+Card: Mike Schmidt 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:55:41.008Z
+
+--- SportsCardsPro ---
+Market Value: $11.47
+Average Price: $11.47
+
+--- eBay ---
+Market Value: $146.98
+Average Price: $146.98
+Range: $120.00 - $199.99
+Recent Sales:
+  Feb 28, 2026 - $139.99 (eBay)
+  Apr 3, 2026 - $199.99 (eBay)
+  Apr 26, 2026 - $184.00 (eBay)
+  May 7, 2026 - $129.00 (eBay)
+  Apr 15, 2026 - $120.00 (eBay)
+  Feb 28, 2026 - $152.50 (eBay)
+  Mar 3, 2026 - $129.39 (eBay)
+
+--- 130Point ---
+Market Value: $122.87
+Average Price: $122.87
+Range: $54.28 - $467.99
+Recent Sales:
+   - $92.14 (Pristine)
+   - $175.00 (eBay)
+   - $100.00 (eBay)
+   - $218.79 (Pristine)
+   - $54.28 (Pristine)
+   - $58.50 (Pristine)
+   - $58.50 (Pristine)
+   - $467.99 (Pristine)
+   - $95.30 (Pristine)
+   - $101.97 (Pristine)
+   - $154.79 (Pristine)
+   - $110.57 (Pristine)
+   - $186.03 (Pristine)
+
+--- Aggregate ---
+Average: $134.86
+Low: $58.50
+High: $199.99

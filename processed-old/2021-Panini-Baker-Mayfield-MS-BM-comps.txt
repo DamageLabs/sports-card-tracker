@@ -1,0 +1,42 @@
+Card: Baker Mayfield 2021 Panini #MS-BM
+Condition: 9.5: MINT+
+Generated: 2026-05-19T23:14:11.441Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $79.73
+Average Price: $79.73
+Range: $5.50 - $285.00
+Recent Sales:
+  Apr 30, 2026 - $139.99 (eBay)
+  Apr 30, 2026 - $149.00 (eBay)
+  May 11, 2026 - $125.00 (eBay)
+  Mar 16, 2026 - $109.99 (eBay)
+  Mar 10, 2026 - $7.49 (eBay)
+  Mar 7, 2026 - $15.00 (eBay)
+  May 1, 2026 - $17.79 (eBay)
+  Feb 22, 2026 - $142.50 (eBay, PSA 9)
+  May 10, 2026 - $285.00 (eBay)
+  Apr 7, 2026 - $24.99 (eBay)
+  Feb 28, 2026 - $80.00 (eBay)
+  Mar 17, 2026 - $22.03 (eBay)
+  Mar 8, 2026 - $5.50 (eBay)
+  Mar 15, 2026 - $119.99 (eBay)
+
+--- 130Point ---
+Market Value: $125.04
+Average Price: $125.04
+Range: $57.74 - $160.29
+Recent Sales:
+   - $154.79 (Pristine, BGS 9.5)
+   - $160.29 (Pristine, BGS 8.5)
+   - $57.74 (Pristine, BGS 8.5)
+   - $127.32 (Pristine, BGS 8.5)
+
+--- Aggregate ---
+Average: $108.19
+Low: $17.79
+High: $285.00

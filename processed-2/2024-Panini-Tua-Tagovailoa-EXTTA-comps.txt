@@ -1,0 +1,56 @@
+Card: Tua Tagovailoa 2024 Panini #EXTTA
+Condition: 9: MINT
+Generated: 2026-05-29T17:23:51.031Z
+
+--- SportsCardsPro ---
+Market Value: $4.80
+Average Price: $4.80
+
+--- eBay ---
+Market Value: $123.17
+Average Price: $123.17
+Range: $50.00 - $375.00
+Recent Sales:
+  Apr 30, 2026 - $69.99 (eBay, PSA 9)
+  Apr 25, 2026 - $110.00 (eBay, PSA 9)
+  Apr 26, 2026 - $203.50 (eBay, PSA 9)
+  Mar 19, 2026 - $50.00 (eBay, PSA 9)
+  Apr 26, 2026 - $99.99 (eBay, PSA 9)
+  May 23, 2026 - $125.99 (eBay, PSA 9)
+  Mar 12, 2026 - $100.00 (eBay, PSA 9)
+  Apr 28, 2026 - $66.00 (eBay, PSA 9)
+  Mar 21, 2026 - $60.25 (eBay, PSA 9)
+  May 19, 2026 - $375.00 (eBay, PSA 9)
+  Apr 1, 2026 - $58.00 (eBay, PSA 9)
+  May 19, 2026 - $320.00 (eBay, PSA 9)
+  Apr 19, 2026 - $335.00 (eBay, PSA 9)
+  Mar 22, 2026 - $76.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $115.36
+Average Price: $115.36
+Range: $4.50 - $350.00
+Recent Sales:
+   - $4.50 (eBay, PSA 9)
+   - $34.00 (eBay, PSA 9)
+   - $305.00 (eBay, PSA 9)
+   - $14.95 (eBay, PSA 9)
+   - $40.00 (eBay, PSA 9)
+   - $58.00 (eBay, PSA 9)
+   - $125.00 (eBay, PSA 9)
+   - $5.25 (eBay, PSA 9)
+   - $76.00 (eBay, PSA 9)
+   - $350.00 (eBay, PSA 9)
+   - $60.25 (eBay, PSA 9)
+   - $50.00 (eBay, PSA 9)
+   - $6.50 (eBay, PSA 9)
+   - $310.00 (eBay, PSA 9)
+   - $335.00 (eBay, PSA 9)
+   - $345.00 (eBay, PSA 9)
+   - $85.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $144.56
+Median: $76.00
+Low: $14.95
+High: $345.00

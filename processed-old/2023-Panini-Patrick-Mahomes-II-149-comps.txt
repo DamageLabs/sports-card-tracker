@@ -1,0 +1,71 @@
+Card: Patrick Mahomes II 2023 Panini #149
+Condition: 10: GEM MINT
+Generated: 2026-05-21T13:01:06.718Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $233.80
+Average Price: $233.80
+Range: $60.00 - $1550.00
+Recent Sales:
+  May 11, 2026 - $405.00 (eBay, PSA 10)
+  May 20, 2026 - $329.00 (eBay, PSA 10)
+  May 16, 2026 - $84.00 (eBay, PSA 10)
+  Apr 30, 2026 - $700.00 (eBay, PSA 10)
+  Mar 27, 2026 - $85.00 (eBay, PSA 10)
+  Apr 12, 2026 - $425.00 (eBay, PSA 10)
+  Mar 21, 2026 - $229.99 (eBay, PSA 10)
+  Apr 7, 2026 - $1550.00 (eBay, PSA 10)
+  May 3, 2026 - $299.99 (eBay, PSA 10)
+  Apr 11, 2026 - $60.00 (eBay, PSA 10)
+  May 7, 2026 - $90.00 (eBay, PSA 10)
+  Apr 17, 2026 - $65.00 (eBay, PSA 10)
+  Apr 23, 2026 - $220.00 (eBay, PSA 10)
+  May 19, 2026 - $169.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $165.98
+Average Price: $165.98
+Range: $45.00 - $2613.00
+Recent Sales:
+   - $78.62 (Pristine, PSA 10)
+   - $169.53 (Pristine, PSA 10)
+   - $74.88 (Pristine, PSA 10)
+   - $130.22 (Pristine, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $53.00 (eBay, PSA 10)
+   - $61.00 (eBay, PSA 10)
+   - $152.50 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $390.00 (eBay, PSA 10)
+   - $90.00 (eBay, PSA 10)
+   - $210.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $55.00 (eBay, PSA 10)
+   - $105.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $450.00 (eBay, PSA 10)
+   - $299.90 (eBay, PSA 10)
+   - $455.00 (eBay, PSA 10)
+   - $57.00 (eBay, PSA 10)
+   - $2613.00 (eBay, PSA 10)
+   - $96.00 (eBay, PSA 10)
+   - $255.00 (eBay, PSA 10)
+   - $60.00 (eBay, PSA 10)
+   - $1550.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $196.19
+Low: $60.00
+High: $455.00
+
+--- Population Report ---
+PSA 10 Pop: 80
+Total Graded: 176
+Percentile: Top 45.45%
+Rarity Tier: medium
+Pop-Adjusted Average: $207.96 (+6%)

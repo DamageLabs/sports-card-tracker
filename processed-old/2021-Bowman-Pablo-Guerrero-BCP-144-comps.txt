@@ -1,0 +1,71 @@
+Card: Pablo Guerrero 2021 Bowman #BCP-144
+Condition: RAW
+Generated: 2026-05-07T23:40:13.150Z
+
+--- SportsCardsPro ---
+Market Value: $19.29
+Average Price: $19.29
+
+--- eBay ---
+Market Value: $4.37
+Average Price: $4.37
+Range: $0.99 - $75.00
+Recent Sales:
+  May 7, 2026 - $9.50 (eBay)
+  Apr 12, 2026 - $2.25 (eBay)
+  Feb 25, 2026 - $9.00 (eBay)
+  Feb 24, 2026 - $3.50 (eBay)
+  Apr 12, 2026 - $1.47 (eBay)
+  Feb 10, 2026 - $2.85 (eBay)
+  Apr 11, 2026 - $1.99 (eBay)
+  Feb 11, 2026 - $2.21 (eBay)
+  Feb 24, 2026 - $4.99 (eBay)
+  Apr 14, 2026 - $1.60 (eBay)
+  Apr 1, 2026 - $1.99 (eBay)
+  Apr 7, 2026 - $75.00 (eBay, PSA 10)
+  Mar 26, 2026 - $1.99 (eBay)
+  Mar 27, 2026 - $1.39 (eBay)
+  Apr 3, 2026 - $24.95 (eBay, PSA 9)
+  Apr 27, 2026 - $13.50 (eBay, PSA 7)
+  Mar 19, 2026 - $0.99 (eBay)
+
+--- 130Point ---
+Market Value: $7.72
+Average Price: $7.72
+Range: $0.99 - $175.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $1.60 (eBay)
+   - $1.00 (eBay)
+   - $1.50 (eBay)
+   - $5.50 (eBay)
+   - $1.25 (eBay)
+   - $175.00 (eBay)
+   - $1.00 (eBay)
+   - $6.00 (eBay)
+   - $5.99 (eBay)
+   - $25.00 (eBay)
+   - $1.00 (eBay)
+   - $18.27 (eBay)
+   - $36.27 (eBay)
+   - $28.67 (eBay)
+   - $3.27 (eBay)
+   - $10.77 (eBay)
+   - $5.27 (eBay)
+   - $26.00 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $2.02 (eBay)
+   - $2.31 (eBay)
+   - $40.00 (eBay, PSA 10)
+   - $1.88 (eBay)
+   - $3.76 (eBay)
+   - $165.00 (eBay)
+   - $1.99 (eBay)
+   - $15.77 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $7.94
+Low: $1.00
+High: $36.27

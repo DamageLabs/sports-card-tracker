@@ -1,0 +1,72 @@
+Card: Francisco Lindor 2015 Topps #
+Condition: RAW
+Generated: 2026-05-07T23:44:50.697Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $24.14
+Average Price: $24.14
+Range: $10.00 - $114.99
+Recent Sales:
+  May 3, 2026 - $75.00 (eBay)
+  Apr 2, 2026 - $10.00 (eBay)
+  Mar 5, 2026 - $85.00 (eBay)
+  Mar 4, 2026 - $114.99 (eBay)
+  Mar 27, 2026 - $25.00 (eBay)
+  Apr 4, 2026 - $27.00 (eBay)
+  Apr 5, 2026 - $25.00 (eBay)
+  Mar 14, 2026 - $17.00 (eBay)
+  Feb 13, 2026 - $15.00 (eBay)
+  Feb 12, 2026 - $24.99 (eBay)
+  Mar 27, 2026 - $14.99 (eBay)
+  Apr 27, 2026 - $10.99 (eBay)
+  Mar 8, 2026 - $20.00 (eBay)
+  Apr 17, 2026 - $29.99 (eBay)
+  Mar 23, 2026 - $22.00 (eBay)
+  Feb 20, 2026 - $25.00 (eBay)
+  Feb 16, 2026 - $14.20 (eBay)
+  Mar 15, 2026 - $20.00 (eBay)
+  Feb 20, 2026 - $32.00 (eBay)
+  Mar 4, 2026 - $40.00 (eBay)
+
+--- 130Point ---
+Market Value: $15.60
+Average Price: $15.60
+Range: $0.99 - $256.50
+Recent Sales:
+   - $10.50 (eBay)
+   - $2.75 (eBay)
+   - $1.10 (eBay)
+   - $7.50 (eBay)
+   - $256.50 (eBay)
+   - $3.51 (eBay)
+   - $6.50 (eBay)
+   - $14.00 (eBay)
+   - $5.50 (eBay)
+   - $76.00 (eBay)
+   - $227.50 (eBay)
+   - $1.25 (eBay)
+   - $13.50 (eBay)
+   - $19.50 (eBay)
+   - $20.00 (eBay)
+   - $19.99 (eBay)
+   - $37.00 (eBay)
+   - $24.30 (eBay)
+   - $3.00 (eBay)
+   - $1.25 (eBay)
+   - $14.99 (eBay)
+   - $24.99 (eBay)
+   - $80.00 (eBay)
+   - $10.00 (eBay)
+   - $15.50 (eBay)
+   - $3.27 (eBay)
+   - $122.50 (eBay)
+   - $6.99 (eBay)
+   - $4.00 (Heritage)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $23.21
+Low: $3.00
+High: $76.00

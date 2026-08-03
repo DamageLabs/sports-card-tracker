@@ -1,0 +1,100 @@
+Card: C.J. Stroud 2023 Panini #244
+Condition: 9: MINT
+Generated: 2026-02-28T22:16:08.663Z
+
+--- SportsCardsPro ---
+Market Value: $9.88
+Average Price: $9.88
+
+--- eBay ---
+Market Value: $26.68
+Average Price: $26.68
+Range: $18.50 - $69.99
+Recent Sales:
+  Feb 20, 2026 - $26.00 (eBay, PSA 9)
+  Feb 18, 2026 - $35.00 (eBay, PSA 9)
+  Feb 8, 2026 - $29.99 (eBay, PSA 9)
+  Feb 7, 2026 - $26.50 (eBay, PSA 9)
+  Feb 5, 2026 - $69.99 (eBay, PSA 9)
+  Feb 2, 2026 - $25.00 (eBay, PSA 9)
+  Dec 13, 2025 - $22.50 (eBay, PSA 9)
+  Dec 7, 2025 - $20.50 (eBay, PSA 9)
+  Feb 11, 2026 - $22.50 (eBay, PSA 9)
+  Jan 2, 2026 - $18.50 (eBay, PSA 9)
+  Dec 24, 2025 - $34.99 (eBay, PSA 9)
+  Feb 27, 2026 - $30.00 (eBay, PSA 9)
+  Feb 28, 2026 - $20.50 (eBay, PSA 9)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2023 Panini Donruss Optic C.J. Stroud 244
+
+--- MarketMovers ---
+Average Price: $42.50
+Range: $22.50 - $71.00
+Recent Sales:
+  2026-02-20 - $26.00 (big_iron_breaks)
+  2026-02-19 - $35.00 (dey744)
+  2026-02-06 - $64.99 (blacklabelvault)
+  2025-12-14 - $22.50 (ke_collects559)
+  2025-11-29 - $26.00 (pittbros)
+  2025-09-01 - $33.00 (Market Movers)
+  2025-08-03 - $43.99 (Market Movers)
+  2025-07-10 - $35.00 (Market Movers)
+  2025-05-20 - $39.00 (jayscardhut)
+  2025-04-03 - $40.00 (pc_sportscards)
+  2024-11-14 - $60.00 (je_668315)
+  2024-11-03 - $56.00 (pokerstarmark)
+  2024-10-24 - $71.00 (mrfresh7tuna)
+
+--- 130Point ---
+Market Value: $37.12
+Average Price: $37.12
+Range: $22.50 - $64.99
+Recent Sales:
+   - $26.00 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+   - $64.99 (eBay, PSA 9)
+   - $22.50 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $85.19
+Average Price: $85.19
+Range: $21.50 - $116.25
+Recent Sales:
+  Jan 19, 2026 - $89.00 (eBay, 10)
+  Nov 7, 2025 - $69.00 (eBay, 10)
+  Oct 27, 2025 - $80.77 (eBay, 10)
+  Oct 16, 2025 - $85.00 (eBay, 10)
+  Oct 14, 2025 - $66.00 (eBay, 10)
+  Oct 12, 2025 - $74.00 (eBay, 10)
+  Oct 9, 2025 - $26.52 (eBay, 9)
+  Sep 24, 2025 - $84.00 (eBay, 10)
+  Sep 24, 2025 - $21.50 (eBay, 8)
+  Sep 23, 2025 - $71.00 (eBay, 10)
+  Sep 21, 2025 - $83.00 (eBay, 10)
+  Sep 16, 2025 - $116.25 (eBay, 10)
+  Sep 15, 2025 - $76.00 (eBay, 10)
+  Sep 15, 2025 - $83.00 (eBay, 10)
+  Sep 12, 2025 - $101.67 (eBay, 10)
+  Sep 9, 2025 - $97.79 (eBay, 10)
+  Sep 8, 2025 - $91.00 (eBay, 10)
+  Sep 7, 2025 - $102.50 (eBay, 10)
+  Sep 7, 2025 - $91.00 (eBay, 10)
+  Sep 1, 2025 - $84.00 (eBay, 10)
+  Sep 1, 2025 - $112.50 (eBay, 10)
+  Aug 31, 2025 - $85.00 (eBay, 10)
+  Aug 28, 2025 - $81.00 (eBay, 10)
+  Aug 26, 2025 - $89.88 (eBay, 10)
+  Aug 25, 2025 - $102.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $44.03
+Low: $21.50
+High: $89.00
+
+--- Population Report ---
+PSA 9 Pop: 452
+Total Graded: 1511
+Percentile: Top 93.58%
+Rarity Tier: high
+Pop-Adjusted Average: $43.33 (-2%)

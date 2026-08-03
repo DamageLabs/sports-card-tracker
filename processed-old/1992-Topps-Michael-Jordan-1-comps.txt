@@ -1,0 +1,114 @@
+Card: Michael Jordan 1992 Topps #1
+Condition: 10: GEM MINT
+Generated: 2026-02-28T23:44:18.218Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $876.82
+Average Price: $876.82
+Range: $490.00 - $12800.00
+Recent Sales:
+  Feb 24, 2026 - $625.00 (eBay, PSA 10)
+  Feb 24, 2026 - $659.99 (eBay, PSA 10)
+  Feb 10, 2026 - $2063.51 (eBay, PSA 10)
+  Feb 8, 2026 - $2150.00 (eBay, PSA 10)
+  Feb 7, 2026 - $641.00 (eBay, PSA 10)
+  Feb 5, 2026 - $12800.00 (eBay, PSA 10)
+  Feb 2, 2026 - $724.99 (eBay, PSA 10)
+  Feb 1, 2026 - $810.00 (eBay, PSA 10)
+  Jan 31, 2026 - $645.00 (eBay, PSA 10)
+  Jan 31, 2026 - $2140.00 (eBay, PSA 10)
+  Jan 23, 2026 - $500.00 (eBay, PSA 10)
+  Jan 11, 2026 - $1401.00 (eBay, PSA 10)
+  Jan 11, 2026 - $635.00 (eBay, PSA 10)
+  Dec 30, 2025 - $549.99 (eBay, PSA 10)
+  Dec 27, 2025 - $545.00 (eBay, PSA 10)
+  Dec 26, 2025 - $1399.00 (eBay, PSA 10)
+  Dec 25, 2025 - $499.95 (eBay, PSA 10)
+  Dec 22, 2025 - $490.00 (eBay, PSA 10)
+  Dec 21, 2025 - $501.00 (eBay, PSA 10)
+  Dec 17, 2025 - $1075.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $16492.80
+Average Price: $9984.00
+Range: $7500.00 - $15000.00
+Recent Sales:
+  01/18/2026 - $15000.00 (Card Ladder)
+  12/15/2025 - $14600.00 (Card Ladder)
+  11/09/2025 - $9600.00 (Card Ladder)
+  08/25/2025 - $11600.00 (Card Ladder)
+  08/10/2025 - $14400.00 (Card Ladder)
+  06/28/2025 - $10675.00 (Card Ladder)
+  05/18/2025 - $8599.00 (Card Ladder)
+  03/29/2025 - $9150.00 (Card Ladder)
+  03/02/2025 - $8100.00 (Card Ladder)
+  02/04/2025 - $8505.00 (Card Ladder)
+  02/02/2025 - $8356.00 (Card Ladder)
+  01/12/2025 - $7600.00 (Card Ladder)
+  01/07/2025 - $8075.00 (Card Ladder)
+  12/18/2024 - $7500.00 (Card Ladder)
+  11/18/2024 - $8000.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $2291.20
+Range: $470.00 - $14600.00
+Recent Sales:
+  2026-02-08 - $641.00 (psa)
+  2026-02-02 - $620.00 (1-stop-sp-shop)
+  2026-02-02 - $810.00 (breakaway_collectibles)
+  2026-02-01 - $1891.00 (Market Movers)
+  2026-01-31 - $645.00 (methalleon)
+  2026-01-12 - $1401.00 (psa)
+  2026-01-12 - $635.00 (scarmon01)
+  2025-12-30 - $549.99 (ketallon)
+  2025-12-28 - $545.00 (dcsports87)
+  2025-12-26 - $470.00 (cleancards)
+  2025-12-23 - $490.00 (mc_sportscards)
+  2025-12-18 - $1075.00 (dcsports87)
+  2025-12-16 - $14600.00 (mc_sportscards)
+  2025-12-01 - $540.00 (card-guy15)
+  2025-11-30 - $9455.00 (Goldin Auctions)
+
+--- 130Point ---
+Market Value: $769.57
+Average Price: $769.57
+Range: $490.00 - $14600.00
+Recent Sales:
+   - $641.00 (eBay, PSA 10)
+   - $1401.00 (eBay, PSA 10)
+   - $635.00 (eBay, PSA 10)
+   - $549.99 (eBay, PSA 10)
+   - $545.00 (eBay, PSA 10)
+   - $490.00 (eBay, PSA 10)
+   - $1075.00 (eBay, PSA 10)
+   - $14600.00 (eBay, PSA 10)
+   - $540.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $526.53
+Average Price: $526.53
+Range: $403.00 - $695.00
+Recent Sales:
+  Jan 12, 2026 - $635.00 (eBay, 10)
+  Dec 23, 2025 - $490.00 (eBay, 10)
+  Nov 10, 2025 - $587.50 (eBay, 10)
+  Oct 30, 2025 - $430.00 (eBay, 10)
+  Oct 28, 2025 - $685.00 (eBay, 10)
+  Oct 19, 2025 - $695.00 (eBay, 10)
+  Oct 3, 2025 - $428.23 (eBay, 10)
+  Sep 25, 2025 - $430.00 (eBay, 10)
+  Sep 3, 2025 - $403.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $1796.31
+Low: $500.00
+High: $10675.00
+
+--- Population Report ---
+PSA 10 Pop: 848
+Total Graded: 6524
+Percentile: Top 13%
+Rarity Tier: very-high
+Pop-Adjusted Average: $1719.07 (-4%)

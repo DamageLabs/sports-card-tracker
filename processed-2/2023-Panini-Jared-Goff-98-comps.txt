@@ -1,0 +1,45 @@
+Card: Jared Goff 2023 Panini #98
+Condition: 9: MINT
+Generated: 2026-05-29T17:23:22.357Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $45.73
+Average Price: $45.73
+Range: $27.00 - $249.95
+Recent Sales:
+  Apr 30, 2026 - $60.00 (eBay, PSA 9)
+  Mar 1, 2026 - $39.99 (eBay, PSA 9)
+  May 14, 2026 - $35.00 (eBay, PSA 9)
+  May 21, 2026 - $42.50 (eBay, PSA 9)
+  May 3, 2026 - $27.00 (eBay, PSA 9)
+  Apr 2, 2026 - $35.00 (eBay, PSA 9)
+  May 21, 2026 - $39.99 (eBay, PSA 9)
+  May 18, 2026 - $249.95 (eBay, PSA 9)
+  Apr 26, 2026 - $67.66 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $61.61
+Average Price: $61.61
+Range: $22.99 - $250.00
+Recent Sales:
+   - $123.50 (eBay, PSA 9)
+   - $22.99 (eBay, PSA 9)
+   - $49.95 (eBay, PSA 9)
+   - $250.00 (eBay, PSA 9)
+   - $38.00 (eBay, PSA 9)
+   - $35.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $64.11
+Median: $39.99
+Low: $27.00
+High: $249.95
+
+--- Population Report ---
+PSA 9 Pop: 3
+Total Graded: 5
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $77.06 (+20%)

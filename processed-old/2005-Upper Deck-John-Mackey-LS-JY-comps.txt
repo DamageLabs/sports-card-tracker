@@ -1,0 +1,53 @@
+Card: John Mackey 2005 Upper Deck #LS-JY
+Condition: RAW
+Generated: 2026-03-01T20:30:05.571Z
+
+--- SportsCardsPro ---
+Market Value: $3.84
+Average Price: $3.84
+
+--- eBay ---
+Market Value: $12.91
+Average Price: $12.91
+Range: $8.50 - $20.00
+Recent Sales:
+  Dec 15, 2025 - $8.50 (eBay)
+  Dec 12, 2025 - $12.12 (eBay)
+  Dec 20, 2025 - $15.00 (eBay)
+  Dec 2, 2025 - $20.00 (eBay)
+  Jan 14, 2026 - $11.60 (eBay)
+
+--- MarketMovers ---
+Average Price: $11.91
+Range: $4.49 - $15.50
+Recent Sales:
+  2025-12-12 - $12.12 (aaacoll)
+  2025-11-12 - $14.00 (dun-4569)
+  2025-10-10 - $10.00 (sv.sportcards)
+  2025-04-20 - $12.99 (caseyonetwo)
+  2025-02-03 - $15.00 (sju_sportscards)
+  2024-06-18 - $7.95 (bigdon45)
+  2024-03-23 - $14.50 (dcsports87)
+  2024-02-04 - $4.49 (jean-helen)
+  2024-02-01 - $15.50 (cardscards.com)
+  2023-08-20 - $12.50 (jnncsu)
+  2023-06-27 - $12.00 (ggjj5000)
+
+--- 130Point ---
+Market Value: $12.12
+Average Price: $12.12
+Range: $12.12 - $12.12
+Recent Sales:
+   - $12.12 (eBay)
+
+--- PSA ---
+Market Value: $17.50
+Average Price: $17.50
+Range: $17.50 - $17.50
+Recent Sales:
+  Mar 28, 2025 - $17.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $12.70
+Low: $7.95
+High: $17.50

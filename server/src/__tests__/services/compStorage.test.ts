@@ -36,6 +36,8 @@ function createTestReport(overrides: Partial<CompReport> = {}): CompReport {
     aggregateMedian: null,
     aggregateLow: 35,
     aggregateHigh: 60,
+    psa10Median: null,
+    psa9Median: null,
     generatedAt: new Date().toISOString(),
     ...overrides,
   };
@@ -176,6 +178,8 @@ describe('Comp Storage (Database CRUD)', () => {
       aggregateMedian: null,
       aggregateLow: null,
       aggregateHigh: null,
+      psa10Median: null,
+      psa9Median: null,
     });
     await db.saveCompReport(cardId, failedReport);
 

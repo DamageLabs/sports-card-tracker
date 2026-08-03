@@ -1,0 +1,63 @@
+Card: Tee Higgins 2020 Panini #RS13
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:08:29.499Z
+
+--- SportsCardsPro ---
+Market Value: $5.50
+Average Price: $5.50
+
+--- eBay ---
+Market Value: $74.61
+Average Price: $74.61
+Range: $14.99 - $199.99
+Recent Sales:
+  May 21, 2026 - $49.99 (eBay, PSA 10)
+  Apr 1, 2026 - $96.00 (eBay, PSA 10)
+  May 17, 2026 - $119.99 (eBay, PSA 10)
+  Apr 16, 2026 - $34.99 (eBay, PSA 10)
+  Mar 19, 2026 - $199.99 (eBay, PSA 10)
+  Feb 23, 2026 - $25.00 (eBay, PSA 10)
+  Mar 20, 2026 - $25.00 (eBay, PSA 10)
+  Apr 1, 2026 - $14.99 (eBay, PSA 10)
+  May 7, 2026 - $149.99 (eBay, PSA 10)
+  Apr 23, 2026 - $64.99 (eBay, PSA 10)
+  Mar 23, 2026 - $19.99 (eBay, PSA 10)
+  Apr 15, 2026 - $34.99 (eBay, PSA 10)
+  Apr 24, 2026 - $140.00 (eBay, PSA 10)
+  May 3, 2026 - $79.99 (eBay, PSA 10)
+  Apr 20, 2026 - $89.00 (eBay, PSA 10)
+  Mar 25, 2026 - $99.99 (eBay, PSA 10)
+  Apr 28, 2026 - $110.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $47.26
+Average Price: $47.26
+Range: $12.00 - $201.50
+Recent Sales:
+   - $34.39 (eBay, PSA 10)
+   - $29.99 (eBay, PSA 10)
+   - $96.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $12.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $47.00 (eBay, PSA 10)
+   - $15.00 (eBay, PSA 10)
+   - $15.00 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $20.50 (eBay, PSA 10)
+   - $135.00 (eBay, PSA 10)
+   - $72.00 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $201.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $70.15
+Low: $15.00
+High: $140.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $85.58 (+22%)

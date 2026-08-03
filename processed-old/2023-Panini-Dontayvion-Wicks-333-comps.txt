@@ -1,0 +1,40 @@
+Card: Dontayvion Wicks 2023 Panini #333
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:01:42.420Z
+
+--- SportsCardsPro ---
+Market Value: $3.99
+Average Price: $3.99
+
+--- eBay ---
+Market Value: $29.00
+Average Price: $29.00
+Range: $15.00 - $50.00
+Recent Sales:
+  Mar 11, 2026 - $50.00 (eBay, PSA 10)
+  Apr 6, 2026 - $29.99 (eBay, PSA 10)
+  May 6, 2026 - $25.00 (eBay, PSA 10)
+  May 16, 2026 - $35.00 (eBay, PSA 10)
+  Apr 8, 2026 - $15.00 (eBay, PSA 10)
+  Apr 28, 2026 - $30.00 (eBay, PSA 10)
+  Feb 22, 2026 - $25.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $19.99
+Average Price: $19.99
+Range: $10.00 - $29.99
+Recent Sales:
+   - $10.00 (eBay, PSA 10)
+   - $29.99 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $28.21
+Low: $15.00
+High: $35.00
+
+--- Population Report ---
+PSA 10 Pop: 8
+Total Graded: 11
+Percentile: Top 72.73%
+Rarity Tier: low
+Pop-Adjusted Average: $32.72 (+16%)

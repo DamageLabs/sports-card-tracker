@@ -1,0 +1,38 @@
+Card: Michael Porter Jr. 2022 Panini #14
+Condition: RAW
+Generated: 2026-05-07T19:17:05.055Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $2.85
+Average Price: $2.85
+Range: $0.01 - $20.00
+Recent Sales:
+  Apr 27, 2026 - $0.01 (eBay)
+  Apr 3, 2026 - $8.50 (eBay, PSA 9)
+  Mar 15, 2026 - $0.99 (eBay)
+  Apr 18, 2026 - $1.99 (eBay)
+  Mar 16, 2026 - $1.39 (eBay)
+  Apr 6, 2026 - $20.00 (eBay)
+  Feb 16, 2026 - $2.88 (eBay)
+  Mar 30, 2026 - $1.25 (eBay)
+  Feb 7, 2026 - $4.24 (eBay)
+  Apr 11, 2026 - $3.09 (eBay)
+  Feb 18, 2026 - $3.00 (eBay)
+  Feb 28, 2026 - $19.99 (eBay)
+  Feb 22, 2026 - $1.75 (eBay)
+  Apr 27, 2026 - $1.76 (eBay)
+  Mar 25, 2026 - $1.50 (eBay)
+
+--- 130Point ---
+Market Value: $8.50
+Average Price: $8.50
+Range: $8.50 - $8.50
+Recent Sales:
+   - $8.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $3.45
+Low: $0.01
+High: $19.99

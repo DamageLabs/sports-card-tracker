@@ -1,0 +1,74 @@
+Card: Quentin Young 2025 Topps #B25-QY
+Condition: RAW
+Generated: 2026-05-07T23:44:07.444Z
+
+--- SportsCardsPro ---
+Market Value: $12.99
+Average Price: $12.99
+
+--- eBay ---
+Market Value: $20.78
+Average Price: $20.78
+Range: $4.53 - $500.00
+Recent Sales:
+  May 6, 2026 - $58.00 (eBay)
+  May 2, 2026 - $8.50 (eBay)
+  May 2, 2026 - $19.99 (eBay)
+  Apr 26, 2026 - $6.50 (eBay)
+  Apr 22, 2026 - $14.99 (eBay)
+  Apr 13, 2026 - $4.53 (eBay)
+  Apr 13, 2026 - $24.99 (eBay)
+  Apr 12, 2026 - $31.00 (eBay)
+  Apr 12, 2026 - $6.51 (eBay)
+  Apr 12, 2026 - $20.00 (eBay)
+  Apr 11, 2026 - $8.99 (eBay)
+  Apr 9, 2026 - $32.24 (eBay)
+  Apr 5, 2026 - $500.00 (eBay)
+  Apr 4, 2026 - $8.25 (eBay)
+  Mar 30, 2026 - $13.00 (eBay)
+  Mar 24, 2026 - $51.00 (eBay)
+  Mar 16, 2026 - $27.00 (eBay)
+  Mar 12, 2026 - $99.99 (eBay)
+  Apr 4, 2026 - $11.00 (eBay)
+  Mar 24, 2026 - $19.99 (eBay)
+
+--- 130Point ---
+Market Value: $20.73
+Average Price: $20.73
+Range: $4.25 - $499.00
+Recent Sales:
+   - $285.00 (eBay)
+   - $13.87 (eBay)
+   - $13.37 (eBay)
+   - $16.80 (PWCC, CGC Auth)
+   - $75.00 (eBay)
+   - $80.00 (eBay)
+   - $20.08 (eBay)
+   - $14.00 (eBay)
+   - $20.00 (eBay)
+   - $23.13 (eBay)
+   - $24.00 (eBay)
+   - $54.79 (eBay)
+   - $19.99 (eBay)
+   - $15.50 (eBay)
+   - $12.37 (eBay)
+   - $20.50 (eBay)
+   - $27.00 (eBay)
+   - $23.00 (eBay)
+   - $25.00 (eBay)
+   - $499.00 (eBay)
+   - $5.00 (eBay)
+   - $21.99 (eBay)
+   - $21.00 (eBay)
+   - $25.00 (eBay)
+   - $25.00 (eBay)
+   - $12.50 (eBay)
+   - $5.00 (eBay)
+   - $5.00 (eBay)
+   - $4.25 (eBay)
+   - $7.20 (eBay)
+
+--- Aggregate ---
+Average: $21.48
+Low: $6.50
+High: $75.00

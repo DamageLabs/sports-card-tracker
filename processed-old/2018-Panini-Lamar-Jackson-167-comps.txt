@@ -1,0 +1,55 @@
+Card: Lamar Jackson 2018 Panini #167
+Condition: 9.5: MINT+
+Generated: 2026-03-02T00:55:39.733Z
+
+--- SportsCardsPro ---
+Market Value: $13.46
+Average Price: $13.46
+
+--- CardLadder ---
+Market Value: $61.99
+Average Price: $63.13
+Range: $50.00 - $72.28
+Recent Sales:
+  02/27/2026 - $62.00 (Card Ladder)
+  02/17/2026 - $60.00 (Card Ladder)
+  02/15/2026 - $69.50 (Card Ladder)
+  02/07/2026 - $60.00 (Card Ladder)
+  02/06/2026 - $50.00 (Card Ladder)
+  01/29/2026 - $57.00 (Card Ladder)
+  01/25/2026 - $52.00 (Card Ladder)
+  01/23/2026 - $58.00 (Card Ladder)
+  01/18/2026 - $72.28 (Card Ladder)
+  01/09/2026 - $65.00 (Card Ladder)
+  01/05/2026 - $69.99 (Card Ladder)
+  01/04/2026 - $70.00 (Card Ladder)
+  01/03/2026 - $64.50 (Card Ladder)
+  01/02/2026 - $71.69 (Card Ladder)
+  12/29/2025 - $65.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $98.46
+Range: $41.53 - $165.00
+Recent Sales:
+  2025-11-08 - $124.99 (ryca_5801)
+  2025-07-09 - $108.81 (smileeternal)
+  2025-05-01 - $99.99 (furuwaka59)
+  2025-04-23 - $95.00 (kingerzshop)
+  2024-10-22 - $165.00 (rocketman1991)
+  2024-01-14 - $88.77 (pc_sportscards)
+  2023-12-23 - $41.53 (playball321)
+  2023-06-27 - $52.00 (tmon8584)
+  2023-05-22 - $110.04 (pc_sportscards)
+
+--- 130Point ---
+Market Value: $32.50
+Average Price: $32.50
+Range: $25.00 - $40.00
+Recent Sales:
+   - $40.00 (eBay, SGC 9.5)
+   - $25.00 (eBay, SGC 9.5)
+
+--- Aggregate ---
+Average: $64.19
+Low: $50.00
+High: $99.99

@@ -1,0 +1,99 @@
+Card: Pete Rose 1966 Topps #30
+Condition: 6: EXCELLENT-MINT
+Generated: 2026-05-04T23:10:45.520Z
+
+--- SportsCardsPro ---
+Market Value: $29.99
+Average Price: $29.99
+
+--- eBay ---
+Market Value: $193.58
+Average Price: $193.58
+Range: $90.00 - $285.00
+Recent Sales:
+  May 3, 2026 - $181.50 (eBay, PSA 6)
+  Apr 24, 2026 - $199.99 (eBay, PSA 6)
+  Apr 21, 2026 - $175.50 (eBay, PSA 6)
+  Apr 13, 2026 - $219.00 (eBay, PSA 6)
+  Apr 11, 2026 - $199.99 (eBay, PSA 6)
+  Apr 11, 2026 - $239.00 (eBay, PSA 6)
+  Apr 11, 2026 - $225.00 (eBay, PSA 6)
+  Apr 9, 2026 - $220.00 (eBay, PSA 6)
+  Apr 6, 2026 - $165.00 (eBay, PSA 6)
+  Apr 1, 2026 - $194.50 (eBay, PSA 6)
+  Mar 18, 2026 - $187.34 (eBay, PSA 6)
+  Mar 17, 2026 - $184.84 (eBay, PSA 6)
+  Mar 15, 2026 - $285.00 (eBay, PSA 6)
+  Mar 12, 2026 - $177.50 (eBay, PSA 6)
+  Mar 6, 2026 - $190.00 (eBay, PSA 6)
+  Mar 1, 2026 - $182.50 (eBay, PSA 6)
+  Feb 27, 2026 - $248.39 (eBay, PSA 6)
+  Feb 16, 2026 - $172.50 (eBay, PSA 6)
+  Feb 15, 2026 - $90.00 (eBay, PSA 6)
+  Feb 9, 2026 - $169.56 (eBay, PSA 6)
+
+--- MarketMovers ---
+Average Price: $195.74
+Range: $165.00 - $280.00
+Recent Sales:
+  2026-05-04 - $181.50 (psa)
+  2026-04-24 - $199.99 (pegre1254)
+  2026-04-22 - $175.50 (probstein123)
+  2026-04-14 - $190.00 (pegre1254)
+  2026-04-12 - $199.99 (snocards99)
+  2026-04-11 - $239.00 (916lukey31)
+  2026-04-11 - $191.00 (pegre1254)
+  2026-04-10 - $180.00 (pegre1254)
+  2026-04-07 - $165.00 (nahpster)
+  2026-04-02 - $194.50 (amt_memorabilia)
+  2026-03-19 - $187.34 (psa)
+  2026-03-18 - $184.84 (pc_sportscards)
+  2026-03-16 - $280.00 (www.707sportscards.com)
+  2026-03-13 - $177.50 (gregmorrisgraded)
+  2026-03-06 - $190.00 (legacycardz777)
+
+--- 130Point ---
+Market Value: $151.53
+Average Price: $151.53
+Range: $84.48 - $280.00
+Recent Sales:
+   - $190.00 (eBay, PSA 6)
+   - $199.99 (eBay, PSA 6)
+   - $239.00 (eBay, PSA 6)
+   - $191.00 (eBay, PSA 6)
+   - $180.00 (eBay, PSA 6)
+   - $165.00 (eBay, PSA 6)
+   - $194.50 (eBay, PSA 6)
+   - $187.34 (eBay, PSA 6)
+   - $184.84 (eBay, PSA 6)
+   - $280.00 (eBay, PSA 6)
+   - $172.50 (eBay, PSA 6)
+   - $90.00 (eBay, PSA 6)
+   - $250.00 (eBay, PSA 6)
+   - $110.40 (PWCC, PSA 6)
+   - $135.00 (MySlabs, PSA 6)
+   - $117.60 (PWCC, PSA 6)
+   - $138.00 (PWCC, PSA 6)
+   - $100.80 (PWCC, PSA 6)
+   - $144.00 (PWCC, PSA 6)
+   - $120.00 (PWCC, PSA 6)
+   - $186.00 (PWCC, PSA 6)
+   - $138.00 (PWCC, PSA 6)
+   - $105.00 (PWCC, PSA 6)
+   - $88.00 (PWCC, PSA 6)
+   - $107.50 (PWCC, PSA 6)
+   - $102.50 (PWCC, PSA 6)
+   - $84.48 (PWCC, PSA 6)
+   - $161.50 (PWCC, PSA 6)
+
+--- Aggregate ---
+Average: $177.11
+Low: $105.00
+High: $239.00
+
+--- Population Report ---
+PSA 6 Pop: 10
+Total Graded: 158
+Percentile: Top 8.23%
+Rarity Tier: low
+Pop-Adjusted Average: $203.68 (+15%)

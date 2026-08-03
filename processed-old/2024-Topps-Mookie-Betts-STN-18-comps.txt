@@ -1,0 +1,50 @@
+Card: Mookie Betts 2024 Topps #STN-18
+Condition: 9: MINT
+Generated: 2026-03-07T00:56:37.497Z
+
+--- SportsCardsPro ---
+Market Value: $8.99
+Average Price: $8.99
+
+--- eBay ---
+Market Value: $55.50
+Average Price: $55.50
+Range: $51.00 - $60.00
+Recent Sales:
+  Dec 20, 2025 - $60.00 (eBay, PSA 9)
+  Feb 25, 2026 - $51.00 (eBay, PSA 9)
+
+--- MarketMovers ---
+Average Price: $36.00
+Range: $36.00 - $36.00
+Recent Sales:
+  2025-07-27 - $36.00 (PWCC)
+
+--- 130Point ---
+Market Value: $36.00
+Average Price: $36.00
+Range: $36.00 - $36.00
+Recent Sales:
+   - $36.00 (PWCC, PSA 9)
+
+--- PSA ---
+Market Value: $17.50
+Average Price: $17.50
+Range: $10.50 - $27.00
+Recent Sales:
+  Jul 22, 2024 - $10.50 (eBay, 9)
+  May 27, 2024 - $12.00 (eBay, 9)
+  Apr 15, 2024 - $27.00 (eBay, 9)
+  Mar 31, 2024 - $20.50 (eBay, 9)
+
+--- Aggregate ---
+Average: $37.83
+Low: $12.00
+High: $51.00
+
+--- Population Report ---
+PSA 9 Pop: 14
+Total Graded: 31
+Percentile: Top 90.32%
+Rarity Tier: low
+Pop-Adjusted Average: $42.94 (+14%)

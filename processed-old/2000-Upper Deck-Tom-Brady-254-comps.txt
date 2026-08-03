@@ -1,0 +1,71 @@
+Card: Tom Brady 2000 Upper Deck #254
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-23T01:11:03.195Z
+
+--- SportsCardsPro ---
+Market Value: $1.99
+Average Price: $1.99
+
+--- eBay ---
+Market Value: $626.80
+Average Price: $626.80
+Range: $450.00 - $4000.00
+Recent Sales:
+  May 15, 2026 - $875.00 (eBay, PSA 8)
+  May 14, 2026 - $699.99 (eBay, PSA 8)
+  May 14, 2026 - $710.00 (eBay, PSA 8)
+  May 14, 2026 - $556.00 (eBay, PSA 8)
+  May 13, 2026 - $560.00 (eBay, PSA 8)
+  May 12, 2026 - $650.00 (eBay, PSA 8)
+  May 10, 2026 - $450.00 (eBay, PSA 8)
+  May 8, 2026 - $795.00 (eBay, PSA 8)
+  Apr 28, 2026 - $550.00 (eBay, PSA 8)
+  Apr 7, 2026 - $535.00 (eBay, PSA 8)
+  Apr 4, 2026 - $4000.00 (eBay, PSA 8)
+  Mar 29, 2026 - $577.00 (eBay, PSA 8)
+  Mar 25, 2026 - $535.00 (eBay, PSA 8)
+  Mar 20, 2026 - $950.00 (eBay, PSA 8)
+  Mar 17, 2026 - $589.99 (eBay, PSA 8)
+  Mar 10, 2026 - $530.00 (eBay, PSA 8)
+  Mar 5, 2026 - $569.95 (eBay, PSA 8)
+  Feb 28, 2026 - $599.00 (eBay, PSA 8)
+  Feb 24, 2026 - $600.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $419.42
+Average Price: $419.42
+Range: $288.00 - $3480.00
+Recent Sales:
+   - $500.00 (eBay, PSA 8)
+   - $3000.00 (eBay, PSA 8)
+   - $577.00 (eBay, PSA 8)
+   - $450.00 (eBay, PSA 8)
+   - $800.00 (eBay, PSA 8)
+   - $589.99 (eBay, PSA 8)
+   - $450.00 (PWCC, PSA 8)
+   - $396.00 (PWCC, PSA 8)
+   - $375.31 (Pristine, PSA 8)
+   - $325.00 (MySlabs, PSA 8)
+   - $3480.00 (PWCC, PSA 8)
+   - $300.00 (PWCC, PSA 8)
+   - $288.00 (PWCC, PSA 8)
+   - $420.00 (PWCC, PSA 8)
+   - $336.00 (PWCC, PSA 8)
+   - $292.50 (Pristine, PSA 8)
+   - $336.00 (PWCC, PSA 8)
+   - $396.00 (PWCC, PSA 8)
+   - $360.00 (PWCC, PSA 8)
+   - $396.00 (PWCC, PSA 8)
+   - $384.00 (PWCC, PSA 8)
+
+--- Aggregate ---
+Average: $562.35
+Low: $336.00
+High: $875.00
+
+--- Population Report ---
+PSA 8 Pop: 24
+Total Graded: 160
+Percentile: Top 21.88%
+Rarity Tier: low
+Pop-Adjusted Average: $625.34 (+11%)

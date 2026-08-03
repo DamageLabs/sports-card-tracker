@@ -1,0 +1,60 @@
+Card: Brian Thomas Jr. 2024 Panini #412
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:04:57.998Z
+
+--- SportsCardsPro ---
+Market Value: $109.00
+Average Price: $109.00
+
+--- eBay ---
+Market Value: $79.27
+Average Price: $79.27
+Range: $31.88 - $399.95
+Recent Sales:
+  Mar 23, 2026 - $90.00 (eBay, PSA 10)
+  Mar 15, 2026 - $55.00 (eBay, PSA 10)
+  Apr 6, 2026 - $399.95 (eBay, PSA 10)
+  Feb 21, 2026 - $85.00 (eBay, PSA 10)
+  Apr 9, 2026 - $69.99 (eBay, PSA 10)
+  Mar 6, 2026 - $105.00 (eBay, PSA 10)
+  May 17, 2026 - $42.99 (eBay, PSA 10)
+  May 20, 2026 - $45.00 (eBay, PSA 10)
+  May 17, 2026 - $40.00 (eBay, PSA 10)
+  Mar 20, 2026 - $55.00 (eBay, PSA 10)
+  Mar 15, 2026 - $130.00 (eBay, PSA 10)
+  May 12, 2026 - $144.99 (eBay, PSA 10)
+  Apr 5, 2026 - $49.00 (eBay, PSA 10)
+  Apr 1, 2026 - $185.00 (eBay, PSA 10)
+  Apr 28, 2026 - $31.88 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $54.18
+Average Price: $54.18
+Range: $9.60 - $930.00
+Recent Sales:
+   - $77.23 (Pristine, PSA 10)
+   - $101.97 (Pristine, PSA 10)
+   - $23.10 (Pristine, PSA 10)
+   - $59.00 (eBay, PSA 10)
+   - $47.99 (eBay, PSA 10)
+   - $20.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $222.50 (eBay, PSA 10)
+   - $930.00 (PWCC, PSA 10)
+   - $9.60 (PWCC, PSA 10)
+   - $37.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $10.50 (eBay, PSA 10)
+   - $10.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $67.09
+Low: $20.00
+High: $185.00
+
+--- Population Report ---
+PSA 10 Pop: 13
+Total Graded: 28
+Percentile: Top 46.43%
+Rarity Tier: low
+Pop-Adjusted Average: $76.42 (+14%)

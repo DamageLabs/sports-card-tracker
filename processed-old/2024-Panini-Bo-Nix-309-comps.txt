@@ -1,0 +1,46 @@
+Card: Bo Nix 2024 Panini #309
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:04:20.545Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $288.43
+Average Price: $288.43
+Range: $69.99 - $2750.00
+Recent Sales:
+  Mar 22, 2026 - $419.13 (eBay, PSA 10)
+  Mar 19, 2026 - $545.61 (eBay, PSA 10)
+  Mar 8, 2026 - $425.00 (eBay, PSA 10)
+  May 19, 2026 - $110.00 (eBay, PSA 10)
+  May 20, 2026 - $114.99 (eBay, PSA 10)
+  May 15, 2026 - $580.00 (eBay, PSA 10)
+  May 16, 2026 - $125.00 (eBay, PSA 10)
+  Apr 29, 2026 - $69.99 (eBay, PSA 10)
+  Apr 11, 2026 - $570.00 (eBay, PSA 10)
+  May 9, 2026 - $90.00 (eBay, PSA 10)
+  May 5, 2026 - $69.99 (eBay, PSA 10)
+  Mar 2, 2026 - $98.00 (eBay, PSA 10)
+  May 13, 2026 - $550.00 (eBay, PSA 10)
+  Mar 30, 2026 - $125.00 (eBay, PSA 10)
+  May 20, 2026 - $2750.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $584.57
+Average Price: $584.57
+Range: $419.13 - $750.00
+Recent Sales:
+   - $419.13 (eBay, PSA 10)
+   - $750.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $320.31
+Low: $69.99
+High: $750.00
+
+--- Population Report ---
+PSA 10 Pop: 24
+Total Graded: 82
+Percentile: Top 29.27%
+Rarity Tier: low
+Pop-Adjusted Average: $356.18 (+11%)

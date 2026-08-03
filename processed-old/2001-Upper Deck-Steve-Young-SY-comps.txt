@@ -1,0 +1,51 @@
+Card: Steve Young 2001 Upper Deck #SY
+Condition: 10: GEM MINT
+Generated: 2026-02-28T02:46:55.951Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $914.67
+Average Price: $914.67
+Range: $600.00 - $7163.22
+Recent Sales:
+  Jan 4, 2026 - $626.00 (eBay, PSA 10)
+  Feb 5, 2026 - $7163.22 (eBay, PSA 10)
+  Feb 20, 2026 - $600.00 (eBay, PSA 10)
+  Feb 16, 2026 - $660.00 (eBay, PSA 10)
+  Feb 23, 2026 - $1458.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2001 Upper Deck SP Authentic Steve Young SY
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2001 Upper Deck SP Authentic Steve Young #SY Sign of the Times PSA 10
+
+--- 130Point ---
+Market Value: $1416.50
+Average Price: $1416.50
+Range: $1400.00 - $1433.00
+Recent Sales:
+   - $1400.00 (eBay, PSA 10)
+   - $1433.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $146.29
+Average Price: $146.29
+Range: $44.00 - $203.50
+Recent Sales:
+  Mar 9, 2023 - $203.50 (eBay, 10)
+  Nov 21, 2019 - $191.38 (eBay, 10)
+  Jul 15, 2017 - $44.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $1186.41
+Low: $203.50
+High: $7163.22
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1483.02 (+25%)

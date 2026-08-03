@@ -1,0 +1,42 @@
+Card: Jerry Rice 1999 Topps #NC39
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:29:40.784Z
+
+--- SportsCardsPro ---
+Market Value: $12.45
+Average Price: $12.45
+
+--- 130Point ---
+Market Value: $123.66
+Average Price: $123.66
+Range: $30.00 - $375.00
+Recent Sales:
+   - $60.00 (eBay, PSA 10)
+   - $240.00 (eBay, PSA 10)
+   - $42.00 (eBay, PSA 10)
+   - $99.00 (eBay, PSA 10)
+   - $225.00 (eBay, PSA 10)
+   - $138.00 (eBay, PSA 10)
+   - $108.00 (PWCC, PSA 10)
+   - $108.00 (PWCC, PSA 10)
+   - $150.00 (PWCC, PSA 10)
+   - $81.60 (PWCC, PSA 10)
+   - $40.80 (PWCC, PSA 10)
+   - $250.00 (PWCC, PSA 10)
+   - $30.00 (MySlabs, PSA 10)
+   - $50.00 (Goldin, PSA 10)
+   - $156.00 (PWCC, PSA 10)
+   - $150.00 (PWCC, PSA 10)
+   - $375.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $124.62
+Low: $40.80
+High: $250.00
+
+--- Population Report ---
+PSA 10 Pop: 13
+Total Graded: 15
+Percentile: Top 86.67%
+Rarity Tier: low
+Pop-Adjusted Average: $141.94 (+14%)

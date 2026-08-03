@@ -1,0 +1,34 @@
+Card: Bijan Robinson 2023 Panini #IF-BR
+Condition: 9: MINT
+Generated: 2026-03-02T04:14:53.615Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $90.00
+Average Price: $90.00
+Range: $79.99 - $110.00
+Recent Sales:
+  Jan 6, 2026 - $79.99 (eBay, PSA 9)
+  Jan 21, 2026 - $110.00 (eBay, PSA 9)
+  Jan 23, 2026 - $80.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $95.00
+Average Price: $95.00
+Range: $79.99 - $110.00
+Recent Sales:
+   - $110.00 (eBay, PSA 9)
+   - $79.99 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $91.89
+Low: $79.99
+High: $110.00
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $114.86 (+25%)

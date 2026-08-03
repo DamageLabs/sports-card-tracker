@@ -1,0 +1,56 @@
+Card: Trevor Lawrence 2021 Panini #RS-TLR
+Condition: 9: MINT
+Generated: 2026-05-23T01:11:58.648Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $132.29
+Average Price: $132.29
+Range: $19.99 - $489.99
+Recent Sales:
+  May 21, 2026 - $489.99 (eBay, PSA 9)
+  May 7, 2026 - $195.00 (eBay, PSA 9)
+  May 3, 2026 - $150.00 (eBay, PSA 9)
+  Apr 15, 2026 - $375.00 (eBay, PSA 9)
+  May 1, 2026 - $19.99 (eBay, PSA 9)
+  Mar 29, 2026 - $22.99 (eBay, PSA 9)
+  May 18, 2026 - $39.99 (eBay, PSA 9)
+  May 6, 2026 - $185.00 (eBay, PSA 9)
+  May 22, 2026 - $125.00 (eBay, PSA 9)
+  Apr 23, 2026 - $94.99 (eBay, PSA 9)
+  Apr 21, 2026 - $110.00 (eBay, PSA 9)
+  Mar 1, 2026 - $24.95 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $62.03
+Average Price: $62.03
+Range: $11.00 - $890.00
+Recent Sales:
+   - $40.54 (Pristine, PSA 9)
+   - $17.20 (Pristine, PSA 9)
+   - $20.39 (Pristine, PSA 9)
+   - $50.31 (Pristine, PSA 9)
+   - $204.75 (Pristine, PSA 9)
+   - $28.00 (eBay, PSA 9)
+   - $312.85 (eBay, PSA 9)
+   - $890.00 (eBay, PSA 9)
+   - $35.99 (eBay, PSA 9)
+   - $15.00 (eBay, PSA 9)
+   - $103.20 (PWCC, PSA 9)
+   - $34.00 (eBay, PSA 9)
+   - $11.00 (eBay, PSA 9)
+   - $16.00 (eBay, PSA 9)
+   - $132.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $105.43
+Low: $16.00
+High: $375.00
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 6
+Percentile: Top 66.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $128.62 (+22%)

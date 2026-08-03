@@ -1,0 +1,50 @@
+Card: Lugia 2000 Pokemon #249
+Condition: 10: GEM MINT
+Generated: 2026-06-01T22:32:53.383Z
+
+--- SportsCardsPro ---
+Market Value: $160.00
+Average Price: $160.00
+
+--- eBay ---
+Market Value: $3776.48
+Average Price: $3776.48
+Range: $1725.00 - $6300.00
+Recent Sales:
+  May 27, 2026 - $2047.73 (eBay, PSA 10)
+  May 26, 2026 - $2500.00 (eBay, PSA 10)
+  May 25, 2026 - $1825.00 (eBay, PSA 10)
+  Apr 30, 2026 - $2563.64 (eBay, PSA 10)
+  Mar 22, 2026 - $1725.00 (eBay, PSA 10)
+  Apr 7, 2026 - $5600.00 (eBay, PSA 10)
+  May 1, 2026 - $6099.00 (eBay, PSA 10)
+  Mar 29, 2026 - $6300.00 (eBay, PSA 10)
+  Apr 19, 2026 - $5800.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $144.16
+Average Price: $144.16
+Range: $76.80 - $1725.00
+Recent Sales:
+   - $1725.00 (eBay, PSA 10)
+   - $276.00 (PWCC, PSA 10)
+   - $76.80 (PWCC, PSA 10)
+   - $105.60 (PWCC, PSA 10)
+   - $103.20 (PWCC, PSA 10)
+   - $126.00 (PWCC, PSA 10)
+   - $105.00 (PWCC, PSA 10)
+   - $153.30 (PWCC, PSA 10)
+   - $140.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $1639.99
+Median: $1725.00
+Low: $103.20
+High: $5800.00
+
+--- Population Report ---
+PSA 10 Pop: 395
+Total Graded: 1176
+Percentile: Top 33.59%
+Rarity Tier: high
+Pop-Adjusted Average: $1623.59 (-1%)

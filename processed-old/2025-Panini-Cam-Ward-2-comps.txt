@@ -1,0 +1,24 @@
+Card: Cam Ward 2025 Panini #2
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:16:52.926Z
+
+--- SportsCardsPro ---
+
+--- 130Point ---
+Market Value: $80.00
+Average Price: $80.00
+Range: $80.00 - $80.00
+Recent Sales:
+   - $80.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $80.00
+Low: $80.00
+High: $80.00
+
+--- Population Report ---
+PSA 10 Pop: 42
+Total Graded: 129
+Percentile: Top 32.56%
+Rarity Tier: medium
+Pop-Adjusted Average: $87.04 (+9%)

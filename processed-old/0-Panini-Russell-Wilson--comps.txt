@@ -1,0 +1,48 @@
+Card: Russell Wilson 0 Panini #
+Condition: RAW
+Generated: 2026-05-18T23:58:28.885Z
+
+--- SportsCardsPro ---
+Market Value: $13.04
+Average Price: $13.04
+
+--- 130Point ---
+Market Value: $13.55
+Average Price: $13.55
+Range: $0.01 - $450.00
+Recent Sales:
+   - $79.56 (Pristine)
+   - $1.00 (MySlabs, PSA 10)
+   - $57.74 (Pristine)
+   - $40.00 (eBay)
+   - $2.40 (eBay)
+   - $260.00 (eBay)
+   - $3.99 (eBay)
+   - $12.00 (eBay)
+   - $2.00 (eBay)
+   - $0.99 (eBay)
+   - $2.00 (eBay)
+   - $43.00 (eBay)
+   - $450.00 (eBay, PSA 9)
+   - $13.00 (eBay)
+   - $2.00 (eBay)
+   - $1.90 (eBay)
+   - $1.85 (eBay)
+   - $18.00 (eBay)
+   - $0.99 (eBay)
+   - $0.01 (eBay)
+   - $1.30 (eBay)
+   - $3.00 (eBay)
+   - $1.88 (eBay)
+   - $0.30 (eBay)
+   - $80.00 (eBay)
+   - $71.01 (eBay)
+   - $1.09 (eBay)
+   - $0.25 (eBay)
+   - $3.00 (eBay)
+   - $15.00 (eBay)
+
+--- Aggregate ---
+Average: $15.78
+Low: $0.30
+High: $80.00

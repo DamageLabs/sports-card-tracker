@@ -1,0 +1,48 @@
+Card: Abdul Carter 2025 Panini #RPBH-ACR
+Condition: RAW
+Generated: 2026-05-27T23:21:22.056Z
+
+--- SportsCardsPro ---
+Market Value: $10.00
+Average Price: $10.00
+
+--- eBay ---
+Market Value: $1.61
+Average Price: $1.61
+Range: $0.99 - $149.95
+Recent Sales:
+  May 24, 2026 - $0.99 (eBay)
+  Apr 30, 2026 - $1.99 (eBay)
+  May 24, 2026 - $1.00 (eBay)
+  May 14, 2026 - $1.00 (eBay)
+  Apr 7, 2026 - $3.95 (eBay)
+  May 4, 2026 - $1.50 (eBay)
+  Apr 3, 2026 - $1.39 (eBay)
+  Apr 23, 2026 - $1.25 (eBay)
+  May 13, 2026 - $1.25 (eBay)
+  Apr 29, 2026 - $1.70 (eBay)
+  Apr 25, 2026 - $1.70 (eBay)
+  Mar 30, 2026 - $1.70 (eBay)
+  Mar 9, 2026 - $1.75 (eBay)
+  Mar 24, 2026 - $2.00 (eBay)
+  May 27, 2026 - $1.00 (eBay)
+  May 24, 2026 - $130.00 (eBay)
+  May 23, 2026 - $149.95 (eBay)
+  May 26, 2026 - $1.25 (eBay)
+  Apr 25, 2026 - $2.20 (eBay)
+  May 19, 2026 - $1.89 (eBay)
+
+--- 130Point ---
+Market Value: $3.95
+Average Price: $3.95
+Range: $3.95 - $3.95
+Recent Sales:
+   - $3.95 (eBay)
+
+--- Aggregate ---
+Average: $17.98
+Median: $1.82
+Low: $0.99
+High: $130.00
+Projected PSA 10 Median: $240.00
+Projected PSA 9 Median: $87.50

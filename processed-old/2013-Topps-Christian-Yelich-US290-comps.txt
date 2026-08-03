@@ -1,0 +1,97 @@
+Card: Christian Yelich 2013 Topps #US290
+Condition: 8.5: NEAR MINT-MINT+
+Generated: 2026-03-01T03:04:02.612Z
+
+--- SportsCardsPro ---
+Market Value: $12.62
+Average Price: $12.62
+
+--- eBay ---
+Market Value: $8.88
+Average Price: $8.88
+Range: $2.99 - $99.99
+Recent Sales:
+  Jan 8, 2026 - $12.50 (eBay, SGC 8.5)
+  Feb 28, 2026 - $15.00 (eBay, PSA 10)
+  Feb 23, 2026 - $25.00 (eBay, PSA 10)
+  Feb 26, 2026 - $4.00 (eBay)
+  Feb 16, 2026 - $11.90 (eBay)
+  Feb 26, 2026 - $2.99 (eBay)
+  Feb 5, 2026 - $99.99 (eBay, BGS 10)
+  Jan 30, 2026 - $4.25 (eBay)
+  Feb 6, 2026 - $4.50 (eBay)
+  Feb 7, 2026 - $11.24 (eBay, PSA 8)
+  Jan 16, 2026 - $3.59 (eBay)
+  Feb 25, 2026 - $4.99 (eBay)
+  Dec 5, 2025 - $5.99 (eBay)
+  Jan 17, 2026 - $4.49 (eBay)
+  Jan 15, 2026 - $4.50 (eBay)
+  Dec 27, 2025 - $4.99 (eBay)
+  Jan 7, 2026 - $11.00 (eBay, PSA 9)
+  Dec 5, 2025 - $4.00 (eBay)
+  Aug 14, 2025 - $27.99 (eBay)
+  Feb 17, 2026 - $24.95 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $14.24
+Average Price: $10.76
+Range: $3.75 - $16.00
+Recent Sales:
+  01/19/2026 - $15.00 (Card Ladder)
+  01/07/2026 - $7.00 (Card Ladder)
+  12/17/2025 - $7.50 (Card Ladder)
+  12/14/2025 - $5.01 (Card Ladder)
+  12/13/2025 - $15.99 (Card Ladder)
+  12/10/2025 - $3.75 (Card Ladder)
+  10/26/2025 - $13.20 (Card Ladder)
+  10/22/2025 - $14.99 (Card Ladder)
+  10/15/2025 - $8.50 (Card Ladder)
+  10/08/2025 - $16.00 (Card Ladder)
+  10/05/2025 - $15.00 (Card Ladder)
+  10/01/2025 - $8.80 (Card Ladder)
+  09/23/2025 - $10.50 (Card Ladder)
+  09/17/2025 - $10.53 (Card Ladder)
+  09/14/2025 - $9.60 (Card Ladder)
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2013 Topps Update Christian Yelich #US290 CGC 8.5
+
+--- 130Point ---
+Market Value: $12.85
+Average Price: $12.85
+Range: $2.51 - $44.01
+Recent Sales:
+   - $13.00 (eBay)
+   - $44.01 (eBay, PSA 10)
+   - $20.69 (eBay, PSA 10)
+   - $5.00 (Heritage)
+   - $6.50 (eBay, PSA 8)
+   - $24.95 (eBay, PSA 10)
+   - $11.99 (eBay)
+   - $9.00 (eBay)
+   - $26.00 (eBay, PSA 10)
+   - $24.00 (eBay, PSA 10)
+   - $2.75 (eBay)
+   - $2.51 (eBay)
+   - $3.01 (eBay)
+   - $11.24 (eBay, PSA 8)
+   - $4.50 (eBay)
+   - $3.50 (eBay)
+   - $23.00 (eBay, PSA 10)
+   - $4.99 (eBay)
+   - $20.50 (eBay, BGS 9.5)
+   - $12.50 (eBay, PSA 10)
+   - $3.99 (eBay)
+   - $11.69 (eBay)
+   - $35.00 (eBay)
+   - $22.49 (eBay, PSA 10)
+   - $22.50 (eBay, PSA 8)
+   - $4.70 (eBay)
+   - $15.50 (eBay, PSA 10)
+   - $18.06 (eBay)
+   - $4.00 (eBay)
+
+--- Aggregate ---
+Average: $11.35
+Low: $3.59
+High: $25.00

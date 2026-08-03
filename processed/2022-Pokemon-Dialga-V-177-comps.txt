@@ -1,0 +1,67 @@
+Card: Dialga V 2022 Pokemon #177
+Condition: 10: GEM MINT
+Generated: 2026-06-03T01:06:44.098Z
+
+--- SportsCardsPro ---
+Market Value: $61.80
+Average Price: $61.80
+
+--- eBay ---
+Market Value: $189.44
+Average Price: $189.44
+Range: $147.50 - $230.00
+Recent Sales:
+  May 24, 2026 - $200.00 (eBay, PSA 10)
+  May 24, 2026 - $195.00 (eBay, PSA 10)
+  May 7, 2026 - $230.00 (eBay, PSA 10)
+  May 5, 2026 - $228.50 (eBay, PSA 10)
+  May 3, 2026 - $195.50 (eBay, PSA 10)
+  Apr 20, 2026 - $188.50 (eBay, PSA 10)
+  Apr 18, 2026 - $199.99 (eBay, PSA 10)
+  Apr 17, 2026 - $200.00 (eBay, PSA 10)
+  Apr 16, 2026 - $199.99 (eBay, PSA 10)
+  Apr 12, 2026 - $214.60 (eBay, PSA 10)
+  Apr 11, 2026 - $186.71 (eBay, PSA 10)
+  Apr 10, 2026 - $190.00 (eBay, PSA 10)
+  Apr 5, 2026 - $185.00 (eBay, PSA 10)
+  Apr 2, 2026 - $180.00 (eBay, PSA 10)
+  Mar 27, 2026 - $188.00 (eBay, PSA 10)
+  Mar 19, 2026 - $154.19 (eBay, PSA 10)
+  Mar 18, 2026 - $152.50 (eBay, PSA 10)
+  Mar 13, 2026 - $179.99 (eBay, PSA 10)
+  Mar 4, 2026 - $147.50 (eBay, PSA 10)
+  Mar 4, 2026 - $163.50 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $157.83
+Average Price: $157.83
+Range: $103.20 - $297.00
+Recent Sales:
+   - $297.00 (eBay, PSA 10)
+   - $186.71 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $154.19 (eBay, PSA 10)
+   - $152.50 (eBay, PSA 10)
+   - $165.40 (eBay, PSA 10)
+   - $156.00 (PWCC, PSA 10)
+   - $156.00 (PWCC, PSA 10)
+   - $156.00 (PWCC, PSA 10)
+   - $162.00 (PWCC, PSA 10)
+   - $175.00 (PWCC, PSA 10)
+   - $155.00 (PWCC, PSA 10)
+   - $117.60 (PWCC, PSA 10)
+   - $103.20 (PWCC, PSA 10)
+   - $144.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $177.82
+Median: $165.40
+Low: $147.50
+High: $214.60
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 2
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $222.27 (+25%)

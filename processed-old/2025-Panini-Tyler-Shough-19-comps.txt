@@ -1,0 +1,57 @@
+Card: Tyler Shough 2025 Panini #19
+Condition: 9: MINT
+Generated: 2026-05-23T01:07:27.880Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $527.94
+Average Price: $527.94
+Range: $159.95 - $600.00
+Recent Sales:
+  May 20, 2026 - $580.00 (eBay, PSA 9)
+  May 16, 2026 - $575.00 (eBay, PSA 9)
+  May 13, 2026 - $498.67 (eBay, PSA 9)
+  May 13, 2026 - $550.00 (eBay, PSA 9)
+  May 12, 2026 - $159.95 (eBay, PSA 9)
+  May 11, 2026 - $550.00 (eBay, PSA 9)
+  May 8, 2026 - $555.55 (eBay, PSA 9)
+  May 7, 2026 - $550.00 (eBay, PSA 9)
+  May 4, 2026 - $472.00 (eBay, PSA 9)
+  May 4, 2026 - $450.00 (eBay, PSA 9)
+  May 1, 2026 - $515.00 (eBay, PSA 9)
+  Apr 30, 2026 - $575.00 (eBay, PSA 9)
+  Apr 27, 2026 - $530.00 (eBay, PSA 9)
+  Apr 23, 2026 - $600.00 (eBay, PSA 9)
+  Apr 23, 2026 - $600.00 (eBay, PSA 9)
+  Apr 22, 2026 - $475.00 (eBay, PSA 9)
+  Apr 22, 2026 - $500.00 (eBay, PSA 9)
+  Apr 21, 2026 - $470.00 (eBay, PSA 9)
+  Apr 21, 2026 - $575.00 (eBay, PSA 9)
+  Apr 17, 2026 - $441.80 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $539.17
+Average Price: $539.17
+Range: $200.00 - $600.00
+Recent Sales:
+   - $525.00 (eBay, PSA 9)
+   - $576.00 (eBay, PSA 9)
+   - $564.00 (eBay, PSA 9)
+   - $530.00 (eBay, PSA 9)
+   - $530.00 (eBay, PSA 9)
+   - $510.00 (eBay, PSA 9)
+   - $600.00 (eBay, PSA 9)
+   - $200.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $528.85
+Low: $441.80
+High: $580.00
+
+--- Population Report ---
+PSA 9 Pop: 298
+Total Graded: 1115
+Percentile: Top 97.4%
+Rarity Tier: high
+Pop-Adjusted Average: $530.43 (+0%)

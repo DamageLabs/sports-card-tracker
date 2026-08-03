@@ -1,0 +1,31 @@
+Card: Jalen Hurts 2020 Panini #RE-JU
+Condition: 9.5: MINT+
+Generated: 2026-05-29T17:32:36.248Z
+
+--- SportsCardsPro ---
+Market Value: $6.35
+Average Price: $6.35
+
+--- eBay ---
+Market Value: $1216.33
+Average Price: $1216.33
+Range: $329.00 - $3011.13
+Recent Sales:
+  Apr 9, 2026 - $329.00 (eBay, BGS 9.5)
+  Apr 16, 2026 - $525.00 (eBay, BGS 9.5)
+  Apr 20, 2026 - $3011.13 (eBay, BGS 9.5)
+  Mar 24, 2026 - $1100.00 (eBay, BGS 9.5)
+  Mar 1, 2026 - $2024.00 (eBay, BGS 9.5)
+
+--- 130Point ---
+Market Value: $492.00
+Average Price: $492.00
+Range: $492.00 - $492.00
+Recent Sales:
+   - $492.00 (PWCC, BGS 9.5)
+
+--- Aggregate ---
+Average: $1190.84
+Median: $812.50
+Low: $329.00
+High: $3011.13

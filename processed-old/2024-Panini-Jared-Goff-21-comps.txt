@@ -1,0 +1,62 @@
+Card: Jared Goff 2024 Panini #21
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:17:08.256Z
+
+--- SportsCardsPro ---
+Market Value: $12.95
+Average Price: $12.95
+
+--- eBay ---
+Market Value: $121.25
+Average Price: $121.25
+Range: $33.20 - $350.00
+Recent Sales:
+  May 19, 2026 - $150.00 (eBay, PSA 10)
+  Mar 20, 2026 - $274.95 (eBay, PSA 10)
+  May 10, 2026 - $160.00 (eBay, PSA 10)
+  Apr 10, 2026 - $175.00 (eBay, PSA 10)
+  Apr 15, 2026 - $33.20 (eBay, PSA 10)
+  May 19, 2026 - $69.99 (eBay, PSA 10)
+  May 8, 2026 - $54.99 (eBay, PSA 10)
+  Apr 18, 2026 - $39.99 (eBay, PSA 10)
+  May 15, 2026 - $224.99 (eBay, PSA 10)
+  May 14, 2026 - $119.99 (eBay, PSA 10)
+  Apr 26, 2026 - $49.99 (eBay, PSA 10)
+  Mar 19, 2026 - $54.99 (eBay, PSA 10)
+  May 7, 2026 - $350.00 (eBay, PSA 10)
+  Apr 20, 2026 - $60.00 (eBay, PSA 10)
+  May 16, 2026 - $160.00 (eBay, PSA 10)
+  Apr 28, 2026 - $175.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $113.36
+Average Price: $113.36
+Range: $29.00 - $349.00
+Recent Sales:
+   - $36.00 (eBay, PSA 10)
+   - $189.50 (eBay, PSA 10)
+   - $190.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $236.50 (eBay, PSA 10)
+   - $349.00 (eBay, PSA 10)
+   - $29.00 (eBay, PSA 10)
+   - $99.00 (eBay, PSA 10)
+   - $34.99 (eBay, PSA 10)
+   - $145.00 (eBay, PSA 10)
+   - $33.00 (eBay, PSA 10)
+   - $107.50 (eBay, PSA 10)
+   - $65.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $122.17
+Low: $34.99
+High: $236.50
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $152.71 (+25%)

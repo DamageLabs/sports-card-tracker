@@ -1,0 +1,40 @@
+Card: Marcus Allen 2023 Panini #SBD-MA
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:24:56.426Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $602.33
+Average Price: $602.33
+Range: $560.00 - $685.00
+Recent Sales:
+  May 20, 2026 - $575.00 (eBay, PSA 10)
+  May 13, 2026 - $565.00 (eBay, PSA 10)
+  May 4, 2026 - $599.99 (eBay, PSA 10)
+  Apr 13, 2026 - $649.00 (eBay, PSA 10)
+  Apr 5, 2026 - $650.00 (eBay, PSA 10)
+  Mar 29, 2026 - $560.00 (eBay, PSA 10)
+  Mar 14, 2026 - $575.00 (eBay, PSA 10)
+  Mar 13, 2026 - $685.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $447.13
+Average Price: $447.13
+Range: $396.50 - $497.76
+Recent Sales:
+   - $497.76 (Goldin)
+   - $396.50 (Goldin)
+
+--- Aggregate ---
+Average: $582.29
+Median: $575.00
+Low: $497.76
+High: $650.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 2
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $727.86 (+25%)

@@ -1,0 +1,34 @@
+Card: Dennis Rodman and Jalen Rose 2021 Topps #LDS-DR
+Condition: RAW
+Generated: 2026-03-01T20:00:53.384Z
+
+--- SportsCardsPro ---
+Market Value: $6.25
+Average Price: $6.25
+
+--- eBay ---
+Market Value: $129.99
+Average Price: $129.99
+Range: $129.99 - $129.99
+Recent Sales:
+  Feb 10, 2026 - $129.99 (eBay)
+
+--- 130Point ---
+Market Value: $85.37
+Average Price: $85.37
+Range: $80.73 - $90.00
+Recent Sales:
+   - $90.00 (eBay)
+   - $80.73 (Pristine)
+
+--- PSA ---
+Market Value: $11.50
+Average Price: $11.50
+Range: $11.50 - $11.50
+Recent Sales:
+  Jan 11, 2024 - $11.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $97.46
+Low: $11.50
+High: $129.99

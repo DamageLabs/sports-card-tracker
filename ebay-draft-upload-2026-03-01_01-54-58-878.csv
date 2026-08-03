@@ -1,0 +1,6 @@
+#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
+#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
+"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
+#INFO,,,,,,,,,,
+Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
+Draft,LANGFORD-2023-BDC106-PSA9,215,2023 Bowman Bowman Draft Wyatt Langford Chrome Purple Refractor #BDC106 PSA 9...,,194.72,1,,2750,<p><b>2023 Bowman Bowman Draft Wyatt Langford #BDC106</b></p><p><b>Grade:</b> PSA 9 MINT<br><b>Serial Numbered:</b> 238/250</p><p>Chrome Purple Refractor | Rookie Card</p><p>Texas Rangers | Baseball</p><p><b>Market Data:</b> Avg Market Value: $173.08 | Recent Sales Range: $20.00 - $333.33 | Based on 5 market sources</p><p>Card ships in PSA protective case with tracking.</p>,FixedPrice

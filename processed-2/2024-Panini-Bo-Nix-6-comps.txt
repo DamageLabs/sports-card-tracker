@@ -1,0 +1,49 @@
+Card: Bo Nix 2024 Panini #6
+Condition: 9: MINT
+Generated: 2026-05-29T17:25:30.522Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $140.09
+Average Price: $140.09
+Range: $49.00 - $1699.00
+Recent Sales:
+  May 6, 2026 - $1699.00 (eBay, PSA 9)
+  May 25, 2026 - $95.00 (eBay, PSA 9)
+  May 28, 2026 - $375.00 (eBay, PSA 9)
+  May 23, 2026 - $99.88 (eBay, PSA 9)
+  May 22, 2026 - $96.95 (eBay, PSA 9)
+  May 26, 2026 - $59.99 (eBay, PSA 9)
+  May 27, 2026 - $55.00 (eBay, PSA 9)
+  Apr 11, 2026 - $170.00 (eBay, PSA 9)
+  May 26, 2026 - $89.99 (eBay, PSA 9)
+  May 25, 2026 - $219.00 (eBay, PSA 9)
+  May 22, 2026 - $49.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $55.07
+Average Price: $55.07
+Range: $23.40 - $680.00
+Recent Sales:
+   - $50.31 (Pristine, PSA 9)
+   - $59.67 (Pristine, PSA 9)
+   - $37.44 (Pristine, PSA 9)
+   - $77.40 (Pristine, PSA 9)
+   - $30.71 (Pristine, PSA 9)
+   - $23.40 (Pristine, PSA 9)
+   - $74.88 (Pristine, PSA 9)
+   - $680.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $105.64
+Median: $76.14
+Low: $30.71
+High: $375.00
+
+--- Population Report ---
+PSA 9 Pop: 15
+Total Graded: 43
+Percentile: Top 88.37%
+Rarity Tier: low
+Pop-Adjusted Average: $119.58 (+13%)

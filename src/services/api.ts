@@ -583,8 +583,8 @@ class ApiService {
     return this.request<{ cardId: string; rarityTier: PopRarityTier; popAdjustedAverage: number | null; images: string[] }[]>('/comps/pop-summary');
   }
 
-  public async getPriceSummary(): Promise<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; popAdjustedAverage: number | null; images: string[] }[]> {
-    return this.request<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; popAdjustedAverage: number | null; images: string[] }[]>('/comps/price-summary');
+  public async getPriceSummary(): Promise<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; psa10Median: number | null; psa9Median: number | null; popAdjustedAverage: number | null; images: string[] }[]> {
+    return this.request<{ cardId: string; aggregateAverage: number | null; aggregateMedian: number | null; psa10Median: number | null; psa9Median: number | null; popAdjustedAverage: number | null; images: string[] }[]>('/comps/price-summary');
   }
 
   public async getPopHistory(cardId: string, limit?: number): Promise<PopulationData[]> {
@@ -1045,6 +1045,8 @@ export interface CompReport {
   aggregateMedian: number | null;
   aggregateLow: number | null;
   aggregateHigh: number | null;
+  psa10Median: number | null;
+  psa9Median: number | null;
   popData?: PopulationData | null;
   popMultiplier?: number;
   popAdjustedAverage?: number | null;

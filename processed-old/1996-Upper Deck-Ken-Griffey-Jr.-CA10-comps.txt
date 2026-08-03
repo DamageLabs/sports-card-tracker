@@ -1,0 +1,73 @@
+Card: Ken Griffey Jr. 1996 Upper Deck #CA10
+Condition: RAW
+Generated: 2026-03-01T19:02:12.976Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $1.84
+Average Price: $1.84
+Range: $0.85 - $2.99
+Recent Sales:
+  Mar 1, 2026 - $2.99 (eBay)
+  Feb 15, 2026 - $1.99 (eBay)
+  Feb 11, 2026 - $1.99 (eBay)
+  Feb 10, 2026 - $1.25 (eBay)
+  Jan 24, 2026 - $1.99 (eBay)
+  Jan 8, 2026 - $0.85 (eBay)
+  Jan 7, 2026 - $1.99 (eBay)
+
+--- CardLadder ---
+Market Value: $36.10
+Average Price: $31.85
+Range: $18.39 - $59.00
+Recent Sales:
+  02/09/2026 - $35.00 (Card Ladder)
+  02/01/2026 - $25.65 (Card Ladder)
+  01/30/2026 - $28.00 (Card Ladder)
+  01/28/2026 - $28.00 (Card Ladder)
+  01/27/2026 - $59.00 (Card Ladder)
+  01/10/2026 - $56.00 (Card Ladder)
+  01/07/2026 - $22.50 (Card Ladder)
+  01/03/2026 - $18.39 (Card Ladder)
+  12/29/2025 - $26.00 (Card Ladder)
+  12/18/2025 - $30.73 (Card Ladder)
+  12/14/2025 - $20.00 (Card Ladder)
+  12/08/2025 - $37.50 (Card Ladder)
+  12/05/2025 - $19.99 (Card Ladder)
+  11/23/2025 - $37.00 (Card Ladder)
+  11/19/2025 - $33.95 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $3.39
+Range: $1.00 - $14.99
+Recent Sales:
+  2026-02-16 - $1.99 (johnny_ford_cards)
+  2026-02-12 - $1.99 (closingbellauctions)
+  2026-02-10 - $1.25 (kleitzel)
+  2025-10-15 - $2.01 (ylaf)
+  2025-10-02 - $1.00 (pc_sportscards)
+  2025-09-24 - $1.45 (buy_great_stuff)
+  2025-09-21 - $14.95 (therealslimstewy)
+  2025-09-17 - $1.00 (jpatyourservice)
+  2025-09-07 - $14.99 (Market Movers)
+  2025-09-04 - $1.79 (Market Movers)
+  2025-09-02 - $1.69 (Market Movers)
+  2025-08-24 - $1.99 (Market Movers)
+  2025-08-16 - $1.30 (Market Movers)
+  2025-08-07 - $2.25 (Market Movers)
+  2025-08-03 - $1.25 (Market Movers)
+
+--- 130Point ---
+Market Value: $1.74
+Average Price: $1.74
+Range: $1.25 - $1.99
+Recent Sales:
+   - $1.99 (eBay)
+   - $1.99 (eBay)
+   - $1.25 (eBay)
+
+--- Aggregate ---
+Average: $8.49
+Low: $1.25
+High: $35.00

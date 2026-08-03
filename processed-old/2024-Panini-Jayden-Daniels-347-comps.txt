@@ -1,0 +1,79 @@
+Card: Jayden Daniels 2024 Panini #347
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:19:42.829Z
+
+--- SportsCardsPro ---
+Market Value: $7.00
+Average Price: $7.00
+
+--- eBay ---
+Market Value: $833.66
+Average Price: $833.66
+Range: $710.00 - $1150.00
+Recent Sales:
+  May 20, 2026 - $999.99 (eBay, PSA 10)
+  May 18, 2026 - $825.00 (eBay, PSA 10)
+  May 18, 2026 - $858.00 (eBay, PSA 10)
+  May 18, 2026 - $900.00 (eBay, PSA 10)
+  May 16, 2026 - $827.23 (eBay, PSA 10)
+  May 16, 2026 - $811.00 (eBay, PSA 10)
+  May 16, 2026 - $818.00 (eBay, PSA 10)
+  May 15, 2026 - $830.00 (eBay, PSA 10)
+  May 15, 2026 - $801.00 (eBay, PSA 10)
+  May 15, 2026 - $797.00 (eBay, PSA 10)
+  May 15, 2026 - $807.00 (eBay, PSA 10)
+  May 14, 2026 - $760.00 (eBay, PSA 10)
+  May 14, 2026 - $736.00 (eBay, PSA 10)
+  May 14, 2026 - $710.00 (eBay, PSA 10)
+  May 10, 2026 - $870.00 (eBay, PSA 10)
+  May 9, 2026 - $836.00 (eBay, PSA 10)
+  May 9, 2026 - $861.00 (eBay, PSA 10)
+  May 3, 2026 - $1150.00 (eBay, PSA 10)
+  May 2, 2026 - $865.01 (eBay, PSA 10)
+  May 2, 2026 - $865.01 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $864.88
+Average Price: $864.88
+Range: $660.00 - $1230.00
+Recent Sales:
+   - $927.00 (eBay, PSA 10)
+   - $975.00 (eBay, PSA 10)
+   - $950.00 (eBay, PSA 10)
+   - $950.00 (eBay, PSA 10)
+   - $915.00 (eBay, PSA 10)
+   - $875.00 (eBay, PSA 10)
+   - $850.00 (eBay, PSA 10)
+   - $1025.00 (eBay, PSA 10)
+   - $850.00 (eBay, PSA 10)
+   - $799.95 (eBay, PSA 10)
+   - $850.00 (eBay, PSA 10)
+   - $855.05 (eBay, PSA 10)
+   - $810.00 (eBay, PSA 10)
+   - $896.00 (eBay, PSA 10)
+   - $700.00 (eBay, PSA 10)
+   - $862.50 (eBay, PSA 10)
+   - $750.00 (eBay, PSA 10)
+   - $803.00 (eBay, PSA 10)
+   - $815.00 (eBay, PSA 10)
+   - $775.00 (eBay, PSA 10)
+   - $764.00 (eBay, PSA 10)
+   - $660.00 (PWCC, PSA 10)
+   - $660.00 (PWCC, PSA 10)
+   - $660.00 (PWCC, PSA 10)
+   - $1200.00 (PWCC, PSA 10)
+   - $1230.00 (PWCC, PSA 10)
+   - $1140.00 (PWCC, PSA 10)
+   - $1140.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $858.99
+Low: $710.00
+High: $1140.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 2
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1073.73 (+25%)

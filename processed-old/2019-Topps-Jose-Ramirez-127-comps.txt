@@ -1,0 +1,85 @@
+Card: Jose Ramirez 2019 Topps #127
+Condition: RAW
+Generated: 2026-03-01T19:02:03.685Z
+
+--- SportsCardsPro ---
+Market Value: $2.99
+Average Price: $2.99
+
+--- eBay ---
+Market Value: $7.18
+Average Price: $7.18
+Range: $0.99 - $229.99
+Recent Sales:
+  Feb 27, 2026 - $19.99 (eBay)
+  Feb 22, 2026 - $19.99 (eBay)
+  Feb 22, 2026 - $2.00 (eBay)
+  Feb 22, 2026 - $2.99 (eBay)
+  Feb 22, 2026 - $0.99 (eBay)
+  Feb 21, 2026 - $4.79 (eBay)
+  Feb 21, 2026 - $1.49 (eBay)
+  Feb 19, 2026 - $4.99 (eBay)
+  Feb 6, 2026 - $2.40 (eBay)
+  Feb 10, 2026 - $229.99 (eBay, PSA 10)
+  Feb 7, 2026 - $2.99 (eBay)
+  Feb 6, 2026 - $1.99 (eBay)
+  Feb 6, 2026 - $19.99 (eBay)
+  Jul 19, 2025 - $0.99 (eBay)
+  Feb 5, 2026 - $130.00 (eBay, PSA 10)
+  Feb 2, 2026 - $2.50 (eBay)
+
+--- MarketMovers ---
+Average Price: $29.49
+Range: $0.99 - $200.00
+Recent Sales:
+  2026-02-23 - $19.99 (okcards76)
+  2026-02-23 - $2.00 (b_mo-sportscards)
+  2026-02-22 - $2.99 (nrmt_cards)
+  2026-02-22 - $4.79 (f2tornado)
+  2026-02-22 - $1.49 (tomeratiger)
+  2026-02-19 - $4.99 (hawkeyejr_1977)
+  2026-02-17 - $2.40 (hiltons_market)
+  2026-02-11 - $200.00 (stu555)
+  2026-02-06 - $1.99 (oldkid25)
+  2026-02-06 - $16.99 (tomeratiger)
+  2026-02-06 - $0.99 (mancave_essentials)
+  2026-02-05 - $130.00 (ddenterprise)
+  2026-02-03 - $2.50 (gotbaseballcards)
+  2026-02-02 - $50.00 (sh-cards)
+  2026-02-02 - $1.25 (lsbeads)
+
+--- 130Point ---
+Market Value: $5.16
+Average Price: $5.16
+Range: $0.34 - $200.00
+Recent Sales:
+   - $19.99 (eBay)
+   - $2.00 (eBay)
+   - $4.79 (eBay)
+   - $4.99 (eBay)
+   - $2.40 (eBay)
+   - $200.00 (eBay, PSA 10)
+   - $16.99 (eBay)
+   - $0.99 (eBay)
+   - $130.00 (eBay, PSA 10)
+   - $2.00 (eBay)
+   - $2.00 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $1.69 (eBay)
+   - $15.00 (eBay)
+   - $5.75 (eBay)
+   - $0.34 (eBay)
+   - $2.40 (eBay)
+   - $0.99 (eBay)
+   - $1.25 (eBay)
+   - $4.00 (eBay)
+   - $1.50 (eBay)
+   - $1.39 (eBay)
+   - $6.99 (eBay)
+   - $22.50 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $8.41
+Low: $0.99
+High: $130.00

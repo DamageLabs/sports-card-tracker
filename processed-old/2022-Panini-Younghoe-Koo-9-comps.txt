@@ -1,0 +1,46 @@
+Card: Younghoe Koo 2022 Panini #9
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:13:22.692Z
+
+--- SportsCardsPro ---
+Market Value: $14.69
+Average Price: $14.69
+
+--- eBay ---
+Market Value: $31.01
+Average Price: $31.01
+Range: $16.01 - $46.00
+Recent Sales:
+  Apr 21, 2026 - $16.01 (eBay, PSA 9)
+  Mar 3, 2026 - $46.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $1708.54
+Average Price: $1708.54
+Range: $70.00 - $12600.00
+Recent Sales:
+   - $861.00 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $1750.00 (eBay, PSA 10)
+   - $1999.99 (eBay, PSA 10)
+   - $2800.00 (eBay, PSA 10)
+   - $2500.00 (eBay, PSA 10)
+   - $1009.00 (eBay, PSA 10)
+   - $1400.00 (eBay, PSA 10)
+   - $1523.00 (eBay, PSA 10)
+   - $320.95 (eBay, PSA 10)
+   - $910.00 (eBay, PSA 10)
+   - $3720.00 (PWCC, PSA 10)
+   - $12600.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $1328.27
+Low: $16.01
+High: $3720.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1660.34 (+25%)

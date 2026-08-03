@@ -1,0 +1,26 @@
+Card: Joe Burrow 2021 Panini #309
+Condition: 10: GEM MINT
+Generated: 2026-05-19T22:56:22.498Z
+
+--- SportsCardsPro ---
+Market Value: $6.50
+Average Price: $6.50
+
+--- 130Point ---
+Market Value: $1600.00
+Average Price: $1600.00
+Range: $1600.00 - $1600.00
+Recent Sales:
+   - $1600.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $1600.00
+Low: $1600.00
+High: $1600.00
+
+--- Population Report ---
+PSA 10 Pop: 10
+Total Graded: 16
+Percentile: Top 62.5%
+Rarity Tier: low
+Pop-Adjusted Average: $1840.00 (+15%)

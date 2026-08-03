@@ -1,0 +1,65 @@
+Card: Latias ex 2024 Pokemon #087
+Condition: 10: GEM MINT
+Generated: 2026-06-01T22:35:19.636Z
+
+--- SportsCardsPro ---
+Market Value: $157.00
+Average Price: $157.00
+
+--- eBay ---
+Market Value: $207.78
+Average Price: $207.78
+Range: $154.50 - $323.32
+Recent Sales:
+  Mar 9, 2026 - $199.99 (eBay, PSA 10)
+  May 26, 2026 - $280.00 (eBay, PSA 10)
+  May 22, 2026 - $323.32 (eBay, PSA 10)
+  May 20, 2026 - $220.50 (eBay, PSA 10)
+  May 13, 2026 - $250.00 (eBay, PSA 10)
+  May 2, 2026 - $182.50 (eBay, PSA 10)
+  Apr 30, 2026 - $200.00 (eBay, PSA 10)
+  Apr 22, 2026 - $250.00 (eBay, PSA 10)
+  Apr 19, 2026 - $202.50 (eBay, PSA 10)
+  Apr 19, 2026 - $224.99 (eBay, PSA 10)
+  Apr 19, 2026 - $200.00 (eBay, PSA 10)
+  Apr 15, 2026 - $212.50 (eBay, PSA 10)
+  Apr 14, 2026 - $213.50 (eBay, PSA 10)
+  Apr 12, 2026 - $183.50 (eBay, PSA 10)
+  Apr 10, 2026 - $203.99 (eBay, PSA 10)
+  Mar 30, 2026 - $229.99 (eBay, PSA 10)
+  Mar 26, 2026 - $159.99 (eBay, PSA 10)
+  Mar 25, 2026 - $180.00 (eBay, PSA 10)
+  Mar 23, 2026 - $184.99 (eBay, PSA 10)
+  Mar 17, 2026 - $154.50 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $171.64
+Average Price: $171.64
+Range: $150.00 - $229.99
+Recent Sales:
+   - $213.50 (eBay, PSA 10)
+   - $183.50 (eBay, PSA 10)
+   - $203.99 (eBay, PSA 10)
+   - $229.99 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $154.50 (eBay, PSA 10)
+   - $157.00 (eBay, PSA 10)
+   - $159.50 (eBay, PSA 10)
+   - $157.50 (eBay, PSA 10)
+   - $157.50 (eBay, PSA 10)
+   - $155.50 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $165.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $204.15
+Median: $191.75
+Low: $155.50
+High: $280.00
+
+--- Population Report ---
+PSA 10 Pop: 30
+Total Graded: 37
+Percentile: Top 81.08%
+Rarity Tier: medium
+Pop-Adjusted Average: $224.97 (+10%)

@@ -31,6 +31,8 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [popTiers, setPopTiers] = useState<Map<string, PopRarityTier>>(new Map());
   const [popPrices, setPopPrices] = useState<Map<string, number>>(new Map());
   const [medianPrices, setMedianPrices] = useState<Map<string, number>>(new Map());
+  const [psa10Projections, setPsa10Projections] = useState<Map<string, number>>(new Map());
+  const [psa9Projections, setPsa9Projections] = useState<Map<string, number>>(new Map());
   const [exportedIds, setExportedIds] = useState<Set<string>>(new Set());
   const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
   const [bulkCompLoading, setBulkCompLoading] = useState(false);
@@ -53,16 +55,26 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
     }).catch(() => { /* non-critical */ });
   }, []);
 
-  // Load median comp prices
+  // Load median comp prices and PSA projection medians
   useEffect(() => {
     apiService.getPriceSummary().then(summary => {
       const medians = new Map<string, number>();
+      const psa10 = new Map<string, number>();
+      const psa9 = new Map<string, number>();
       for (const entry of summary) {
         if (entry.aggregateMedian != null && entry.aggregateMedian > 0) {
           medians.set(entry.cardId, entry.aggregateMedian);
         }
+        if (entry.psa10Median != null && entry.psa10Median > 0) {
+          psa10.set(entry.cardId, entry.psa10Median);
+        }
+        if (entry.psa9Median != null && entry.psa9Median > 0) {
+          psa9.set(entry.cardId, entry.psa9Median);
+        }
       }
       if (medians.size > 0) setMedianPrices(medians);
+      if (psa10.size > 0) setPsa10Projections(psa10);
+      if (psa9.size > 0) setPsa9Projections(psa9);
     }).catch(() => { /* non-critical */ });
   }, []);
 
@@ -267,6 +279,20 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       setMedianPrices(prev => {
         const next = new Map(prev);
         next.set(cardId, report.aggregateMedian as number);
+        return next;
+      });
+    }
+    if (report.psa10Median != null && report.psa10Median > 0) {
+      setPsa10Projections(prev => {
+        const next = new Map(prev);
+        next.set(cardId, report.psa10Median as number);
+        return next;
+      });
+    }
+    if (report.psa9Median != null && report.psa9Median > 0) {
+      setPsa9Projections(prev => {
+        const next = new Map(prev);
+        next.set(cardId, report.psa9Median as number);
         return next;
       });
     }
@@ -566,6 +592,16 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                   {medianPrices.has(card.id) && (
                     <span className="card-median-price-badge" title="Median comp price">
                       Median ${medianPrices.get(card.id)!.toFixed(2)}
+                    </span>
+                  )}
+                  {!card.gradingCompany && psa10Projections.has(card.id) && (
+                    <span className="card-psa10-projection-badge" title="Projected median if PSA 10">
+                      PSA 10 ~${psa10Projections.get(card.id)!.toFixed(2)}
+                    </span>
+                  )}
+                  {!card.gradingCompany && psa9Projections.has(card.id) && (
+                    <span className="card-psa9-projection-badge" title="Projected median if PSA 9">
+                      PSA 9 ~${psa9Projections.get(card.id)!.toFixed(2)}
                     </span>
                   )}
                   {exportedIds.has(card.id) && (

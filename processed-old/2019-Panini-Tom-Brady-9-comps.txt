@@ -1,0 +1,56 @@
+Card: Tom Brady 2019 Panini #9
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:04:04.503Z
+
+--- SportsCardsPro ---
+Market Value: $24.67
+Average Price: $24.67
+
+--- eBay ---
+Market Value: $157.98
+Average Price: $157.98
+Range: $39.99 - $449.99
+Recent Sales:
+  Apr 5, 2026 - $39.99 (eBay, PSA 10)
+  May 13, 2026 - $150.00 (eBay, PSA 10)
+  May 1, 2026 - $210.00 (eBay, PSA 10)
+  May 7, 2026 - $299.00 (eBay, PSA 10)
+  Apr 7, 2026 - $60.00 (eBay, PSA 10)
+  Apr 10, 2026 - $125.00 (eBay, PSA 10)
+  May 8, 2026 - $449.99 (eBay, PSA 10)
+  Apr 19, 2026 - $199.00 (eBay, PSA 10)
+  Apr 11, 2026 - $137.12 (eBay, PSA 10)
+  Apr 5, 2026 - $59.99 (eBay, PSA 10)
+  Mar 1, 2026 - $50.00 (eBay, PSA 10)
+  Apr 29, 2026 - $349.99 (eBay, PSA 10)
+  Apr 22, 2026 - $65.59 (eBay, PSA 10)
+  Mar 14, 2026 - $75.00 (eBay, PSA 10)
+  Apr 12, 2026 - $200.00 (eBay, PSA 10)
+  Mar 28, 2026 - $315.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $79.52
+Average Price: $79.52
+Range: $38.00 - $203.62
+Recent Sales:
+   - $100.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $133.50 (eBay, PSA 10)
+   - $61.00 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $203.62 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+   - $38.00 (eBay, PSA 10)
+   - $41.12 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $155.61
+Low: $41.12
+High: $349.99
+
+--- Population Report ---
+PSA 10 Pop: 18
+Total Graded: 22
+Percentile: Top 81.82%
+Rarity Tier: low
+Pop-Adjusted Average: $174.91 (+12%)

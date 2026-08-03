@@ -1,0 +1,47 @@
+Card: Jaylen Waddle 2021 Panini #DT-37
+Condition: 9.5: MINT+
+Generated: 2026-05-21T05:20:07.689Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $476.85
+Average Price: $476.85
+Range: $401.00 - $650.00
+Recent Sales:
+  May 19, 2026 - $470.00 (eBay, PSA 9)
+  Mar 30, 2026 - $450.00 (eBay)
+  May 16, 2026 - $460.00 (eBay, PSA 9)
+  May 17, 2026 - $460.00 (eBay)
+  May 20, 2026 - $446.00 (eBay)
+  Mar 2, 2026 - $500.00 (eBay)
+  Apr 8, 2026 - $449.99 (eBay, PSA 9)
+  Mar 24, 2026 - $440.68 (eBay, PSA 9)
+  Mar 17, 2026 - $549.95 (eBay, SGC 9.5)
+  Mar 16, 2026 - $450.00 (eBay, PSA 9)
+  Feb 28, 2026 - $465.00 (eBay)
+  Mar 16, 2026 - $445.00 (eBay, PSA 9)
+  Mar 12, 2026 - $650.00 (eBay)
+  Mar 4, 2026 - $435.00 (eBay, PSA 9)
+  Mar 5, 2026 - $535.00 (eBay)
+  May 11, 2026 - $469.95 (eBay)
+  Feb 27, 2026 - $525.00 (eBay, PSA 9)
+  Mar 4, 2026 - $600.00 (eBay)
+  Mar 2, 2026 - $401.00 (eBay)
+  Mar 17, 2026 - $600.00 (eBay)
+
+--- 130Point ---
+Market Value: $517.58
+Average Price: $517.58
+Range: $430.00 - $2325.00
+Recent Sales:
+   - $2325.00 (eBay, PSA 10)
+   - $625.00 (eBay)
+   - $449.99 (eBay, PSA 9)
+   - $477.76 (eBay, BGS 9.5)
+   - $430.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $473.67
+Low: $440.68
+High: $600.00

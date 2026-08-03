@@ -1,0 +1,63 @@
+Card: Dark Charizard 2000 Wizards of the Coast #21
+Condition: 3: VERY GOOD
+Generated: 2026-06-01T22:35:27.878Z
+
+--- SportsCardsPro ---
+Market Value: $290.00
+Average Price: $290.00
+
+--- eBay ---
+Market Value: $180.27
+Average Price: $180.27
+Range: $70.00 - $1000.00
+Recent Sales:
+  Apr 12, 2026 - $120.00 (eBay, PSA 8)
+  May 18, 2026 - $1000.00 (eBay, PSA 7)
+  May 8, 2026 - $89.99 (eBay, PSA 7)
+  Apr 5, 2026 - $250.00 (eBay, PSA 8)
+  Mar 26, 2026 - $215.00 (eBay, PSA 5)
+  Apr 1, 2026 - $70.00 (eBay, PSA 6)
+  Apr 4, 2026 - $121.95 (eBay, PSA 7)
+  Mar 25, 2026 - $219.98 (eBay, PSA 5)
+  Mar 27, 2026 - $245.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $355.50
+Average Price: $355.50
+Range: $29.00 - $844.00
+Recent Sales:
+   - $230.00 (eBay, CGC 7.5)
+   - $29.00 (eBay)
+   - $688.00 (Heritage)
+   - $688.00 (Heritage)
+   - $141.00 (Heritage)
+   - $625.00 (Heritage)
+   - $144.00 (Heritage)
+   - $338.00 (Heritage)
+   - $325.00 (Heritage)
+   - $363.00 (Heritage)
+   - $189.00 (Heritage)
+   - $144.00 (Heritage)
+   - $250.00 (Heritage)
+   - $154.00 (Heritage)
+   - $263.00 (Heritage)
+   - $613.00 (Heritage)
+   - $250.00 (Heritage)
+   - $656.00 (Heritage)
+   - $550.00 (Heritage)
+   - $844.00 (Heritage)
+   - $338.00 (Heritage)
+   - $400.00 (Heritage)
+
+--- Aggregate ---
+Average: $332.08
+Median: $250.00
+Low: $89.99
+High: $844.00
+
+--- Population Report ---
+PSA 3 Pop: 0
+Total Graded: 5
+Percentile: Top 80%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $415.10 (+25%)

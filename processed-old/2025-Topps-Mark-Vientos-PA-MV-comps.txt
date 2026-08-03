@@ -1,0 +1,58 @@
+Card: Mark Vientos 2025 Topps #PA-MV
+Condition: RAW
+Generated: 2026-03-01T04:14:50.882Z
+
+--- SportsCardsPro ---
+Market Value: $30.00
+Average Price: $30.00
+
+--- eBay ---
+Market Value: $16.86
+Average Price: $16.86
+Range: $3.99 - $37.00
+Recent Sales:
+  Feb 28, 2026 - $20.00 (eBay)
+  Feb 22, 2026 - $11.00 (eBay)
+  Feb 19, 2026 - $15.50 (eBay)
+  Feb 28, 2026 - $27.00 (eBay)
+  Feb 20, 2026 - $29.00 (eBay)
+  Feb 27, 2026 - $7.99 (eBay)
+  Feb 26, 2026 - $8.99 (eBay)
+  Feb 12, 2026 - $3.99 (eBay)
+  Feb 23, 2026 - $14.99 (eBay)
+  Feb 23, 2026 - $15.99 (eBay)
+  Jan 18, 2026 - $37.00 (eBay)
+  Feb 25, 2026 - $20.00 (eBay)
+  Dec 29, 2025 - $15.00 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2025 Topps Pristine Mark Vientos PA-MV
+
+--- MarketMovers ---
+Average Price: $13.25
+Range: $11.00 - $15.50
+Recent Sales:
+  2026-02-23 - $11.00 (phxsportscards11)
+  2026-02-20 - $15.50 (ignitionsportscards)
+
+--- 130Point ---
+Market Value: $13.25
+Average Price: $13.25
+Range: $11.00 - $15.50
+Recent Sales:
+   - $11.00 (Pristine)
+   - $15.50 (Pristine)
+
+--- PSA ---
+Market Value: $96.46
+Average Price: $96.46
+Range: $55.88 - $123.01
+Recent Sales:
+  Sep 30, 2024 - $123.01 (eBay, 10)
+  Jul 13, 2023 - $110.50 (eBay, 10)
+  Mar 3, 2023 - $55.88 (eBay, 8)
+
+--- Aggregate ---
+Average: $16.08
+Low: $7.99
+High: $29.00

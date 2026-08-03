@@ -42,6 +42,8 @@ describe('Comp Routes', () => {
       aggregateMedian: null,
       aggregateLow: 30,
       aggregateHigh: 70,
+      psa10Median: null,
+      psa9Median: null,
       generatedAt: new Date().toISOString(),
       ...overrides,
     });
@@ -195,6 +197,8 @@ describe('Comp Routes', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
         createdAt: new Date().toISOString(),
       } as any);
@@ -235,6 +239,8 @@ describe('Comp Routes', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
         createdAt: new Date().toISOString(),
       } as any]);
@@ -327,6 +333,8 @@ describe('Comp Routes', () => {
         aggregateMedian: null,
         aggregateLow: 30,
         aggregateHigh: 70,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
         createdAt: new Date().toISOString(),
       } as any);
@@ -353,6 +361,8 @@ describe('Comp Routes', () => {
         aggregateMedian: null,
         aggregateLow: 80,
         aggregateHigh: 120,
+        psa10Median: null,
+        psa9Median: null,
         generatedAt: new Date().toISOString(),
       });
 

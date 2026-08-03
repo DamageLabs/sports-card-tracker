@@ -1,0 +1,58 @@
+Card: Unknown 2019 Pokémon #161/181
+Condition: 9.5: MINT+
+Generated: 2026-06-01T22:39:47.916Z
+
+--- SportsCardsPro ---
+Market Value: $1240.03
+Average Price: $1240.03
+
+--- eBay ---
+Market Value: $4634.67
+Average Price: $4634.67
+Range: $404.00 - $11500.00
+Recent Sales:
+  Jun 1, 2026 - $11500.00 (eBay, BGS 9.5)
+  May 3, 2026 - $2000.00 (eBay, BGS 9.5)
+  Mar 4, 2026 - $404.00 (eBay, BGS 9.5)
+
+--- 130Point ---
+Market Value: $547.80
+Average Price: $547.80
+Range: $10.00 - $5000.00
+Recent Sales:
+   - $184.28 (Pristine)
+   - $14.74 (Pristine)
+   - $5000.00 (eBay, PSA 10)
+   - $1005.00 (eBay, PSA 10)
+   - $10.00 (eBay)
+   - $455.00 (eBay, PSA 10)
+   - $107.75 (eBay, PSA 9)
+   - $199.00 (eBay)
+   - $1250.00 (eBay, PSA 9)
+   - $425.00 (eBay, PSA 9)
+   - $950.00 (eBay, PSA 10)
+   - $492.00 (PWCC, CGC 10)
+   - $156.00 (PWCC, BGS 8.5)
+   - $780.00 (PWCC, CGC 9)
+   - $1500.00 (PWCC, PSA 9)
+   - $34.80 (PWCC, CGC 7.5)
+   - $83.99 (eBay, PSA 9)
+   - $222.50 (eBay, PSA 8)
+   - $38.99 (eBay)
+   - $199.99 (eBay, PSA 10)
+   - $74.00 (eBay, CGC 9.5)
+   - $2500.00 (eBay, PSA 10)
+   - $3080.00 (eBay, PSA 10)
+   - $4300.00 (eBay, PSA 10)
+   - $199.99 (eBay, PSA 10)
+   - $2450.00 (eBay, PSA 10)
+   - $81.01 (eBay, PSA 8)
+   - $639.99 (eBay)
+   - $86.00 (eBay, PSA 8)
+   - $510.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $870.76
+Median: $425.00
+Low: $38.99
+High: $4300.00

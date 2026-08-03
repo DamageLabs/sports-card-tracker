@@ -1,0 +1,41 @@
+Card: Isaiah Joe 2023 Panini #GI-JOE
+Condition: RAW
+Generated: 2026-05-07T19:16:21.341Z
+
+--- SportsCardsPro ---
+Market Value: $0.76
+Average Price: $0.76
+
+--- eBay ---
+Market Value: $20.31
+Average Price: $20.31
+Range: $9.00 - $85.00
+Recent Sales:
+  Mar 10, 2026 - $12.99 (eBay)
+  Feb 9, 2026 - $19.99 (eBay)
+  Feb 11, 2026 - $9.00 (eBay)
+  Feb 23, 2026 - $85.00 (eBay)
+  May 4, 2026 - $12.99 (eBay)
+  Feb 15, 2026 - $19.99 (eBay)
+  Feb 8, 2026 - $49.00 (eBay)
+  Mar 11, 2026 - $14.99 (eBay)
+  Feb 8, 2026 - $14.99 (eBay)
+  Mar 6, 2026 - $12.99 (eBay)
+  May 3, 2026 - $13.50 (eBay)
+  Mar 23, 2026 - $40.00 (eBay)
+  Feb 22, 2026 - $12.00 (eBay)
+
+--- 130Point ---
+Market Value: $14.25
+Average Price: $14.25
+Range: $0.99 - $40.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $9.00 (eBay)
+   - $7.00 (eBay)
+   - $40.00 (eBay)
+
+--- Aggregate ---
+Average: $16.58
+Low: $9.00
+High: $40.00

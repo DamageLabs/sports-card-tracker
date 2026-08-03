@@ -1,0 +1,61 @@
+Card: Mickey Mantle 2024 Topps #
+Condition: RAW
+Generated: 2026-03-01T04:32:26.344Z
+
+--- SportsCardsPro ---
+Market Value: $6.24
+Average Price: $6.24
+
+--- eBay ---
+Market Value: $106.85
+Average Price: $106.85
+Range: $29.99 - $300.00
+Recent Sales:
+  Dec 14, 2025 - $74.95 (eBay)
+  Feb 26, 2026 - $299.00 (eBay)
+  Feb 22, 2026 - $65.00 (eBay)
+  Feb 22, 2026 - $59.00 (eBay)
+  Jan 10, 2026 - $29.99 (eBay)
+  Dec 6, 2025 - $45.00 (eBay)
+  Feb 8, 2026 - $225.00 (eBay, BGS 8)
+  Dec 20, 2025 - $36.99 (eBay)
+  Feb 16, 2026 - $65.00 (eBay)
+  Feb 18, 2026 - $200.00 (eBay, SGC 8.5)
+  Jan 22, 2026 - $50.00 (eBay)
+  Jan 29, 2026 - $60.00 (eBay)
+  Feb 6, 2026 - $180.00 (eBay, BGS 8.5)
+  Feb 14, 2026 - $300.00 (eBay)
+  Feb 24, 2026 - $134.50 (eBay, BGS 9)
+  Dec 6, 2025 - $49.99 (eBay)
+  Jan 10, 2026 - $36.06 (eBay)
+  Dec 20, 2025 - $175.00 (eBay)
+  Feb 26, 2026 - $112.50 (eBay)
+  Feb 14, 2026 - $300.00 (eBay)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2024 Topps Jersey Fusion Baseball Edition Mickey Mantle 
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Topps Jersey Fusion Baseball Edition Mickey Mantle
+
+--- 130Point ---
+Market Value: $70.49
+Average Price: $70.49
+Range: $35.00 - $86.00
+Recent Sales:
+   - $74.95 (eBay)
+   - $35.00 (eBay)
+   - $86.00 (Pristine)
+   - $86.00 (Pristine)
+
+--- PSA ---
+Market Value: $20.50
+Average Price: $20.50
+Range: $20.50 - $20.50
+Recent Sales:
+  May 31, 2025 - $20.50 (eBay, 7)
+
+--- Aggregate ---
+Average: $113.73
+Low: $36.06
+High: $299.00

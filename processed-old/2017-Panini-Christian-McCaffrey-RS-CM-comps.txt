@@ -1,0 +1,63 @@
+Card: Christian McCaffrey 2017 Panini #RS-CM
+Condition: 10: GEM MINT
+Generated: 2026-05-19T22:59:40.740Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $221.49
+Average Price: $221.49
+Range: $39.99 - $700.00
+Recent Sales:
+  May 11, 2026 - $173.00 (eBay, PSA 10)
+  Mar 27, 2026 - $699.99 (eBay, PSA 10)
+  Feb 24, 2026 - $700.00 (eBay, PSA 10)
+  May 12, 2026 - $199.99 (eBay, PSA 10)
+  May 15, 2026 - $39.99 (eBay, PSA 10)
+  Apr 19, 2026 - $199.95 (eBay, PSA 10)
+  Apr 17, 2026 - $159.00 (eBay, PSA 10)
+  Apr 8, 2026 - $175.00 (eBay, PSA 10)
+  May 5, 2026 - $426.96 (eBay, PSA 10)
+  Apr 4, 2026 - $100.00 (eBay, PSA 10)
+  May 11, 2026 - $450.00 (eBay, PSA 10)
+  Apr 7, 2026 - $174.99 (eBay, PSA 10)
+  Mar 7, 2026 - $111.50 (eBay, PSA 10)
+  May 12, 2026 - $59.99 (eBay, PSA 10)
+  Apr 14, 2026 - $329.00 (eBay, PSA 10)
+  Apr 25, 2026 - $200.00 (eBay, PSA 10)
+  May 10, 2026 - $180.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $129.02
+Average Price: $129.02
+Range: $24.50 - $900.00
+Recent Sales:
+   - $55.28 (Pristine, PSA 10)
+   - $199.12 (Pristine, PSA 10)
+   - $181.35 (Pristine, PSA 10)
+   - $42.00 (Pristine, PSA 10)
+   - $130.00 (eBay, PSA 10)
+   - $24.50 (eBay, PSA 10)
+   - $900.00 (eBay, PSA 10)
+   - $636.00 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $44.99 (eBay, PSA 10)
+   - $165.00 (eBay, PSA 10)
+   - $140.00 (eBay, PSA 10)
+   - $163.50 (eBay, PSA 10)
+   - $95.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $179.52
+Low: $42.00
+High: $450.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $224.40 (+25%)

@@ -1,0 +1,38 @@
+Card: Jordan Addison 2023 Panini #271
+Condition: 9: MINT
+Generated: 2026-05-19T23:07:10.246Z
+
+--- SportsCardsPro ---
+Market Value: $31.00
+Average Price: $31.00
+
+--- eBay ---
+Market Value: $110.74
+Average Price: $110.74
+Range: $10.00 - $340.00
+Recent Sales:
+  Apr 7, 2026 - $75.00 (eBay, PSA 9)
+  Mar 29, 2026 - $10.00 (eBay, PSA 9)
+  Apr 22, 2026 - $17.95 (eBay, PSA 9)
+  May 18, 2026 - $340.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $30.33
+Average Price: $30.33
+Range: $7.50 - $75.00
+Recent Sales:
+   - $7.50 (eBay, PSA 9)
+   - $75.00 (eBay, PSA 9)
+   - $8.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $106.67
+Low: $7.50
+High: $340.00
+
+--- Population Report ---
+PSA 9 Pop: 5
+Total Graded: 12
+Percentile: Top 91.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $125.87 (+18%)

@@ -1,0 +1,30 @@
+Card: Saquon Barkley 2023 Panini #D-13
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:04:59.155Z
+
+--- SportsCardsPro ---
+Market Value: $220.00
+Average Price: $220.00
+
+--- 130Point ---
+Market Value: $594.47
+Average Price: $594.47
+Range: $587.00 - $625.00
+Recent Sales:
+   - $625.00 (eBay, PSA 10)
+   - $587.00 (eBay, PSA 10)
+   - $600.00 (eBay, PSA 10)
+   - $590.00 (eBay, PSA 10)
+   - $593.40 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $597.35
+Low: $587.00
+High: $625.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 15
+Percentile: Top 13.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $728.77 (+22%)

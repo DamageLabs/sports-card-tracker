@@ -1,0 +1,63 @@
+Card: Baker Mayfield 2018 Panini #RS1
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:08:06.602Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $114.14
+Average Price: $114.14
+Range: $0.99 - $1814.01
+Recent Sales:
+  Apr 26, 2026 - $70.00 (eBay, PSA 10)
+  Mar 28, 2026 - $75.00 (eBay, PSA 10)
+  May 17, 2026 - $111.20 (eBay, PSA 10)
+  Mar 30, 2026 - $66.50 (eBay, PSA 10)
+  Apr 2, 2026 - $300.00 (eBay, PSA 10)
+  Feb 26, 2026 - $72.00 (eBay, PSA 10)
+  May 20, 2026 - $1814.01 (eBay, PSA 10)
+  Feb 26, 2026 - $120.00 (eBay, PSA 10)
+  Mar 20, 2026 - $134.99 (eBay, PSA 10)
+  May 14, 2026 - $50.00 (eBay, PSA 10)
+  Mar 29, 2026 - $32.94 (eBay, PSA 10)
+  May 7, 2026 - $99.99 (eBay, PSA 10)
+  May 12, 2026 - $0.99 (eBay, PSA 10)
+  May 12, 2026 - $109.99 (eBay, PSA 10)
+  Apr 3, 2026 - $159.99 (eBay, PSA 10)
+  Apr 18, 2026 - $300.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $168.25
+Average Price: $168.25
+Range: $18.78 - $575.00
+Recent Sales:
+   - $81.90 (Pristine, PSA 10)
+   - $575.00 (eBay, PSA 10)
+   - $181.40 (eBay, PSA 10)
+   - $214.50 (eBay, PSA 10)
+   - $18.78 (eBay, PSA 10)
+   - $46.55 (eBay, PSA 10)
+   - $455.00 (eBay, PSA 10)
+   - $300.00 (eBay, PSA 10)
+   - $420.80 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $170.39 (eBay, PSA 10)
+   - $66.50 (eBay, PSA 10)
+   - $244.00 (eBay, PSA 10)
+   - $32.94 (eBay, PSA 10)
+   - $73.00 (eBay, PSA 10)
+   - $60.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $143.94
+Low: $32.94
+High: $455.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 7
+Percentile: Top 42.86%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $173.01 (+20%)

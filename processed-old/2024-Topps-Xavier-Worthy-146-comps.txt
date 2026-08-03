@@ -1,0 +1,89 @@
+Card: Xavier Worthy 2024 Topps #146
+Condition: RAW
+Generated: 2026-03-01T22:06:51.612Z
+
+--- eBay ---
+Market Value: $6.45
+Average Price: $6.45
+Range: $0.99 - $24.99
+Recent Sales:
+  Feb 28, 2026 - $24.99 (eBay)
+  Feb 12, 2026 - $15.50 (eBay)
+  Feb 8, 2026 - $2.25 (eBay)
+  Feb 1, 2026 - $0.99 (eBay)
+  Jan 12, 2026 - $2.39 (eBay)
+  Jan 10, 2026 - $4.99 (eBay)
+  Jan 5, 2026 - $1.99 (eBay)
+  Dec 22, 2025 - $22.00 (eBay)
+  Dec 12, 2025 - $2.49 (eBay)
+  Feb 13, 2026 - $1.99 (eBay)
+  Feb 4, 2026 - $12.99 (eBay)
+  Jan 21, 2026 - $1.00 (eBay)
+  Dec 20, 2025 - $10.00 (eBay)
+  Feb 28, 2026 - $1.79 (eBay)
+  Feb 27, 2026 - $4.99 (eBay)
+  Jan 10, 2026 - $9.00 (eBay)
+  Feb 25, 2026 - $1.44 (eBay)
+  Feb 27, 2026 - $5.00 (eBay)
+  Jan 30, 2026 - $20.00 (eBay)
+
+--- MarketMovers ---
+Average Price: $17.02
+Range: $0.99 - $150.00
+Recent Sales:
+  2026-02-27 - $4.99 (hcvault)
+  2026-02-27 - $2.26 (dcsports87)
+  2026-02-26 - $48.00 (dsscoins)
+  2026-02-16 - $0.99 (thechasingpoke)
+  2026-02-14 - $1.99 (danindemandcards)
+  2026-02-12 - $150.00 (psa)
+  2026-02-12 - $15.50 (andywebz)
+  2026-02-08 - $2.25 (santiago_sports)
+  2026-02-04 - $11.04 (westmi_trading)
+  2026-02-04 - $1.25 (dcsports87)
+  2026-02-04 - $2.25 (dcsports87)
+  2026-02-01 - $0.99 (andywebz)
+  2026-01-31 - $10.99 (cardsbythenumbers)
+  2026-01-23 - $1.75 (dom_3539)
+  2026-01-22 - $1.00 (daviecollectibles)
+
+--- 130Point ---
+Market Value: $6.16
+Average Price: $6.16
+Range: $0.99 - $40.00
+Recent Sales:
+   - $2.26 (eBay)
+   - $0.99 (eBay)
+   - $11.04 (eBay)
+   - $1.25 (eBay)
+   - $2.25 (eBay)
+   - $0.99 (eBay)
+   - $10.99 (eBay)
+   - $1.75 (eBay)
+   - $1.00 (eBay)
+   - $8.00 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $40.00 (eBay)
+   - $22.00 (eBay)
+   - $8.00 (eBay)
+   - $8.50 (eBay)
+   - $1.00 (eBay)
+   - $2.49 (eBay)
+   - $3.01 (eBay)
+   - $9.99 (eBay)
+   - $22.11 (Pristine)
+   - $16.80 (PWCC, CGC Auth)
+   - $14.40 (PWCC, PSA 9)
+
+--- PSA ---
+Market Value: $75.00
+Average Price: $75.00
+Range: $75.00 - $75.00
+Recent Sales:
+  Apr 7, 2025 - $75.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $6.64
+Low: $0.99
+High: $24.99

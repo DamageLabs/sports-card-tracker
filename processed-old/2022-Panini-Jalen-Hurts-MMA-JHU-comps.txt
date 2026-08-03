@@ -1,0 +1,42 @@
+Card: Jalen Hurts 2022 Panini #MMA-JHU
+Condition: 9: MINT
+Generated: 2026-05-19T23:10:27.732Z
+
+--- SportsCardsPro ---
+Market Value: $5.62
+Average Price: $5.62
+
+--- eBay ---
+Market Value: $123.00
+Average Price: $123.00
+Range: $66.00 - $179.99
+Recent Sales:
+  Mar 29, 2026 - $179.99 (eBay, PSA 6)
+  Apr 10, 2026 - $66.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $1632.07
+Average Price: $1632.07
+Range: $300.00 - $21600.00
+Recent Sales:
+   - $3355.00 (Goldin)
+   - $445.30 (Goldin)
+   - $688.08 (Goldin)
+   - $312.00 (PWCC, SGC 9)
+   - $1104.10 (Goldin)
+   - $300.00 (PWCC)
+   - $2880.00 (Goldin)
+   - $2640.00 (Goldin)
+   - $21600.00 (Goldin)
+
+--- Aggregate ---
+Average: $1277.55
+Low: $66.00
+High: $3355.00
+
+--- Population Report ---
+PSA 9 Pop: 3
+Total Graded: 5
+Percentile: Top 80%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1535.61 (+20%)

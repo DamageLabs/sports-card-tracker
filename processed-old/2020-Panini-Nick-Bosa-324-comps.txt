@@ -1,0 +1,52 @@
+Card: Nick Bosa 2020 Panini #324
+Condition: 10: GEM MINT
+Generated: 2026-05-19T13:00:46.576Z
+
+--- SportsCardsPro ---
+Market Value: $7.08
+Average Price: $7.08
+
+--- 130Point ---
+Market Value: $140.07
+Average Price: $140.07
+Range: $14.00 - $675.00
+Recent Sales:
+   - $61.00 (eBay, PSA 10)
+   - $14.00 (eBay, PSA 10)
+   - $140.00 (eBay, PSA 10)
+   - $125.00 (eBay, PSA 10)
+   - $675.00 (eBay, PSA 10)
+   - $559.00 (eBay, PSA 10)
+   - $560.00 (eBay, PSA 10)
+   - $51.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $77.00 (eBay, PSA 10)
+   - $184.31 (eBay, PSA 10)
+   - $137.50 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $73.59 (eBay, PSA 10)
+   - $20.49 (eBay, PSA 10)
+   - $105.00 (eBay, PSA 10)
+   - $90.00 (eBay, PSA 10)
+   - $400.00 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $245.00 (eBay, PSA 10)
+   - $135.50 (eBay, PSA 10)
+   - $80.00 (eBay, PSA 10)
+   - $210.00 (eBay, PSA 10)
+   - $434.99 (eBay, PSA 10)
+   - $36.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $202.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $153.98
+Low: $36.00
+High: $559.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 2
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $192.47 (+25%)

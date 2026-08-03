@@ -1,0 +1,71 @@
+Card: Braden Montgomery 2024 Bowman #BDC-58
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-03-01T03:01:53.088Z
+
+--- SportsCardsPro ---
+Market Value: $486.00
+Average Price: $486.00
+
+--- eBay ---
+Market Value: $12.81
+Average Price: $12.81
+Range: $1.99 - $160.00
+Recent Sales:
+  Jan 28, 2026 - $1.99 (eBay)
+  Jan 1, 2026 - $1.99 (eBay)
+  Feb 18, 2026 - $2.24 (eBay)
+  Feb 12, 2026 - $29.99 (eBay, PSA 10)
+  Feb 2, 2026 - $2.49 (eBay)
+  Jan 2, 2026 - $40.00 (eBay, PSA 10)
+  Feb 6, 2026 - $49.99 (eBay, PSA 10)
+  Jan 1, 2026 - $5.99 (eBay)
+  Feb 28, 2026 - $135.00 (eBay, PSA 9)
+  Jan 18, 2026 - $5.00 (eBay)
+  Feb 26, 2026 - $5.99 (eBay)
+  Jan 31, 2026 - $44.95 (eBay, PSA 10)
+  Feb 22, 2026 - $4.20 (eBay)
+  Jan 21, 2026 - $5.74 (eBay)
+  Jan 9, 2026 - $7.99 (eBay)
+  Feb 18, 2026 - $7.99 (eBay)
+  Dec 5, 2025 - $5.99 (eBay)
+  Feb 25, 2026 - $7.00 (eBay)
+  Feb 27, 2026 - $160.00 (eBay, PSA 10)
+  Feb 2, 2026 - $6.00 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Bowman Draft Chrome Braden Montgomery BDC-58
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2024 Bowman Draft Chrome Braden Montgomery #BDC-58 CGC 8
+
+--- 130Point ---
+Market Value: $6.49
+Average Price: $6.49
+Range: $1.40 - $350.00
+Recent Sales:
+   - $5.50 (eBay)
+   - $11.61 (eBay)
+   - $6.50 (eBay)
+   - $64.00 (eBay)
+   - $2.25 (eBay)
+   - $11.50 (eBay)
+   - $4.00 (eBay)
+   - $20.00 (eBay)
+   - $5.00 (eBay)
+   - $350.00 (eBay, PSA 10)
+   - $4.50 (eBay, PSA 9)
+   - $1.40 (eBay)
+   - $2.50 (eBay)
+   - $1.69 (eBay)
+   - $1.59 (eBay)
+   - $2.95 (eBay)
+   - $3.51 (eBay)
+   - $9.06 (eBay)
+   - $3.50 (eBay)
+   - $5.00 (eBay)
+   - $55.00 (eBay)
+
+--- Aggregate ---
+Average: $14.86
+Low: $1.99
+High: $135.00

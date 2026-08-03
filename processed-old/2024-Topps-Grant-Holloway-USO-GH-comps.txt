@@ -1,0 +1,74 @@
+Card: Grant Holloway 2024 Topps #USO-GH
+Condition: RAW
+Generated: 2026-05-07T19:14:10.823Z
+
+--- SportsCardsPro ---
+Market Value: $20.59
+Average Price: $20.59
+
+--- eBay ---
+Market Value: $3.08
+Average Price: $3.08
+Range: $0.99 - $139.99
+Recent Sales:
+  Mar 4, 2026 - $1.75 (eBay)
+  Apr 23, 2026 - $1.25 (eBay)
+  May 5, 2026 - $139.99 (eBay)
+  May 2, 2026 - $1.24 (eBay)
+  Apr 26, 2026 - $0.99 (eBay)
+  Mar 2, 2026 - $10.99 (eBay)
+  Apr 13, 2026 - $0.99 (eBay)
+  Mar 12, 2026 - $0.99 (eBay)
+  Mar 13, 2026 - $1.00 (eBay)
+  Apr 21, 2026 - $1.40 (eBay)
+  Mar 4, 2026 - $4.99 (eBay)
+  Apr 5, 2026 - $0.99 (eBay)
+  May 7, 2026 - $12.49 (eBay, BGS 9.5)
+  Feb 23, 2026 - $134.95 (eBay)
+  Apr 5, 2026 - $1.49 (eBay)
+  Mar 17, 2026 - $54.99 (eBay)
+  May 7, 2026 - $1.99 (eBay)
+  Apr 4, 2026 - $1.59 (eBay)
+  Feb 21, 2026 - $0.99 (eBay)
+  Apr 30, 2026 - $0.99 (eBay)
+
+--- 130Point ---
+Market Value: $25.90
+Average Price: $25.90
+Range: $1.62 - $132.50
+Recent Sales:
+   - $60.20 (Pristine)
+   - $2.26 (eBay)
+   - $3.25 (eBay)
+   - $7.99 (eBay)
+   - $1.87 (eBay)
+   - $2.99 (eBay)
+   - $2.97 (eBay)
+   - $1.62 (eBay)
+   - $1.99 (eBay)
+   - $1.69 (eBay)
+   - $3.00 (eBay)
+   - $3.62 (eBay)
+   - $3.00 (eBay)
+   - $4.95 (eBay)
+   - $3.24 (eBay)
+   - $11.75 (eBay)
+   - $46.83 (eBay)
+   - $16.57 (eBay)
+   - $102.50 (eBay)
+   - $93.02 (eBay)
+   - $104.50 (eBay)
+   - $5.43 (eBay)
+   - $86.00 (eBay)
+   - $5.43 (eBay)
+   - $96.00 (eBay)
+   - $7.73 (eBay)
+   - $7.61 (eBay)
+   - $96.00 (eBay)
+   - $132.50 (eBay)
+   - $113.50 (eBay)
+
+--- Aggregate ---
+Average: $21.09
+Low: $0.99
+High: $104.50

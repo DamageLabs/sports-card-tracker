@@ -1,0 +1,40 @@
+Card: Tom Brady 2017 Panini #286
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:28:44.186Z
+
+--- SportsCardsPro ---
+Market Value: $24.67
+Average Price: $24.67
+
+--- eBay ---
+Market Value: $246.99
+Average Price: $246.99
+Range: $129.00 - $535.00
+Recent Sales:
+  May 24, 2026 - $199.99 (eBay, PSA 10)
+  May 24, 2026 - $129.00 (eBay, PSA 10)
+  May 19, 2026 - $219.99 (eBay, PSA 10)
+  Mar 23, 2026 - $325.00 (eBay, PSA 10)
+  Mar 20, 2026 - $154.99 (eBay, PSA 10)
+  May 26, 2026 - $220.00 (eBay, PSA 10)
+  May 26, 2026 - $250.00 (eBay, PSA 10)
+  May 5, 2026 - $389.95 (eBay, PSA 10)
+  Mar 8, 2026 - $140.50 (eBay, PSA 10)
+  May 25, 2026 - $535.00 (eBay, PSA 10)
+  Mar 23, 2026 - $199.99 (eBay, PSA 10)
+  May 25, 2026 - $499.99 (eBay, PSA 10)
+  Apr 19, 2026 - $360.00 (eBay, PSA 10)
+  Apr 7, 2026 - $150.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $500.00
+Average Price: $500.00
+Range: $500.00 - $500.00
+Recent Sales:
+   - $500.00 (MySlabs, PSA 10)
+
+--- Aggregate ---
+Average: $298.21
+Median: $220.00
+Low: $140.50
+High: $535.00

@@ -1,0 +1,26 @@
+Card: Joe Mauer 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-09T03:10:44.890Z
+
+--- SportsCardsPro ---
+Market Value: $7.88
+Average Price: $7.88
+
+--- eBay ---
+Market Value: $68.86
+Average Price: $68.86
+Range: $20.50 - $100.00
+Recent Sales:
+  Mar 12, 2026 - $85.00 (eBay)
+  Mar 3, 2026 - $79.99 (eBay)
+  Mar 6, 2026 - $79.99 (eBay)
+  May 7, 2026 - $34.99 (eBay)
+  Mar 9, 2026 - $66.66 (eBay)
+  Mar 28, 2026 - $100.00 (eBay)
+  Feb 24, 2026 - $20.50 (eBay)
+  May 7, 2026 - $66.51 (eBay)
+
+--- Aggregate ---
+Average: $61.58
+Low: $34.99
+High: $100.00

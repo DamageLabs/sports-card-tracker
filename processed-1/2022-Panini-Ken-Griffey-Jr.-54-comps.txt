@@ -1,0 +1,34 @@
+Card: Ken Griffey Jr. 2022 Panini #54
+Condition: RAW
+Generated: 2026-05-26T18:29:54.344Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $9.48
+Average Price: $9.48
+Range: $3.95 - $51.00
+Recent Sales:
+  May 22, 2026 - $7.99 (eBay)
+  May 21, 2026 - $3.99 (eBay)
+  May 18, 2026 - $20.95 (eBay, PSA 9)
+  Apr 29, 2026 - $4.99 (eBay)
+  Apr 23, 2026 - $3.95 (eBay)
+  Apr 23, 2026 - $51.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $3.55
+Average Price: $3.55
+Range: $2.50 - $5.16
+Recent Sales:
+   - $2.99 (eBay)
+   - $2.50 (eBay)
+   - $5.16 (eBay)
+
+--- Aggregate ---
+Average: $7.43
+Median: $4.99
+Low: $2.50
+High: $20.95
+Projected PSA 10 Median: $92.51
+Projected PSA 9 Median: $22.70

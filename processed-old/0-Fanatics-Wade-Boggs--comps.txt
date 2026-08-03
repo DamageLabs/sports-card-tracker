@@ -1,0 +1,52 @@
+Card: Wade Boggs 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:56:02.257Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $70.79
+Average Price: $70.79
+Range: $22.10 - $179.99
+Recent Sales:
+  Apr 15, 2026 - $73.99 (eBay)
+  Apr 17, 2026 - $179.99 (eBay)
+  Apr 17, 2026 - $85.00 (eBay)
+  Apr 2, 2026 - $99.99 (eBay)
+  Apr 20, 2026 - $22.10 (eBay)
+  Mar 30, 2026 - $44.99 (eBay)
+  Apr 9, 2026 - $50.00 (eBay)
+
+--- 130Point ---
+Market Value: $43.34
+Average Price: $43.34
+Range: $1.00 - $408.00
+Recent Sales:
+   - $60.00 (eBay)
+   - $50.00 (eBay)
+   - $3.00 (eBay)
+   - $128.70 (Pristine)
+   - $7.45 (eBay)
+   - $2.74 (eBay)
+   - $4.00 (eBay)
+   - $2.25 (eBay)
+   - $5.50 (eBay)
+   - $80.73 (Pristine)
+   - $182.52 (Pristine)
+   - $91.26 (Pristine)
+   - $33.93 (Pristine)
+   - $74.88 (Pristine)
+   - $18.43 (Pristine)
+   - $408.00 (PWCC, BGS 9.5)
+   - $175.50 (Pristine)
+   - $38.08 (Pristine)
+   - $1.00 (Goldin, PSA 0)
+   - $34.80 (PWCC, BGS 9.5)
+   - $19.39 (PWCC)
+
+--- Aggregate ---
+Average: $55.81
+Low: $2.74
+High: $179.99

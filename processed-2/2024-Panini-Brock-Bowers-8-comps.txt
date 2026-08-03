@@ -1,0 +1,42 @@
+Card: Brock Bowers 2024 Panini #8
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:26:49.260Z
+
+--- SportsCardsPro ---
+Market Value: $90.00
+Average Price: $90.00
+
+--- eBay ---
+Market Value: $297.00
+Average Price: $297.00
+Range: $39.99 - $810.00
+Recent Sales:
+  Mar 9, 2026 - $800.00 (eBay, PSA 10)
+  Apr 12, 2026 - $810.00 (eBay, PSA 10)
+  Mar 25, 2026 - $799.00 (eBay, PSA 10)
+  May 27, 2026 - $60.00 (eBay, PSA 10)
+  May 28, 2026 - $85.00 (eBay, PSA 10)
+  Mar 5, 2026 - $45.00 (eBay, PSA 10)
+  Mar 20, 2026 - $100.00 (eBay, PSA 10)
+  May 16, 2026 - $190.00 (eBay, PSA 10)
+  Mar 5, 2026 - $39.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $1680.00
+Average Price: $1680.00
+Range: $1680.00 - $1680.00
+Recent Sales:
+   - $1680.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $215.69
+Median: $145.00
+Low: $60.00
+High: $810.00
+
+--- Population Report ---
+PSA 10 Pop: 26
+Total Graded: 35
+Percentile: Top 74.29%
+Rarity Tier: medium
+Pop-Adjusted Average: $239.20 (+11%)

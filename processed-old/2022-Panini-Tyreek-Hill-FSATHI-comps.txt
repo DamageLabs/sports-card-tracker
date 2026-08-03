@@ -1,0 +1,38 @@
+Card: Tyreek Hill 2022 Panini #FSATHI
+Condition: 7: NEAR MINT
+Generated: 2026-05-23T01:09:24.605Z
+
+--- SportsCardsPro ---
+Market Value: $9.89
+Average Price: $9.89
+
+--- eBay ---
+Market Value: $163.33
+Average Price: $163.33
+Range: $115.00 - $250.00
+Recent Sales:
+  Mar 17, 2026 - $115.00 (eBay)
+  May 8, 2026 - $250.00 (eBay)
+  Feb 22, 2026 - $125.00 (eBay)
+
+--- 130Point ---
+Market Value: $79.95
+Average Price: $79.95
+Range: $56.00 - $99.82
+Recent Sales:
+   - $56.00 (eBay, PSA 10)
+   - $91.50 (Goldin, PSA Auth)
+   - $72.48 (Pristine, PSA 9)
+   - $99.82 (Pristine, PSA 9)
+
+--- Aggregate ---
+Average: $152.34
+Low: $56.00
+High: $250.00
+
+--- Population Report ---
+PSA 7 Pop: 0
+Total Graded: 3
+Percentile: Top 66.67%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $190.42 (+25%)

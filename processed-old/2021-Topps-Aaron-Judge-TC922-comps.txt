@@ -1,0 +1,64 @@
+Card: Aaron Judge 2021 Topps #TC922
+Condition: 9: MINT
+Generated: 2026-03-01T03:09:36.498Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $53.89
+Average Price: $53.89
+Range: $30.00 - $100.00
+Recent Sales:
+  Feb 25, 2026 - $30.00 (eBay, PSA 9)
+  Jan 29, 2026 - $100.00 (eBay, PSA 10)
+  Feb 12, 2026 - $31.66 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2021 Topps Update 1992 Topps Redux Chrome Aaron Judge TC922
+
+--- MarketMovers ---
+Average Price: $34.99
+Range: $34.99 - $34.99
+Recent Sales:
+  2025-06-01 - $34.99 (libu9980)
+
+--- 130Point ---
+Market Value: $50.58
+Average Price: $50.58
+Range: $16.88 - $180.00
+Recent Sales:
+   - $25.00 (eBay, PSA 9)
+   - $29.00 (eBay, PSA 9)
+   - $37.00 (eBay, PSA 9)
+   - $71.25 (Pristine, PSA 9)
+   - $28.00 (eBay, PSA 9)
+   - $16.88 (eBay, PSA 9)
+   - $65.00 (eBay, PSA 9)
+   - $158.50 (eBay, PSA 9)
+   - $111.00 (eBay, PSA 9)
+   - $24.95 (eBay, PSA 9)
+   - $46.00 (eBay, PSA 9)
+   - $34.16 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $80.00 (eBay, PSA 9)
+   - $180.00 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $12.30
+Average Price: $12.30
+Range: $7.50 - $17.10
+Recent Sales:
+  Aug 12, 2024 - $7.50 (eBay, 9)
+  Jan 1, 2023 - $17.10 (eBay, 9)
+
+--- Aggregate ---
+Average: $44.48
+Low: $17.10
+High: $111.00
+
+--- Population Report ---
+PSA 9 Pop: 9
+Total Graded: 11
+Percentile: Top 90.91%
+Rarity Tier: low
+Pop-Adjusted Average: $51.37 (+16%)

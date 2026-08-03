@@ -1,0 +1,19 @@
+Card: Patrick Mahomes II 2024 Panini #1
+Condition: 10: GEM MINT
+Generated: 2026-05-19T12:49:26.052Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- Aggregate ---
+Average: $12.29
+Low: $12.29
+High: $12.29
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 19
+Percentile: Top 5.26%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $15.36 (+25%)

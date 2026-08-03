@@ -1,0 +1,53 @@
+Card: Pikachu 2025 Pokemon #289
+Condition: 9: MINT
+Generated: 2026-06-01T22:34:54.333Z
+
+--- SportsCardsPro ---
+Market Value: $304.56
+Average Price: $304.56
+
+--- eBay ---
+Market Value: $233.50
+Average Price: $233.50
+Range: $215.49 - $250.00
+Recent Sales:
+  Apr 17, 2026 - $215.49 (eBay, PSA 9)
+  May 21, 2026 - $250.00 (eBay, PSA 9)
+  Apr 4, 2026 - $235.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $48.73
+Average Price: $48.73
+Range: $21.50 - $162.50
+Recent Sales:
+   - $44.00 (eBay, PSA 9)
+   - $45.00 (eBay, PSA 9)
+   - $84.00 (eBay, PSA 9)
+   - $162.50 (eBay, PSA 9)
+   - $27.30 (eBay, PSA 9)
+   - $27.00 (eBay, PSA 9)
+   - $24.99 (eBay, PSA 9)
+   - $144.00 (PWCC, PSA 9)
+   - $41.00 (eBay, PSA 9)
+   - $29.00 (eBay, PSA 9)
+   - $28.99 (eBay, PSA 9)
+   - $31.00 (eBay, PSA 9)
+   - $31.00 (eBay, PSA 9)
+   - $162.50 (eBay, PSA 9)
+   - $21.50 (eBay, PSA 9)
+   - $25.00 (eBay, PSA 9)
+   - $22.50 (eBay, PSA 9)
+   - $99.99 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $82.93
+Median: $41.00
+Low: $24.99
+High: $250.00
+
+--- Population Report ---
+PSA 9 Pop: 0
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $103.66 (+25%)

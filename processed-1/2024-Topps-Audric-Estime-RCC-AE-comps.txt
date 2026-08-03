@@ -1,0 +1,61 @@
+Card: Audric Estime 2024 Topps #RCC-AE
+Condition: RAW
+Generated: 2026-05-27T22:06:38.068Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $4.50
+Average Price: $4.50
+Range: $2.49 - $5.50
+Recent Sales:
+  Apr 30, 2026 - $5.50 (eBay)
+  Mar 5, 2026 - $4.99 (eBay)
+  Apr 22, 2026 - $4.50 (eBay)
+  Apr 17, 2026 - $3.00 (eBay)
+  Mar 8, 2026 - $2.49 (eBay)
+  May 23, 2026 - $5.50 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $19.06
+Average Price: $19.06
+Range: $1.25 - $350.00
+Recent Sales:
+   - $135.72 (Pristine)
+   - $51.60 (Pristine)
+   - $5.50 (eBay)
+   - $36.00 (eBay)
+   - $8.40 (PWCC, CGC Auth)
+   - $5.00 (eBay)
+   - $13.99 (eBay)
+   - $3.00 (eBay)
+   - $8.50 (eBay)
+   - $18.00 (eBay)
+   - $38.00 (eBay)
+   - $10.00 (eBay)
+   - $1.25 (eBay)
+   - $61.50 (eBay)
+   - $10.00 (eBay)
+   - $28.01 (eBay)
+   - $25.00 (eBay)
+   - $5.95 (eBay)
+   - $5.99 (eBay)
+   - $4.99 (eBay)
+   - $5.00 (eBay)
+   - $9.00 (eBay)
+   - $9.98 (eBay)
+   - $4.99 (eBay)
+   - $19.99 (eBay)
+   - $350.00 (eBay)
+   - $11.19 (eBay)
+   - $169.53 (Pristine)
+   - $32.76 (Pristine)
+   - $104.42 (Pristine)
+
+--- Aggregate ---
+Average: $16.42
+Median: $9.49
+Low: $4.50
+High: $104.42
+Projected PSA 10 Median: $112.90
+Projected PSA 9 Median: $5.97

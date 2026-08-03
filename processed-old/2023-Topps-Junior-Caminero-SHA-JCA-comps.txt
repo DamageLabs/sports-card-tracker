@@ -1,0 +1,81 @@
+Card: Junior Caminero 2023 Topps #SHA-JCA
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-03-01T00:23:27.810Z
+
+--- SportsCardsPro ---
+Market Value: $21.50
+Average Price: $21.50
+
+--- eBay ---
+Market Value: $157.00
+Average Price: $157.00
+Range: $75.00 - $315.00
+Recent Sales:
+  Jan 28, 2026 - $135.00 (eBay, PSA 10)
+  Feb 6, 2026 - $150.00 (eBay, PSA 10)
+  Jan 2, 2026 - $185.00 (eBay, PSA 10)
+  Jan 22, 2026 - $75.00 (eBay, PSA 9)
+  Jan 3, 2026 - $185.00 (eBay, PSA 10)
+  Feb 16, 2026 - $160.00 (eBay, PSA 10)
+  Jan 21, 2026 - $149.99 (eBay, PSA 10)
+  Jan 30, 2026 - $130.00 (eBay, PSA 10)
+  Feb 15, 2026 - $179.99 (eBay, PSA 10)
+  Jan 27, 2026 - $170.00 (eBay, PSA 10)
+  Jan 16, 2026 - $150.00 (eBay, PSA 10)
+  Jan 18, 2026 - $160.00 (eBay, PSA 10)
+  Feb 18, 2026 - $315.00 (eBay, PSA 10)
+  Jan 8, 2026 - $119.99 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $550.00
+Average Price: $583.02
+Range: $540.00 - $665.96
+Recent Sales:
+  02/27/2026 - $550.00 (Card Ladder)
+  02/25/2026 - $550.00 (Card Ladder)
+  02/18/2026 - $550.00 (Card Ladder)
+  02/15/2026 - $585.00 (Card Ladder)
+  02/08/2026 - $550.00 (Card Ladder)
+  02/07/2026 - $610.00 (Card Ladder)
+  02/01/2026 - $585.00 (Card Ladder)
+  01/31/2026 - $612.50 (Card Ladder)
+  01/28/2026 - $602.00 (Card Ladder)
+  01/26/2026 - $572.50 (Card Ladder)
+  01/20/2026 - $665.96 (Card Ladder)
+  01/19/2026 - $547.33 (Card Ladder)
+  01/16/2026 - $599.99 (Card Ladder)
+  01/12/2026 - $624.99 (Card Ladder)
+  01/11/2026 - $540.00 (Card Ladder)
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2023 Topps Bowman's Best Junior Caminero #SHA-JCA Shellacked Autograph PSA 8
+
+--- 130Point ---
+Market Value: $84.90
+Average Price: $84.90
+Range: $51.60 - $120.00
+Recent Sales:
+   - $108.00 (eBay, PSA 9)
+   - $60.00 (eBay, PSA 9)
+   - $51.60 (PWCC, PSA 8)
+   - $120.00 (PWCC, PSA 9)
+
+--- PSA ---
+Market Value: $35.00
+Average Price: $35.00
+Range: $29.00 - $41.00
+Recent Sales:
+  Jan 9, 2025 - $29.00 (eBay, 8)
+  Sep 13, 2024 - $41.00 (eBay, 8)
+
+--- Aggregate ---
+Average: $321.81
+Low: $75.00
+High: $610.00
+
+--- Population Report ---
+PSA 8 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $402.26 (+25%)

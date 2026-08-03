@@ -1,0 +1,44 @@
+Card: Peyton Manning 1999 Bowman's Best #70
+Condition: 9: MINT
+Generated: 2026-05-21T13:04:04.322Z
+
+--- SportsCardsPro ---
+Market Value: $20.00
+Average Price: $20.00
+
+--- eBay ---
+Market Value: $139.81
+Average Price: $139.81
+Range: $25.00 - $668.88
+Recent Sales:
+  Apr 19, 2026 - $668.88 (eBay, PSA 9)
+  Mar 26, 2026 - $134.50 (eBay, PSA 9)
+  Mar 20, 2026 - $249.99 (eBay, PSA 9)
+  May 19, 2026 - $129.99 (eBay, PSA 9)
+  Mar 13, 2026 - $199.00 (eBay, PSA 9)
+  May 17, 2026 - $199.99 (eBay, PSA 9)
+  Apr 9, 2026 - $125.00 (eBay, PSA 9)
+  May 2, 2026 - $25.00 (eBay, PSA 9)
+  May 19, 2026 - $49.99 (eBay, PSA 9)
+  May 1, 2026 - $29.99 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $76.56
+Average Price: $76.56
+Range: $45.00 - $125.00
+Recent Sales:
+   - $59.67 (Pristine, PSA 9)
+   - $45.00 (eBay, PSA 9)
+   - $125.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $106.53
+Low: $29.99
+High: $249.99
+
+--- Population Report ---
+PSA 9 Pop: 33
+Total Graded: 45
+Percentile: Top 84.44%
+Rarity Tier: medium
+Pop-Adjusted Average: $116.97 (+10%)

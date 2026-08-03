@@ -1,0 +1,66 @@
+Card: Spencer Schwellenbach 2025 Bowman #RR-19
+Condition: 10: GEM MINT
+Generated: 2026-03-01T03:09:24.849Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $19.27
+Average Price: $19.27
+Range: $0.99 - $285.00
+Recent Sales:
+  Dec 1, 2025 - $35.00 (eBay, PSA 10)
+  Feb 6, 2026 - $8.99 (eBay)
+  Feb 19, 2026 - $5.99 (eBay)
+  Feb 5, 2026 - $1.99 (eBay)
+  Feb 14, 2026 - $1.55 (eBay)
+  Feb 6, 2026 - $1.48 (eBay)
+  Jan 17, 2026 - $79.99 (eBay, PSA 10)
+  Jan 19, 2026 - $1.74 (eBay)
+  Jan 29, 2026 - $1.99 (eBay)
+  Feb 18, 2026 - $1.99 (eBay)
+  Jan 26, 2026 - $0.99 (eBay)
+  Feb 25, 2026 - $1.99 (eBay)
+  Feb 7, 2026 - $1.07 (eBay)
+  Jan 12, 2026 - $5.03 (eBay, SGC 8)
+  Feb 20, 2026 - $285.00 (eBay, PSA 10)
+  Jan 12, 2026 - $162.50 (eBay)
+  Feb 12, 2026 - $120.50 (eBay, PSA 10)
+  Feb 5, 2026 - $1.50 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2025 Bowman Chrome Spencer Schwellenbach RR-19
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2025 Bowman Chrome Spencer Schwellenbach #RR-19 Rockstar Rookies CGC 10
+
+--- 130Point ---
+Market Value: $5.07
+Average Price: $5.07
+Range: $0.99 - $100.00
+Recent Sales:
+   - $1.99 (eBay)
+   - $5.99 (eBay)
+   - $1.99 (eBay)
+   - $1.07 (eBay)
+   - $1.48 (eBay)
+   - $8.99 (eBay)
+   - $1.50 (eBay)
+   - $1.34 (eBay)
+   - $30.99 (eBay)
+   - $28.75 (eBay, PSA 10)
+   - $1.99 (eBay)
+   - $1.99 (eBay)
+   - $3.50 (eBay)
+   - $0.99 (eBay)
+   - $1.49 (eBay)
+   - $100.00 (eBay)
+   - $5.03 (eBay, SGC 8)
+   - $4.99 (eBay)
+
+--- Aggregate ---
+Average: $10.82
+Low: $1.34
+High: $100.00

@@ -1,0 +1,51 @@
+Card: Jim Thome 0 Emanate #
+Condition: RAW
+Generated: 2026-05-08T16:52:59.391Z
+
+--- SportsCardsPro ---
+Market Value: $77.40
+Average Price: $77.40
+
+--- eBay ---
+Market Value: $74.24
+Average Price: $74.24
+Range: $25.00 - $134.99
+Recent Sales:
+  Feb 13, 2026 - $85.00 (eBay)
+  May 7, 2026 - $109.00 (eBay)
+  May 5, 2026 - $69.95 (eBay)
+  Apr 29, 2026 - $100.00 (eBay)
+  Apr 28, 2026 - $86.00 (eBay)
+  Mar 26, 2026 - $62.00 (eBay)
+  Apr 30, 2026 - $64.99 (eBay)
+  Apr 27, 2026 - $69.00 (eBay)
+  Mar 13, 2026 - $55.00 (eBay)
+  Mar 16, 2026 - $52.85 (eBay)
+  May 7, 2026 - $108.50 (eBay, PSA 10)
+  Apr 27, 2026 - $71.00 (eBay)
+  Apr 25, 2026 - $49.99 (eBay)
+  Apr 17, 2026 - $75.00 (eBay)
+  Apr 12, 2026 - $75.00 (eBay)
+  Apr 15, 2026 - $79.69 (eBay)
+  Feb 8, 2026 - $25.00 (eBay)
+  Mar 20, 2026 - $79.99 (eBay)
+  Mar 19, 2026 - $134.99 (eBay)
+  Apr 28, 2026 - $66.77 (eBay)
+
+--- 130Point ---
+Market Value: $43.68
+Average Price: $43.68
+Range: $12.00 - $207.40
+Recent Sales:
+   - $18.71 (eBay, BGS 8)
+   - $72.50 (eBay)
+   - $27.60 (PWCC, BGS 9.5)
+   - $207.40 (Goldin)
+   - $86.40 (PWCC)
+   - $13.20 (PWCC, BGS 9)
+   - $12.00 (PWCC, BGS 9)
+
+--- Aggregate ---
+Average: $70.69
+Low: $18.71
+High: $109.00

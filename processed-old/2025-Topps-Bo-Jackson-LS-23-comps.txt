@@ -1,0 +1,74 @@
+Card: Bo Jackson 2025 Topps #LS-23
+Condition: RAW
+Generated: 2026-05-04T23:47:14.500Z
+
+--- SportsCardsPro ---
+Market Value: $224.50
+Average Price: $224.50
+
+--- eBay ---
+Market Value: $3.09
+Average Price: $3.09
+Range: $1.50 - $44.99
+Recent Sales:
+  May 3, 2026 - $3.99 (eBay)
+  Mar 15, 2026 - $4.00 (eBay)
+  Mar 15, 2026 - $2.79 (eBay)
+  May 1, 2026 - $2.79 (eBay)
+  Mar 5, 2026 - $2.99 (eBay)
+  Apr 18, 2026 - $2.79 (eBay)
+  Mar 5, 2026 - $2.99 (eBay)
+  Mar 22, 2026 - $2.99 (eBay)
+  Feb 10, 2026 - $3.00 (eBay)
+  Apr 24, 2026 - $2.50 (eBay)
+  Feb 22, 2026 - $1.50 (eBay)
+  Feb 18, 2026 - $2.75 (eBay)
+  Feb 9, 2026 - $3.99 (eBay)
+  Apr 6, 2026 - $44.99 (eBay)
+  Feb 16, 2026 - $3.00 (eBay)
+  Apr 16, 2026 - $2.75 (eBay)
+  Apr 10, 2026 - $3.49 (eBay)
+  Feb 14, 2026 - $3.98 (eBay)
+  Apr 17, 2026 - $1.99 (eBay)
+  Mar 6, 2026 - $2.99 (eBay)
+
+--- 130Point ---
+Market Value: $3.68
+Average Price: $3.68
+Range: $0.99 - $43.00
+Recent Sales:
+   - $2.79 (eBay)
+   - $3.25 (eBay)
+   - $1.50 (eBay)
+   - $1.99 (eBay)
+   - $5.50 (eBay)
+   - $3.00 (eBay)
+   - $28.00 (eBay)
+   - $1.25 (eBay)
+   - $5.50 (eBay)
+   - $1.25 (eBay)
+   - $39.00 (eBay)
+   - $2.00 (eBay)
+   - $1.74 (eBay)
+   - $2.99 (eBay)
+   - $43.00 (eBay)
+   - $0.99 (eBay)
+   - $1.50 (eBay)
+   - $0.99 (eBay)
+   - $3.99 (eBay)
+   - $3.58 (eBay)
+   - $1.80 (eBay)
+   - $1.29 (eBay)
+   - $1.95 (eBay)
+   - $3.00 (eBay)
+   - $2.00 (eBay)
+   - $39.00 (eBay)
+   - $3.25 (eBay)
+   - $1.95 (eBay)
+   - $7.00 (eBay)
+   - $19.50 (eBay)
+
+--- Aggregate ---
+Average: $3.57
+Low: $1.50
+High: $28.00

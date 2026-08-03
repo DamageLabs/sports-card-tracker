@@ -1,0 +1,106 @@
+Card: Xavier Isaac 2023 Bowman #145
+Condition: 10: GEM MINT
+Generated: 2026-03-01T00:22:25.963Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $98.15
+Average Price: $98.15
+Range: $19.97 - $409.00
+Recent Sales:
+  Feb 23, 2026 - $26.00 (eBay, PSA 10)
+  Feb 27, 2026 - $175.00 (eBay, PSA 10)
+  Feb 3, 2026 - $25.64 (eBay, PSA 10)
+  Feb 3, 2026 - $19.97 (eBay, PSA 10)
+  Feb 25, 2026 - $75.00 (eBay, PSA 10)
+  Feb 11, 2026 - $26.69 (eBay, PSA 10)
+  Feb 20, 2026 - $199.00 (eBay, PSA 10)
+  Feb 17, 2026 - $219.99 (eBay, PSA 10)
+  Jan 15, 2026 - $409.00 (eBay, PSA 10)
+  Feb 15, 2026 - $350.00 (eBay, PSA 10)
+  Feb 12, 2026 - $33.89 (eBay, PSA 10)
+  Jan 14, 2026 - $149.99 (eBay, PSA 10)
+  Jan 25, 2026 - $37.97 (eBay, PSA 10)
+  Feb 17, 2026 - $37.97 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $90.59
+Average Price: $82.33
+Range: $67.66 - $95.00
+Recent Sales:
+  02/18/2026 - $89.30 (Card Ladder)
+  02/16/2026 - $80.00 (Card Ladder)
+  02/14/2026 - $71.77 (Card Ladder)
+  01/27/2026 - $85.00 (Card Ladder)
+  01/23/2026 - $85.00 (Card Ladder)
+  01/20/2026 - $82.88 (Card Ladder)
+  01/14/2026 - $85.00 (Card Ladder)
+  01/08/2026 - $89.50 (Card Ladder)
+  12/23/2025 - $85.50 (Card Ladder)
+  11/23/2025 - $69.60 (Card Ladder)
+  09/24/2025 - $95.00 (Card Ladder)
+  09/11/2025 - $79.95 (Card Ladder)
+  08/22/2025 - $67.66 (Card Ladder)
+  07/09/2025 - $80.00 (Card Ladder)
+  06/29/2025 - $88.80 (Card Ladder)
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2023 Bowman Bowman Mega Box Xavier Isaac #145 Chrome Blue Refractor PSA 10
+
+--- 130Point ---
+Market Value: $89.53
+Average Price: $89.53
+Range: $12.00 - $400.00
+Recent Sales:
+   - $47.91 (Pristine, PSA 10)
+   - $100.17 (eBay, PSA 10)
+   - $35.00 (eBay, PSA 10)
+   - $31.10 (eBay, PSA 10)
+   - $301.00 (eBay, PSA 10)
+   - $37.00 (eBay, PSA 10)
+   - $64.00 (eBay, PSA 10)
+   - $21.50 (eBay, PSA 10)
+   - $110.50 (eBay, PSA 10)
+   - $15.50 (eBay, PSA 10)
+   - $159.50 (eBay, PSA 10)
+   - $400.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $56.00 (eBay, PSA 10)
+   - $114.99 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $99.00 (eBay, PSA 10)
+   - $175.00 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+   - $12.00 (eBay, PSA 10)
+   - $125.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $48.00 (eBay, PSA 10)
+   - $64.00 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $210.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $44.83
+Average Price: $44.83
+Range: $28.77 - $86.55
+Recent Sales:
+  Aug 31, 2025 - $28.77 (eBay, 10)
+  Sep 29, 2024 - $29.00 (eBay, 10)
+  Sep 9, 2024 - $35.00 (eBay, 10)
+  Apr 7, 2024 - $86.55 (eBay, 10)
+
+--- Aggregate ---
+Average: $90.14
+Low: $26.00
+High: $219.99
+
+--- Population Report ---
+PSA 10 Pop: 18
+Total Graded: 27
+Percentile: Top 66.67%
+Rarity Tier: low
+Pop-Adjusted Average: $101.32 (+12%)

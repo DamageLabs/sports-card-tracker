@@ -1,0 +1,71 @@
+Card: Pat Tillman 2021 Panini #83
+Condition: 9.5: MINT+
+Generated: 2026-05-19T23:13:23.022Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $57.14
+Average Price: $57.14
+Range: $2.99 - $249.95
+Recent Sales:
+  May 14, 2026 - $45.00 (eBay)
+  May 8, 2026 - $24.99 (eBay)
+  May 13, 2026 - $119.99 (eBay)
+  May 18, 2026 - $49.99 (eBay)
+  Mar 8, 2026 - $3.49 (eBay)
+  Apr 20, 2026 - $75.00 (eBay)
+  Mar 30, 2026 - $25.00 (eBay)
+  May 14, 2026 - $30.00 (eBay)
+  Apr 22, 2026 - $85.00 (eBay)
+  Apr 22, 2026 - $145.00 (eBay, PSA 9)
+  May 4, 2026 - $2.99 (eBay)
+  May 6, 2026 - $20.00 (eBay)
+  Mar 28, 2026 - $17.00 (eBay)
+  Apr 28, 2026 - $199.99 (eBay, SGC 9.5)
+  May 17, 2026 - $90.00 (eBay, SGC 8.5)
+  Apr 11, 2026 - $19.99 (eBay)
+  Apr 8, 2026 - $135.00 (eBay, SGC 9.5)
+  May 5, 2026 - $249.95 (eBay, PSA 9)
+  Mar 19, 2026 - $25.00 (eBay)
+  May 18, 2026 - $55.00 (eBay, PSA 7)
+
+--- 130Point ---
+Market Value: $32.97
+Average Price: $32.97
+Range: $1.50 - $230.00
+Recent Sales:
+   - $22.11 (Pristine)
+   - $57.99 (eBay, PSA 9)
+   - $5.99 (eBay)
+   - $60.00 (eBay)
+   - $40.63 (Pristine)
+   - $39.99 (eBay)
+   - $20.00 (eBay)
+   - $57.78 (eBay)
+   - $25.00 (eBay)
+   - $2.92 (eBay)
+   - $115.01 (eBay, PSA 9)
+   - $43.50 (eBay)
+   - $230.00 (eBay, PSA 10)
+   - $7.50 (eBay)
+   - $2.50 (eBay)
+   - $15.00 (eBay)
+   - $5.99 (eBay)
+   - $21.50 (eBay)
+   - $115.00 (eBay, SGC 9)
+   - $60.00 (eBay)
+   - $5.99 (eBay)
+   - $135.00 (eBay, SGC 9.5)
+   - $65.00 (eBay)
+   - $35.33 (eBay)
+   - $20.00 (eBay)
+   - $26.99 (eBay)
+   - $1.50 (eBay)
+   - $30.00 (eBay)
+   - $32.00 (eBay)
+
+--- Aggregate ---
+Average: $46.92
+Low: $5.99
+High: $135.00

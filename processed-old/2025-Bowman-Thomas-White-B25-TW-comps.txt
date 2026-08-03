@@ -1,0 +1,60 @@
+Card: Thomas White 2025 Bowman #B25-TW
+Condition: RAW
+Generated: 2026-05-07T23:43:25.801Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $20.94
+Average Price: $20.94
+Range: $9.99 - $149.99
+Recent Sales:
+  May 7, 2026 - $17.99 (eBay)
+  May 6, 2026 - $69.99 (eBay, PSA 10)
+  May 4, 2026 - $15.00 (eBay)
+  May 3, 2026 - $18.00 (eBay)
+  Apr 28, 2026 - $14.99 (eBay)
+  Apr 27, 2026 - $60.00 (eBay)
+  Apr 24, 2026 - $15.00 (eBay)
+  Apr 24, 2026 - $20.00 (eBay)
+  Apr 22, 2026 - $21.00 (eBay)
+  Apr 20, 2026 - $13.19 (eBay)
+  Apr 19, 2026 - $19.99 (eBay)
+  Apr 18, 2026 - $21.99 (eBay)
+  Apr 18, 2026 - $11.50 (eBay)
+  Apr 18, 2026 - $17.00 (eBay)
+  Apr 17, 2026 - $54.99 (eBay)
+  Apr 15, 2026 - $11.50 (eBay)
+  Apr 14, 2026 - $29.00 (eBay)
+  Apr 10, 2026 - $9.99 (eBay)
+  Apr 8, 2026 - $149.99 (eBay)
+  Apr 8, 2026 - $15.00 (eBay)
+
+--- 130Point ---
+Market Value: $56.32
+Average Price: $56.32
+Range: $3.25 - $368.63
+Recent Sales:
+   - $50.00 (eBay)
+   - $29.00 (eBay)
+   - $368.63 (eBay)
+   - $10.50 (eBay)
+   - $71.00 (eBay, PSA 9)
+   - $46.00 (eBay)
+   - $219.99 (eBay)
+   - $55.00 (eBay)
+   - $15.00 (eBay)
+   - $59.99 (eBay)
+   - $3.25 (eBay)
+   - $45.00 (eBay)
+   - $19.99 (eBay)
+   - $95.00 (eBay, PSA 9)
+   - $160.00 (eBay)
+   - $58.00 (eBay)
+   - $64.51 (eBay)
+   - $19.99 (eBay)
+
+--- Aggregate ---
+Average: $34.32
+Low: $11.50
+High: $95.00

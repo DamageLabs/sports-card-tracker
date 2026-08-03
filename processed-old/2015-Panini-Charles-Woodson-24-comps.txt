@@ -1,0 +1,35 @@
+Card: Charles Woodson 2015 Panini #24
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:10:14.702Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $94.00
+Average Price: $94.00
+Range: $31.00 - $139.99
+Recent Sales:
+  Mar 27, 2026 - $129.99 (eBay, PSA 10)
+  Feb 27, 2026 - $139.99 (eBay, PSA 10)
+  Mar 6, 2026 - $75.00 (eBay, PSA 10)
+  May 6, 2026 - $31.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $87.85
+Average Price: $87.85
+Range: $75.00 - $100.69
+Recent Sales:
+   - $100.69 (eBay, PSA 10)
+   - $75.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $74.07
+Low: $31.00
+High: $139.99
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $90.36 (+22%)

@@ -1,0 +1,74 @@
+Card: Juan Soto 0 Panini #
+Condition: RAW
+Generated: 2026-05-09T03:12:53.253Z
+
+--- SportsCardsPro ---
+Market Value: $13.43
+Average Price: $13.43
+
+--- eBay ---
+Market Value: $123.35
+Average Price: $123.35
+Range: $45.00 - $270.00
+Recent Sales:
+  May 1, 2026 - $79.99 (eBay)
+  Apr 23, 2026 - $69.99 (eBay)
+  Feb 9, 2026 - $260.00 (eBay)
+  Feb 20, 2026 - $119.99 (eBay)
+  May 4, 2026 - $70.00 (eBay)
+  May 4, 2026 - $59.99 (eBay)
+  Feb 14, 2026 - $150.00 (eBay, PSA 7)
+  Feb 9, 2026 - $160.00 (eBay)
+  Apr 13, 2026 - $225.00 (eBay, PSA 9)
+  Apr 18, 2026 - $270.00 (eBay, PSA 8)
+  Mar 20, 2026 - $99.99 (eBay)
+  May 5, 2026 - $45.00 (eBay)
+  Mar 29, 2026 - $124.99 (eBay)
+  Feb 27, 2026 - $200.00 (eBay)
+  Feb 24, 2026 - $219.99 (eBay, PSA 9)
+  Apr 6, 2026 - $53.20 (eBay)
+  Mar 31, 2026 - $92.00 (eBay)
+  Mar 17, 2026 - $60.00 (eBay)
+  Feb 18, 2026 - $125.00 (eBay)
+  Mar 15, 2026 - $155.00 (eBay)
+
+--- 130Point ---
+Market Value: $17.40
+Average Price: $17.40
+Range: $1.00 - $295.95
+Recent Sales:
+   - $37.44 (Pristine)
+   - $17.61 (Pristine)
+   - $28.65 (Pristine)
+   - $87.71 (Pristine, PSA 9)
+   - $47.97 (Pristine, PSA 10)
+   - $24.57 (Pristine, PSA 8)
+   - $1.99 (eBay)
+   - $36.99 (eBay, PSA 9)
+   - $5.75 (eBay)
+   - $30.00 (eBay)
+   - $295.95 (eBay, SGC 9.5)
+   - $1.00 (eBay)
+   - $5.70 (eBay)
+   - $60.00 (eBay)
+   - $9.95 (eBay)
+   - $2.62 (eBay)
+   - $15.00 (eBay)
+   - $9.99 (eBay)
+   - $52.51 (eBay)
+   - $7.50 (eBay)
+   - $20.00 (eBay, PSA 9)
+   - $4.81 (eBay)
+   - $3.95 (eBay)
+   - $7.00 (eBay)
+   - $4.00 (eBay)
+   - $7.00 (eBay)
+   - $19.99 (eBay)
+   - $12.99 (eBay)
+   - $19.99 (eBay)
+   - $9.99 (eBay)
+
+--- Aggregate ---
+Average: $55.53
+Low: $4.81
+High: $219.99

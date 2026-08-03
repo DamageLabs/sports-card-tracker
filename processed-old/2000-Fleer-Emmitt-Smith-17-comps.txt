@@ -1,0 +1,69 @@
+Card: Emmitt Smith 2000 Fleer #17
+Condition: RAW
+Generated: 2026-05-07T13:26:36.004Z
+
+--- SportsCardsPro ---
+Market Value: $6.89
+Average Price: $6.89
+
+--- eBay ---
+Market Value: $6.54
+Average Price: $6.54
+Range: $0.16 - $200.00
+Recent Sales:
+  Mar 9, 2026 - $1.25 (eBay)
+  Mar 26, 2026 - $1.99 (eBay)
+  Mar 6, 2026 - $1.59 (eBay)
+  Mar 14, 2026 - $1.79 (eBay)
+  Mar 21, 2026 - $2.60 (eBay)
+  Apr 13, 2026 - $200.00 (eBay)
+  Feb 6, 2026 - $200.00 (eBay)
+  Mar 12, 2026 - $0.99 (eBay)
+  May 2, 2026 - $1.75 (eBay)
+  Feb 11, 2026 - $0.99 (eBay)
+  Feb 9, 2026 - $30.00 (eBay)
+  Mar 20, 2026 - $1.00 (eBay)
+  Feb 22, 2026 - $15.50 (eBay, PSA 10)
+  Mar 16, 2026 - $13.50 (eBay)
+  Feb 25, 2026 - $0.16 (eBay)
+
+--- 130Point ---
+Market Value: $14.24
+Average Price: $14.24
+Range: $0.16 - $200.00
+Recent Sales:
+   - $200.00 (eBay)
+   - $3.99 (eBay)
+   - $2.29 (eBay)
+   - $2.00 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $1.59 (eBay)
+   - $5.00 (eBay)
+   - $2.60 (eBay)
+   - $4.00 (eBay)
+   - $19.99 (eBay)
+   - $35.00 (eBay)
+   - $30.00 (eBay)
+   - $18.99 (eBay)
+   - $0.22 (eBay)
+   - $0.16 (eBay)
+   - $15.50 (eBay, PSA 10)
+   - $25.80 (eBay)
+   - $175.00 (eBay)
+   - $1.99 (eBay)
+   - $0.99 (eBay)
+   - $30.00 (eBay)
+   - $28.52 (Pristine)
+   - $83.54 (Pristine)
+   - $8.40 (PWCC, CGC Auth)
+   - $11.65 (Pristine)
+   - $40.95 (Pristine, PSA 8)
+   - $92.14 (Pristine)
+   - $11.61 (PWCC, PSA 10)
+   - $11.50 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $14.90
+Low: $0.99
+High: $175.00

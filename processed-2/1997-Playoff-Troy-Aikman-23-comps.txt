@@ -1,0 +1,37 @@
+Card: Troy Aikman 1997 Playoff #23
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-29T17:30:48.530Z
+
+--- SportsCardsPro ---
+Market Value: $455.63
+Average Price: $455.63
+
+--- eBay ---
+Market Value: $146.83
+Average Price: $146.83
+Range: $19.99 - $399.00
+Recent Sales:
+  May 13, 2026 - $19.99 (eBay, PSA 8)
+  Oct 28, 2025 - $399.00 (eBay, PSA 8)
+  May 27, 2026 - $21.50 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $15.60
+Average Price: $15.60
+Range: $12.00 - $19.20
+Recent Sales:
+   - $12.00 (eBay, PSA 8)
+   - $19.20 (PWCC, PSA 8)
+
+--- Aggregate ---
+Average: $19.30
+Median: $19.99
+Low: $12.00
+High: $21.50
+
+--- Population Report ---
+PSA 8 Pop: 2
+Total Graded: 2
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $23.54 (+22%)

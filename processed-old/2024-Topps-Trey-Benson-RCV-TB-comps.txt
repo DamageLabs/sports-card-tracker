@@ -1,0 +1,92 @@
+Card: Trey Benson 2024 Topps #RCV-TB
+Condition: RAW
+Generated: 2026-03-01T20:30:32.288Z
+
+--- SportsCardsPro ---
+Market Value: $150.00
+Average Price: $150.00
+
+--- eBay ---
+Market Value: $5.01
+Average Price: $5.01
+Range: $0.99 - $99.00
+Recent Sales:
+  Dec 7, 2025 - $1.25 (eBay)
+  Jan 10, 2026 - $3.99 (eBay)
+  Feb 11, 2026 - $5.00 (eBay)
+  Jan 12, 2026 - $9.99 (eBay)
+  Jan 8, 2026 - $4.99 (eBay)
+  Jan 18, 2026 - $4.99 (eBay)
+  Jan 25, 2026 - $4.98 (eBay)
+  Dec 9, 2025 - $3.00 (eBay)
+  Feb 23, 2026 - $99.00 (eBay)
+  Jan 24, 2026 - $9.95 (eBay)
+  Feb 10, 2026 - $4.99 (eBay)
+  Jan 8, 2026 - $2.79 (eBay)
+  Jan 29, 2026 - $0.99 (eBay)
+  Jan 27, 2026 - $7.50 (eBay)
+  Jan 14, 2026 - $3.25 (eBay)
+  Jan 16, 2026 - $15.00 (eBay)
+  Dec 25, 2025 - $2.00 (eBay)
+  Jan 26, 2026 - $2.75 (eBay)
+  Dec 3, 2025 - $12.00 (eBay)
+  Jan 4, 2026 - $0.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $6.86
+Range: $5.26 - $9.99
+Recent Sales:
+  2025-11-03 - $7.50 (gametimecardz)
+  2025-10-11 - $7.00 (trucard)
+  2025-09-16 - $5.50 (racecarsncards)
+  2025-07-23 - $5.88 (Market Movers)
+  2025-06-15 - $5.26 (hamiltonsteven2584)
+  2025-06-07 - $9.99 (east_valley_sports_cards)
+
+--- 130Point ---
+Market Value: $12.31
+Average Price: $12.31
+Range: $0.01 - $538.88
+Recent Sales:
+   - $1.80 (eBay)
+   - $109.99 (eBay, PSA 10)
+   - $68.00 (eBay)
+   - $1.00 (eBay)
+   - $12.99 (eBay)
+   - $61.67 (eBay)
+   - $46.22 (eBay)
+   - $0.99 (eBay)
+   - $3.75 (eBay)
+   - $12.00 (eBay)
+   - $538.88 (eBay)
+   - $3.00 (eBay)
+   - $10.00 (eBay)
+   - $7.00 (eBay)
+   - $18.00 (eBay)
+   - $10.00 (eBay)
+   - $1.36 (eBay)
+   - $3.00 (eBay)
+   - $3.00 (eBay)
+   - $6.50 (eBay)
+   - $0.99 (eBay)
+   - $8.00 (eBay)
+   - $5.00 (eBay)
+   - $250.00 (eBay)
+   - $0.01 (eBay)
+   - $5.00 (eBay)
+   - $2.99 (eBay)
+   - $8.00 (eBay)
+   - $1.55 (eBay)
+   - $40.00 (eBay)
+
+--- PSA ---
+Market Value: $133.50
+Average Price: $133.50
+Range: $133.50 - $133.50
+Recent Sales:
+  Jul 18, 2025 - $133.50 (eBay, 9)
+
+--- Aggregate ---
+Average: $11.59
+Low: $1.00
+High: $99.00

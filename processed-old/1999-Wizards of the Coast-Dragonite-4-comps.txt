@@ -1,0 +1,43 @@
+Card: Dragonite 1999 Wizards of the Coast #4
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-20T18:35:07.755Z
+
+--- SportsCardsPro ---
+Market Value: $2468.63
+Average Price: $2468.63
+
+--- eBay ---
+Market Value: $816.19
+Average Price: $816.19
+Range: $97.90 - $1000.00
+Recent Sales:
+  Apr 4, 2026 - $690.00 (eBay, PSA 8)
+  Mar 28, 2026 - $749.00 (eBay, PSA 8)
+  Feb 27, 2026 - $649.95 (eBay, PSA 8)
+  May 20, 2026 - $97.90 (eBay, PSA 8)
+  May 19, 2026 - $899.99 (eBay, PSA 8)
+  May 20, 2026 - $1000.00 (eBay, PSA 8)
+  May 7, 2026 - $914.99 (eBay, PSA 8)
+  May 2, 2026 - $899.99 (eBay, PSA 8)
+  May 9, 2026 - $909.41 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $187.33
+Average Price: $187.33
+Range: $164.00 - $229.00
+Recent Sales:
+   - $164.00 (Heritage)
+   - $229.00 (Heritage)
+   - $169.00 (Heritage)
+
+--- Aggregate ---
+Average: $600.17
+Low: $97.90
+High: $1000.00
+
+--- Population Report ---
+PSA 8 Pop: 2
+Total Graded: 8
+Percentile: Top 25%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $732.21 (+22%)

@@ -1,0 +1,76 @@
+Card: Kareem Hunt 2017 Panini #RA-KH
+Condition: Graded
+Generated: 2026-02-24T20:23:03.039Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $79.66
+Average Price: $79.66
+Range: $16.50 - $600.00
+Recent Sales:
+  Dec 26, 2025 - $59.78 (eBay, PSA 10)
+  Feb 9, 2026 - $60.00 (eBay, PSA 10)
+  Jan 3, 2026 - $16.50 (eBay, PSA 10)
+  Jan 19, 2026 - $199.00 (eBay, PSA 10)
+  Jan 1, 2026 - $22.50 (eBay, PSA 10)
+  Dec 10, 2025 - $39.99 (eBay, PSA 10)
+  Feb 20, 2026 - $45.00 (eBay, PSA 10)
+  Dec 29, 2025 - $36.00 (eBay, PSA 10)
+  Feb 8, 2026 - $175.00 (eBay, PSA 10)
+  Dec 31, 2025 - $600.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $14.50
+Average Price: $25.23
+Range: $14.00 - $45.00
+Recent Sales:
+  02/18/2026 - $14.50 (Card Ladder)
+  12/10/2025 - $39.99 (Card Ladder)
+  11/23/2025 - $45.00 (Card Ladder)
+  10/08/2025 - $26.00 (Card Ladder)
+  09/27/2025 - $19.99 (Card Ladder)
+  09/21/2025 - $16.50 (Card Ladder)
+  09/08/2025 - $14.00 (Card Ladder)
+  08/11/2025 - $17.50 (Card Ladder)
+  08/06/2025 - $32.00 (Card Ladder)
+  06/17/2025 - $15.29 (Card Ladder)
+  06/04/2025 - $27.00 (Card Ladder)
+  05/23/2025 - $40.00 (Card Ladder)
+  05/13/2025 - $30.14 (Card Ladder)
+  04/08/2025 - $17.50 (Card Ladder)
+  03/16/2025 - $22.99 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $81.22
+Range: $69.67 - $99.00
+Recent Sales:
+  2026-01-06 - $69.67 (bradys_dog_rescue)
+  2024-10-02 - $75.00 (angle_cards)
+  2024-05-18 - $99.00 (sanddinterprises)
+
+--- 130Point ---
+Market Value: $69.67
+Average Price: $69.67
+Range: $69.67 - $69.67
+Recent Sales:
+   - $69.67 (eBay)
+
+--- PSA ---
+Market Value: $71.00
+Average Price: $71.00
+Range: $71.00 - $71.00
+Recent Sales:
+  Nov 15, 2021 - $71.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $66.01
+Low: $14.50
+High: $199.00
+
+--- Population Report ---
+PSA 10 Pop: 431
+Total Graded: 659
+Percentile: Top 65.4%
+Rarity Tier: high
+Pop-Adjusted Average: $66.01 (+0%)

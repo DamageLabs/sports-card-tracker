@@ -1,0 +1,48 @@
+Card: Jacob Wilson 2025 Topps #31
+Condition: RAW
+Generated: 2026-05-07T23:38:20.351Z
+
+--- SportsCardsPro ---
+Market Value: $2.62
+Average Price: $2.62
+
+--- 130Point ---
+Market Value: $23.75
+Average Price: $23.75
+Range: $0.99 - $200.00
+Recent Sales:
+   - $2.25 (eBay)
+   - $1.49 (eBay)
+   - $1.74 (eBay)
+   - $200.00 (eBay)
+   - $115.00 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $3.81 (eBay)
+   - $1.19 (eBay)
+   - $2.25 (eBay)
+   - $0.99 (eBay)
+   - $200.00 (eBay)
+   - $0.99 (eBay)
+   - $28.03 (eBay)
+   - $187.50 (eBay)
+   - $119.71 (eBay)
+   - $0.99 (eBay)
+   - $1.25 (eBay)
+   - $22.75 (eBay)
+   - $175.00 (eBay)
+   - $0.99 (eBay)
+   - $138.50 (eBay)
+   - $0.99 (eBay)
+   - $1.00 (eBay)
+   - $3.00 (eBay)
+   - $38.68 (eBay)
+   - $0.99 (eBay)
+   - $7.50 (eBay)
+   - $9.99 (eBay)
+   - $20.50 (eBay)
+
+--- Aggregate ---
+Average: $29.11
+Low: $0.99
+High: $187.50

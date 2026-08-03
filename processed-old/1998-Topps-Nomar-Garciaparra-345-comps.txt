@@ -1,0 +1,70 @@
+Card: Nomar Garciaparra 1998 Topps #345
+Condition: RAW
+Generated: 2026-03-01T19:07:26.718Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $5.08
+Average Price: $5.08
+Range: $0.99 - $49.99
+Recent Sales:
+  Jan 7, 2026 - $1.49 (eBay)
+  Feb 26, 2026 - $2.99 (eBay)
+  Jan 28, 2026 - $1.55 (eBay)
+  Dec 26, 2025 - $0.99 (eBay)
+  Jan 6, 2026 - $49.99 (eBay)
+  Feb 28, 2026 - $1.29 (eBay)
+  Dec 27, 2025 - $1.75 (eBay)
+  Jan 28, 2026 - $0.99 (eBay)
+  Feb 18, 2026 - $5.40 (eBay)
+  Dec 29, 2025 - $1.00 (eBay)
+  Feb 25, 2026 - $2.25 (eBay)
+  Jan 31, 2026 - $1.00 (eBay)
+  Dec 23, 2025 - $13.18 (eBay)
+  Jan 26, 2026 - $5.99 (eBay)
+  Feb 20, 2026 - $1.99 (eBay)
+  Dec 15, 2025 - $49.99 (eBay)
+  Feb 19, 2026 - $2.29 (eBay)
+  Feb 21, 2026 - $3.99 (eBay)
+  Feb 21, 2026 - $29.99 (eBay)
+
+--- 130Point ---
+Market Value: $2.46
+Average Price: $2.46
+Range: $0.25 - $20.00
+Recent Sales:
+   - $0.92 (eBay)
+   - $2.99 (eBay)
+   - $13.50 (eBay)
+   - $2.25 (eBay)
+   - $1.59 (eBay)
+   - $1.79 (eBay)
+   - $1.00 (eBay)
+   - $0.25 (eBay)
+   - $3.25 (eBay)
+   - $3.25 (eBay)
+   - $1.75 (eBay)
+   - $2.00 (eBay)
+   - $0.99 (eBay)
+   - $1.00 (eBay)
+   - $0.99 (eBay)
+   - $2.00 (eBay)
+   - $2.50 (eBay)
+   - $20.00 (eBay)
+   - $9.99 (eBay)
+   - $3.55 (eBay)
+   - $1.99 (eBay)
+   - $7.50 (eBay, PSA 8)
+
+--- PSA ---
+Market Value: $29.99
+Average Price: $29.99
+Range: $29.99 - $29.99
+Recent Sales:
+  Jul 16, 2018 - $29.99 (eBay, 10)
+
+--- Aggregate ---
+Average: $3.26
+Low: $0.99
+High: $20.00

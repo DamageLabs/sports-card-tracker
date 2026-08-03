@@ -1,0 +1,51 @@
+Card: C.J. Stroud 2024 Topps #P-CJS
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:11:40.291Z
+
+--- SportsCardsPro ---
+Market Value: $9.78
+Average Price: $9.78
+
+--- eBay ---
+Market Value: $284.11
+Average Price: $284.11
+Range: $136.00 - $595.00
+Recent Sales:
+  Apr 4, 2026 - $249.95 (eBay, PSA 10)
+  Apr 26, 2026 - $155.50 (eBay, PSA 10)
+  May 15, 2026 - $595.00 (eBay, PSA 10)
+  Mar 3, 2026 - $136.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $386.35
+Average Price: $386.35
+Range: $62.00 - $1140.00
+Recent Sales:
+   - $62.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $125.00 (eBay, PSA 10)
+   - $275.00 (eBay, PSA 10)
+   - $127.70 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $900.00 (eBay, PSA 10)
+   - $260.00 (eBay, PSA 10)
+   - $250.00 (eBay, PSA 10)
+   - $1000.00 (eBay, PSA 10)
+   - $1000.00 (eBay, PSA 10)
+   - $1140.00 (PWCC, PSA 10)
+   - $136.00 (eBay, PSA 10)
+   - $299.99 (eBay, PSA 10)
+   - $187.50 (eBay, PSA 10)
+   - $875.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $377.76
+Low: $125.00
+High: $1000.00
+
+--- Population Report ---
+PSA 10 Pop: 8
+Total Graded: 9
+Percentile: Top 88.89%
+Rarity Tier: low
+Pop-Adjusted Average: $438.20 (+16%)

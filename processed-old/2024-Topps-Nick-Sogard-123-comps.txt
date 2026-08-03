@@ -1,0 +1,71 @@
+Card: Nick Sogard 2024 Topps #123
+Condition: RAW
+Generated: 2026-05-07T23:40:34.398Z
+
+--- SportsCardsPro ---
+Market Value: $6.97
+Average Price: $6.97
+
+--- eBay ---
+Market Value: $5.25
+Average Price: $5.25
+Range: $0.99 - $40.00
+Recent Sales:
+  Apr 30, 2026 - $7.00 (eBay)
+  Apr 1, 2026 - $40.00 (eBay, PSA 9)
+  Apr 26, 2026 - $9.99 (eBay)
+  Feb 21, 2026 - $3.13 (eBay)
+  Apr 1, 2026 - $4.00 (eBay)
+  May 5, 2026 - $4.00 (eBay)
+  Mar 4, 2026 - $15.00 (eBay)
+  Mar 15, 2026 - $1.57 (eBay)
+  Mar 7, 2026 - $1.25 (eBay)
+  Apr 1, 2026 - $2.99 (eBay)
+  Apr 5, 2026 - $1.59 (eBay)
+  Apr 20, 2026 - $0.99 (eBay)
+  Mar 4, 2026 - $2.99 (eBay)
+  Apr 30, 2026 - $9.99 (eBay)
+  Apr 9, 2026 - $9.00 (eBay)
+  Mar 15, 2026 - $1.59 (eBay)
+  Apr 2, 2026 - $10.00 (eBay)
+  Mar 14, 2026 - $2.25 (eBay)
+  Apr 1, 2026 - $4.99 (eBay)
+  Feb 9, 2026 - $13.99 (eBay)
+
+--- 130Point ---
+Market Value: $4.24
+Average Price: $4.24
+Range: $0.25 - $30.00
+Recent Sales:
+   - $11.53 (eBay, PSA 9)
+   - $2.99 (eBay)
+   - $0.25 (eBay)
+   - $7.00 (eBay)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $10.00 (eBay)
+   - $1.59 (eBay)
+   - $1.50 (Heritage)
+   - $0.99 (Heritage)
+   - $0.99 (eBay)
+   - $0.99 (eBay)
+   - $1.00 (Heritage)
+   - $5.00 (eBay)
+   - $3.00 (eBay)
+   - $2.99 (eBay)
+   - $30.00 (eBay, PSA 9)
+   - $1.00 (eBay)
+   - $0.99 (eBay)
+   - $18.00 (Heritage)
+   - $1.35 (eBay)
+   - $15.00 (eBay)
+   - $3.58 (Heritage)
+   - $2.15 (eBay)
+   - $8.00 (eBay)
+   - $14.99 (eBay)
+   - $15.00 (eBay)
+
+--- Aggregate ---
+Average: $5.29
+Low: $0.99
+High: $15.00

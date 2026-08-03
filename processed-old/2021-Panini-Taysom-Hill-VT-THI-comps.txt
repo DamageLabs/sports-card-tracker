@@ -1,0 +1,49 @@
+Card: Taysom Hill 2021 Panini #VT-THI
+Condition: 10: GEM MINT
+Generated: 2026-05-23T01:08:02.550Z
+
+--- SportsCardsPro ---
+Market Value: $30.00
+Average Price: $30.00
+
+--- 130Point ---
+Market Value: $190.45
+Average Price: $190.45
+Range: $3.00 - $1299.00
+Recent Sales:
+   - $136.89 (Pristine, PSA 10)
+   - $20.88 (Pristine, PSA 10)
+   - $480.00 (eBay, PSA 10)
+   - $690.00 (PWCC, PSA 10)
+   - $19.20 (PWCC, PSA 10)
+   - $58.56 (eBay, PSA 10)
+   - $20.00 (eBay, PSA 10)
+   - $510.00 (eBay, PSA 10)
+   - $1149.95 (eBay, PSA 10)
+   - $1299.00 (eBay, PSA 10)
+   - $40.00 (eBay, PSA 10)
+   - $89.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $279.95 (eBay, PSA 10)
+   - $280.74 (eBay, PSA 10)
+   - $139.99 (eBay, PSA 10)
+   - $3.00 (eBay, PSA 10)
+   - $265.00 (eBay, PSA 10)
+   - $220.00 (eBay, PSA 10)
+   - $85.00 (eBay, PSA 10)
+   - $200.50 (eBay, PSA 10)
+   - $99.00 (eBay, PSA 10)
+   - $237.50 (eBay, PSA 10)
+   - $165.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $200.73
+Low: $20.00
+High: $690.00
+
+--- Population Report ---
+PSA 10 Pop: 4
+Total Graded: 5
+Percentile: Top 80%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $238.87 (+19%)

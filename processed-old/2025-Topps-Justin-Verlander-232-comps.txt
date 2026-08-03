@@ -1,0 +1,65 @@
+Card: Justin Verlander 2025 Topps #232
+Condition: RAW
+Generated: 2026-03-01T04:22:00.647Z
+
+--- SportsCardsPro ---
+Market Value: $14.24
+Average Price: $14.24
+
+--- eBay ---
+Market Value: $10.27
+Average Price: $10.27
+Range: $0.99 - $90.00
+Recent Sales:
+  Feb 26, 2026 - $16.53 (eBay)
+  Feb 22, 2026 - $11.50 (eBay)
+  Feb 20, 2026 - $0.99 (eBay)
+  Feb 19, 2026 - $14.99 (eBay)
+  Feb 15, 2026 - $13.49 (eBay)
+  Feb 12, 2026 - $2.59 (eBay)
+  Feb 20, 2026 - $90.00 (eBay)
+  Feb 19, 2026 - $15.00 (eBay)
+  Dec 1, 2025 - $14.99 (eBay)
+  Dec 1, 2025 - $14.00 (eBay)
+  Jan 25, 2026 - $14.95 (eBay)
+  Jan 26, 2026 - $3.00 (eBay)
+  Feb 28, 2026 - $9.00 (eBay)
+  Dec 10, 2025 - $14.49 (eBay)
+  Feb 9, 2026 - $19.95 (eBay)
+  Feb 26, 2026 - $3.15 (eBay)
+  Dec 22, 2025 - $3.99 (eBay)
+  Feb 24, 2026 - $2.12 (eBay)
+  Feb 12, 2026 - $2.39 (eBay)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2025 Topps Pristine Justin Verlander 232
+
+--- MarketMovers ---
+Average Price: $7.39
+Range: $0.99 - $13.49
+Recent Sales:
+  2026-02-20 - $0.99 (akathebenny)
+  2026-02-19 - $12.50 (docsdugout)
+  2026-02-15 - $13.49 (tinypupsports)
+  2026-02-13 - $2.59 (baseballcardinvestors)
+
+--- 130Point ---
+Market Value: $5.69
+Average Price: $5.69
+Range: $0.99 - $13.49
+Recent Sales:
+   - $0.99 (Pristine)
+   - $13.49 (Pristine)
+   - $2.59 (Pristine)
+
+--- PSA ---
+Market Value: $29.88
+Average Price: $29.88
+Range: $29.88 - $29.88
+Recent Sales:
+  Mar 11, 2025 - $29.88 (eBay, 10)
+
+--- Aggregate ---
+Average: $8.97
+Low: $0.99
+High: $19.95

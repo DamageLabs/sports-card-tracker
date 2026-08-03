@@ -1,0 +1,63 @@
+Card: Xavier Worthy 2024 Topps #XW
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:03:07.800Z
+
+--- SportsCardsPro ---
+Market Value: $50.00
+Average Price: $50.00
+
+--- eBay ---
+Market Value: $85.87
+Average Price: $85.87
+Range: $29.99 - $150.00
+Recent Sales:
+  Apr 4, 2026 - $150.00 (eBay, PSA 10)
+  Feb 19, 2026 - $102.50 (eBay, PSA 10)
+  Feb 19, 2026 - $61.00 (eBay, PSA 10)
+  Mar 8, 2026 - $29.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $376.87
+Average Price: $376.87
+Range: $27.52 - $3650.00
+Recent Sales:
+   - $86.00 (Pristine, PSA 10)
+   - $116.71 (Pristine, PSA 10)
+   - $412.78 (Pristine, PSA 10)
+   - $250.00 (eBay, PSA 10)
+   - $600.00 (eBay, PSA 10)
+   - $290.00 (eBay, PSA 10)
+   - $550.00 (eBay, PSA 10)
+   - $925.00 (eBay, PSA 10)
+   - $85.00 (eBay, PSA 10)
+   - $27.52 (eBay, PSA 10)
+   - $260.00 (eBay, PSA 10)
+   - $856.00 (eBay, PSA 10)
+   - $130.00 (eBay, PSA 10)
+   - $213.00 (eBay, PSA 10)
+   - $145.00 (eBay, PSA 10)
+   - $1277.00 (eBay, PSA 10)
+   - $100.00 (eBay, PSA 10)
+   - $1475.00 (eBay, PSA 10)
+   - $651.00 (eBay, PSA 10)
+   - $370.00 (eBay, PSA 10)
+   - $810.00 (eBay, PSA 10)
+   - $66.00 (eBay, PSA 10)
+   - $860.00 (eBay, PSA 10)
+   - $302.00 (eBay, PSA 10)
+   - $81.08 (Pristine, PSA 10)
+   - $450.00 (eBay, PSA 10)
+   - $3650.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $329.40
+Low: $61.00
+High: $925.00
+
+--- Population Report ---
+PSA 10 Pop: 12
+Total Graded: 17
+Percentile: Top 70.59%
+Rarity Tier: low
+Pop-Adjusted Average: $376.18 (+14%)

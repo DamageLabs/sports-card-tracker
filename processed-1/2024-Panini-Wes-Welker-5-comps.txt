@@ -1,0 +1,62 @@
+Card: Wes Welker 2024 Panini #5
+Condition: RAW
+Generated: 2026-05-27T22:19:19.073Z
+
+--- SportsCardsPro ---
+Market Value: $21.39
+Average Price: $21.39
+
+--- eBay ---
+Market Value: $2.01
+Average Price: $2.01
+Range: $1.19 - $185.00
+Recent Sales:
+  May 24, 2026 - $1.79 (eBay)
+  May 14, 2026 - $1.19 (eBay)
+  Oct 16, 2025 - $2.25 (eBay)
+  Mar 15, 2026 - $1.99 (eBay)
+  Mar 14, 2026 - $185.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $7.58
+Average Price: $7.58
+Range: $0.99 - $300.00
+Recent Sales:
+   - $3.00 (eBay)
+   - $8.99 (eBay)
+   - $10.00 (eBay)
+   - $10.00 (eBay)
+   - $9.00 (eBay)
+   - $8.00 (eBay)
+   - $2.17 (eBay)
+   - $7.00 (eBay)
+   - $25.00 (eBay)
+   - $0.99 (eBay)
+   - $1.68 (eBay)
+   - $5.00 (eBay)
+   - $300.00 (eBay)
+   - $6.00 (eBay)
+   - $30.00 (eBay)
+   - $18.99 (eBay)
+   - $12.95 (eBay)
+   - $3.75 (eBay)
+   - $3.25 (eBay)
+   - $1.50 (eBay)
+   - $10.00 (eBay)
+   - $9.75 (eBay)
+   - $5.00 (eBay)
+   - $1.79 (eBay)
+   - $5.00 (eBay)
+   - $125.00 (eBay)
+   - $15.00 (eBay)
+   - $10.50 (eBay)
+   - $1.38 (eBay)
+   - $1.49 (eBay)
+
+--- Aggregate ---
+Average: $6.11
+Median: $6.00
+Low: $1.19
+High: $25.00
+Projected PSA 10 Median: $1.99
+Projected PSA 9 Median: $2.12

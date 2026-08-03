@@ -1,0 +1,36 @@
+Card: Brock Bowers 2024 Panini #11
+Condition: 9: MINT
+Generated: 2026-05-21T05:06:13.266Z
+
+--- SportsCardsPro ---
+Market Value: $900.00
+Average Price: $900.00
+
+--- eBay ---
+Market Value: $512.16
+Average Price: $512.16
+Range: $460.00 - $595.00
+Recent Sales:
+  May 19, 2026 - $533.00 (eBay, PSA 9)
+  May 6, 2026 - $528.95 (eBay, PSA 9)
+  Apr 23, 2026 - $549.99 (eBay, PSA 9)
+  Apr 11, 2026 - $480.00 (eBay, PSA 9)
+  Apr 11, 2026 - $525.00 (eBay, PSA 9)
+  Apr 2, 2026 - $500.00 (eBay, PSA 9)
+  Mar 20, 2026 - $475.00 (eBay, PSA 9)
+  Mar 18, 2026 - $492.50 (eBay, PSA 9)
+  Mar 13, 2026 - $595.00 (eBay, PSA 9)
+  Feb 22, 2026 - $460.00 (eBay, PSA 9)
+  Apr 29, 2026 - $525.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $521.09
+Low: $480.00
+High: $549.99
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 3
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $651.36 (+25%)

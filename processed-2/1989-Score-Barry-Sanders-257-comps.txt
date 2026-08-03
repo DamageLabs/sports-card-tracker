@@ -1,0 +1,78 @@
+Card: Barry Sanders 1989 Score #257
+Condition: 9: MINT
+Generated: 2026-05-29T17:31:25.570Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $192.66
+Average Price: $192.66
+Range: $178.50 - $831.00
+Recent Sales:
+  May 28, 2026 - $831.00 (eBay, PSA 9)
+  May 28, 2026 - $237.00 (eBay, PSA 9)
+  May 27, 2026 - $205.00 (eBay, PSA 9)
+  May 26, 2026 - $178.50 (eBay, PSA 9)
+  May 26, 2026 - $194.99 (eBay, PSA 9)
+  May 25, 2026 - $204.52 (eBay, PSA 9)
+  May 24, 2026 - $184.50 (eBay, PSA 9)
+  May 24, 2026 - $195.99 (eBay, PSA 9)
+  May 23, 2026 - $190.00 (eBay, PSA 9)
+  May 23, 2026 - $185.00 (eBay, PSA 9)
+  May 23, 2026 - $200.00 (eBay, PSA 9)
+  May 22, 2026 - $180.00 (eBay, PSA 9)
+  May 22, 2026 - $190.00 (eBay, PSA 9)
+  May 22, 2026 - $185.00 (eBay, PSA 9)
+  May 21, 2026 - $192.99 (eBay, PSA 9)
+  May 21, 2026 - $183.52 (eBay, PSA 9)
+  May 21, 2026 - $199.50 (eBay, PSA 9)
+  May 21, 2026 - $186.17 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $175.60
+Average Price: $175.60
+Range: $122.21 - $673.00
+Recent Sales:
+   - $167.50 (eBay, PSA 9)
+   - $673.00 (eBay, PSA 9)
+   - $155.00 (eBay, PSA 9)
+   - $155.51 (eBay, PSA 9)
+   - $150.50 (eBay, PSA 9)
+   - $175.00 (eBay, PSA 9)
+   - $177.83 (eBay, PSA 9)
+   - $180.00 (eBay, PSA 9)
+   - $185.00 (eBay, PSA 9)
+   - $190.00 (eBay, PSA 9)
+   - $189.00 (eBay, PSA 9)
+   - $200.00 (eBay, PSA 9)
+   - $183.75 (eBay, PSA 9)
+   - $170.73 (eBay, PSA 9)
+   - $170.73 (eBay, PSA 9)
+   - $179.99 (eBay, PSA 9)
+   - $166.00 (eBay, PSA 9)
+   - $180.96 (eBay, PSA 9)
+   - $167.50 (eBay, PSA 9)
+   - $167.50 (eBay, PSA 9)
+   - $169.95 (eBay, PSA 9)
+   - $176.40 (eBay, PSA 9)
+   - $158.50 (eBay, PSA 9)
+   - $185.00 (eBay, PSA 9)
+   - $122.21 (eBay, PSA 9)
+   - $193.50 (eBay, PSA 9)
+   - $170.73 (eBay, PSA 9)
+   - $192.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $180.88
+Median: $180.00
+Low: $155.51
+High: $205.00
+
+--- Population Report ---
+PSA 9 Pop: 430
+Total Graded: 1531
+Percentile: Top 38.73%
+Rarity Tier: high
+Pop-Adjusted Average: $178.53 (-1%)

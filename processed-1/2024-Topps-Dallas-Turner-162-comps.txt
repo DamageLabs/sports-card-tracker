@@ -1,0 +1,49 @@
+Card: Dallas Turner 2024 Topps #162
+Condition: RAW
+Generated: 2026-05-27T22:20:34.569Z
+
+--- SportsCardsPro ---
+Market Value: $5.65
+Average Price: $5.65
+
+--- eBay ---
+Market Value: $10.32
+Average Price: $10.32
+Range: $1.49 - $200.00
+Recent Sales:
+  Apr 27, 2026 - $4.79 (eBay)
+  Apr 16, 2026 - $3.65 (eBay)
+  Apr 10, 2026 - $1.50 (eBay)
+  Mar 2, 2026 - $1.49 (eBay)
+  May 23, 2026 - $17.50 (eBay)
+  May 22, 2026 - $4.99 (eBay)
+  May 21, 2026 - $4.79 (eBay)
+  Apr 19, 2026 - $25.00 (eBay)
+  May 21, 2026 - $16.99 (eBay)
+  Mar 30, 2026 - $22.00 (eBay)
+  Apr 7, 2026 - $5.50 (eBay)
+  Feb 27, 2026 - $200.00 (eBay, PSA 9)
+  Apr 26, 2026 - $8.50 (eBay)
+  Apr 26, 2026 - $12.50 (eBay)
+  May 7, 2026 - $8.50 (eBay)
+  May 3, 2026 - $7.50 (eBay)
+  Apr 24, 2026 - $16.99 (eBay)
+
+--- 130Point ---
+Market Value: $4.59
+Average Price: $4.59
+Range: $1.25 - $43.00
+Recent Sales:
+   - $1.50 (eBay)
+   - $7.37 (Pristine, PSA 9)
+   - $43.00 (Pristine, PSA 10)
+   - $1.25 (eBay)
+   - $4.91 (Pristine, PSA 8)
+
+--- Aggregate ---
+Average: $9.32
+Median: $7.44
+Low: $1.50
+High: $25.00
+Projected PSA 10 Median: $89.95
+Projected PSA 9 Median: $21.99

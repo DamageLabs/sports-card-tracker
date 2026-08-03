@@ -1,0 +1,77 @@
+Card: Steve Nash 2003 Fleer #D-SN
+Condition: RAW
+Generated: 2026-03-01T19:52:42.189Z
+
+--- SportsCardsPro ---
+Market Value: $11.00
+Average Price: $11.00
+
+--- eBay ---
+Market Value: $20.35
+Average Price: $20.35
+Range: $1.39 - $100.00
+Recent Sales:
+  Dec 1, 2025 - $37.00 (eBay)
+  Dec 29, 2025 - $40.98 (eBay, BGS 8.5)
+  Feb 27, 2026 - $29.99 (eBay)
+  Feb 24, 2026 - $15.00 (eBay)
+  Dec 3, 2025 - $2.49 (eBay)
+  Jan 1, 2026 - $27.99 (eBay)
+  Jan 17, 2026 - $9.50 (eBay)
+  Dec 15, 2025 - $20.51 (eBay, PSA 5)
+  Feb 17, 2026 - $8.25 (eBay)
+  Jan 2, 2026 - $27.00 (eBay, PSA 8)
+  Dec 19, 2025 - $3.49 (eBay)
+  Dec 3, 2025 - $2.00 (eBay)
+  Dec 9, 2025 - $1.39 (eBay)
+  Dec 14, 2025 - $5.99 (eBay)
+  Dec 11, 2025 - $29.95 (eBay)
+  Dec 22, 2025 - $10.75 (eBay)
+  Jan 30, 2026 - $100.00 (eBay, PSA 9)
+  Dec 11, 2025 - $23.54 (eBay)
+  Jan 18, 2026 - $95.00 (eBay, SGC 9.5)
+  Dec 2, 2025 - $36.00 (eBay, PSA 9)
+
+--- MarketMovers ---
+Average Price: $3.69
+Range: $0.99 - $12.00
+Recent Sales:
+  2025-10-03 - $3.00 (dirtdogcar-0)
+  2025-09-13 - $12.00 (luyasu77)
+  2025-06-10 - $1.45 (topshelfcollectiblesorlandoflorida)
+  2025-03-31 - $0.99 (Market Movers)
+  2025-03-02 - $0.99 (dcsports87)
+
+--- 130Point ---
+Market Value: $19.39
+Average Price: $19.39
+Range: $0.01 - $161.50
+Recent Sales:
+   - $99.99 (eBay, BGS 9.5)
+   - $161.50 (eBay)
+   - $7.04 (eBay)
+   - $4.00 (eBay)
+   - $9.00 (eBay)
+   - $8.25 (eBay)
+   - $40.00 (eBay)
+   - $0.01 (eBay)
+   - $54.99 (eBay, PSA 10)
+   - $56.00 (eBay)
+   - $1.75 (eBay)
+   - $5.00 (eBay)
+   - $9.51 (eBay)
+   - $6.00 (eBay)
+   - $13.51 (Pristine)
+
+--- PSA ---
+Market Value: $149.75
+Average Price: $149.75
+Range: $97.00 - $202.50
+Recent Sales:
+  May 4, 2023 - $97.00 (Goldin Auctions, 7)
+  Mar 9, 2023 - $202.50 (eBay, 9)
+
+--- Aggregate ---
+Average: $24.09
+Low: $1.75
+High: $99.99

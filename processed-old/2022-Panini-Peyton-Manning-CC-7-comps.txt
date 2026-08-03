@@ -1,0 +1,78 @@
+Card: Peyton Manning 2022 Panini #CC-7
+Condition: RAW
+Generated: 2026-03-01T20:17:33.564Z
+
+--- SportsCardsPro ---
+Market Value: $34.99
+Average Price: $34.99
+
+--- eBay ---
+Market Value: $32.69
+Average Price: $32.69
+Range: $1.50 - $172.19
+Recent Sales:
+  Feb 27, 2026 - $25.00 (eBay)
+  Feb 15, 2026 - $7.68 (eBay)
+  Feb 6, 2026 - $172.19 (eBay, PSA 9)
+  Jan 30, 2026 - $150.00 (eBay)
+  Jan 24, 2026 - $61.01 (eBay)
+  Jan 13, 2026 - $69.99 (eBay)
+  Dec 14, 2025 - $19.50 (eBay, PSA 8)
+  Dec 7, 2025 - $17.99 (eBay)
+  Feb 12, 2026 - $4.71 (eBay)
+  Feb 23, 2026 - $69.99 (eBay)
+  Feb 25, 2026 - $99.99 (eBay, PSA 9)
+  Feb 17, 2026 - $4.50 (eBay)
+  Feb 15, 2026 - $10.00 (eBay)
+  Jan 9, 2026 - $18.50 (eBay, PSA 9)
+  Feb 17, 2026 - $1.99 (eBay)
+  Feb 9, 2026 - $50.00 (eBay, PSA 9)
+  Feb 2, 2026 - $1.50 (eBay)
+  Feb 23, 2026 - $19.99 (eBay)
+  Feb 14, 2026 - $11.50 (eBay)
+
+--- MarketMovers ---
+Average Price: $12.00
+Range: $12.00 - $12.00
+Recent Sales:
+  2025-01-09 - $12.00 (bbcardstor)
+
+--- 130Point ---
+Market Value: $16.67
+Average Price: $16.67
+Range: $0.99 - $453.00
+Recent Sales:
+   - $1.25 (eBay)
+   - $69.99 (eBay)
+   - $9.99 (eBay)
+   - $2.99 (eBay)
+   - $4.50 (eBay)
+   - $1.09 (eBay)
+   - $7.68 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $1.00 (eBay)
+   - $1.49 (eBay)
+   - $172.19 (eBay, PSA 9)
+   - $11.83 (eBay)
+   - $0.99 (eBay)
+   - $128.00 (eBay)
+   - $6.00 (eBay)
+   - $1.30 (eBay)
+   - $2.00 (eBay)
+   - $453.00 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $191.50
+Average Price: $191.50
+Range: $172.50 - $212.50
+Recent Sales:
+  Jan 21, 2024 - $172.50 (eBay, 9)
+  Jan 20, 2024 - $172.50 (eBay, 10)
+  Dec 21, 2023 - $208.50 (eBay, 9)
+  Jul 12, 2023 - $212.50 (eBay, 9)
+
+--- Aggregate ---
+Average: $29.03
+Low: $1.09
+High: $150.00

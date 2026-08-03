@@ -1,0 +1,34 @@
+Card: Ronald Acuña Jr. 2021 Topps #STCL-RA
+Condition: RAW
+Generated: 2026-05-07T23:45:55.471Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $14.95
+Average Price: $14.95
+Range: $3.50 - $32.99
+Recent Sales:
+  Feb 7, 2026 - $24.99 (eBay)
+  Feb 23, 2026 - $32.99 (eBay)
+  Feb 19, 2026 - $3.50 (eBay)
+  Apr 7, 2026 - $8.80 (eBay)
+  Apr 20, 2026 - $21.50 (eBay)
+  Mar 3, 2026 - $4.50 (eBay)
+
+--- 130Point ---
+Market Value: $8.76
+Average Price: $8.76
+Range: $0.99 - $24.99
+Recent Sales:
+   - $8.80 (eBay)
+   - $0.99 (eBay)
+   - $20.00 (eBay)
+   - $4.25 (eBay)
+   - $2.00 (eBay)
+   - $24.99 (eBay)
+
+--- Aggregate ---
+Average: $13.59
+Low: $2.00
+High: $24.99

@@ -1,0 +1,46 @@
+Card: Jayden Daniels 2024 Topps #CAE-JD
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:08:06.880Z
+
+--- SportsCardsPro ---
+Market Value: $7.00
+Average Price: $7.00
+
+--- eBay ---
+Market Value: $77.27
+Average Price: $77.27
+Range: $32.50 - $2500.00
+Recent Sales:
+  Apr 17, 2026 - $55.00 (eBay, PSA 10)
+  Apr 15, 2026 - $199.99 (eBay, PSA 10)
+  Mar 4, 2026 - $35.52 (eBay, PSA 10)
+  Mar 4, 2026 - $58.00 (eBay, PSA 10)
+  Mar 20, 2026 - $45.00 (eBay, PSA 10)
+  Apr 4, 2026 - $32.50 (eBay, PSA 10)
+  Mar 4, 2026 - $46.00 (eBay, PSA 10)
+  Apr 15, 2026 - $60.00 (eBay, PSA 10)
+  May 18, 2026 - $51.69 (eBay, PSA 10)
+  May 10, 2026 - $113.83 (eBay, PSA 10)
+  Apr 20, 2026 - $119.99 (eBay, PSA 10)
+  Mar 28, 2026 - $65.00 (eBay, PSA 10)
+  Feb 26, 2026 - $2500.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $49.50
+Average Price: $49.50
+Range: $49.00 - $50.00
+Recent Sales:
+   - $50.00 (eBay, PSA 10)
+   - $49.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $72.43
+Low: $45.00
+High: $199.99
+
+--- Population Report ---
+PSA 10 Pop: 90
+Total Graded: 114
+Percentile: Top 78.95%
+Rarity Tier: medium
+Pop-Adjusted Average: $76.42 (+5%)

@@ -1,0 +1,56 @@
+Card: Jahmyr Gibbs 2023 Panini #D-11
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:16:13.844Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $1474.20
+Average Price: $1474.20
+Range: $1200.00 - $3000.00
+Recent Sales:
+  May 14, 2026 - $1499.99 (eBay, PSA 10)
+  May 13, 2026 - $1400.00 (eBay, PSA 10)
+  May 10, 2026 - $1625.00 (eBay, PSA 10)
+  May 7, 2026 - $1325.00 (eBay, PSA 10)
+  May 2, 2026 - $1250.00 (eBay, PSA 10)
+  May 2, 2026 - $1200.00 (eBay, PSA 10)
+  Apr 29, 2026 - $3000.00 (eBay, PSA 10)
+  Apr 28, 2026 - $1484.99 (eBay, PSA 10)
+  Apr 27, 2026 - $1450.00 (eBay, PSA 10)
+  Apr 26, 2026 - $1475.00 (eBay, PSA 10)
+  Apr 15, 2026 - $1750.00 (eBay, PSA 10)
+  Apr 14, 2026 - $1297.00 (eBay, PSA 10)
+  Apr 14, 2026 - $1325.00 (eBay, PSA 10)
+  Apr 13, 2026 - $1850.00 (eBay, PSA 10)
+  Apr 11, 2026 - $1707.87 (eBay, PSA 10)
+  Apr 9, 2026 - $1400.00 (eBay, PSA 10)
+  Mar 26, 2026 - $2000.00 (eBay, PSA 10)
+  Mar 16, 2026 - $1200.00 (eBay, PSA 10)
+  Mar 12, 2026 - $1200.00 (eBay, PSA 10)
+  Feb 26, 2026 - $1649.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $1516.60
+Average Price: $1516.60
+Range: $1225.00 - $2000.00
+Recent Sales:
+   - $1750.00 (eBay, PSA 10)
+   - $1297.00 (eBay, PSA 10)
+   - $1750.00 (eBay, PSA 10)
+   - $1225.00 (eBay, PSA 10)
+   - $2000.00 (eBay, PSA 10)
+   - $1405.00 (eBay, PSA 10)
+   - $1381.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $1496.76
+Low: $1225.00
+High: $2000.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 4
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $1870.95 (+25%)

@@ -1,0 +1,66 @@
+Card: Wyatt Langford 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-09T03:12:09.929Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $218.98
+Average Price: $218.98
+Range: $38.00 - $4450.00
+Recent Sales:
+  Feb 22, 2026 - $160.00 (eBay)
+  Apr 20, 2026 - $129.99 (eBay)
+  May 7, 2026 - $39.99 (eBay)
+  May 6, 2026 - $150.00 (eBay)
+  Feb 9, 2026 - $60.00 (eBay)
+  May 8, 2026 - $121.50 (eBay)
+  May 8, 2026 - $59.00 (eBay)
+  Mar 2, 2026 - $111.50 (eBay)
+  Mar 15, 2026 - $958.00 (eBay)
+  Feb 22, 2026 - $760.00 (eBay, PSA 10)
+  Apr 29, 2026 - $38.00 (eBay)
+  May 7, 2026 - $50.00 (eBay)
+  Apr 17, 2026 - $4450.00 (eBay, SGC 9.5)
+  Feb 24, 2026 - $61.00 (eBay)
+  Apr 20, 2026 - $935.00 (eBay, PSA 10)
+  Feb 18, 2026 - $1051.00 (eBay, PSA 10)
+  May 2, 2026 - $105.00 (eBay)
+  May 2, 2026 - $69.99 (eBay)
+  Mar 22, 2026 - $232.50 (eBay, PSA 9)
+  Feb 23, 2026 - $110.27 (eBay)
+
+--- 130Point ---
+Market Value: $88.96
+Average Price: $88.96
+Range: $5.50 - $250.00
+Recent Sales:
+   - $250.00 (eBay)
+   - $35.10 (Pristine)
+   - $80.47 (Pristine)
+   - $75.00 (eBay)
+   - $100.00 (eBay)
+   - $56.00 (eBay)
+   - $105.00 (eBay)
+   - $25.00 (eBay)
+   - $5.50 (eBay)
+   - $90.91 (Pristine)
+   - $169.37 (Pristine)
+   - $68.80 (Pristine)
+   - $96.00 (PWCC)
+   - $67.73 (Pristine)
+   - $61.43 (Pristine)
+   - $58.50 (Pristine)
+   - $68.25 (Pristine)
+   - $61.43 (Pristine)
+   - $150.00 (PWCC)
+   - $98.28 (Pristine)
+   - $94.59 (Pristine)
+   - $178.28 (Pristine)
+   - $214.99 (Pristine)
+   - $99.51 (Pristine)
+
+--- Aggregate ---
+Average: $98.20
+Low: $38.00
+High: $250.00

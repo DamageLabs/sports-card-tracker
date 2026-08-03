@@ -1,0 +1,93 @@
+Card: Victor Wembanyama 2024 Panini #9
+Condition: RAW
+Generated: 2026-05-04T23:58:45.864Z
+
+--- SportsCardsPro ---
+Market Value: $10.47
+Average Price: $10.47
+
+--- eBay ---
+Market Value: $3.57
+Average Price: $3.57
+Range: $1.00 - $11.50
+Recent Sales:
+  May 4, 2026 - $1.95 (eBay)
+  May 4, 2026 - $2.99 (eBay)
+  May 3, 2026 - $3.95 (eBay)
+  May 3, 2026 - $3.00 (eBay)
+  May 3, 2026 - $2.99 (eBay)
+  May 3, 2026 - $4.00 (eBay)
+  May 2, 2026 - $11.50 (eBay)
+  May 2, 2026 - $4.00 (eBay)
+  May 2, 2026 - $1.00 (eBay)
+  May 2, 2026 - $2.95 (eBay)
+  May 2, 2026 - $8.83 (eBay)
+  May 1, 2026 - $1.00 (eBay)
+  May 1, 2026 - $2.99 (eBay)
+  May 1, 2026 - $2.54 (eBay)
+  Apr 30, 2026 - $6.75 (eBay)
+  Apr 30, 2026 - $1.29 (eBay)
+  Apr 30, 2026 - $7.00 (eBay)
+  Apr 30, 2026 - $5.95 (eBay)
+  Apr 30, 2026 - $1.25 (eBay)
+
+--- MarketMovers ---
+Average Price: $3.52
+Range: $1.00 - $7.00
+Recent Sales:
+  2026-05-04 - $3.95 (oneida_sales_inc)
+  2026-05-04 - $3.00 (campbellsportsvault)
+  2026-05-04 - $2.99 (daledollardepot)
+  2026-05-03 - $4.00 (themiamistore)
+  2026-05-03 - $3.00 (adboud444)
+  2026-05-03 - $1.00 (josantono0)
+  2026-05-02 - $2.95 (jekk_cards)
+  2026-05-02 - $5.89 (jcozcards24)
+  2026-05-02 - $1.00 (d-rcardsandcollectables)
+  2026-05-02 - $2.00 (metro-retrovintage)
+  2026-05-01 - $2.00 (bluecollartradingpost)
+  2026-05-01 - $6.75 (wecard-official)
+  2026-05-01 - $1.29 (nc81cards)
+  2026-05-01 - $7.00 (hoodyscollectibles)
+  2026-05-01 - $5.95 (rootinruben23)
+
+--- 130Point ---
+Market Value: $3.74
+Average Price: $3.74
+Range: $1.09 - $68.00
+Recent Sales:
+   - $45.15 (Pristine, BGS 9.5)
+   - $1.99 (eBay)
+   - $3.25 (eBay)
+   - $1.10 (eBay)
+   - $2.00 (eBay)
+   - $11.50 (eBay)
+   - $22.50 (eBay)
+   - $1.65 (eBay)
+   - $1.09 (eBay)
+   - $2.34 (eBay)
+   - $6.00 (eBay)
+   - $2.00 (eBay)
+   - $6.73 (eBay)
+   - $2.89 (eBay)
+   - $2.95 (eBay)
+   - $20.99 (eBay, PSA 9)
+   - $2.25 (eBay)
+   - $2.00 (eBay)
+   - $1.50 (eBay)
+   - $1.50 (eBay)
+   - $2.27 (eBay)
+   - $1.75 (eBay)
+   - $2.25 (eBay)
+   - $2.25 (eBay)
+   - $1.70 (eBay)
+   - $68.00 (eBay, PSA 10)
+   - $2.49 (eBay)
+   - $3.99 (eBay)
+   - $4.00 (eBay)
+   - $14.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $3.77
+Low: $1.29
+High: $11.50

@@ -1,0 +1,28 @@
+Card: Aaron Rodgers 2021 Panini #DT-15
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:01:39.762Z
+
+--- SportsCardsPro ---
+Market Value: $24.99
+Average Price: $24.99
+
+--- eBay ---
+Market Value: $676.66
+Average Price: $676.66
+Range: $500.00 - $999.99
+Recent Sales:
+  May 2, 2026 - $500.00 (eBay, SGC 9.5)
+  May 5, 2026 - $530.00 (eBay, SGC 9.5)
+  Apr 3, 2026 - $999.99 (eBay, SGC 10)
+
+--- 130Point ---
+Market Value: $360.00
+Average Price: $360.00
+Range: $360.00 - $360.00
+Recent Sales:
+   - $360.00 (Heritage)
+
+--- Aggregate ---
+Average: $546.50
+Low: $360.00
+High: $999.99

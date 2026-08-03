@@ -1,0 +1,72 @@
+Card: Patrick Mahomes II 2024 Panini #ANIPMS
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:04:29.367Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $152.78
+Average Price: $152.78
+Range: $34.44 - $745.00
+Recent Sales:
+  Apr 23, 2026 - $95.00 (eBay, PSA 10)
+  Mar 5, 2026 - $68.50 (eBay, PSA 10)
+  May 1, 2026 - $165.00 (eBay, PSA 10)
+  Apr 26, 2026 - $134.99 (eBay, PSA 10)
+  May 9, 2026 - $245.00 (eBay, PSA 10)
+  Mar 18, 2026 - $150.00 (eBay, PSA 10)
+  May 18, 2026 - $34.44 (eBay, PSA 10)
+  May 9, 2026 - $745.00 (eBay, PSA 10)
+  Mar 27, 2026 - $140.00 (eBay, PSA 10)
+  May 9, 2026 - $279.99 (eBay, PSA 10)
+  Apr 27, 2026 - $290.00 (eBay, PSA 10)
+  May 10, 2026 - $402.50 (eBay, PSA 10)
+  May 12, 2026 - $79.95 (eBay, PSA 10)
+  Mar 27, 2026 - $40.25 (eBay, PSA 10)
+  May 8, 2026 - $54.95 (eBay, PSA 10)
+  Mar 3, 2026 - $130.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $80.05
+Average Price: $80.05
+Range: $51.11 - $282.23
+Recent Sales:
+   - $90.30 (Pristine, PSA 10)
+   - $55.83 (Pristine, PSA 10)
+   - $62.65 (Pristine, PSA 10)
+   - $84.24 (Pristine, PSA 10)
+   - $77.40 (Pristine, PSA 10)
+   - $92.14 (Pristine, PSA 10)
+   - $97.05 (Pristine, PSA 10)
+   - $101.91 (Pristine, PSA 10)
+   - $92.14 (Pristine, PSA 10)
+   - $131.71 (Pristine, PSA 10)
+   - $282.23 (Pristine, PSA 10)
+   - $68.70 (Pristine, PSA 10)
+   - $64.35 (Pristine, PSA 10)
+   - $56.51 (Pristine, PSA 10)
+   - $77.40 (Pristine, PSA 10)
+   - $76.17 (Pristine, PSA 10)
+   - $88.45 (Pristine, PSA 10)
+   - $70.02 (Pristine, PSA 10)
+   - $51.11 (Pristine, PSA 10)
+   - $58.97 (Pristine, PSA 10)
+   - $169.53 (Pristine, PSA 10)
+   - $104.53 (Pristine, PSA 10)
+   - $53.82 (Pristine, PSA 10)
+   - $78.39 (Pristine, PSA 10)
+   - $79.56 (Pristine, PSA 10)
+
+--- Aggregate ---
+Average: $109.58
+Low: $53.82
+High: $282.23
+
+--- Population Report ---
+PSA 10 Pop: 10
+Total Graded: 24
+Percentile: Top 41.67%
+Rarity Tier: low
+Pop-Adjusted Average: $126.02 (+15%)

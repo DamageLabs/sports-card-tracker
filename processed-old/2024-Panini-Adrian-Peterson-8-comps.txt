@@ -1,0 +1,47 @@
+Card: Adrian Peterson 2024 Panini #8
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:02:38.437Z
+
+--- SportsCardsPro ---
+Market Value: $17.49
+Average Price: $17.49
+
+--- eBay ---
+Market Value: $518.30
+Average Price: $518.30
+Range: $480.66 - $600.00
+Recent Sales:
+  May 3, 2026 - $560.00 (eBay, PSA 10)
+  Apr 30, 2026 - $515.00 (eBay, PSA 10)
+  Apr 28, 2026 - $510.00 (eBay, PSA 10)
+  Apr 16, 2026 - $515.00 (eBay, PSA 10)
+  Apr 6, 2026 - $500.00 (eBay, PSA 10)
+  Apr 1, 2026 - $554.00 (eBay, PSA 10)
+  Apr 4, 2026 - $480.66 (eBay, PSA 10)
+  Apr 2, 2026 - $504.00 (eBay, PSA 10)
+  Mar 30, 2026 - $499.99 (eBay, PSA 10)
+  Mar 14, 2026 - $600.00 (eBay, PSA 10)
+  Mar 9, 2026 - $579.95 (eBay, PSA 10)
+  Mar 6, 2026 - $499.99 (eBay, PSA 10)
+  Mar 1, 2026 - $525.00 (eBay, PSA 10)
+  Feb 26, 2026 - $500.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $492.33
+Average Price: $492.33
+Range: $480.66 - $504.00
+Recent Sales:
+   - $480.66 (eBay, PSA 10)
+   - $504.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $518.37
+Low: $480.66
+High: $560.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 3
+Percentile: Top 33.33%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $647.96 (+25%)

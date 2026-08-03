@@ -1,0 +1,73 @@
+Card: Melky Cabrera 2007 Topps #170
+Condition: RAW
+Generated: 2026-03-01T04:32:12.276Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $3.92
+Average Price: $3.92
+Range: $0.99 - $500.00
+Recent Sales:
+  Feb 21, 2026 - $19.99 (eBay)
+  Jan 4, 2026 - $0.99 (eBay)
+  Dec 1, 2025 - $1.79 (eBay)
+  Jan 17, 2026 - $0.99 (eBay)
+  Jan 13, 2026 - $500.00 (eBay, PSA 10)
+  Feb 26, 2026 - $1.50 (eBay)
+  Feb 16, 2026 - $1.99 (eBay)
+  Jan 13, 2026 - $5.49 (eBay)
+  Feb 18, 2026 - $13.25 (eBay)
+  Jan 7, 2026 - $7.15 (eBay)
+  Feb 18, 2026 - $1.95 (eBay)
+  Feb 3, 2026 - $2.99 (eBay)
+  Feb 15, 2026 - $4.95 (eBay)
+  Dec 7, 2025 - $1.99 (eBay)
+  Jan 21, 2026 - $4.57 (eBay)
+  Feb 18, 2026 - $1.69 (eBay)
+  Jan 27, 2026 - $1.69 (eBay)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2007 Topps Chrome Melky Cabrera 170
+
+--- MarketMovers ---
+Average Price: $2.81
+Range: $0.99 - $15.00
+Recent Sales:
+  2026-02-21 - $15.00 (barnes_cards)
+  2026-01-05 - $0.99 (dmskier105)
+  2025-06-01 - $0.99 (jhplumbingco)
+  2025-02-16 - $3.99 (hendrixscards)
+  2025-02-12 - $3.95 (thesouthpawcards)
+  2025-02-09 - $1.99 (5280_treasures)
+  2025-01-27 - $1.25 (dpm-baseball-cards)
+  2025-01-27 - $0.99 (dpm-baseball-cards)
+  2025-01-16 - $1.69 (Market Movers)
+  2024-08-29 - $1.99 (lakecountrycards)
+  2024-06-25 - $1.99 (Market Movers)
+  2024-05-27 - $0.99 (dpm-baseball-cards)
+  2024-04-08 - $3.00 (syrus_98)
+  2024-01-06 - $1.49 (burbanksportscards)
+  2023-07-24 - $1.79 (tripleemerchandise)
+
+--- 130Point ---
+Market Value: $8.00
+Average Price: $8.00
+Range: $0.99 - $15.00
+Recent Sales:
+   - $15.00 (eBay)
+   - $0.99 (eBay)
+
+--- PSA ---
+Market Value: $20.25
+Average Price: $20.25
+Range: $3.25 - $49.99
+Recent Sales:
+  Apr 12, 2024 - $49.99 (eBay, 10)
+  Oct 3, 2019 - $7.50 (eBay, 9)
+  Apr 17, 2019 - $3.25 (eBay, 9)
+
+--- Aggregate ---
+Average: $5.47
+Low: $0.99
+High: $19.99

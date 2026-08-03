@@ -1,0 +1,27 @@
+Card: Eli Manning, Carson Palmer, Aaron Rodgers, Tom Brady 2011 Panini #17
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:30:28.857Z
+
+--- SportsCardsPro ---
+Market Value: $40.48
+Average Price: $40.48
+
+--- 130Point ---
+Market Value: $33.25
+Average Price: $33.25
+Range: $6.50 - $60.00
+Recent Sales:
+   - $60.00 (eBay, PSA 10)
+   - $6.50 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $33.25
+Low: $6.50
+High: $60.00
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 6
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $41.56 (+25%)

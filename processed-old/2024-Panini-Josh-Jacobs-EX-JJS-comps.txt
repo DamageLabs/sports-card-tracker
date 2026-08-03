@@ -1,0 +1,26 @@
+Card: Josh Jacobs 2024 Panini #EX-JJS
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:01:43.622Z
+
+--- SportsCardsPro ---
+Market Value: $7.80
+Average Price: $7.80
+
+--- 130Point ---
+Market Value: $202.50
+Average Price: $202.50
+Range: $202.50 - $202.50
+Recent Sales:
+   - $202.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $202.50
+Low: $202.50
+High: $202.50
+
+--- Population Report ---
+PSA 10 Pop: 0
+Total Graded: 1
+Percentile: Top 0%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $253.13 (+25%)

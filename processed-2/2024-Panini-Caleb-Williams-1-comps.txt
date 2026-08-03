@@ -1,0 +1,33 @@
+Card: Caleb Williams 2024 Panini #1
+Condition: 9.5: MINT+
+Generated: 2026-05-29T17:33:24.357Z
+
+--- SportsCardsPro ---
+Market Value: $90.00
+Average Price: $90.00
+
+--- eBay ---
+Market Value: $4599.50
+Average Price: $4599.50
+Range: $1200.00 - $7999.00
+Recent Sales:
+  Apr 23, 2026 - $7999.00 (eBay, BGS 9.5)
+  Mar 22, 2026 - $1200.00 (eBay, BGS 9)
+
+--- 130Point ---
+Market Value: $1751.00
+Average Price: $1751.00
+Range: $900.00 - $2999.99
+Recent Sales:
+   - $1125.00 (eBay)
+   - $2759.00 (eBay)
+   - $2999.99 (eBay)
+   - $900.00 (PWCC, SGC 9.5)
+   - $1950.00 (PWCC, PSA 10)
+   - $1170.00 (Pristine, BGS 9)
+
+--- Aggregate ---
+Average: $2572.09
+Median: $1575.00
+Low: $900.00
+High: $7999.00

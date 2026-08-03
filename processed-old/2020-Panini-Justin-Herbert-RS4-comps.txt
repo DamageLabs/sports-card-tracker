@@ -1,0 +1,60 @@
+Card: Justin Herbert 2020 Panini #RS4
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:26:50.735Z
+
+--- SportsCardsPro ---
+Market Value: $20.99
+Average Price: $20.99
+
+--- eBay ---
+Market Value: $238.73
+Average Price: $238.73
+Range: $29.99 - $2301.00
+Recent Sales:
+  Apr 8, 2026 - $669.99 (eBay, PSA 10)
+  May 18, 2026 - $55.00 (eBay, PSA 10)
+  Mar 11, 2026 - $479.99 (eBay, PSA 10)
+  May 19, 2026 - $169.00 (eBay, PSA 10)
+  May 11, 2026 - $59.99 (eBay, PSA 10)
+  May 8, 2026 - $50.00 (eBay, PSA 10)
+  Mar 20, 2026 - $199.99 (eBay, PSA 10)
+  Feb 22, 2026 - $495.00 (eBay, PSA 10)
+  May 14, 2026 - $29.99 (eBay, PSA 10)
+  May 12, 2026 - $55.00 (eBay, PSA 10)
+  May 10, 2026 - $2301.00 (eBay, PSA 10)
+  May 4, 2026 - $79.99 (eBay, PSA 10)
+  May 18, 2026 - $29.99 (eBay, PSA 10)
+  Apr 10, 2026 - $64.99 (eBay, PSA 10)
+  May 2, 2026 - $29.99 (eBay, PSA 10)
+  Apr 14, 2026 - $1000.00 (eBay, PSA 10)
+  Apr 28, 2026 - $100.00 (eBay, PSA 10)
+  Mar 3, 2026 - $1050.00 (eBay, PSA 10)
+  May 11, 2026 - $71.95 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $878.25
+Average Price: $878.25
+Range: $552.00 - $1260.00
+Recent Sales:
+   - $630.00 (PWCC, PSA 10)
+   - $552.00 (PWCC, PSA 10)
+   - $600.00 (PWCC, PSA 10)
+   - $1020.00 (PWCC, PSA 10)
+   - $1020.00 (PWCC, PSA 10)
+   - $900.00 (PWCC, PSA 10)
+   - $930.00 (PWCC, PSA 10)
+   - $825.00 (PWCC, PSA 10)
+   - $1260.00 (PWCC, PSA 10)
+   - $1101.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $417.34
+Low: $29.99
+High: $1101.00
+
+--- Population Report ---
+PSA 10 Pop: 3
+Total Graded: 6
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $501.65 (+20%)

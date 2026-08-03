@@ -1,0 +1,43 @@
+Card: Tua Tagovailoa 2024 Panini #25
+Condition: 10: GEM MINT
+Generated: 2026-05-29T17:27:47.931Z
+
+--- SportsCardsPro ---
+Market Value: $90.00
+Average Price: $90.00
+
+--- eBay ---
+Market Value: $297.80
+Average Price: $297.80
+Range: $55.00 - $505.00
+Recent Sales:
+  Apr 7, 2026 - $500.00 (eBay, PSA 10)
+  Feb 28, 2026 - $375.00 (eBay, PSA 10)
+  May 25, 2026 - $329.00 (eBay, PSA 10)
+  Mar 21, 2026 - $89.69 (eBay, PSA 10)
+  Mar 30, 2026 - $274.99 (eBay, PSA 10)
+  Apr 8, 2026 - $400.00 (eBay, PSA 10)
+  Mar 19, 2026 - $295.00 (eBay, PSA 10)
+  Mar 9, 2026 - $505.00 (eBay, PSA 10)
+  May 28, 2026 - $118.70 (eBay, PSA 10)
+  May 28, 2026 - $55.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $500.00
+Average Price: $500.00
+Range: $500.00 - $500.00
+Recent Sales:
+   - $500.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $241.80
+Median: $329.00
+Low: $55.00
+High: $500.00
+
+--- Population Report ---
+PSA 10 Pop: 18
+Total Graded: 26
+Percentile: Top 69.23%
+Rarity Tier: low
+Pop-Adjusted Average: $271.79 (+12%)

@@ -1,0 +1,74 @@
+Card: Randy Johnson 0 Panini #
+Condition: RAW
+Generated: 2026-05-08T16:53:43.051Z
+
+--- SportsCardsPro ---
+Market Value: $3.99
+Average Price: $3.99
+
+--- eBay ---
+Market Value: $101.26
+Average Price: $101.26
+Range: $37.60 - $156.00
+Recent Sales:
+  May 5, 2026 - $99.99 (eBay)
+  Feb 13, 2026 - $124.99 (eBay)
+  May 5, 2026 - $66.99 (eBay)
+  Apr 28, 2026 - $77.01 (eBay)
+  May 6, 2026 - $156.00 (eBay, PSA 9)
+  Mar 13, 2026 - $93.20 (eBay)
+  Apr 26, 2026 - $153.00 (eBay)
+  Feb 19, 2026 - $89.00 (eBay)
+  Apr 14, 2026 - $79.99 (eBay)
+  Apr 16, 2026 - $54.99 (eBay)
+  Apr 1, 2026 - $75.00 (eBay)
+  Feb 8, 2026 - $125.00 (eBay)
+  Mar 14, 2026 - $119.99 (eBay, PSA 8.5)
+  Apr 2, 2026 - $37.60 (eBay)
+  Feb 19, 2026 - $143.50 (eBay)
+  Feb 22, 2026 - $155.50 (eBay)
+  Apr 20, 2026 - $123.01 (eBay, PSA 9)
+  Apr 22, 2026 - $99.95 (eBay)
+  Feb 27, 2026 - $89.99 (eBay)
+  Mar 25, 2026 - $77.00 (eBay)
+
+--- 130Point ---
+Market Value: $26.06
+Average Price: $26.06
+Range: $0.99 - $684.99
+Recent Sales:
+   - $12.29 (Pristine)
+   - $92.14 (Pristine)
+   - $1.04 (eBay)
+   - $684.99 (eBay)
+   - $45.00 (eBay)
+   - $1.49 (eBay)
+   - $0.99 (eBay)
+   - $6.38 (eBay)
+   - $159.00 (eBay)
+   - $79.99 (eBay)
+   - $0.99 (eBay)
+   - $7.99 (eBay)
+   - $2.29 (eBay)
+   - $80.00 (eBay)
+   - $1.99 (eBay)
+   - $2.00 (eBay)
+   - $0.99 (eBay)
+   - $1.25 (eBay)
+   - $3.79 (eBay)
+   - $111.50 (eBay)
+   - $2.29 (eBay)
+   - $170.50 (eBay)
+   - $4.25 (eBay)
+   - $1.75 (eBay)
+   - $1.00 (eBay)
+   - $1.99 (eBay)
+   - $46.54 (eBay)
+   - $565.00 (eBay)
+   - $66.00 (eBay)
+   - $1.25 (eBay)
+
+--- Aggregate ---
+Average: $65.16
+Low: $1.25
+High: $156.00

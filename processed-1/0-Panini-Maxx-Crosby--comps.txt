@@ -1,0 +1,77 @@
+Card: Maxx Crosby 0 Panini #
+Condition: RAW
+Generated: 2026-05-27T22:44:23.899Z
+
+--- SportsCardsPro ---
+Market Value: $9.96
+Average Price: $9.96
+
+--- eBay ---
+Market Value: $126.43
+Average Price: $126.43
+Range: $29.99 - $209.99
+Recent Sales:
+  May 15, 2026 - $119.00 (eBay)
+  Apr 23, 2026 - $101.11 (eBay)
+  May 21, 2026 - $130.00 (eBay)
+  Apr 30, 2026 - $209.99 (eBay)
+  May 23, 2026 - $125.00 (eBay)
+  Apr 17, 2026 - $124.99 (eBay)
+  Mar 29, 2026 - $129.99 (eBay)
+  May 7, 2026 - $29.99 (eBay)
+  Apr 30, 2026 - $35.99 (eBay)
+  May 5, 2026 - $74.99 (eBay)
+  May 7, 2026 - $149.95 (eBay)
+  May 21, 2026 - $149.99 (eBay)
+  May 5, 2026 - $139.00 (eBay)
+  May 7, 2026 - $150.00 (eBay)
+  Apr 20, 2026 - $80.00 (eBay)
+  Apr 26, 2026 - $175.00 (eBay)
+  May 21, 2026 - $115.99 (eBay)
+  Apr 18, 2026 - $199.99 (eBay)
+  May 21, 2026 - $135.00 (eBay)
+  Apr 17, 2026 - $120.00 (eBay)
+
+--- 130Point ---
+Market Value: $36.88
+Average Price: $36.88
+Range: $1.50 - $405.00
+Recent Sales:
+   - $42.12 (Pristine)
+   - $49.78 (Pristine)
+   - $30.42 (Pristine)
+   - $60.95 (Pristine)
+   - $44.23 (Pristine)
+   - $17.20 (Pristine)
+   - $49.14 (Pristine, PSA 9)
+   - $75.85 (Pristine)
+   - $41.77 (Pristine)
+   - $105.92 (Pristine)
+   - $168.30 (Pristine)
+   - $176.90 (Pristine)
+   - $24.00 (Goldin)
+   - $35.00 (eBay)
+   - $405.00 (eBay, PSA 9)
+   - $16.50 (eBay)
+   - $4.99 (eBay)
+   - $1.50 (eBay)
+   - $170.00 (eBay)
+   - $178.50 (eBay, PSA 9)
+   - $1.59 (eBay)
+   - $7.99 (eBay)
+   - $1.62 (eBay)
+   - $2.50 (eBay)
+   - $3.75 (eBay)
+   - $4.50 (eBay)
+   - $5.50 (eBay)
+   - $6.99 (eBay)
+   - $9.95 (eBay)
+   - $6.50 (eBay)
+
+--- Aggregate ---
+Average: $77.30
+Median: $60.95
+Low: $4.50
+High: $175.00
+Projected PSA 10 Median: $110.00
+Projected PSA 9 Median: $95.10

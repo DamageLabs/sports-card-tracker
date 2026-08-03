@@ -1,0 +1,51 @@
+Card: Stephen Curry 2021 Panini #AUR-SCU
+Condition: 9: MINT
+Generated: 2026-02-28T15:44:02.044Z
+
+--- SportsCardsPro ---
+Market Value: $27.60
+Average Price: $27.60
+
+--- eBay ---
+Market Value: $613.33
+Average Price: $613.33
+Range: $41.00 - $1750.00
+Recent Sales:
+  Jan 15, 2026 - $1750.00 (eBay, PSA 9)
+  Jan 13, 2026 - $49.00 (eBay, PSA 9)
+  Dec 9, 2025 - $41.00 (eBay, PSA 9)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2021 Panini Obsidian Stephen Curry AUR-SCU
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2021 Panini Obsidian Stephen Curry #AUR-SCU Aurora AU-E/E Orange PSA 9
+
+--- 130Point ---
+Market Value: $399.00
+Average Price: $399.00
+Range: $45.00 - $1100.00
+Recent Sales:
+   - $45.00 (eBay, PSA 9)
+   - $1100.00 (PWCC, PSA 9)
+   - $52.00 (PWCC, PSA 9)
+
+--- PSA ---
+Market Value: $656.50
+Average Price: $656.50
+Range: $628.00 - $685.00
+Recent Sales:
+  Jul 14, 2024 - $628.00 (eBay, 8)
+  May 2, 2024 - $685.00 (eBay)
+
+--- Aggregate ---
+Average: $543.12
+Low: $41.00
+High: $1750.00
+
+--- Population Report ---
+PSA 9 Pop: 3
+Total Graded: 6
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $652.83 (+20%)

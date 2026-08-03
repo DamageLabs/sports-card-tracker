@@ -1,0 +1,73 @@
+Card: Dallas Turner 2024 Topps #162
+Condition: RAW
+Generated: 2026-03-01T21:58:43.640Z
+
+--- SportsCardsPro ---
+Market Value: $3.56
+Average Price: $3.56
+
+--- eBay ---
+Market Value: $4.59
+Average Price: $4.59
+Range: $0.36 - $139.99
+Recent Sales:
+  Feb 17, 2026 - $1.25 (eBay)
+  Feb 14, 2026 - $1.49 (eBay)
+  Feb 6, 2026 - $0.36 (eBay)
+  Jan 22, 2026 - $2.99 (eBay)
+  Jan 19, 2026 - $1.25 (eBay)
+  Jan 11, 2026 - $1.99 (eBay)
+  Jan 11, 2026 - $1.25 (eBay)
+  Jan 11, 2026 - $2.45 (eBay)
+  Jan 5, 2026 - $0.99 (eBay)
+  Dec 7, 2025 - $1.99 (eBay)
+  Dec 4, 2025 - $1.79 (eBay)
+  Jan 22, 2026 - $18.99 (eBay)
+  Jan 5, 2026 - $139.99 (eBay)
+  Dec 30, 2025 - $15.00 (eBay)
+  Jan 22, 2026 - $22.50 (eBay)
+
+--- MarketMovers ---
+Average Price: $2.49
+Range: $0.99 - $7.50
+Recent Sales:
+  2026-02-18 - $1.25 (bandc_card_shop)
+  2026-02-15 - $1.49 (whammy250)
+  2026-01-23 - $2.99 (trunkofcards)
+  2026-01-20 - $1.25 (joebuddytcg)
+  2026-01-11 - $1.25 (bignameslittleprice1)
+  2025-12-07 - $1.99 (warriorcards65)
+  2025-12-04 - $1.79 (warriorcards65)
+  2025-11-21 - $5.00 (briguy58)
+  2025-11-17 - $6.00 (PWCC)
+  2025-11-12 - $0.99 (brlane19)
+  2025-11-11 - $0.99 (joshawah22)
+  2025-11-08 - $1.39 (elite_sports_collectibles2024)
+  2025-11-02 - $7.50 (psa)
+  2025-10-18 - $1.41 (drrmedia)
+  2025-10-09 - $2.00 (pc_sportscards)
+
+--- 130Point ---
+Market Value: $1.64
+Average Price: $1.64
+Range: $0.36 - $4.91
+Recent Sales:
+   - $1.25 (eBay)
+   - $1.49 (eBay)
+   - $0.36 (eBay)
+   - $2.20 (eBay)
+   - $1.25 (eBay)
+   - $4.91 (Pristine, PSA 8)
+   - $1.99 (eBay)
+
+--- PSA ---
+Market Value: $42.00
+Average Price: $42.00
+Range: $42.00 - $42.00
+Recent Sales:
+  Apr 1, 2024 - $42.00 (eBay, 9)
+
+--- Aggregate ---
+Average: $2.62
+Low: $0.99
+High: $18.99

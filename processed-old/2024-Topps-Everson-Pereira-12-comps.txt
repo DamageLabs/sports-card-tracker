@@ -1,0 +1,67 @@
+Card: Everson Pereira 2024 Topps #12
+Condition: RAW
+Generated: 2026-03-01T19:00:53.503Z
+
+--- SportsCardsPro ---
+Market Value: $6.19
+Average Price: $6.19
+
+--- eBay ---
+Market Value: $6.62
+Average Price: $6.62
+Range: $0.99 - $24.99
+Recent Sales:
+  Feb 15, 2026 - $1.25 (eBay)
+  Dec 31, 2025 - $0.99 (eBay)
+  Dec 7, 2025 - $0.99 (eBay)
+  Feb 16, 2026 - $11.99 (eBay)
+  Jan 3, 2026 - $3.00 (eBay)
+  Jan 7, 2026 - $2.00 (eBay)
+  Dec 18, 2025 - $4.00 (eBay)
+  Dec 31, 2025 - $24.99 (eBay)
+  Dec 3, 2025 - $1.78 (eBay)
+  Jan 1, 2026 - $0.99 (eBay)
+  Feb 13, 2026 - $0.99 (eBay)
+  Jan 22, 2026 - $0.99 (eBay)
+  Jan 15, 2026 - $24.99 (eBay)
+  Dec 15, 2025 - $13.50 (eBay)
+  Feb 16, 2026 - $5.00 (eBay)
+  Jan 15, 2026 - $0.99 (eBay)
+  Dec 25, 2025 - $19.99 (eBay)
+  Dec 2, 2025 - $14.99 (eBay)
+  Jan 3, 2026 - $19.99 (eBay)
+  Jan 4, 2026 - $12.19 (eBay)
+
+--- MarketMovers ---
+Average Price: $1.51
+Range: $0.99 - $4.95
+Recent Sales:
+  2026-02-15 - $1.25 (julietkilosportscards8541)
+  2026-01-01 - $0.99 (bap_collectibles)
+  2025-10-18 - $0.99 (lindensattic0413)
+  2025-09-12 - $1.49 (dineysdynamitecollectibles)
+  2025-08-06 - $0.99 (Market Movers)
+  2025-07-23 - $0.99 (Market Movers)
+  2025-07-11 - $0.99 (pokecolor_official)
+  2025-07-06 - $0.99 (ajcollectables2014)
+  2025-06-24 - $4.95 (dingersbaseballcards99)
+
+--- 130Point ---
+Market Value: $1.12
+Average Price: $1.12
+Range: $0.99 - $1.25
+Recent Sales:
+   - $1.25 (eBay)
+   - $0.99 (eBay)
+
+--- PSA ---
+Market Value: $4.25
+Average Price: $4.25
+Range: $4.25 - $4.25
+Recent Sales:
+  Oct 27, 2024 - $4.25 (eBay, 10)
+
+--- Aggregate ---
+Average: $4.81
+Low: $0.99
+High: $19.99

@@ -1,0 +1,58 @@
+Card: Derek Jeter 2013 Topps #190
+Condition: 6: EXCELLENT-MINT
+Generated: 2026-03-02T00:54:28.310Z
+
+--- SportsCardsPro ---
+Market Value: $64.17
+Average Price: $64.17
+
+--- MarketMovers ---
+Average Price: $6.49
+Range: $6.49 - $6.49
+Recent Sales:
+  2025-09-20 - $6.49 (gregmorrisgraded)
+
+--- 130Point ---
+Market Value: $59.75
+Average Price: $59.75
+Range: $11.61 - $1475.00
+Recent Sales:
+   - $21.99 (eBay, PSA 10)
+   - $28.53 (Heritage, PSA 9)
+   - $16.50 (eBay, PSA 8)
+   - $39.59 (eBay, PSA 10)
+   - $44.00 (Heritage, PSA 10)
+   - $105.00 (Heritage, PSA 10)
+   - $31.99 (Heritage, PSA 10)
+   - $97.05 (Pristine, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $170.00 (Heritage, PSA 10)
+   - $30.00 (eBay, PSA 9)
+   - $59.00 (Heritage, PSA 10)
+   - $22.55 (eBay, PSA 9)
+   - $28.22 (Pristine, PSA 9)
+   - $1475.00 (Heritage, PSA 10)
+   - $11.61 (eBay, PSA 9)
+   - $350.00 (eBay, PSA 10)
+   - $29.99 (eBay, PSA 10)
+   - $28.77 (eBay, PSA 10)
+   - $19.50 (eBay, PSA 9)
+   - $174.95 (Heritage, PSA 10)
+   - $14.99 (eBay, PSA 9)
+   - $275.00 (eBay, PSA 10)
+   - $29.99 (Heritage, PSA 10)
+   - $149.99 (Heritage, PSA 10)
+   - $69.55 (eBay, PSA 10)
+   - $29.11 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $62.85
+Low: $14.99
+High: $275.00
+
+--- Population Report ---
+PSA 6 Pop: 0
+Total Graded: 74
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $78.56 (+25%)

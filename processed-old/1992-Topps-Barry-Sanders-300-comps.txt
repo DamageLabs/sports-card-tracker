@@ -1,0 +1,102 @@
+Card: Barry Sanders 1992 Topps #300
+Condition: 10: GEM MINT
+Generated: 2026-03-01T13:56:51.010Z
+
+--- SportsCardsPro ---
+Market Value: $11.95
+Average Price: $11.95
+
+--- eBay ---
+Market Value: $136.89
+Average Price: $136.89
+Range: $31.00 - $885.00
+Recent Sales:
+  Jan 30, 2026 - $299.00 (eBay, PSA 10)
+  Jan 18, 2026 - $569.00 (eBay, PSA 10)
+  Jan 17, 2026 - $130.01 (eBay, PSA 10)
+  Dec 13, 2025 - $97.00 (eBay, PSA 10)
+  Dec 15, 2025 - $92.51 (eBay, PSA 10)
+  Jan 15, 2026 - $44.99 (eBay, PSA 10)
+  Feb 23, 2026 - $107.50 (eBay, PSA 10)
+  Dec 4, 2025 - $59.99 (eBay, PSA 10)
+  Feb 13, 2026 - $31.00 (eBay, PSA 10)
+  Jan 7, 2026 - $57.78 (eBay, PSA 10)
+  Feb 28, 2026 - $209.24 (eBay, PSA 10)
+  Jan 28, 2026 - $185.50 (eBay, PSA 10)
+  Dec 4, 2025 - $130.49 (eBay, PSA 10)
+  Jan 25, 2026 - $885.00 (eBay, PSA 10)
+  Dec 4, 2025 - $59.99 (eBay, PSA 10)
+  Feb 10, 2026 - $231.50 (eBay, PSA 10)
+  Jan 15, 2026 - $76.00 (eBay, PSA 10)
+  Feb 11, 2026 - $179.99 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 1992 Topps Topps Barry Sanders 300
+
+--- MarketMovers ---
+Average Price: $123.20
+Range: $42.50 - $399.00
+Recent Sales:
+  2026-01-30 - $299.00 (psa)
+  2026-01-19 - $250.00 (bigsas_sports)
+  2025-10-09 - $105.00 (PWCC)
+  2025-10-03 - $99.99 (4_sharp_corners)
+  2025-10-02 - $399.00 (psa)
+  2025-10-01 - $49.99 (4_sharp_corners)
+  2025-09-23 - $63.00 (junkwaxheroesx)
+  2025-09-19 - $108.50 (4_sharp_corners)
+  2025-09-17 - $176.00 (junkwaxheroesx)
+  2025-09-04 - $49.99 (Market Movers)
+  2025-08-14 - $55.00 (Market Movers)
+  2025-06-29 - $50.00 (significantsignatures123)
+  2025-05-01 - $42.50 (cardzshark-71)
+  2025-04-10 - $49.99 (4_sharp_corners)
+  2025-04-05 - $49.99 (pahub_85)
+
+--- 130Point ---
+Market Value: $93.03
+Average Price: $93.03
+Range: $16.50 - $299.00
+Recent Sales:
+   - $299.00 (eBay, PSA 10)
+   - $250.00 (eBay, PSA 10)
+   - $105.00 (PWCC, PSA 10)
+   - $31.20 (PWCC, PSA 10)
+   - $54.00 (PWCC, PSA 10)
+   - $75.00 (PWCC, PSA 10)
+   - $43.00 (PWCC, PSA 10)
+   - $16.50 (PWCC, PSA 10)
+
+--- PSA ---
+Market Value: $50.25
+Average Price: $50.25
+Range: $29.99 - $108.50
+Recent Sales:
+  Oct 3, 2025 - $99.99 (eBay, 10)
+  Sep 19, 2025 - $108.50 (eBay, 10)
+  Sep 5, 2025 - $49.99 (eBay, 10)
+  Apr 11, 2025 - $49.99 (eBay, 10)
+  Feb 28, 2025 - $49.99 (eBay, 10)
+  Feb 14, 2025 - $49.99 (eBay, 10)
+  Jan 31, 2025 - $49.99 (eBay, 10)
+  Jan 17, 2025 - $49.99 (eBay, 10)
+  Nov 12, 2024 - $29.99 (eBay, 10)
+  Apr 5, 2024 - $43.03 (eBay, 10)
+  Mar 25, 2024 - $31.00 (eBay, 10)
+  Mar 19, 2023 - $36.00 (Robert Edward Auctions, 10)
+  Jan 6, 2022 - $91.00 (eBay, 10)
+  Nov 30, 2021 - $53.00 (eBay, 10)
+  Nov 22, 2021 - $37.00 (eBay, 10)
+  Mar 25, 2021 - $43.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $121.83
+Low: $36.00
+High: $299.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 1
+Percentile: Top 100%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $152.29 (+25%)

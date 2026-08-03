@@ -1,0 +1,76 @@
+Card: Jordan Wicks 2024 Topps #79
+Condition: RAW
+Generated: 2026-03-01T19:01:30.869Z
+
+--- SportsCardsPro ---
+Market Value: $3.00
+Average Price: $3.00
+
+--- eBay ---
+Market Value: $7.12
+Average Price: $7.12
+Range: $0.99 - $105.00
+Recent Sales:
+  Feb 13, 2026 - $2.27 (eBay)
+  Feb 3, 2026 - $1.75 (eBay)
+  Jan 27, 2026 - $4.99 (eBay)
+  Jan 25, 2026 - $0.99 (eBay)
+  Dec 31, 2025 - $3.99 (eBay)
+  Dec 6, 2025 - $1.58 (eBay)
+  Jan 26, 2026 - $10.50 (eBay)
+  Jan 13, 2026 - $9.95 (eBay)
+  Dec 31, 2025 - $3.50 (eBay)
+  Jan 28, 2026 - $105.00 (eBay)
+  Jan 16, 2026 - $29.99 (eBay)
+  Jan 16, 2026 - $19.99 (eBay)
+  Feb 10, 2026 - $9.95 (eBay)
+  Dec 23, 2025 - $14.99 (eBay)
+  Jan 22, 2026 - $6.00 (eBay)
+  Dec 20, 2025 - $6.49 (eBay)
+  Jan 1, 2026 - $72.00 (eBay)
+  Feb 22, 2026 - $3.25 (eBay)
+  Dec 3, 2025 - $2.01 (eBay)
+  Jan 19, 2026 - $1.00 (eBay)
+
+--- MarketMovers ---
+Average Price: $5.60
+Range: $0.99 - $50.00
+Recent Sales:
+  2026-02-09 - $3.00 (PWCC)
+  2026-02-09 - $50.00 (PWCC)
+  2026-02-09 - $4.00 (PWCC)
+  2026-02-04 - $1.75 (dallasspo-31)
+  2026-01-27 - $4.99 (cardhogs6396)
+  2026-01-25 - $0.99 (ajscards5)
+  2026-01-08 - $4.00 (PWCC)
+  2025-12-31 - $3.99 (acuffcards)
+  2025-12-07 - $1.58 (thatguy410)
+  2025-11-17 - $3.99 (ply_mkr3)
+  2025-10-31 - $1.69 (waxterror)
+  2025-10-22 - $1.00 (quickconsign)
+  2025-10-14 - $0.99 (dcsports87)
+  2025-10-08 - $0.99 (dcsports87)
+  2025-09-04 - $1.00 (Market Movers)
+
+--- 130Point ---
+Market Value: $1.87
+Average Price: $1.87
+Range: $0.99 - $2.99
+Recent Sales:
+   - $2.27 (eBay)
+   - $1.75 (eBay)
+   - $0.99 (eBay)
+   - $2.99 (eBay)
+   - $1.58 (eBay)
+
+--- PSA ---
+Market Value: $10.00
+Average Price: $10.00
+Range: $10.00 - $10.00
+Recent Sales:
+  Apr 1, 2025 - $10.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $5.30
+Low: $0.99
+High: $29.99

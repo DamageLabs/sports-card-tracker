@@ -1,0 +1,43 @@
+Card: Patrick Mahomes II 2018 Panini #102
+Condition: 9: MINT
+Generated: 2026-05-21T13:01:38.200Z
+
+--- SportsCardsPro ---
+Market Value: $12.29
+Average Price: $12.29
+
+--- eBay ---
+Market Value: $131.25
+Average Price: $131.25
+Range: $24.99 - $550.00
+Recent Sales:
+  Feb 28, 2026 - $225.00 (eBay, PSA 9)
+  May 12, 2026 - $100.00 (eBay, PSA 9)
+  Mar 24, 2026 - $149.99 (eBay, PSA 9)
+  Apr 8, 2026 - $24.99 (eBay, PSA 9)
+  Apr 29, 2026 - $85.00 (eBay, PSA 9)
+  Apr 8, 2026 - $550.00 (eBay, PSA 9)
+  May 17, 2026 - $404.00 (eBay, PSA 9)
+  Apr 8, 2026 - $34.99 (eBay, PSA 9)
+  Mar 28, 2026 - $25.98 (eBay, PSA 9)
+  Mar 19, 2026 - $25.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $97.80
+Average Price: $97.80
+Range: $94.80 - $100.80
+Recent Sales:
+   - $100.80 (PWCC, PSA 9)
+   - $94.80 (Goldin)
+
+--- Aggregate ---
+Average: $151.72
+Low: $25.00
+High: $404.00
+
+--- Population Report ---
+PSA 9 Pop: 62
+Total Graded: 106
+Percentile: Top 95.28%
+Rarity Tier: medium
+Pop-Adjusted Average: $162.49 (+7%)

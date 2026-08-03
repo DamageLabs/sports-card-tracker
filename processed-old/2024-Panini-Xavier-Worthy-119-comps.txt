@@ -1,0 +1,27 @@
+Card: Xavier Worthy 2024 Panini #119
+Condition: 10: GEM MINT
+Generated: 2026-05-19T04:23:04.526Z
+
+--- SportsCardsPro ---
+Market Value: $26.50
+Average Price: $26.50
+
+--- 130Point ---
+Market Value: $83.00
+Average Price: $83.00
+Range: $71.00 - $95.00
+Recent Sales:
+   - $95.00 (eBay, PSA 10)
+   - $71.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $83.00
+Low: $71.00
+High: $95.00
+
+--- Population Report ---
+PSA 10 Pop: 12
+Total Graded: 21
+Percentile: Top 57.14%
+Rarity Tier: low
+Pop-Adjusted Average: $94.79 (+14%)

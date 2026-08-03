@@ -1,0 +1,50 @@
+Card: Jayden Higgins 2025 Panini #RPBH-JHS
+Condition: RAW
+Generated: 2026-05-27T23:17:15.841Z
+
+--- SportsCardsPro ---
+Market Value: $3.40
+Average Price: $3.40
+
+--- eBay ---
+Market Value: $2.72
+Average Price: $2.72
+Range: $0.01 - $50.00
+Recent Sales:
+  Apr 6, 2026 - $2.00 (eBay)
+  Apr 4, 2026 - $2.00 (eBay)
+  Apr 28, 2026 - $1.99 (eBay)
+  Mar 22, 2026 - $1.21 (eBay)
+  Apr 7, 2026 - $14.99 (eBay)
+  Apr 23, 2026 - $1.00 (eBay)
+  May 24, 2026 - $5.00 (eBay)
+  Mar 19, 2026 - $0.99 (eBay)
+  May 25, 2026 - $2.99 (eBay)
+  Apr 25, 2026 - $1.50 (eBay)
+  May 22, 2026 - $1.79 (eBay)
+  May 22, 2026 - $1.00 (eBay)
+  May 11, 2026 - $1.75 (eBay)
+  Apr 5, 2026 - $0.99 (eBay)
+  May 8, 2026 - $5.00 (eBay)
+  May 25, 2026 - $35.00 (eBay)
+  Apr 4, 2026 - $0.01 (eBay)
+  May 25, 2026 - $5.88 (eBay)
+  May 25, 2026 - $5.00 (eBay)
+  May 25, 2026 - $50.00 (eBay)
+
+--- 130Point ---
+Market Value: $1.33
+Average Price: $1.33
+Range: $0.99 - $2.00
+Recent Sales:
+   - $0.99 (eBay)
+   - $2.00 (eBay)
+   - $0.99 (eBay)
+
+--- Aggregate ---
+Average: $5.43
+Median: $1.89
+Low: $0.99
+High: $35.00
+Projected PSA 10 Median: $82.50
+Projected PSA 9 Median: $31.26

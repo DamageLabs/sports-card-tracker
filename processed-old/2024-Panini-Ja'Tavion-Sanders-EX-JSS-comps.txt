@@ -1,0 +1,27 @@
+Card: Ja'Tavion Sanders 2024 Panini #EX-JSS
+Condition: 9: MINT
+Generated: 2026-05-19T04:02:37.104Z
+
+--- SportsCardsPro ---
+Market Value: $14.80
+Average Price: $14.80
+
+--- 130Point ---
+Market Value: $264.24
+Average Price: $264.24
+Range: $227.50 - $300.98
+Recent Sales:
+   - $300.98 (Pristine, PSA 9)
+   - $227.50 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $264.24
+Low: $227.50
+High: $300.98
+
+--- Population Report ---
+PSA 9 Pop: 43
+Total Graded: 73
+Percentile: Top 87.67%
+Rarity Tier: medium
+Pop-Adjusted Average: $287.23 (+9%)

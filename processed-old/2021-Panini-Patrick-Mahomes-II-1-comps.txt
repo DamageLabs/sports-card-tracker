@@ -1,0 +1,66 @@
+Card: Patrick Mahomes II 2021 Panini #1
+Condition: RAW
+Generated: 2026-03-01T21:58:29.995Z
+
+--- SportsCardsPro ---
+Market Value: $8.00
+Average Price: $8.00
+
+--- eBay ---
+Market Value: $2.17
+Average Price: $2.17
+Range: $0.73 - $10.00
+Recent Sales:
+  Feb 27, 2026 - $1.89 (eBay)
+  Feb 26, 2026 - $0.73 (eBay)
+  Feb 25, 2026 - $10.00 (eBay)
+  Feb 18, 2026 - $3.25 (eBay)
+  Feb 8, 2026 - $2.99 (eBay)
+  Feb 6, 2026 - $1.99 (eBay)
+  Feb 5, 2026 - $2.99 (eBay)
+  Feb 5, 2026 - $2.99 (eBay)
+  Feb 5, 2026 - $1.65 (eBay)
+  Feb 1, 2026 - $0.99 (eBay)
+  Jan 30, 2026 - $0.99 (eBay)
+  Jan 30, 2026 - $2.50 (eBay)
+  Jan 25, 2026 - $1.69 (eBay)
+  Jan 22, 2026 - $1.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $2.34
+Range: $0.99 - $9.75
+Recent Sales:
+  2026-01-09 - $1.70 (coastiescollectibles)
+  2025-12-13 - $9.75 (fishcampfloat)
+  2025-09-15 - $2.16 (gi_444442)
+  2025-07-17 - $0.99 (Market Movers)
+  2025-05-07 - $2.00 (marksmadnesssportcards)
+  2025-04-22 - $2.00 (marksmadnesssportcards)
+  2025-04-09 - $2.00 (marksmadnesssportcards)
+  2025-03-30 - $0.99 (rpg_tx)
+  2025-02-04 - $1.99 (amongmediacc)
+  2025-01-29 - $2.49 (cleancardshop)
+  2025-01-19 - $1.79 (star_wizard)
+  2024-12-19 - $1.99 (sugashanesportscards)
+  2024-12-15 - $1.75 (sugashanesportscards)
+  2024-12-11 - $1.99 (flanders06)
+  2024-11-30 - $1.48 (thekinghing)
+
+--- 130Point ---
+Market Value: $9.75
+Average Price: $9.75
+Range: $9.75 - $9.75
+Recent Sales:
+   - $9.75 (eBay)
+
+--- PSA ---
+Market Value: $39600.00
+Average Price: $39600.00
+Range: $39600.00 - $39600.00
+Recent Sales:
+  Aug 6, 2022 - $39600.00 (Goldin Auctions, 9)
+
+--- Aggregate ---
+Average: $2.56
+Low: $0.99
+High: $10.00

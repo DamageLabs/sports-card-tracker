@@ -1,0 +1,99 @@
+Card: Jayden Daniels 2024 Panini #389
+Condition: 10: GEM MINT
+Generated: 2026-03-02T04:14:39.349Z
+
+--- SportsCardsPro ---
+Market Value: $11.66
+Average Price: $11.66
+
+--- eBay ---
+Market Value: $96.23
+Average Price: $96.23
+Range: $60.00 - $200.00
+Recent Sales:
+  Feb 25, 2026 - $99.99 (eBay, PSA 10)
+  Feb 5, 2026 - $74.05 (eBay, PSA 10)
+  Jan 18, 2026 - $63.00 (eBay, PSA 10)
+  Jan 13, 2026 - $74.00 (eBay, PSA 10)
+  Jan 13, 2026 - $68.00 (eBay, PSA 10)
+  Jan 12, 2026 - $85.99 (eBay, PSA 10)
+  Jan 6, 2026 - $71.00 (eBay, PSA 10)
+  Dec 15, 2025 - $67.00 (eBay, PSA 10)
+  Dec 6, 2025 - $98.00 (eBay, PSA 10)
+  Dec 4, 2025 - $109.99 (eBay, PSA 10)
+  Feb 28, 2026 - $129.99 (eBay, PSA 10)
+  Feb 4, 2026 - $137.50 (eBay, PSA 10)
+  Jan 20, 2026 - $92.00 (eBay, PSA 10)
+  Feb 19, 2026 - $129.99 (eBay, PSA 10)
+  Feb 23, 2026 - $120.00 (eBay, PSA 10)
+  Mar 1, 2026 - $60.00 (eBay, PSA 10)
+  Feb 25, 2026 - $200.00 (eBay, PSA 10)
+  Jan 22, 2026 - $86.00 (eBay, PSA 10)
+  Jan 24, 2026 - $155.50 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $70.00
+Average Price: $63.21
+Range: $50.00 - $73.00
+Recent Sales:
+  02/28/2026 - $70.00 (Card Ladder)
+  02/27/2026 - $73.00 (Card Ladder)
+  02/26/2026 - $62.50 (Card Ladder)
+  02/25/2026 - $69.00 (Card Ladder)
+  02/23/2026 - $64.50 (Card Ladder)
+  02/22/2026 - $65.20 (Card Ladder)
+  02/21/2026 - $63.33 (Card Ladder)
+  02/16/2026 - $65.00 (Card Ladder)
+  02/15/2026 - $64.00 (Card Ladder)
+  02/14/2026 - $65.50 (Card Ladder)
+  02/13/2026 - $60.00 (Card Ladder)
+  02/12/2026 - $62.69 (Card Ladder)
+  02/11/2026 - $55.17 (Card Ladder)
+  02/10/2026 - $58.25 (Card Ladder)
+  02/09/2026 - $50.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $127.66
+Range: $63.00 - $180.00
+Recent Sales:
+  2026-01-19 - $63.00 (chphe_66)
+  2025-10-13 - $107.50 (psa)
+  2025-10-13 - $112.40 (psa)
+  2025-09-07 - $113.50 (Market Movers)
+  2025-09-05 - $167.50 (Market Movers)
+  2025-08-27 - $125.00 (CardsHQ)
+  2025-08-14 - $142.00 (Market Movers)
+  2025-08-13 - $135.00 (Market Movers)
+  2025-08-13 - $142.00 (Market Movers)
+  2025-08-08 - $103.50 (Market Movers)
+  2025-08-03 - $129.99 (Market Movers)
+  2025-08-02 - $120.00 (CardsHQ)
+  2025-07-31 - $153.50 (Market Movers)
+  2025-07-28 - $120.00 (Market Movers)
+  2025-07-21 - $180.00 (Market Movers)
+
+--- 130Point ---
+Market Value: $63.00
+Average Price: $63.00
+Range: $63.00 - $63.00
+Recent Sales:
+   - $63.00 (eBay, PSA 10)
+
+--- PSA ---
+Market Value: $71.00
+Average Price: $71.00
+Range: $71.00 - $71.00
+Recent Sales:
+  Jan 7, 2026 - $71.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $88.66
+Low: $60.00
+High: $142.00
+
+--- Population Report ---
+PSA 10 Pop: 79
+Total Graded: 141
+Percentile: Top 56.03%
+Rarity Tier: medium
+Pop-Adjusted Average: $93.98 (+6%)

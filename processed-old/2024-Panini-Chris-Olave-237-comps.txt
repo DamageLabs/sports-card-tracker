@@ -1,0 +1,30 @@
+Card: Chris Olave 2024 Panini #237
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:10:48.108Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $87.75
+Average Price: $87.75
+Range: $59.99 - $102.50
+Recent Sales:
+  Apr 24, 2026 - $102.50 (eBay, PSA 10)
+  May 20, 2026 - $102.50 (eBay, PSA 10)
+  May 5, 2026 - $59.99 (eBay, PSA 10)
+  Apr 6, 2026 - $86.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $65.88
+Average Price: $65.88
+Range: $22.50 - $86.00
+Recent Sales:
+   - $80.00 (eBay)
+   - $86.00 (eBay, PSA 10)
+   - $22.50 (eBay)
+   - $75.00 (eBay)
+
+--- Aggregate ---
+Average: $82.11
+Low: $22.50
+High: $102.50

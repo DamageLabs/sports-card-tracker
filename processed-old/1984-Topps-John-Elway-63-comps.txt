@@ -1,0 +1,79 @@
+Card: John Elway 1984 Topps #63
+Condition: 8: NEAR MINT-MINT
+Generated: 2026-05-21T05:23:22.246Z
+
+--- SportsCardsPro ---
+Market Value: $10.91
+Average Price: $10.91
+
+--- eBay ---
+Market Value: $156.52
+Average Price: $156.52
+Range: $79.80 - $195.00
+Recent Sales:
+  May 19, 2026 - $149.99 (eBay, PSA 8)
+  May 19, 2026 - $158.60 (eBay, PSA 8)
+  May 19, 2026 - $127.50 (eBay, PSA 8)
+  May 18, 2026 - $179.00 (eBay, PSA 8)
+  May 17, 2026 - $160.50 (eBay, PSA 8)
+  May 16, 2026 - $192.50 (eBay, PSA 8)
+  May 14, 2026 - $164.99 (eBay, PSA 8)
+  May 13, 2026 - $79.80 (eBay, PSA 8)
+  May 12, 2026 - $175.00 (eBay, PSA 8)
+  May 12, 2026 - $157.50 (eBay, PSA 8)
+  May 12, 2026 - $140.14 (eBay, PSA 8)
+  May 11, 2026 - $128.01 (eBay, PSA 8)
+  May 9, 2026 - $81.00 (eBay, PSA 8)
+  May 7, 2026 - $157.50 (eBay, PSA 8)
+  May 7, 2026 - $150.00 (eBay, PSA 8)
+  May 7, 2026 - $195.00 (eBay, PSA 8)
+  May 7, 2026 - $190.00 (eBay, PSA 8)
+  May 6, 2026 - $151.50 (eBay, PSA 8)
+  May 5, 2026 - $185.00 (eBay, PSA 8)
+  May 5, 2026 - $133.50 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $150.04
+Average Price: $150.04
+Range: $71.95 - $201.07
+Recent Sales:
+   - $136.74 (Pristine, PSA 8)
+   - $140.19 (eBay, PSA 8)
+   - $146.72 (eBay, PSA 8)
+   - $189.95 (eBay, PSA 8)
+   - $145.05 (eBay, PSA 8)
+   - $153.00 (eBay, PSA 8)
+   - $71.95 (eBay, PSA 8)
+   - $117.50 (eBay, PSA 8)
+   - $95.02 (eBay, PSA 8)
+   - $165.00 (eBay, PSA 8)
+   - $201.07 (eBay, PSA 8)
+   - $135.00 (eBay, PSA 8)
+   - $155.00 (eBay, PSA 8)
+   - $124.72 (eBay, PSA 8)
+   - $134.50 (eBay, PSA 8)
+   - $147.50 (eBay, PSA 8)
+   - $176.01 (eBay, PSA 8)
+   - $136.00 (eBay, PSA 8)
+   - $179.50 (eBay, PSA 8)
+   - $147.51 (eBay, PSA 8)
+   - $132.50 (eBay, PSA 8)
+   - $170.00 (eBay, PSA 8)
+   - $134.99 (eBay, PSA 8)
+   - $140.00 (eBay, PSA 8)
+   - $174.50 (eBay, PSA 8)
+   - $151.00 (eBay, PSA 8)
+   - $182.00 (eBay, PSA 8)
+   - $188.50 (eBay, PSA 8)
+
+--- Aggregate ---
+Average: $151.97
+Low: $117.50
+High: $188.50
+
+--- Population Report ---
+PSA 8 Pop: 129
+Total Graded: 705
+Percentile: Top 26.81%
+Rarity Tier: high
+Pop-Adjusted Average: $157.90 (+4%)

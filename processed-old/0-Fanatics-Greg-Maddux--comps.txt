@@ -1,0 +1,43 @@
+Card: Greg Maddux 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:50:50.213Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $351.75
+Average Price: $351.75
+Range: $104.50 - $599.00
+Recent Sales:
+  Mar 24, 2026 - $104.50 (eBay)
+  Jul 20, 2025 - $599.00 (eBay)
+
+--- 130Point ---
+Market Value: $135.92
+Average Price: $135.92
+Range: $9.99 - $960.00
+Recent Sales:
+   - $152.51 (eBay)
+   - $39.95 (eBay)
+   - $104.50 (eBay)
+   - $169.99 (eBay)
+   - $201.38 (eBay)
+   - $960.00 (PWCC, BGS 9.5)
+   - $25.00 (eBay)
+   - $9.99 (eBay)
+   - $875.00 (eBay, PSA 8)
+   - $167.08 (Pristine)
+   - $208.85 (Pristine)
+   - $58.50 (Pristine)
+   - $103.20 (PWCC, BGS 9)
+   - $49.20 (PWCC, BGS 9.5)
+   - $432.00 (PWCC, BGS 9.5)
+   - $34.80 (PWCC, BGS 9)
+   - $45.00 (PWCC, PSA 10)
+
+--- Aggregate ---
+Average: $164.07
+Low: $34.80
+High: $599.00

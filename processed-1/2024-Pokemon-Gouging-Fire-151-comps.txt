@@ -1,0 +1,36 @@
+Card: Gouging Fire 2024 Pokemon #151
+Condition: 10: GEM MINT
+Generated: 2026-05-29T13:07:11.469Z
+
+--- SportsCardsPro ---
+Market Value: $111.00
+Average Price: $111.00
+
+--- eBay ---
+Market Value: $238.17
+Average Price: $238.17
+Range: $211.50 - $268.00
+Recent Sales:
+  May 24, 2026 - $268.00 (eBay, PSA 10)
+  Mar 7, 2026 - $235.00 (eBay, PSA 10)
+  Mar 14, 2026 - $211.50 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $211.50
+Average Price: $211.50
+Range: $211.50 - $211.50
+Recent Sales:
+   - $211.50 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $248.83
+Median: $223.25
+Low: $211.50
+High: $268.00
+
+--- Population Report ---
+PSA 10 Pop: 64
+Total Graded: 234
+Percentile: Top 27.35%
+Rarity Tier: medium
+Pop-Adjusted Average: $266.00 (+7%)

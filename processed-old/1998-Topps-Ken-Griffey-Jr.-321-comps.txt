@@ -1,0 +1,102 @@
+Card: Ken Griffey Jr. 1998 Topps #321
+Condition: RAW
+Generated: 2026-03-01T22:25:52.731Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $366.28
+Average Price: $366.28
+Range: $1.00 - $4500.00
+Recent Sales:
+  Feb 28, 2026 - $2.49 (eBay)
+  Feb 28, 2026 - $4500.00 (eBay, PSA 10)
+  Feb 19, 2026 - $1.00 (eBay)
+  Feb 18, 2026 - $6.99 (eBay)
+  Feb 16, 2026 - $1600.00 (eBay, PSA 8)
+  Feb 15, 2026 - $49.99 (eBay)
+  Feb 14, 2026 - $6.99 (eBay)
+  Feb 1, 2026 - $877.50 (eBay)
+  Jan 18, 2026 - $19.98 (eBay)
+
+--- CardLadder ---
+Market Value: $9259.81
+Average Price: $1261.07
+Range: $46.67 - $7499.99
+Recent Sales:
+  03/12/2021 - $7499.99 (Card Ladder)
+  03/05/2020 - $1745.00 (Card Ladder)
+  09/19/2018 - $610.00 (Card Ladder)
+  08/06/2017 - $425.00 (Card Ladder)
+  01/15/2015 - $354.00 (Card Ladder)
+  10/16/2012 - $133.50 (Card Ladder)
+  01/31/2011 - $412.00 (Card Ladder)
+  09/12/2010 - $46.67 (Card Ladder)
+  01/11/2009 - $123.50 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $858.07
+Range: $6.99 - $4150.00
+Recent Sales:
+  2026-02-28 - $4150.00 (sweethitsportscards)
+  2026-02-19 - $6.99 (kristianstrombookseller)
+  2026-02-17 - $1100.00 (sheetscollectology)
+  2026-02-15 - $45.00 (chefjimmy)
+  2026-02-14 - $6.99 (kristianstrombookseller)
+  2026-02-01 - $677.50 (jmone4653)
+  2026-01-19 - $19.98 (kardlandia)
+
+--- 130Point ---
+Market Value: $212.31
+Average Price: $212.31
+Range: $6.99 - $1260.00
+Recent Sales:
+   - $6.99 (eBay)
+   - $1100.00 (eBay, PSA 8)
+   - $45.00 (eBay)
+   - $6.99 (eBay)
+   - $677.50 (eBay)
+   - $19.98 (eBay)
+   - $9.51 (eBay)
+   - $7.20 (PWCC, CGC Auth)
+   - $7.20 (PWCC, CGC Auth)
+   - $1260.00 (PWCC, PSA 9)
+   - $20.40 (PWCC, PSA 9)
+   - $432.00 (PWCC, PSA 8)
+   - $9.60 (PWCC)
+
+--- PSA ---
+Market Value: $39.46
+Average Price: $39.46
+Range: $5.50 - $219.50
+Recent Sales:
+  Jun 18, 2025 - $127.50 (eBay, 10)
+  May 6, 2025 - $7.51 (eBay, 8)
+  Mar 23, 2025 - $14.40 (eBay, 8)
+  Mar 20, 2025 - $219.50 (eBay, 10)
+  Dec 15, 2024 - $14.00 (eBay, 9)
+  Oct 14, 2024 - $5.50 (eBay, 8)
+  Oct 5, 2024 - $5.50 (eBay, 7)
+  Sep 22, 2024 - $27.38 (eBay, 9)
+  Jun 29, 2024 - $8.50 (eBay, 7)
+  Jun 10, 2024 - $88.77 (eBay, 10)
+  Apr 1, 2024 - $20.00 (eBay, 8)
+  Mar 25, 2024 - $102.50 (eBay, 9)
+  Dec 8, 2023 - $21.27 (eBay, 9)
+  Sep 14, 2023 - $94.77 (eBay, 10)
+  Feb 1, 2023 - $10.05 (eBay, 8)
+  Jan 13, 2023 - $19.95 (eBay, 9)
+  Oct 2, 2021 - $39.00 (eBay, 9)
+  Sep 24, 2021 - $23.05 (eBay, 9)
+  Sep 12, 2021 - $39.95 (eBay, 9)
+  Jul 22, 2021 - $181.28 (eBay, 10)
+  Apr 29, 2021 - $31.00 (eBay, 9)
+  Nov 29, 2020 - $22.00 (eBay, 9)
+  Aug 19, 2020 - $69.00 (eBay, 10)
+  Jun 18, 2020 - $90.00 (eBay, 10)
+  Apr 18, 2020 - $14.21 (eBay, 9)
+
+--- Aggregate ---
+Average: $283.40
+Low: $5.50
+High: $4150.00

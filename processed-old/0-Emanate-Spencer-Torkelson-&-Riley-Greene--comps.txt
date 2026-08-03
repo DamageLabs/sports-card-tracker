@@ -1,0 +1,32 @@
+Card: Spencer Torkelson & Riley Greene 0 Emanate #
+Condition: RAW
+Generated: 2026-05-08T16:54:37.422Z
+
+--- SportsCardsPro ---
+Market Value: $3.93
+Average Price: $3.93
+
+--- eBay ---
+Market Value: $140.10
+Average Price: $140.10
+Range: $80.27 - $217.50
+Recent Sales:
+  Apr 2, 2026 - $180.00 (eBay)
+  Apr 27, 2026 - $80.27 (eBay)
+  Mar 28, 2026 - $167.50 (eBay)
+  Feb 15, 2026 - $180.00 (eBay)
+  Feb 15, 2026 - $217.50 (eBay)
+  May 1, 2026 - $81.00 (eBay)
+  Mar 23, 2026 - $92.00 (eBay)
+
+--- 130Point ---
+Market Value: $130.00
+Average Price: $130.00
+Range: $130.00 - $130.00
+Recent Sales:
+   - $130.00 (eBay)
+
+--- Aggregate ---
+Average: $116.99
+Low: $80.27
+High: $180.00

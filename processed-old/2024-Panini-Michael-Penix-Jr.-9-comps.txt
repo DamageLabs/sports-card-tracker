@@ -1,0 +1,38 @@
+Card: Michael Penix Jr. 2024 Panini #9
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:36:46.939Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $250.15
+Average Price: $250.15
+Range: $149.50 - $300.00
+Recent Sales:
+  May 15, 2026 - $255.00 (eBay, PSA 10)
+  May 13, 2026 - $237.50 (eBay, PSA 10)
+  May 6, 2026 - $249.00 (eBay, PSA 10)
+  May 3, 2026 - $250.00 (eBay, PSA 10)
+  Apr 28, 2026 - $217.51 (eBay, PSA 10)
+  Apr 20, 2026 - $250.00 (eBay, PSA 10)
+  Apr 19, 2026 - $225.00 (eBay, PSA 10)
+  Apr 18, 2026 - $149.50 (eBay, PSA 10)
+  Apr 8, 2026 - $250.00 (eBay, PSA 10)
+  Mar 29, 2026 - $260.00 (eBay, PSA 10)
+  Mar 7, 2026 - $270.00 (eBay, PSA 10)
+  Mar 4, 2026 - $300.00 (eBay, PSA 10)
+  Mar 3, 2026 - $275.00 (eBay, PSA 10)
+  Mar 2, 2026 - $255.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $237.50
+Average Price: $237.50
+Range: $220.00 - $255.00
+Recent Sales:
+   - $220.00 (eBay, PSA 10)
+   - $255.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $243.76
+Low: $217.51
+High: $260.00

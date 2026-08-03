@@ -1,0 +1,57 @@
+Card: Willie Mays 2023 Topps #P-5
+Condition: RAW
+Generated: 2026-03-01T04:22:07.704Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $14.15
+Average Price: $14.15
+Range: $0.99 - $100.00
+Recent Sales:
+  Feb 22, 2026 - $3.50 (eBay)
+  Feb 21, 2026 - $2.49 (eBay)
+  Feb 23, 2026 - $1.99 (eBay)
+  Feb 24, 2026 - $3.75 (eBay)
+  Feb 14, 2026 - $3.99 (eBay)
+  Feb 22, 2026 - $9.99 (eBay)
+  Feb 14, 2026 - $8.00 (eBay)
+  Jan 1, 2026 - $42.99 (eBay)
+  Feb 18, 2026 - $0.99 (eBay)
+  Dec 14, 2025 - $42.00 (eBay)
+  Feb 21, 2026 - $6.75 (eBay)
+  Feb 27, 2026 - $2.82 (eBay)
+  Feb 6, 2026 - $100.00 (eBay, PSA 9)
+  Feb 15, 2026 - $6.00 (eBay)
+  Dec 8, 2025 - $91.00 (eBay)
+  Feb 26, 2026 - $2.36 (eBay)
+  Feb 10, 2026 - $17.45 (eBay)
+  Jan 29, 2026 - $46.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No matching Card Ladder card found for: 2023 Topps Pristine Willie Mays P-5
+
+--- MarketMovers ---
+Error: No Market Movers data found for: 2023 Topps Pristine Willie Mays #P-5 Perseverance
+
+--- 130Point ---
+Market Value: $11.71
+Average Price: $11.71
+Range: $2.36 - $23.52
+Recent Sales:
+   - $2.36 (Pristine)
+   - $10.50 (Pristine)
+   - $23.52 (Pristine)
+   - $10.47 (Pristine)
+
+--- PSA ---
+Market Value: $12.50
+Average Price: $12.50
+Range: $12.50 - $12.50
+Recent Sales:
+  Jul 1, 2024 - $12.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $9.10
+Low: $1.99
+High: $42.99

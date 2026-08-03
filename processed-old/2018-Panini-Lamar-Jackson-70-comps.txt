@@ -1,0 +1,29 @@
+Card: Lamar Jackson 2018 Panini #70
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:32:07.373Z
+
+--- SportsCardsPro ---
+Market Value: $15.00
+Average Price: $15.00
+
+--- eBay ---
+Market Value: $170.00
+Average Price: $170.00
+Range: $64.99 - $275.00
+Recent Sales:
+  May 8, 2026 - $275.00 (eBay, SGC 10)
+  Mar 18, 2026 - $64.99 (eBay, SGC 10)
+
+--- 130Point ---
+Market Value: $58.33
+Average Price: $58.33
+Range: $50.00 - $72.00
+Recent Sales:
+   - $53.00 (eBay, SGC 10)
+   - $50.00 (eBay, SGC 10)
+   - $72.00 (eBay, SGC 10)
+
+--- Aggregate ---
+Average: $129.73
+Low: $50.00
+High: $275.00

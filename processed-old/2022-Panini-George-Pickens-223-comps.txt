@@ -1,0 +1,46 @@
+Card: George Pickens 2022 Panini #223
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:15:22.228Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $132.22
+Average Price: $132.22
+Range: $50.00 - $275.00
+Recent Sales:
+  Apr 9, 2026 - $200.00 (eBay, PSA 10)
+  Feb 22, 2026 - $169.99 (eBay, PSA 10)
+  May 4, 2026 - $50.00 (eBay, PSA 10)
+  Apr 9, 2026 - $140.00 (eBay, PSA 10)
+  Mar 23, 2026 - $124.99 (eBay, PSA 10)
+  Mar 31, 2026 - $215.00 (eBay, PSA 10)
+  Apr 23, 2026 - $70.00 (eBay, PSA 10)
+  Feb 26, 2026 - $275.00 (eBay, PSA 10)
+  May 5, 2026 - $64.99 (eBay, PSA 10)
+  May 2, 2026 - $125.00 (eBay, PSA 10)
+  Feb 20, 2026 - $80.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $122.50
+Average Price: $122.50
+Range: $29.99 - $412.00
+Recent Sales:
+   - $412.00 (eBay, PSA 10)
+   - $170.00 (eBay, PSA 10)
+   - $70.00 (eBay, PSA 10)
+   - $200.00 (eBay, PSA 10)
+   - $50.00 (eBay, PSA 10)
+   - $29.99 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $115.55
+Low: $50.00
+High: $215.00
+
+--- Population Report ---
+PSA 10 Pop: 2
+Total Graded: 13
+Percentile: Top 15.38%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $140.97 (+22%)

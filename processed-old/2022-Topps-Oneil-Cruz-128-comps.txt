@@ -1,0 +1,96 @@
+Card: Oneil Cruz 2022 Topps #128
+Condition: 10: GEM MINT
+Generated: 2026-03-01T03:09:36.543Z
+
+--- SportsCardsPro ---
+Market Value: $35.00
+Average Price: $35.00
+
+--- eBay ---
+Market Value: $40.03
+Average Price: $40.03
+Range: $20.00 - $470.00
+Recent Sales:
+  Jan 28, 2026 - $28.00 (eBay, PSA 10)
+  Jan 8, 2026 - $28.00 (eBay, PSA 10)
+  Jan 3, 2026 - $27.00 (eBay, PSA 10)
+  Feb 25, 2026 - $20.00 (eBay, PSA 10)
+  Feb 23, 2026 - $45.00 (eBay, PSA 10)
+  Jan 19, 2026 - $29.99 (eBay, PSA 10)
+  Feb 18, 2026 - $100.00 (eBay, PSA 10)
+  Feb 22, 2026 - $169.99 (eBay, PSA 10)
+  Feb 20, 2026 - $39.99 (eBay, PSA 10)
+  Feb 12, 2026 - $40.00 (eBay, PSA 10)
+  Dec 5, 2025 - $44.99 (eBay, PSA 10)
+  Feb 16, 2026 - $24.99 (eBay, PSA 10)
+  Feb 8, 2026 - $36.99 (eBay, PSA 10)
+  Jan 31, 2026 - $20.99 (eBay, PSA 10)
+  Feb 5, 2026 - $22.00 (eBay, PSA 10)
+  Feb 24, 2026 - $37.50 (eBay, PSA 10)
+  Feb 21, 2026 - $470.00 (eBay, PSA 10)
+  Jan 26, 2026 - $56.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2022 Topps Chrome Oneil Cruz 128
+
+--- MarketMovers ---
+Average Price: $27.93
+Range: $13.25 - $43.00
+Recent Sales:
+  2025-11-30 - $13.25 (marksjanfootball)
+  2025-11-11 - $22.00 (jayrachelcards)
+  2025-09-21 - $29.04 (vdubb6677)
+  2025-09-02 - $30.00 (Market Movers)
+  2025-08-31 - $19.99 (Market Movers)
+  2025-07-27 - $32.99 (Market Movers)
+  2025-07-25 - $29.00 (Market Movers)
+  2025-07-13 - $32.99 (angibbons)
+  2025-07-12 - $26.75 (dreamer82143)
+  2025-07-08 - $19.38 (jmsgaragellc)
+  2025-06-30 - $29.00 (remiwe0)
+  2025-06-29 - $43.00 (PWCC)
+  2025-06-25 - $18.50 (4_sharp_corners)
+  2025-05-31 - $30.00 (rogers_picks)
+  2025-05-25 - $43.00 (dcsports87)
+
+--- 130Point ---
+Market Value: $35.90
+Average Price: $35.90
+Range: $28.80 - $43.00
+Recent Sales:
+   - $43.00 (PWCC, PSA 10)
+   - $28.80 (PWCC, PSA 10)
+
+--- PSA ---
+Market Value: $25.35
+Average Price: $25.35
+Range: $11.02 - $43.00
+Recent Sales:
+  Sep 1, 2025 - $19.99 (eBay, 10)
+  Aug 29, 2025 - $23.50 (eBay, 10)
+  Aug 22, 2025 - $13.50 (eBay, 10)
+  Jul 26, 2025 - $29.00 (eBay, 10)
+  Jul 16, 2025 - $30.00 (eBay, 10)
+  Jul 14, 2025 - $32.99 (eBay, 10)
+  Jul 13, 2025 - $26.75 (eBay, 10)
+  Jul 9, 2025 - $19.38 (eBay, 10)
+  Jul 1, 2025 - $29.00 (eBay, 10)
+  May 26, 2025 - $43.00 (eBay, 10)
+  May 20, 2025 - $11.02 (eBay, 10)
+  May 3, 2025 - $21.50 (eBay, 10)
+  Apr 24, 2025 - $31.00 (eBay, 10)
+  Mar 24, 2025 - $29.99 (eBay, 10)
+  Mar 16, 2025 - $22.59 (eBay, 10)
+  Jan 10, 2025 - $21.50 (eBay, 10)
+
+--- Aggregate ---
+Average: $36.29
+Low: $20.00
+High: $100.00
+
+--- Population Report ---
+PSA 10 Pop: 318
+Total Graded: 537
+Percentile: Top 59.22%
+Rarity Tier: high
+Pop-Adjusted Average: $36.29 (+0%)

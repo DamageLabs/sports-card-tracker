@@ -1,0 +1,67 @@
+Card: Jordan Love 2020 Panini #363
+Condition: 9: MINT
+Generated: 2026-05-21T05:24:13.694Z
+
+--- SportsCardsPro ---
+Market Value: $10.79
+Average Price: $10.79
+
+--- eBay ---
+Market Value: $187.73
+Average Price: $187.73
+Range: $14.99 - $1500.00
+Recent Sales:
+  Apr 12, 2026 - $405.00 (eBay, PSA 9)
+  Mar 24, 2026 - $282.00 (eBay, PSA 9)
+  Mar 11, 2026 - $200.00 (eBay, PSA 9)
+  Feb 22, 2026 - $350.00 (eBay, PSA 9)
+  May 6, 2026 - $54.99 (eBay, PSA 9)
+  May 14, 2026 - $429.99 (eBay, PSA 9)
+  Apr 29, 2026 - $20.00 (eBay, PSA 9)
+  May 8, 2026 - $150.00 (eBay, PSA 9)
+  Feb 26, 2026 - $105.00 (eBay, PSA 9)
+  May 18, 2026 - $15.00 (eBay, PSA 9)
+  Apr 20, 2026 - $1500.00 (eBay, PSA 9)
+  Apr 7, 2026 - $55.00 (eBay, PSA 9)
+  Apr 8, 2026 - $44.99 (eBay, PSA 9)
+  May 8, 2026 - $399.00 (eBay, PSA 9)
+  Mar 24, 2026 - $220.00 (eBay, PSA 9)
+  Mar 23, 2026 - $55.00 (eBay, PSA 9)
+  Feb 21, 2026 - $45.00 (eBay, PSA 9)
+  Mar 20, 2026 - $14.99 (eBay, PSA 9)
+  Mar 29, 2026 - $650.00 (eBay, PSA 9)
+
+--- 130Point ---
+Market Value: $239.85
+Average Price: $239.85
+Range: $50.40 - $1230.00
+Recent Sales:
+   - $405.00 (eBay, PSA 9)
+   - $282.00 (eBay, PSA 9)
+   - $350.00 (eBay, PSA 9)
+   - $1230.00 (PWCC, PSA 9)
+   - $384.00 (PWCC, PSA 9)
+   - $156.00 (PWCC, PSA 9)
+   - $125.00 (PWCC, PSA 9)
+   - $174.00 (PWCC, PSA 9)
+   - $204.00 (PWCC, PSA 9)
+   - $456.00 (PWCC, PSA 9)
+   - $198.00 (PWCC, PSA 9)
+   - $126.00 (PWCC, PSA 9)
+   - $192.00 (PWCC, PSA 9)
+   - $186.00 (PWCC, PSA 9)
+   - $50.40 (PWCC, PSA 9)
+   - $336.00 (PWCC, PSA 9)
+   - $93.60 (PWCC, PSA 9)
+
+--- Aggregate ---
+Average: $215.74
+Low: $20.00
+High: $456.00
+
+--- Population Report ---
+PSA 9 Pop: 1
+Total Graded: 2
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $269.67 (+25%)

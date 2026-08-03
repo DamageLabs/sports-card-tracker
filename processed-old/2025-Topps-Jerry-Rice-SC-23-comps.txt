@@ -1,0 +1,64 @@
+Card: Jerry Rice 2025 Topps #SC-23
+Condition: RAW
+Generated: 2026-03-01T22:06:40.105Z
+
+--- SportsCardsPro ---
+Market Value: $1.11
+Average Price: $1.11
+
+--- eBay ---
+Market Value: $3.93
+Average Price: $3.93
+Range: $0.01 - $225.00
+Recent Sales:
+  Jan 19, 2026 - $16.99 (eBay, PSA 9)
+  Jan 10, 2026 - $1.25 (eBay)
+  Dec 27, 2025 - $0.01 (eBay)
+  Dec 10, 2025 - $1.95 (eBay)
+  Dec 7, 2025 - $2.00 (eBay)
+  Feb 12, 2026 - $6.00 (eBay)
+  Feb 2, 2026 - $1.00 (eBay)
+  Feb 2, 2026 - $0.99 (eBay)
+  Feb 13, 2026 - $2.60 (eBay)
+  Feb 16, 2026 - $12.99 (eBay, PSA 9)
+  Feb 3, 2026 - $2.50 (eBay)
+  Dec 1, 2025 - $5.00 (eBay)
+  Jan 3, 2026 - $5.00 (eBay)
+  Dec 20, 2025 - $2.25 (eBay)
+  Jan 27, 2026 - $7.99 (eBay)
+  Jan 31, 2026 - $1.50 (eBay)
+  Dec 12, 2025 - $3.00 (eBay)
+  Jan 2, 2026 - $225.00 (eBay)
+  Dec 23, 2025 - $3.00 (eBay)
+  Jan 13, 2026 - $10.99 (eBay)
+
+--- MarketMovers ---
+Average Price: $4.00
+Range: $0.99 - $13.00
+Recent Sales:
+  2026-01-10 - $1.25 (thedu)
+  2025-09-23 - $1.49 (harbourthrifts_2)
+  2025-08-18 - $0.99 (Market Movers)
+  2025-08-16 - $3.25 (Market Movers)
+  2025-08-13 - $13.00 (Market Movers)
+
+--- 130Point ---
+Market Value: $0.63
+Average Price: $0.63
+Range: $0.01 - $1.25
+Recent Sales:
+   - $1.25 (eBay)
+   - $0.01 (eBay)
+
+--- PSA ---
+Market Value: $10.79
+Average Price: $10.79
+Range: $9.07 - $12.50
+Recent Sales:
+  Feb 19, 2025 - $12.50 (eBay, 7)
+  Apr 17, 2020 - $9.07 (eBay, 8)
+
+--- Aggregate ---
+Average: $5.21
+Low: $1.00
+High: $12.99

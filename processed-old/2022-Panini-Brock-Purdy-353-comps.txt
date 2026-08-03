@@ -1,0 +1,61 @@
+Card: Brock Purdy 2022 Panini #353
+Condition: 10: GEM MINT
+Generated: 2026-05-21T05:06:48.972Z
+
+--- SportsCardsPro ---
+Market Value: $19.80
+Average Price: $19.80
+
+--- eBay ---
+Market Value: $311.41
+Average Price: $311.41
+Range: $69.99 - $1850.00
+Recent Sales:
+  May 10, 2026 - $380.00 (eBay, PSA 10)
+  Apr 3, 2026 - $499.99 (eBay, PSA 10)
+  Apr 10, 2026 - $383.99 (eBay, PSA 10)
+  May 15, 2026 - $495.00 (eBay, PSA 10)
+  May 10, 2026 - $330.00 (eBay, PSA 10)
+  May 16, 2026 - $550.00 (eBay, PSA 10)
+  May 7, 2026 - $250.00 (eBay, PSA 10)
+  May 6, 2026 - $75.00 (eBay, PSA 10)
+  Apr 4, 2026 - $69.99 (eBay, PSA 10)
+  Apr 10, 2026 - $539.00 (eBay, PSA 10)
+  Feb 26, 2026 - $74.99 (eBay, PSA 10)
+  Apr 12, 2026 - $79.00 (eBay, PSA 10)
+  Apr 24, 2026 - $70.00 (eBay, PSA 10)
+  Apr 30, 2026 - $1850.00 (eBay, PSA 10)
+  Apr 30, 2026 - $80.00 (eBay, PSA 10)
+  May 10, 2026 - $999.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $284.37
+Average Price: $284.37
+Range: $62.13 - $539.00
+Recent Sales:
+   - $489.00 (eBay, PSA 10)
+   - $488.00 (eBay, PSA 10)
+   - $182.50 (eBay, PSA 10)
+   - $79.00 (eBay, PSA 10)
+   - $66.00 (eBay, PSA 10)
+   - $482.00 (eBay, PSA 10)
+   - $539.00 (eBay, PSA 10)
+   - $81.70 (eBay, PSA 10)
+   - $333.00 (eBay, PSA 10)
+   - $206.50 (eBay, PSA 10)
+   - $440.00 (eBay, PSA 10)
+   - $475.00 (eBay, PSA 10)
+   - $62.13 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $315.50
+Low: $70.00
+High: $550.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 16
+Percentile: Top 6.25%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $394.38 (+25%)

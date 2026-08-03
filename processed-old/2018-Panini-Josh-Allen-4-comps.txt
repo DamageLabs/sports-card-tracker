@@ -1,0 +1,34 @@
+Card: Josh Allen 2018 Panini #4
+Condition: 9: MINT
+Generated: 2026-05-19T23:13:46.180Z
+
+--- SportsCardsPro ---
+Market Value: $19.99
+Average Price: $19.99
+
+--- eBay ---
+Market Value: $1775.25
+Average Price: $1775.25
+Range: $199.99 - $3700.00
+Recent Sales:
+  May 4, 2026 - $199.99 (eBay, BGS 9)
+  Mar 12, 2026 - $3700.00 (eBay, BGS 9)
+  Apr 10, 2026 - $1325.00 (eBay, BGS 9)
+  May 8, 2026 - $1876.00 (eBay, BGS 9)
+
+--- 130Point ---
+Market Value: $1002.38
+Average Price: $1002.38
+Range: $126.00 - $4800.00
+Recent Sales:
+   - $810.00 (PWCC, BGS 9)
+   - $126.00 (PWCC, BGS 9)
+   - $4800.00 (Goldin, BGS 9)
+   - $725.00 (PWCC, BGS 9)
+   - $2247.00 (PWCC, BGS 9)
+   - $227.50 (PWCC, BGS 9)
+
+--- Aggregate ---
+Average: $1195.26
+Low: $199.99
+High: $3700.00

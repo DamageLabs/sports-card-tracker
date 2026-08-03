@@ -1,0 +1,72 @@
+Card: Willson Contreras 0 Panini #
+Condition: RAW
+Generated: 2026-05-09T03:11:06.423Z
+
+--- SportsCardsPro ---
+Market Value: $190.00
+Average Price: $190.00
+
+--- eBay ---
+Market Value: $26.02
+Average Price: $26.02
+Range: $3.50 - $75.00
+Recent Sales:
+  May 8, 2026 - $59.99 (eBay)
+  Apr 3, 2026 - $17.95 (eBay)
+  Apr 13, 2026 - $19.95 (eBay)
+  Mar 20, 2026 - $11.99 (eBay)
+  Mar 26, 2026 - $68.99 (eBay)
+  Feb 14, 2026 - $18.00 (eBay, BGS 8.5)
+  Apr 25, 2026 - $19.23 (eBay)
+  Apr 3, 2026 - $14.97 (eBay)
+  Apr 13, 2026 - $49.99 (eBay)
+  Apr 12, 2026 - $15.00 (eBay)
+  Mar 25, 2026 - $39.00 (eBay)
+  Feb 13, 2026 - $15.00 (eBay)
+  Mar 21, 2026 - $75.00 (eBay)
+  Apr 18, 2026 - $59.99 (eBay)
+  Mar 30, 2026 - $13.78 (eBay)
+  Mar 2, 2026 - $20.50 (eBay)
+  Mar 7, 2026 - $3.50 (eBay)
+  Feb 22, 2026 - $11.50 (eBay)
+  May 5, 2026 - $15.00 (eBay)
+
+--- 130Point ---
+Market Value: $6.27
+Average Price: $6.27
+Range: $0.06 - $75.40
+Recent Sales:
+   - $75.40 (eBay)
+   - $2.00 (eBay)
+   - $10.00 (eBay)
+   - $9.60 (eBay)
+   - $9.99 (eBay)
+   - $0.99 (eBay)
+   - $19.00 (eBay)
+   - $35.10 (Pristine)
+   - $14.97 (eBay)
+   - $14.00 (eBay)
+   - $0.23 (eBay)
+   - $0.27 (eBay)
+   - $13.78 (eBay)
+   - $9.99 (eBay)
+   - $0.11 (eBay)
+   - $0.06 (eBay)
+   - $0.06 (eBay)
+   - $0.06 (eBay)
+   - $0.06 (eBay)
+   - $35.00 (eBay)
+   - $0.22 (eBay)
+   - $39.00 (eBay)
+   - $0.31 (eBay)
+   - $0.27 (eBay)
+   - $2.99 (eBay)
+   - $1.00 (eBay)
+   - $10.50 (eBay)
+   - $9.00 (eBay)
+   - $2.50 (eBay)
+
+--- Aggregate ---
+Average: $16.95
+Low: $0.22
+High: $59.99

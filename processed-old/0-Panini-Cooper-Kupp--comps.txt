@@ -1,0 +1,48 @@
+Card: Cooper Kupp 0 Panini #
+Condition: RAW
+Generated: 2026-05-18T23:59:31.994Z
+
+--- SportsCardsPro ---
+Market Value: $7.80
+Average Price: $7.80
+
+--- 130Point ---
+Market Value: $43.15
+Average Price: $43.15
+Range: $0.99 - $172.07
+Recent Sales:
+   - $62.65 (Pristine)
+   - $63.27 (Pristine)
+   - $61.16 (Pristine)
+   - $28.08 (Pristine)
+   - $23.40 (Pristine)
+   - $172.07 (Pristine)
+   - $20.88 (Pristine)
+   - $70.02 (Pristine)
+   - $114.25 (Pristine)
+   - $28.44 (Pristine, SGC 10)
+   - $70.02 (Pristine)
+   - $89.60 (Pristine)
+   - $156.02 (Pristine)
+   - $28.44 (Pristine, CGC 9.5)
+   - $108.11 (Pristine)
+   - $60.84 (Pristine)
+   - $1.99 (eBay)
+   - $2.99 (eBay)
+   - $1.00 (eBay)
+   - $30.00 (eBay)
+   - $1.50 (eBay)
+   - $2.25 (eBay)
+   - $0.99 (eBay)
+   - $30.00 (eBay)
+   - $40.00 (eBay)
+   - $100.00 (eBay)
+   - $22.50 (eBay)
+   - $85.00 (eBay)
+   - $24.65 (eBay, PSA 9)
+   - $5.00 (eBay)
+
+--- Aggregate ---
+Average: $44.14
+Low: $1.50
+High: $114.25

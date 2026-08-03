@@ -1,0 +1,75 @@
+Card: Ladd McConkey 2024 Panini #365
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:11:02.976Z
+
+--- SportsCardsPro ---
+Market Value: $22.22
+Average Price: $22.22
+
+--- eBay ---
+Market Value: $88.51
+Average Price: $88.51
+Range: $20.99 - $399.99
+Recent Sales:
+  May 1, 2026 - $192.50 (eBay, PSA 10)
+  Apr 21, 2026 - $151.01 (eBay, PSA 10)
+  Apr 18, 2026 - $189.00 (eBay, PSA 10)
+  Apr 13, 2026 - $399.99 (eBay, PSA 10)
+  May 10, 2026 - $96.00 (eBay, PSA 10)
+  May 16, 2026 - $55.24 (eBay, PSA 10)
+  May 11, 2026 - $29.99 (eBay, PSA 10)
+  May 19, 2026 - $69.99 (eBay, PSA 10)
+  Apr 29, 2026 - $59.85 (eBay, PSA 10)
+  May 15, 2026 - $48.00 (eBay, PSA 10)
+  May 9, 2026 - $39.99 (eBay, PSA 10)
+  Feb 24, 2026 - $20.99 (eBay, PSA 10)
+  May 10, 2026 - $45.00 (eBay, PSA 10)
+  Mar 19, 2026 - $69.99 (eBay, PSA 10)
+  May 18, 2026 - $88.00 (eBay, PSA 10)
+  Feb 26, 2026 - $150.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $58.11
+Average Price: $58.11
+Range: $13.50 - $180.00
+Recent Sales:
+   - $53.82 (eBay, PSA 10)
+   - $36.83 (eBay, PSA 10)
+   - $54.89 (eBay, PSA 10)
+   - $45.00 (eBay, PSA 10)
+   - $25.00 (eBay, PSA 10)
+   - $49.00 (eBay, PSA 10)
+   - $39.99 (eBay, PSA 10)
+   - $59.99 (eBay, PSA 10)
+   - $60.00 (eBay, PSA 10)
+   - $34.00 (eBay, PSA 10)
+   - $13.50 (eBay, PSA 10)
+   - $46.00 (eBay, PSA 10)
+   - $24.99 (eBay, PSA 10)
+   - $69.99 (eBay, PSA 10)
+   - $33.00 (eBay, PSA 10)
+   - $150.00 (eBay, PSA 10)
+   - $180.00 (eBay, PSA 10)
+   - $119.00 (eBay, PSA 10)
+   - $89.99 (eBay, PSA 10)
+   - $64.99 (eBay, PSA 10)
+   - $160.00 (eBay, PSA 10)
+   - $20.99 (eBay, PSA 10)
+   - $37.50 (eBay, PSA 10)
+   - $115.00 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $32.99 (eBay, PSA 10)
+   - $55.28 (Pristine, PSA 10)
+   - $65.00 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $66.23
+Low: $29.99
+High: $160.00
+
+--- Population Report ---
+PSA 10 Pop: 181
+Total Graded: 415
+Percentile: Top 43.61%
+Rarity Tier: high
+Pop-Adjusted Average: $67.82 (+2%)

@@ -1,0 +1,35 @@
+Card: Andrew McCutchen 0 Fanatics #
+Condition: RAW
+Generated: 2026-05-08T16:54:58.408Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $173.99
+Average Price: $173.99
+Range: $92.00 - $299.99
+Recent Sales:
+  Feb 25, 2026 - $129.99 (eBay)
+  Apr 8, 2026 - $299.99 (eBay)
+  Mar 15, 2026 - $92.00 (eBay)
+
+--- 130Point ---
+Market Value: $127.18
+Average Price: $127.18
+Range: $3.00 - $234.00
+Recent Sales:
+   - $200.00 (eBay)
+   - $3.00 (eBay)
+   - $129.99 (eBay)
+   - $224.82 (Pristine)
+   - $82.31 (Pristine)
+   - $15.97 (Pristine)
+   - $110.00 (PWCC)
+   - $234.00 (Pristine)
+
+--- Aggregate ---
+Average: $150.45
+Low: $15.97
+High: $299.99

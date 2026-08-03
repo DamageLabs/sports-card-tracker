@@ -1,0 +1,59 @@
+Card: J.J. McCarthy 2024 Panini #310
+Condition: 9: MINT
+Generated: 2026-03-02T04:15:30.997Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $25.64
+Average Price: $25.64
+Range: $3.25 - $209.00
+Recent Sales:
+  Jan 30, 2026 - $22.50 (eBay, PSA 9)
+  Dec 16, 2025 - $13.50 (eBay, PSA 9)
+  Jan 11, 2026 - $60.00 (eBay, PSA 9)
+  Feb 1, 2026 - $7.99 (eBay, PSA 9)
+  Feb 26, 2026 - $10.99 (eBay, PSA 9)
+  Dec 11, 2025 - $11.50 (eBay, PSA 9)
+  Dec 19, 2025 - $209.00 (eBay, PSA 9)
+  Jan 13, 2026 - $29.99 (eBay, PSA 9)
+  Dec 14, 2025 - $3.25 (eBay, PSA 9)
+  Dec 21, 2025 - $19.99 (eBay, PSA 9)
+  Feb 15, 2026 - $69.99 (eBay, PSA 9)
+  Dec 8, 2025 - $9.99 (eBay, PSA 9)
+
+--- MarketMovers ---
+Average Price: $19.75
+Range: $13.50 - $25.00
+Recent Sales:
+  2026-01-31 - $22.50 (beachbombsportssc)
+  2025-12-29 - $18.00 (PWCC)
+  2025-12-17 - $13.50 (antco_2264)
+  2025-08-02 - $25.00 (Market Movers)
+
+--- 130Point ---
+Market Value: $18.00
+Average Price: $18.00
+Range: $13.50 - $22.50
+Recent Sales:
+   - $22.50 (eBay, PSA 9)
+   - $13.50 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $37.00
+Average Price: $37.00
+Range: $37.00 - $37.00
+Recent Sales:
+  Mar 30, 2025 - $37.00 (eBay, 9)
+
+--- Aggregate ---
+Average: $24.38
+Low: $7.99
+High: $69.99
+
+--- Population Report ---
+PSA 9 Pop: 137
+Total Graded: 254
+Percentile: Top 67.32%
+Rarity Tier: high
+Pop-Adjusted Average: $25.26 (+4%)

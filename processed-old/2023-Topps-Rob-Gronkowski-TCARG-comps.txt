@@ -1,0 +1,56 @@
+Card: Rob Gronkowski 2023 Topps #TCARG
+Condition: 10: GEM MINT
+Generated: 2026-05-19T23:05:04.434Z
+
+--- SportsCardsPro ---
+Market Value: $14.25
+Average Price: $14.25
+
+--- eBay ---
+Market Value: $149.56
+Average Price: $149.56
+Range: $42.50 - $575.00
+Recent Sales:
+  Apr 12, 2026 - $500.00 (eBay, PSA 10)
+  Apr 30, 2026 - $49.97 (eBay, PSA 10)
+  Apr 15, 2026 - $575.00 (eBay, PSA 10)
+  Apr 28, 2026 - $48.00 (eBay, PSA 10)
+  Apr 19, 2026 - $42.50 (eBay, PSA 10)
+  Mar 8, 2026 - $99.99 (eBay, PSA 10)
+  Apr 2, 2026 - $120.00 (eBay, PSA 10)
+  Apr 24, 2026 - $129.99 (eBay, PSA 10)
+  Mar 6, 2026 - $99.00 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $223.66
+Average Price: $223.66
+Range: $20.00 - $1250.00
+Recent Sales:
+   - $34.83 (Pristine, PSA 10)
+   - $719.00 (eBay, PSA 10)
+   - $159.50 (eBay, PSA 10)
+   - $76.00 (eBay, PSA 10)
+   - $492.00 (PWCC, PSA 10)
+   - $425.00 (eBay, PSA 10)
+   - $500.00 (eBay, PSA 10)
+   - $520.00 (eBay, PSA 10)
+   - $107.50 (eBay, PSA 10)
+   - $49.00 (eBay, PSA 10)
+   - $99.99 (eBay, PSA 10)
+   - $34.99 (eBay, PSA 10)
+   - $120.00 (eBay, PSA 10)
+   - $1250.00 (eBay, PSA 10)
+   - $20.00 (eBay, PSA 10)
+   - $99.99 (eBay, PSA 10)
+
+--- Aggregate ---
+Average: $202.63
+Low: $34.99
+High: $575.00
+
+--- Population Report ---
+PSA 10 Pop: 1
+Total Graded: 2
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $253.29 (+25%)

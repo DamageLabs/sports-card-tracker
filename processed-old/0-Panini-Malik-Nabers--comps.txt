@@ -1,0 +1,74 @@
+Card: Malik Nabers 0 Panini #
+Condition: RAW
+Generated: 2026-05-08T16:50:28.485Z
+
+--- SportsCardsPro ---
+Market Value: $5.15
+Average Price: $5.15
+
+--- eBay ---
+Market Value: $131.83
+Average Price: $131.83
+Range: $6.99 - $700.00
+Recent Sales:
+  Feb 23, 2026 - $149.90 (eBay)
+  Mar 7, 2026 - $109.00 (eBay)
+  Mar 31, 2026 - $160.00 (eBay)
+  Feb 9, 2026 - $189.99 (eBay)
+  Feb 9, 2026 - $155.00 (eBay, PSA 10)
+  Mar 9, 2026 - $107.50 (eBay)
+  Mar 15, 2026 - $49.99 (eBay, PSA 10)
+  Mar 5, 2026 - $207.50 (eBay, PSA 10)
+  Apr 25, 2026 - $75.00 (eBay, PSA 10)
+  Apr 2, 2026 - $60.00 (eBay)
+  Feb 13, 2026 - $155.00 (eBay)
+  Apr 7, 2026 - $166.80 (eBay, SGC 9.5)
+  Feb 26, 2026 - $325.00 (eBay, PSA 10)
+  Apr 6, 2026 - $199.99 (eBay, PSA 10)
+  Apr 1, 2026 - $25.00 (eBay)
+  Apr 25, 2026 - $48.00 (eBay)
+  Mar 16, 2026 - $700.00 (eBay, PSA 10)
+  Apr 7, 2026 - $275.00 (eBay, PSA 10)
+  Mar 24, 2026 - $60.00 (eBay, PSA 10)
+  May 3, 2026 - $6.99 (eBay)
+
+--- 130Point ---
+Market Value: $25.36
+Average Price: $25.36
+Range: $6.45 - $86.00
+Recent Sales:
+   - $86.00 (Pristine)
+   - $22.02 (Pristine, SGC 9)
+   - $8.18 (Pristine)
+   - $9.83 (Pristine)
+   - $59.67 (Pristine)
+   - $15.97 (Pristine, CGC 10)
+   - $12.29 (Pristine, CGC 9)
+   - $15.16 (Pristine, CGC 9)
+   - $13.51 (Pristine, PSA 8)
+   - $14.44 (Pristine)
+   - $6.45 (Pristine)
+   - $12.29 (Pristine, CGC 8.5)
+   - $11.71 (Pristine)
+   - $7.57 (Pristine)
+   - $10.53 (Pristine)
+   - $49.14 (Pristine)
+   - $18.72 (Pristine)
+   - $44.46 (Pristine, PSA 10)
+   - $54.45 (Pristine, CGC 10)
+   - $28.44 (Pristine, PSA 9)
+   - $57.74 (Pristine)
+   - $60.84 (Pristine)
+   - $14.74 (Pristine)
+   - $65.11 (Pristine)
+   - $50.05 (Pristine, CGC 10)
+   - $19.66 (Pristine)
+   - $35.64 (Pristine, PSA 10)
+   - $20.00 (Pristine, PSA 10)
+   - $12.29 (Pristine)
+   - $24.57 (Pristine)
+
+--- Aggregate ---
+Average: $53.78
+Low: $8.18
+High: $189.99

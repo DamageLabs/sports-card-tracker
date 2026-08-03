@@ -1,0 +1,52 @@
+Card: Shai Gilgeous-Alexander 2018 Panini #89
+Condition: 10: GEM MINT
+Generated: 2026-05-29T13:17:57.593Z
+
+--- SportsCardsPro ---
+Market Value: $9.00
+Average Price: $9.00
+
+--- eBay ---
+Market Value: $386.27
+Average Price: $386.27
+Range: $75.00 - $8399.77
+Recent Sales:
+  Apr 14, 2026 - $510.01 (eBay, PSA 10)
+  Mar 10, 2026 - $460.00 (eBay, PSA 10)
+  Mar 3, 2026 - $499.99 (eBay, PSA 10)
+  Apr 29, 2026 - $75.00 (eBay, PSA 10)
+  May 28, 2026 - $349.99 (eBay, PSA 10)
+  May 20, 2026 - $399.00 (eBay, PSA 10)
+  May 6, 2026 - $325.00 (eBay, PSA 10)
+  Apr 23, 2026 - $385.00 (eBay, PSA 10)
+  Apr 14, 2026 - $1175.00 (eBay, PSA 10)
+  Apr 6, 2026 - $319.99 (eBay, PSA 10)
+  Apr 14, 2026 - $8399.77 (eBay, PSA 10)
+  May 26, 2026 - $315.00 (eBay, PSA 10)
+  Mar 31, 2026 - $255.00 (eBay, PSA 10)
+  May 22, 2026 - $385.00 (eBay, PSA 10)
+  Apr 18, 2026 - $299.99 (eBay, PSA 10)
+
+--- 130Point ---
+Market Value: $413.67
+Average Price: $413.67
+Range: $100.00 - $510.01
+Recent Sales:
+   - $510.01 (eBay, PSA 10)
+   - $425.00 (eBay, PSA 10)
+   - $414.00 (PWCC, PSA 10)
+   - $402.00 (PWCC, PSA 10)
+   - $100.00 (MySlabs, PSA 10)
+
+--- Aggregate ---
+Average: $375.54
+Median: $392.00
+Low: $255.00
+High: $510.01
+
+--- Population Report ---
+PSA 10 Pop: 79
+Total Graded: 112
+Percentile: Top 70.54%
+Rarity Tier: medium
+Pop-Adjusted Average: $398.07 (+6%)

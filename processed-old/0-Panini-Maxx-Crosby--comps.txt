@@ -1,0 +1,48 @@
+Card: Maxx Crosby 0 Panini #
+Condition: RAW
+Generated: 2026-05-18T23:59:10.961Z
+
+--- SportsCardsPro ---
+Market Value: $10.03
+Average Price: $10.03
+
+--- 130Point ---
+Market Value: $39.16
+Average Price: $39.16
+Range: $0.23 - $405.00
+Recent Sales:
+   - $60.95 (Pristine)
+   - $44.23 (Pristine)
+   - $17.20 (Pristine)
+   - $49.14 (Pristine, PSA 9)
+   - $75.85 (Pristine)
+   - $41.77 (Pristine)
+   - $105.92 (Pristine)
+   - $168.30 (Pristine)
+   - $176.90 (Pristine)
+   - $24.00 (Goldin)
+   - $35.00 (eBay)
+   - $405.00 (eBay, PSA 9)
+   - $16.50 (eBay)
+   - $4.99 (eBay)
+   - $1.50 (eBay)
+   - $170.00 (eBay)
+   - $178.50 (eBay, PSA 9)
+   - $1.59 (eBay)
+   - $7.99 (eBay)
+   - $1.62 (eBay)
+   - $2.50 (eBay)
+   - $3.75 (eBay)
+   - $4.50 (eBay)
+   - $5.50 (eBay)
+   - $6.99 (eBay)
+   - $9.95 (eBay)
+   - $6.50 (eBay)
+   - $25.00 (eBay)
+   - $0.23 (eBay)
+   - $145.00 (eBay)
+
+--- Aggregate ---
+Average: $43.05
+Low: $1.59
+High: $176.90

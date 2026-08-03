@@ -1,0 +1,83 @@
+Card: Felnin Celesten 2023 Bowman #156
+Condition: 9: MINT
+Generated: 2026-03-01T03:09:36.590Z
+
+--- SportsCardsPro ---
+Market Value: $318.00
+Average Price: $318.00
+
+--- eBay ---
+Market Value: $82.32
+Average Price: $82.32
+Range: $5.00 - $450.00
+Recent Sales:
+  Feb 13, 2026 - $95.00 (eBay, PSA 10)
+  Feb 10, 2026 - $5.00 (eBay, PSA 8)
+  Jan 12, 2026 - $35.00 (eBay, PSA 10)
+  Jan 6, 2026 - $94.99 (eBay, PSA 10)
+  Feb 21, 2026 - $38.00 (eBay, PSA 10)
+  Feb 8, 2026 - $110.00 (eBay, PSA 10)
+  Jan 4, 2026 - $128.22 (eBay, PSA 10)
+  Feb 20, 2026 - $99.99 (eBay, PSA 10)
+  Feb 16, 2026 - $112.00 (eBay, PSA 10)
+  Feb 20, 2026 - $59.99 (eBay, PSA 10)
+  Dec 19, 2025 - $50.00 (eBay, PSA 9)
+  Feb 11, 2026 - $450.00 (eBay, PSA 10)
+
+--- CardLadder ---
+Market Value: $93.62
+Average Price: $98.38
+Range: $68.50 - $128.00
+Recent Sales:
+  02/22/2026 - $93.62 (Card Ladder)
+  02/18/2026 - $93.29 (Card Ladder)
+  02/16/2026 - $101.00 (Card Ladder)
+  02/08/2026 - $92.00 (Card Ladder)
+  02/07/2026 - $106.29 (Card Ladder)
+  02/04/2026 - $111.50 (Card Ladder)
+  02/02/2026 - $105.00 (Card Ladder)
+  01/29/2026 - $107.50 (Card Ladder)
+  01/27/2026 - $121.00 (Card Ladder)
+  01/18/2026 - $120.00 (Card Ladder)
+  01/13/2026 - $68.50 (Card Ladder)
+  01/03/2026 - $128.00 (Card Ladder)
+  12/12/2025 - $69.99 (Card Ladder)
+  12/01/2025 - $71.94 (Card Ladder)
+  11/13/2025 - $86.00 (Card Ladder)
+
+--- MarketMovers ---
+Average Price: $29.00
+Range: $29.00 - $29.00
+Recent Sales:
+  2024-02-19 - $29.00 (mangelncsu)
+
+--- 130Point ---
+Market Value: $34.83
+Average Price: $34.83
+Range: $20.50 - $43.00
+Recent Sales:
+   - $43.00 (eBay, PSA 9)
+   - $20.50 (eBay, PSA 9)
+   - $41.00 (eBay, PSA 9)
+
+--- PSA ---
+Market Value: $44.75
+Average Price: $44.75
+Range: $26.99 - $66.00
+Recent Sales:
+  Jun 18, 2025 - $49.99 (eBay, 10)
+  Aug 13, 2024 - $36.00 (eBay, 10)
+  May 2, 2024 - $26.99 (eBay, 9)
+  Jan 29, 2024 - $66.00 (eBay, 10)
+
+--- Aggregate ---
+Average: $83.91
+Low: $35.00
+High: $121.00
+
+--- Population Report ---
+PSA 9 Pop: 2
+Total Graded: 4
+Percentile: Top 50%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $102.37 (+22%)

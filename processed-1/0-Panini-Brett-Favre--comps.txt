@@ -1,0 +1,75 @@
+Card: Brett Favre 0 Panini #
+Condition: RAW
+Generated: 2026-05-27T22:49:37.691Z
+
+--- SportsCardsPro ---
+Market Value: $11.37
+Average Price: $11.37
+
+--- eBay ---
+Market Value: $144.14
+Average Price: $144.14
+Range: $85.00 - $250.00
+Recent Sales:
+  May 7, 2026 - $145.00 (eBay)
+  Apr 14, 2026 - $119.99 (eBay)
+  Mar 26, 2026 - $145.00 (eBay)
+  May 24, 2026 - $125.00 (eBay)
+  May 26, 2026 - $105.00 (eBay)
+  May 15, 2026 - $150.00 (eBay)
+  May 11, 2026 - $85.00 (eBay)
+  May 10, 2026 - $124.99 (eBay)
+  May 8, 2026 - $225.00 (eBay)
+  Apr 26, 2026 - $199.00 (eBay)
+  May 9, 2026 - $159.99 (eBay)
+  May 11, 2026 - $199.99 (eBay)
+  May 4, 2026 - $180.00 (eBay, PSA 9)
+  Mar 20, 2026 - $125.00 (eBay)
+  May 13, 2026 - $109.00 (eBay)
+  May 21, 2026 - $195.00 (eBay)
+  May 20, 2026 - $99.99 (eBay)
+  Apr 11, 2026 - $100.00 (eBay)
+  Apr 29, 2026 - $250.00 (eBay)
+  May 7, 2026 - $135.00 (eBay)
+
+--- 130Point ---
+Market Value: $71.60
+Average Price: $71.60
+Range: $1.00 - $632.97
+Recent Sales:
+   - $98.28 (Pristine)
+   - $86.58 (Pristine)
+   - $99.51 (Pristine, PSA 10)
+   - $112.38 (Pristine)
+   - $288.70 (Pristine, PSA 10)
+   - $22.11 (Pristine)
+   - $260.25 (Pristine)
+   - $194.10 (Pristine)
+   - $106.47 (Pristine)
+   - $124.61 (Pristine)
+   - $24.57 (Pristine, SGC 9.5)
+   - $632.97 (Pristine)
+   - $49.14 (Pristine)
+   - $23.34 (Pristine)
+   - $61.16 (Pristine)
+   - $106.03 (Pristine)
+   - $25.00 (eBay)
+   - $5.00 (eBay)
+   - $21.53 (eBay)
+   - $1.99 (eBay)
+   - $150.00 (eBay)
+   - $1.00 (eBay)
+   - $12.99 (eBay)
+   - $142.50 (eBay)
+   - $30.00 (eBay)
+   - $130.22 (Pristine)
+   - $2.75 (eBay)
+   - $5.59 (eBay)
+
+--- Aggregate ---
+Average: $109.40
+Median: $110.69
+Low: $5.59
+High: $225.00
+Projected PSA 10 Median: $199.48
+Projected PSA 9 Median: $180.00

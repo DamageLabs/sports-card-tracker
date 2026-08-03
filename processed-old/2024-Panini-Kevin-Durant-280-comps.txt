@@ -1,0 +1,73 @@
+Card: Kevin Durant 2024 Panini #280
+Condition: RAW
+Generated: 2026-05-07T19:19:17.218Z
+
+--- SportsCardsPro ---
+Market Value: $65.55
+Average Price: $65.55
+
+--- eBay ---
+Market Value: $20.26
+Average Price: $20.26
+Range: $0.99 - $125.00
+Recent Sales:
+  May 6, 2026 - $125.00 (eBay, PSA 10)
+  May 6, 2026 - $16.27 (eBay)
+  May 4, 2026 - $2.49 (eBay)
+  May 4, 2026 - $90.00 (eBay, PSA 10)
+  May 3, 2026 - $27.50 (eBay)
+  May 1, 2026 - $0.99 (eBay)
+  Apr 3, 2026 - $1.49 (eBay)
+  May 1, 2026 - $1.00 (eBay)
+  Apr 29, 2026 - $21.50 (eBay)
+  Apr 26, 2026 - $1.60 (eBay)
+  Apr 25, 2026 - $1.04 (eBay)
+  Apr 25, 2026 - $49.99 (eBay)
+  Apr 25, 2026 - $8.50 (eBay)
+  Apr 23, 2026 - $80.00 (eBay)
+  Apr 23, 2026 - $31.00 (eBay)
+  Apr 21, 2026 - $1.75 (eBay)
+  Apr 19, 2026 - $79.99 (eBay)
+  Apr 19, 2026 - $29.00 (eBay)
+  Apr 16, 2026 - $5.99 (eBay)
+  Apr 16, 2026 - $6.50 (eBay)
+
+--- 130Point ---
+Market Value: $9.42
+Average Price: $9.42
+Range: $0.50 - $50.00
+Recent Sales:
+   - $7.25 (eBay)
+   - $2.75 (eBay)
+   - $0.99 (eBay)
+   - $23.00 (eBay)
+   - $0.99 (eBay)
+   - $18.50 (eBay)
+   - $40.00 (eBay)
+   - $50.00 (eBay)
+   - $25.00 (eBay)
+   - $1.11 (eBay)
+   - $0.50 (eBay)
+   - $1.70 (eBay)
+   - $1.00 (eBay)
+   - $1.74 (eBay)
+   - $0.99 (eBay)
+   - $1.49 (eBay)
+   - $25.00 (eBay)
+   - $3.25 (eBay)
+   - $5.00 (eBay)
+   - $25.00 (eBay)
+   - $30.00 (eBay)
+   - $5.50 (eBay)
+   - $5.75 (eBay)
+   - $12.50 (eBay)
+   - $5.42 (Pristine)
+   - $21.34 (Pristine)
+   - $3.51 (Pristine)
+   - $9.83 (Pristine)
+   - $17.20 (Pristine)
+
+--- Aggregate ---
+Average: $14.00
+Low: $0.99
+High: $50.00

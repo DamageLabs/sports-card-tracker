@@ -1,0 +1,80 @@
+Card: Walker Jenkins 2024 Bowman #BCP-43
+Condition: 10: GEM MINT
+Generated: 2026-03-01T03:09:34.961Z
+
+--- SportsCardsPro ---
+Market Value: $11.79
+Average Price: $11.79
+
+--- eBay ---
+Market Value: $31.03
+Average Price: $31.03
+Range: $1.25 - $310.05
+Recent Sales:
+  Feb 28, 2026 - $36.00 (eBay)
+  Feb 21, 2026 - $39.50 (eBay, PSA 10)
+  Feb 12, 2026 - $40.00 (eBay, PSA 10)
+  Feb 28, 2026 - $1.99 (eBay)
+  Feb 19, 2026 - $44.99 (eBay, PSA 10)
+  Feb 27, 2026 - $1.99 (eBay)
+  Feb 21, 2026 - $30.00 (eBay)
+  Feb 18, 2026 - $34.95 (eBay, PSA 10)
+  Feb 25, 2026 - $29.99 (eBay)
+  Feb 23, 2026 - $1.25 (eBay)
+  Jan 24, 2026 - $35.00 (eBay, PSA 10)
+  Dec 30, 2025 - $22.00 (eBay, PSA 10)
+  Jan 4, 2026 - $40.00 (eBay, PSA 10)
+  Feb 11, 2026 - $310.05 (eBay)
+  Feb 21, 2026 - $1.25 (eBay)
+  Feb 14, 2026 - $35.00 (eBay, PSA 10)
+  Dec 27, 2025 - $25.00 (eBay, PSA 10)
+  Jan 20, 2026 - $30.00 (eBay, PSA 10)
+  Feb 28, 2026 - $45.00 (eBay, PSA 10)
+  Jan 24, 2026 - $34.99 (eBay, PSA 10)
+
+--- CardLadder ---
+Error: No Card Ladder results found for: 2024 Bowman Chrome Prospects Walker Jenkins BCP-43
+
+--- MarketMovers ---
+Average Price: $15.45
+Range: $9.03 - $23.00
+Recent Sales:
+  2025-09-27 - $17.60 (stadiumcardscomics)
+  2025-09-27 - $17.60 (stadiumcardscomics)
+  2025-09-15 - $23.00 (mrfcollectibles5389)
+  2025-07-08 - $15.00 (jushig_40)
+  2024-12-29 - $10.49 (comc_consignment)
+  2024-12-24 - $9.03 (comc_consignment)
+
+--- 130Point ---
+Market Value: $41.47
+Average Price: $41.47
+Range: $0.99 - $655.50
+Recent Sales:
+   - $2.99 (eBay)
+   - $7.11 (eBay)
+   - $187.00 (eBay)
+   - $531.00 (eBay, PSA 10)
+   - $379.99 (eBay, PSA 10)
+   - $2.25 (eBay)
+   - $1.59 (eBay)
+   - $2.25 (eBay)
+   - $655.50 (eBay, PSA 10)
+   - $13.50 (eBay)
+   - $0.99 (eBay)
+   - $1.25 (eBay)
+   - $29.99 (eBay)
+   - $1.80 (eBay)
+   - $39.99 (eBay)
+   - $12.50 (eBay)
+   - $5.00 (eBay)
+   - $331.00 (eBay, PSA 10)
+   - $1.25 (eBay)
+   - $14.00 (eBay)
+   - $7.50 (eBay)
+   - $5.00 (eBay)
+
+--- Aggregate ---
+Average: $34.02
+Low: $1.25
+High: $310.05

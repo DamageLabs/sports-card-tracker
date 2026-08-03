@@ -1,0 +1,47 @@
+Card: Ahmad Gardner 2022 Panini #ISP-ASG
+Condition: 9: MINT
+Generated: 2026-05-19T23:02:40.346Z
+
+--- SportsCardsPro ---
+
+--- eBay ---
+Market Value: $29.00
+Average Price: $29.00
+Range: $20.00 - $38.00
+Recent Sales:
+  Apr 28, 2026 - $20.00 (eBay, PSA 8)
+  Apr 4, 2026 - $38.00 (eBay, PSA 8)
+
+--- 130Point ---
+Market Value: $35.16
+Average Price: $35.16
+Range: $5.00 - $212.50
+Recent Sales:
+   - $70.00 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $212.50 (eBay, PSA 9)
+   - $15.95 (eBay, PSA 9)
+   - $9.00 (eBay, PSA 9)
+   - $22.95 (eBay, PSA 9)
+   - $27.99 (eBay, PSA 9)
+   - $55.28 (Pristine, PSA 9)
+   - $5.00 (eBay, PSA 9)
+   - $30.00 (eBay, PSA 9)
+   - $12.00 (eBay, PSA 9)
+   - $79.99 (eBay, PSA 9)
+   - $44.23 (Pristine, PSA 9)
+   - $59.00 (eBay, PSA 9)
+   - $21.50 (eBay, PSA 9)
+   - $33.00 (eBay, PSA 9)
+
+--- Aggregate ---
+Average: $34.02
+Low: $9.00
+High: $79.99
+
+--- Population Report ---
+PSA 9 Pop: 3
+Total Graded: 5
+Percentile: Top 60%
+Rarity Tier: ultra-low
+Pop-Adjusted Average: $40.89 (+20%)

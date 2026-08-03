@@ -1,0 +1,50 @@
+Card: Magikarp & Wailord 2019 Pokemon #161/181
+Condition: 9.5: MINT+
+Generated: 2026-06-02T20:04:09.176Z
+
+--- SportsCardsPro ---
+Market Value: $1240.03
+Average Price: $1240.03
+
+--- eBay ---
+Market Value: $3666.67
+Average Price: $3666.67
+Range: $2000.00 - $5500.00
+Recent Sales:
+  May 26, 2026 - $5500.00 (eBay, BGS 10)
+  May 3, 2026 - $2000.00 (eBay, BGS 9.5)
+  Apr 19, 2026 - $3500.00 (eBay, BGS 10)
+
+--- 130Point ---
+Market Value: $1617.47
+Average Price: $1617.47
+Range: $81.01 - $4300.00
+Recent Sales:
+   - $1250.00 (eBay, PSA 9)
+   - $780.00 (PWCC, CGC 9)
+   - $83.99 (eBay, PSA 9)
+   - $390.00 (eBay, PSA 10)
+   - $2500.00 (eBay, PSA 10)
+   - $3080.00 (eBay, PSA 10)
+   - $4300.00 (eBay, PSA 10)
+   - $2450.00 (eBay, PSA 10)
+   - $81.01 (eBay, PSA 8)
+   - $395.00 (eBay, PSA 10)
+   - $1025.00 (eBay, PSA 9)
+   - $3000.00 (eBay, PSA 10)
+   - $600.00 (eBay)
+   - $2516.54 (eBay, PSA 10)
+   - $395.00 (eBay, PSA 10)
+   - $3249.00 (eBay, PSA 10)
+   - $3075.00 (eBay, PSA 10)
+   - $435.00 (eBay, PSA 10)
+   - $3300.00 (eBay, PSA 10)
+   - $3150.00 (eBay, PSA 10)
+   - $418.00 (eBay, PSA 10)
+   - $810.00 (eBay)
+
+--- Aggregate ---
+Average: $1887.23
+Median: $2000.00
+Low: $390.00
+High: $4300.00
