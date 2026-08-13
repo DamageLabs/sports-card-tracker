@@ -194,7 +194,7 @@ describe('EbayExportService', () => {
       await createInventoryCard({ player: 'Path Test', cardNumber: '90' });
       await service.generateCsv(defaultOptions);
 
-      const expectedPath = path.join(tempDir, 'ebay-draft-upload-batch.csv');
+      const expectedPath = path.join(tempDir, 'exports', 'ebay-draft-upload-batch.csv');
       expect(service.getOutputPath()).toBe(expectedPath);
       expect(fs.existsSync(expectedPath)).toBe(true);
     });

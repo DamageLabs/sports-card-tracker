@@ -69,6 +69,7 @@ CREATE TABLE IF NOT EXISTS cards (
   purchaseDate text NOT NULL,
   sellPrice real,
   sellDate text,
+  ebayExportedAt text,
   currentValue real NOT NULL,
   images text DEFAULT '[]' NOT NULL,
   notes text DEFAULT '' NOT NULL,
@@ -532,6 +533,7 @@ class Database {
       isGraded: !!(row.isGraded),
       sellPrice: row.sellPrice ?? undefined,
       sellDate: row.sellDate ?? undefined,
+      ebayExportedAt: row.ebayExportedAt ?? undefined,
       storageLocation: (row.storageLocation as StorageLocation | null) ?? null,
       enhancedAttributes: (row.enhancedAttributes as Record<string, unknown> | null) ?? null,
       images: row.images ?? [],
@@ -542,6 +544,15 @@ class Database {
   public async deleteCard(id: string): Promise<boolean> {
     const result = this.db.delete(cards).where(eq(cards.id, id)).run();
     return result.changes > 0;
+  }
+
+  public async markCardsEbayExported(cardIds: string[], exportedAt: string): Promise<number> {
+    if (cardIds.length === 0) return 0;
+    const result = this.db.update(cards).set({
+      ebayExportedAt: exportedAt,
+      updatedAt: exportedAt,
+    }).where(inArray(cards.id, cardIds)).run();
+    return result.changes;
   }
 
   // ─── Storage ──────────────────────────────────────────────────────────────────
@@ -1379,6 +1390,13 @@ class Database {
 
       // Auto-create value snapshot from comp report
       this.createValueSnapshot(cardId, bestValue, 'comp', report.generatedAt);
+
+      // Promote freshly ingested cards once they have a real price;
+      // PC/Inventory tags set explicitly by the user are left untouched
+      this.db.update(cards).set({
+        collectionType: 'Inventory',
+        updatedAt,
+      }).where(and(eq(cards.id, cardId), eq(cards.collectionType, 'Pending'))).run();
     }
 
     return {
@@ -1841,12 +1859,9 @@ class Database {
   }
 
   public async getExportedCardIds(): Promise<string[]> {
-    const rows = this.sqlite.prepare(`
-      SELECT DISTINCT json_extract(value, '$.cardId') AS cardId
-      FROM ebay_export_drafts, json_each(ebay_export_drafts.cardSummary)
-      WHERE json_extract(value, '$.cardId') IS NOT NULL
-    `).all() as { cardId: string }[];
-    return rows.map(r => r.cardId);
+    const rows = this.db.select({ id: cards.id }).from(cards)
+      .where(sql`${cards.ebayExportedAt} IS NOT NULL`).all();
+    return rows.map(r => r.id);
   }
 
   // ─── Card Image Uploads ────────────────────────────────────────────────────

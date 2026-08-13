@@ -122,12 +122,15 @@ class EbayExportService {
     // Write timestamped draft file
     const timestamp = generatedAt.replace(/[:.]/g, '-').replace('T', '_').replace('Z', '');
     const draftFilename = `ebay-draft-upload-${timestamp}.csv`;
-    const draftPath = path.join(this.fileService.getDataDir(), draftFilename);
+    const draftPath = path.join(this.fileService.getExportsDir(), draftFilename);
     fs.writeFileSync(draftPath, csvContent, 'utf-8');
 
     // Also write to the standard output path for backward compatibility
     const outputPath = this.getOutputPath();
     fs.writeFileSync(outputPath, csvContent, 'utf-8');
+
+    // Stamp exported cards so "not yet exported" stays queryable
+    await this.db.markCardsEbayExported(inventoryCards.map(c => c.id), generatedAt);
 
     // Save draft record to database
     const draftId = uuidv4();
@@ -162,11 +165,11 @@ class EbayExportService {
   }
 
   getOutputPath(): string {
-    return path.join(this.fileService.getDataDir(), OUTPUT_FILENAME);
+    return path.join(this.fileService.getExportsDir(), OUTPUT_FILENAME);
   }
 
   getDraftPath(filename: string): string {
-    return path.join(this.fileService.getDataDir(), filename);
+    return path.join(this.fileService.getExportsDir(), filename);
   }
 
   templateExists(): boolean {

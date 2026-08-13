@@ -99,6 +99,7 @@ export interface FilterOptions {
   maxValue?: number;
   collectionType?: string;
   soldStatus?: 'sold' | 'unsold';
+  ebayStatus?: 'exported' | 'not-exported';
 }
 
 export interface SortOption {

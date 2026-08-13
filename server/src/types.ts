@@ -40,6 +40,7 @@ export interface Card {
   purchaseDate: string;
   sellPrice?: number;
   sellDate?: string;
+  ebayExportedAt?: string;
   currentValue: number;
   storageLocation?: StorageLocation | null;
   enhancedAttributes?: Record<string, unknown> | null;

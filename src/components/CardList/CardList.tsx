@@ -136,9 +136,12 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       const matchesSoldStatus = !filters.soldStatus ||
         (filters.soldStatus === 'sold' ? !!card.sellDate : !card.sellDate);
 
+      const matchesEbayStatus = !filters.ebayStatus ||
+        (filters.ebayStatus === 'exported' ? exportedIds.has(card.id) : !exportedIds.has(card.id));
+
       return matchesCollectionType && matchesSearch && matchesPlayer && matchesTeam && matchesYear &&
              matchesBrand && matchesCategory && matchesCondition && matchesMinValue && matchesMaxValue &&
-             matchesSoldStatus;
+             matchesSoldStatus && matchesEbayStatus;
     });
 
     filtered.sort((a, b) => {
@@ -154,7 +157,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
     });
 
     return filtered;
-  }, [state.cards, filters, sortOption, searchTerm, selectedCollectionId]);
+  }, [state.cards, filters, sortOption, searchTerm, selectedCollectionId, exportedIds]);
 
   const handleDeleteCard = useCallback(async (cardId: string) => {
     if (window.confirm('Are you sure you want to delete this card?')) {
@@ -212,6 +215,11 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       link.click();
       document.body.removeChild(link);
       URL.revokeObjectURL(url);
+
+      // Refresh exported set so badges and the eBay-status filter update immediately
+      apiService.getExportedCardIds()
+        .then(ids => setExportedIds(new Set(ids)))
+        .catch(() => { /* non-critical */ });
     } catch (err) {
       alert(`Export failed: ${err instanceof Error ? err.message : 'Unknown error'}`);
     } finally {
@@ -458,6 +466,16 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
             <option value="">Sold & Unsold</option>
             <option value="unsold">Unsold</option>
             <option value="sold">Sold</option>
+          </select>
+
+          <select
+            value={filters.ebayStatus || ''}
+            onChange={(e) => setFilters({...filters, ebayStatus: (e.target.value || undefined) as 'exported' | 'not-exported' | undefined})}
+            className="filter-select"
+          >
+            <option value="">Any eBay Status</option>
+            <option value="not-exported">Not Yet Exported</option>
+            <option value="exported">Exported</option>
           </select>
 
           <button onClick={clearFilters} className="clear-filters-btn">
