@@ -390,6 +390,10 @@ class ApiService {
     return this.request<string[]>('/ebay/exported-card-ids');
   }
 
+  public async getProcessedRawFiles(): Promise<string[]> {
+    return this.request<string[]>('/image-processing/processed-raw-files');
+  }
+
   public async getEbayExportDrafts(limit?: number, offset?: number): Promise<{
     drafts: EbayExportDraftSummary[];
     total: number;

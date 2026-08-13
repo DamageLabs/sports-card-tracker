@@ -29,6 +29,26 @@ export function createImageProcessingRoutes(
 ): Router {
   const router = Router();
 
+  // GET /api/image-processing/processed-raw-files — raw filenames that have
+  // already been confirmed/batch-processed and whose processed copy still
+  // exists. Used by the Holding Pen to badge already-processed scans.
+  router.get('/processed-raw-files', (_req: AuthenticatedRequest, res: Response) => {
+    try {
+      const entries = db.getProcessedRawFiles();
+      const processedDir = fileService.getProcessedDir();
+      const names = new Set<string>();
+      for (const entry of entries) {
+        if (fileService.fileExists(processedDir, entry.destination)) {
+          names.add(entry.raw);
+        }
+      }
+      res.json([...names]);
+    } catch (error) {
+      console.error('Error getting processed raw files:', error);
+      res.status(500).json({ error: 'Failed to get processed raw files' });
+    }
+  });
+
   // POST /api/image-processing/process -- async via job queue
   router.post('/process', async (req: AuthenticatedRequest, res: Response) => {
     try {

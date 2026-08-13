@@ -33,6 +33,36 @@ describe('Image Processing Routes', () => {
     };
   }
 
+  // ─── GET /api/image-processing/processed-raw-files ───────────────────────
+
+  describe('GET /api/image-processing/processed-raw-files', () => {
+    it('returns raw filenames whose processed destination exists', async () => {
+      fs.writeFileSync(
+        path.join(ctx.fileService.getProcessedDir(), '2023-Topps-Mike-Trout-1-front.jpg'), 'data'
+      );
+      await ctx.db.insertAuditLog({
+        action: 'image.auto_crop', entity: 'file', entityId: 'scan-front.jpg',
+        details: { success: true, cropped: true, destination: '2023-Topps-Mike-Trout-1-front.jpg' },
+      });
+      // Destination deleted from processed/ — should not be reported
+      await ctx.db.insertAuditLog({
+        action: 'image.auto_crop', entity: 'file', entityId: 'gone-front.jpg',
+        details: { success: true, cropped: true, destination: 'deleted-card-front.jpg' },
+      });
+
+      const res = await request(ctx.app).get('/api/image-processing/processed-raw-files');
+      expect(res.status).toBe(200);
+      expect(res.body).toContain('scan-front.jpg');
+      expect(res.body).not.toContain('gone-front.jpg');
+    });
+
+    it('returns empty list with no audit history', async () => {
+      const res = await request(ctx.app).get('/api/image-processing/processed-raw-files');
+      expect(res.status).toBe(200);
+      expect(res.body).toEqual([]);
+    });
+  });
+
   // ─── POST /api/image-processing/process ──────────────────────────────────
 
   describe('POST /api/image-processing/process', () => {

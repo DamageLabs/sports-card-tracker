@@ -285,6 +285,21 @@
   margin-bottom: 4px;
 }
 
+.holding-pen-processed-pill {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 8px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: #166534;
+  background: #dcfce7;
+  border: 1px solid #86efac;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+
 .holding-pen-card-meta {
   display: flex;
   gap: 8px;
