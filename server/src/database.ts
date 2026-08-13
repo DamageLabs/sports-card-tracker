@@ -1858,6 +1858,21 @@ class Database {
     return result.changes > 0;
   }
 
+  /**
+   * Raw filenames that have been copied into processed/ at least once,
+   * with the processed destination recorded at the time. Sourced from
+   * image.auto_crop audit rows, which both the confirm and batch paths write.
+   */
+  public getProcessedRawFiles(): { raw: string; destination: string }[] {
+    return this.sqlite.prepare(`
+      SELECT DISTINCT entityId AS raw, json_extract(details, '$.destination') AS destination
+      FROM audit_logs
+      WHERE action = 'image.auto_crop'
+        AND entityId IS NOT NULL
+        AND json_extract(details, '$.destination') IS NOT NULL
+    `).all() as { raw: string; destination: string }[];
+  }
+
   public async getExportedCardIds(): Promise<string[]> {
     const rows = this.db.select({ id: cards.id }).from(cards)
       .where(sql`${cards.ebayExportedAt} IS NOT NULL`).all();
