@@ -103,6 +103,7 @@ const HoldingPen: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set());
   const [processing, setProcessing] = useState<Set<string>>(new Set());
+  const [processedRaw, setProcessedRaw] = useState<Set<string>>(new Set());
   const [lightbox, setLightbox] = useState<CardPair | null>(null);
   const [cropTarget, setCropTarget] = useState<{ filename: string; url: string } | null>(null);
   const [reviewTarget, setReviewTarget] = useState<{
@@ -125,6 +126,9 @@ const HoldingPen: React.FC = () => {
       const rawFiles = await apiService.getRawFiles();
       setFiles(rawFiles);
       setPairs(groupIntoPairs(rawFiles));
+      apiService.getProcessedRawFiles()
+        .then(names => setProcessedRaw(new Set(names)))
+        .catch(() => { /* non-critical — pills just won't show */ });
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Failed to load files');
     } finally {
@@ -496,7 +500,14 @@ const HoldingPen: React.FC = () => {
               </div>
 
               <div className="holding-pen-card-info">
-                <div className="holding-pen-card-label" title={pair.label}>{pair.label}</div>
+                <div className="holding-pen-card-label" title={pair.label}>
+                  {pair.label}
+                  {[pair.front, pair.back].some(f => f && processedRaw.has(f.name)) && (
+                    <span className="holding-pen-processed-pill" title="This scan has already been confirmed into Processed">
+                      Processed
+                    </span>
+                  )}
+                </div>
                 <div className="holding-pen-card-meta">
                   {[pair.front, pair.back].filter(Boolean).map(f => (
                     <span key={f!.name} className="holding-pen-file-size">{formatFileSize(f!.size)}</span>
