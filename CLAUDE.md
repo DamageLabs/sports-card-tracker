@@ -9,7 +9,7 @@ A React/TypeScript sports card collection management application that runs local
 - Raw card photos are uploaded via drag-and-drop/click or placed in the `raw/` folder
 - The **Holding Pen** UI shows all raw images and auto-detects front/back pairs (via `-front`/`-back` filename suffixes)
 - Two-step identify/confirm workflow:
-  1. **Identify**: Anthropic Claude Vision API (`claude-sonnet-4-20250514`) analyzes the image and extracts card data (player, year, brand, set, card number, team, category, parallel, serial number, grading info, feature flags) with a confidence score. This step does NOT save or copy files.
+  1. **Identify**: Anthropic Claude Vision API (`claude-sonnet-5`) analyzes the image and extracts card data (player, year, brand, set, card number, team, category, parallel, serial number, grading info, feature flags) with a confidence score. This step does NOT save or copy files.
   2. **Review & Confirm**: User reviews extracted data in the **Card Review Form**, corrects any errors, and confirms. Only then is the image copied to `processed/` and a card record created with `collectionType: 'Pending'` and `currentValue: 0`.
 - Front/back photo pairs are identified together for better accuracy and stored as `{card}-front.ext` / `{card}-back.ext`
 - Successfully confirmed images are **copied** to `processed/` and **renamed** based on content
@@ -17,10 +17,10 @@ A React/TypeScript sports card collection management application that runs local
 - Batch processing is also supported via async job queue (skips the review step, uses confidence threshold). Progress is broadcast to the frontend via SSE.
 - Processing failures are logged to database audit logs (not text files)
 - Confidence scoring: field-weighted score (0-100), levels: high (80%+), medium (60-80%), low (<60%)
-- **Comps are NOT generated during ingestion** — they must be triggered separately from the Processed Gallery
+- **Comps are queued automatically after confirm** (single card) and after batch processing (one job for all created cards); they can also be re-run from the Processed Gallery
 
 ### 2. Comp Generation
-- Comps are generated **on-demand**, not automatically during ingestion. Users trigger comp generation from the **Processed Gallery** (single card or bulk via job queue).
+- Comps are generated **automatically** after a card is confirmed (or after a batch completes), and can be re-run on demand from the **Processed Gallery** (single card or bulk via job queue).
 - Comp sources (6 adapters, run in parallel, ordered by reliability weight):
   - **eBay Sold Listings** (1.0) - recent completed sales
   - **PSA** (0.95) - PSA cert verification and sales data (skipped for non-PSA graded cards)
@@ -28,13 +28,13 @@ A React/TypeScript sports card collection management application that runs local
   - **Market Movers** (0.85) - marketmoversapp.com, millions of daily-updated sales records across major marketplaces. By Sports Card Investor.
   - **Card Ladder** (0.8) - cardladder.com, 100M+ historical sales from eBay, Goldin, Heritage, Fanatics, etc.
   - **SportsCardsPro** (0.6) - market values and price data
-- Comp data is stored in the **database** and also written as text files in `processed/` (e.g., `2023-Topps-Chrome-Mike-Trout-1-comps.txt`)
-- Each comp file includes: card details, market values, recent sale prices, Card Ladder historical data, Market Movers pricing, average price across all sources, price range, date generated
+- Comp data is stored in the **database** only (viewable via the Comp Report modal in the Processed Gallery)
+- When a report produces a price, the card's `currentValue` is updated (pop-adjusted average preferred) and a `Pending` card is auto-promoted to `Inventory`; user-set PC/Inventory tags are never changed
 - Bulk comp generation runs as an async job (`comp-generation` type) with SSE progress updates
 
 ### 3. eBay CSV Generation
-- Generates `ebay-draft-upload-batch.csv` for eBay bulk upload
-- Uses card data from `processed/` directory and comp data from comp text files
+- Generates timestamped CSVs in `exports/` (gitignored) for eBay bulk upload, plus `exports/ebay-draft-upload-batch.csv` for backward compatibility
+- Prices come from the latest comp report in the database (pop-adjusted average → aggregate average → `currentValue` fallback when the report is stale)
 - Uses `eBay-draft-listing-template.csv` as the reference template for column structure and formatting
 - Each row includes: title, description, category, price (from comps), condition, photos, shipping, return policy, item specifics
 
@@ -108,12 +108,11 @@ A React/TypeScript sports card collection management application that runs local
 ```
 project-root/
 ├── raw/                              # Raw uploaded card photos (input)
-├── processed/                        # Renamed card images + comp text files (output)
+├── processed/                        # Renamed card images (output)
 │   ├── 2023-Topps-Chrome-Mike-Trout-1.jpg
-│   ├── 2023-Topps-Chrome-Mike-Trout-1-comps.txt
 │   └── ...
+├── exports/                          # Generated eBay upload CSVs (output, gitignored)
 ├── eBay-draft-listing-template.csv   # eBay upload template (reference)
-├── ebay-draft-upload-batch.csv       # Generated eBay upload file (output)
 ├── server/                           # Express.js backend
 │   ├── src/
 │   │   ├── index.ts                  # Server bootstrap and route registration
@@ -235,7 +234,7 @@ cd server && npx tsc --noEmit  # Type-check server
 ### Common Issues
 1. **Data not persisting**: Check IndexedDB in browser DevTools
 2. **Image processing failures**: Check database audit logs (Admin UI pending, query via API)
-3. **Missing comps**: Comps are on-demand — trigger from Processed Gallery
+3. **Missing comps / card stuck in Pending**: Comps run automatically on confirm; if no price resulted (sources failed), re-run from Processed Gallery
 4. **CSV export issues**: Verify `eBay-draft-listing-template.csv` exists and is formatted correctly
 5. **Performance**: Large batches (100+ cards) may take time for comp generation
 
