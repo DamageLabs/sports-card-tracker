@@ -14,7 +14,7 @@ class FileService {
   }
 
   ensureDirectories(): void {
-    for (const dir of [this.rawDir, this.processedDir]) {
+    for (const dir of [this.rawDir, this.processedDir, this.getExportsDir()]) {
       if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true });
       }
@@ -118,6 +118,14 @@ class FileService {
 
   getDataDir(): string {
     return this.dataDir;
+  }
+
+  getExportsDir(): string {
+    const exportsDir = path.join(this.dataDir, 'exports');
+    if (!fs.existsSync(exportsDir)) {
+      fs.mkdirSync(exportsDir, { recursive: true });
+    }
+    return exportsDir;
   }
 
   private getSafePath(dir: string): string {

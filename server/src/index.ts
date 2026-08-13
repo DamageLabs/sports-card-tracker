@@ -170,6 +170,19 @@ jobService.registerHandler('image-processing', async (job, updateProgress) => {
     },
     updateProgress
   );
+
+  // Auto-queue comp generation for all cards created by this batch
+  const createdCardIds = result.results
+    .filter((r) => r.status === 'processed' && r.cardId)
+    .map((r) => r.cardId as string);
+  if (createdCardIds.length > 0) {
+    try {
+      await db.createJob({ type: 'comp-generation', payload: { cardIds: createdCardIds } });
+    } catch (jobError) {
+      console.error('Failed to enqueue comp generation for batch', jobError);
+    }
+  }
+
   return result as unknown as Record<string, unknown>;
 });
 
