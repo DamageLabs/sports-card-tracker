@@ -178,6 +178,15 @@ export function createImageProcessingRoutes(
 
       const result = await imageProcessingService.confirmCard(filename, cardData, backFile);
 
+      // Auto-queue comp generation so confirmed cards get priced without a manual step
+      if (result.status === 'processed' && result.cardId) {
+        try {
+          await db.createJob({ type: 'comp-generation', payload: { cardIds: [result.cardId] } });
+        } catch (jobError) {
+          console.error('Failed to enqueue comp generation for card', result.cardId, jobError);
+        }
+      }
+
       // Event #11 — enriched image.confirm
       auditService.log(req, {
         action: 'image.confirm',

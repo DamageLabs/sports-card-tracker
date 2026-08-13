@@ -499,20 +499,47 @@ class ImageProcessingService {
     // identity key because real-world products reuse player/year/brand/#
     // across distinct parallels (eg. Topps Cosmic Chrome Planetary Pursuit
     // Earth vs Jupiter, both #XW).
-    const norm = (s: string | null | undefined): string => (s ?? '').trim().toLowerCase();
+    //
+    // The vision model phrases names inconsistently between scans (eg.
+    // "Dialga V" vs "Origin Forme Dialga V", "SWSH Astral Radiance" vs
+    // "Astral Radiance"), so player and setName use punctuation-stripped
+    // containment matching rather than exact equality. Parallel stays
+    // exact because containment there would merge genuinely distinct
+    // cards (eg. "Gold" vs "Gold Refractor").
+    const norm = (s: string | null | undefined): string =>
+      (s ?? '').toLowerCase().replace(/[^a-z0-9]/g, '');
+    const fuzzyEq = (a: string, b: string): boolean => {
+      if (a === b) return true;
+      if (!a || !b) return false;
+      return a.includes(b) || b.includes(a);
+    };
+    // The model also sometimes misfiles the set name into `parallel`
+    // ("SWSH" + parallel "Astral Radiance" vs set "Sword & Shield - Astral
+    // Radiance" + no parallel). A combined set+parallel signature, compared
+    // for exact equality after expanding common abbreviations, catches that
+    // without merging real parallels.
+    const alias = (s: string): string => s.replace(/swsh/g, 'swordshield');
+    const combinedSig = (setN: string, par: string): string => alias(setN + par);
+    const targetPlayer = norm(data.player);
     const targetSet = norm(data.setName);
     const targetParallel = norm(data.parallel);
+    const targetCombined = combinedSig(targetSet, targetParallel);
 
     const allCards = await this.db.getAllCards();
-    const match = allCards.find(
-      card =>
-        card.player.toLowerCase() === data.player!.toLowerCase() &&
-        card.year === parseInt(data.year!) &&
-        card.brand.toLowerCase() === data.brand!.toLowerCase() &&
-        card.cardNumber === data.cardNumber &&
-        norm(card.setName) === targetSet &&
-        norm(card.parallel) === targetParallel
-    );
+    const match = allCards.find(card => {
+      if (
+        !fuzzyEq(norm(card.player), targetPlayer) ||
+        card.year !== parseInt(data.year!) ||
+        norm(card.brand) !== norm(data.brand) ||
+        card.cardNumber !== data.cardNumber
+      ) {
+        return false;
+      }
+      const cardSet = norm(card.setName);
+      const cardParallel = norm(card.parallel);
+      if (fuzzyEq(cardSet, targetSet) && cardParallel === targetParallel) return true;
+      return combinedSig(cardSet, cardParallel) === targetCombined && targetCombined !== '';
+    });
 
     if (!match) return null;
 

@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import FileService from './fileService';
 import BrowserService from './browserService';
 import CompCacheService from './compCacheService';
@@ -303,6 +301,7 @@ class CompService {
       new MarketMoversAdapter(browserService, cacheService),
       new OneThirtyPointAdapter(browserService, cacheService),
       new PsaAdapter(browserService, cacheService),
+      new CardLadderAdapter(browserService, cacheService),
     ];
   }
 
@@ -418,13 +417,6 @@ class CompService {
       await this.db.saveCompReport(request.cardId, report);
     }
 
-    // Write comp file to processed/ (secondary artifact)
-    const sanitize = (s: string): string => s.replace(/[/\\:*?"<>|]/g, '-').replace(/\s+/g, '-');
-    const compFilename = `${request.year}-${sanitize(request.brand)}-${sanitize(request.player)}-${sanitize(request.cardNumber)}-comps.txt`;
-    const compContent = this.formatCompReport(report);
-    const processedDir = this.fileService.getProcessedDir();
-    fs.writeFileSync(path.join(processedDir, compFilename), compContent);
-
     return report;
   }
 
@@ -506,56 +498,6 @@ class CompService {
     };
   }
 
-  private formatCompReport(report: CompReport): string {
-    const lines: string[] = [];
-    lines.push(`Card: ${report.player} ${report.year} ${report.brand} #${report.cardNumber}`);
-    if (report.condition) {
-      lines.push(`Condition: ${report.condition}`);
-    }
-    lines.push(`Generated: ${report.generatedAt}`);
-    lines.push('');
-
-    for (const source of report.sources) {
-      if (source.error) continue;
-      lines.push(`--- ${source.source} ---`);
-      if (source.marketValue !== null) lines.push(`Market Value: $${source.marketValue.toFixed(2)}`);
-      if (source.averagePrice !== null) lines.push(`Average Price: $${source.averagePrice.toFixed(2)}`);
-      if (source.low !== null && source.high !== null) lines.push(`Range: $${source.low.toFixed(2)} - $${source.high.toFixed(2)}`);
-      if (source.sales.length > 0) {
-        lines.push('Recent Sales:');
-        for (const sale of source.sales) {
-          lines.push(`  ${sale.date} - $${sale.price.toFixed(2)} (${sale.venue}${sale.grade ? `, ${sale.grade}` : ''})`);
-        }
-      }
-      lines.push('');
-    }
-
-    if (report.aggregateAverage !== null) {
-      lines.push('--- Aggregate ---');
-      lines.push(`Average: $${report.aggregateAverage.toFixed(2)}`);
-      if (report.aggregateMedian !== null) lines.push(`Median: $${report.aggregateMedian.toFixed(2)}`);
-      if (report.aggregateLow !== null) lines.push(`Low: $${report.aggregateLow.toFixed(2)}`);
-      if (report.aggregateHigh !== null) lines.push(`High: $${report.aggregateHigh.toFixed(2)}`);
-      if (report.psa10Median !== null) lines.push(`Projected PSA 10 Median: $${report.psa10Median.toFixed(2)}`);
-      if (report.psa9Median !== null) lines.push(`Projected PSA 9 Median: $${report.psa9Median.toFixed(2)}`);
-    }
-
-    if (report.popData) {
-      lines.push('');
-      lines.push('--- Population Report ---');
-      lines.push(`${report.popData.gradingCompany} ${report.popData.targetGrade} Pop: ${report.popData.targetGradePop}`);
-      lines.push(`Total Graded: ${report.popData.totalGraded}`);
-      lines.push(`Percentile: Top ${report.popData.percentile}%`);
-      lines.push(`Rarity Tier: ${report.popData.rarityTier}`);
-      if (report.popMultiplier !== undefined && report.popAdjustedAverage !== null && report.popAdjustedAverage !== undefined) {
-        const pctChange = Math.round((report.popMultiplier - 1) * 100);
-        const sign = pctChange >= 0 ? '+' : '';
-        lines.push(`Pop-Adjusted Average: $${report.popAdjustedAverage.toFixed(2)} (${sign}${pctChange}%)`);
-      }
-    }
-
-    return lines.join('\n') + '\n';
-  }
 }
 
 export default CompService;

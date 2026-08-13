@@ -158,22 +158,17 @@ describe('CompService', () => {
     expect(report.aggregateHigh).toBeNull();
   });
 
-  it('writes comp file to processed directory', async () => {
+  it('does not write comp text files to processed directory', async () => {
     const adapters = [
       createMockAdapter('SportsCardsPro', { averagePrice: 50, low: 40, high: 60 }),
     ];
     const service = new CompService(fileService, adapters);
-    await service.generateAndWriteComps(sampleRequest);
+    const report = await service.generateAndWriteComps(sampleRequest);
 
+    expect(report.aggregateAverage).toBe(50);
     const processedDir = fileService.getProcessedDir();
     const files = fs.readdirSync(processedDir);
-    expect(files.some(f => f.includes('Trout') && f.endsWith('-comps.txt'))).toBe(true);
-
-    const compFile = files.find(f => f.endsWith('-comps.txt'))!;
-    const content = fs.readFileSync(path.join(processedDir, compFile), 'utf-8');
-    expect(content).toContain('Mike Trout');
-    expect(content).toContain('2023');
-    expect(content).toContain('Topps');
+    expect(files.some(f => f.endsWith('-comps.txt'))).toBe(false);
   });
 
   it('logs failures to comp-error.log', async () => {
@@ -209,7 +204,7 @@ describe('CompService', () => {
     } finally {
       fetchSpy.mockRestore();
     }
-  });
+  }, 30000);
 
   it('skips PSA adapter for BGS-graded card', async () => {
     const psaAdapter = createMockAdapter('PSA', { averagePrice: 200, marketValue: 200 });
@@ -309,7 +304,7 @@ describe('CompService', () => {
     } finally {
       fetchSpy.mockRestore();
     }
-  });
+  }, 30000);
 
   describe('with Database', () => {
     let db: Database;

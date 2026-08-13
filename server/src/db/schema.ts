@@ -58,6 +58,7 @@ export const cards = sqliteTable('cards', {
   purchaseDate: text('purchaseDate').notNull(),
   sellPrice: real('sellPrice'),
   sellDate: text('sellDate'),
+  ebayExportedAt: text('ebayExportedAt'),
   currentValue: real('currentValue').notNull(),
   images: text('images', { mode: 'json' }).$type<string[]>().notNull().default([]),
   notes: text('notes').notNull().default(''),

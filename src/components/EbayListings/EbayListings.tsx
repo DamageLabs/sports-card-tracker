@@ -3,8 +3,6 @@ import { useCards } from '../../context/ApiCardContext';
 import { Card } from '../../types';
 import EbayExportHistory from './EbayExportHistory';
 import apiService from '../../services/api';
-import { quickExportAllUnsoldCards, generateExportSummary } from '../../utils/quickEbayExport';
-import { instantExportAllUnsoldCards } from '../../utils/instantEbayExport';
 import './EbayListings.css';
 
 interface ListingRecommendation {
@@ -320,42 +318,13 @@ const EbayListings: React.FC = () => {
         <p>AI-powered suggestions for your most profitable eBay listings</p>
         <div className="export-buttons">
           <button
-            className="btn-instant-export"
-            onClick={() => {
-              const result = instantExportAllUnsoldCards(state.cards);
-              if (result) {
-                alert(`Exported ${result.count} cards!\n\nTotal value: $${result.totalValue.toFixed(2)}\nFile: ${result.filename}`);
-              } else {
-                alert('No unsold cards to export!');
-              }
-            }}
-          >
-            ⚡ INSTANT Export ALL Unsold Cards ({state.cards.filter(c => !c.sellDate && c.collectionType === 'Inventory').length})
-          </button>
-          <button 
-            className="btn-quick-export"
-            onClick={() => {
-              const summary = generateExportSummary(state.cards);
-              if (summary.totalUnsoldCards === 0) {
-                alert('No unsold cards to export!');
-                return;
-              }
-              
-              const confirmMessage = `Export ALL ${summary.totalUnsoldCards} unsold cards to eBay?\n\nTotal value: $${summary.totalValue.toFixed(2)}\nAverage price: $${summary.averageValue.toFixed(2)}\nGraded cards: ${summary.gradedCards}\nRaw cards: ${summary.rawCards}\n\nThis will create an eBay File Exchange CSV ready for bulk upload.`;
-              
-              if (window.confirm(confirmMessage)) {
-                quickExportAllUnsoldCards(state.cards);
-              }
-            }}
-          >
-            🚀 Export with Details
-          </button>
-          <button
             className="btn-bulk-export"
             onClick={handleBulkEbayExport}
             disabled={ebayExporting}
           >
-            {ebayExporting ? 'Exporting...' : '⚙️ Bulk eBay Export'}
+            {ebayExporting
+              ? 'Exporting...'
+              : `Export eBay CSV (${state.cards.filter(c => !c.sellDate && c.collectionType === 'Inventory').length} unsold)`}
           </button>
         </div>
       </div>

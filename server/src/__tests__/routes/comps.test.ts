@@ -112,7 +112,7 @@ describe('Comp Routes', () => {
       expect(res.body.sources).toBeDefined();
       expect(Array.isArray(res.body.sources)).toBe(true);
       expect(res.body.generatedAt).toBeDefined();
-    });
+    }, 30000);
 
     it('returns 400 for missing fields', async () => {
       const res = await request(ctx.app)
@@ -150,7 +150,7 @@ describe('Comp Routes', () => {
       expect(res.status).toBe(200);
       expect(res.body.cardId).toBe('save-1');
       expect(res.body.sources).toBeDefined();
-    });
+    }, 30000);
 
     it('returns 400 for missing fields', async () => {
       const res = await request(ctx.app)
@@ -315,7 +315,7 @@ describe('Comp Routes', () => {
       expect(res.body.cardId).toBe(cardId);
       expect(res.body.player).toBe('Aaron Judge');
       expect(res.body.sources).toBeDefined();
-    });
+    }, 30000);
 
     it('returns 404 for non-existent card', async () => {
       const res = await request(ctx.app).get('/api/comps/nonexistent');

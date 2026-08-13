@@ -1,7 +1,0 @@
-#INFO,Version=0.0.2,Template= eBay-draft-listings-template_US,,,,,,,,
-#INFO Action and Category ID are required fields. 1) Set Action to Draft 2) Please find the category ID for your listings here: https://pages.ebay.com/sellerinformation/news/categorychanges.html,,,,,,,,,,
-"#INFO After you've successfully uploaded your draft from the Seller Hub Reports tab, complete your drafts to active listings here: https://www.ebay.com/sh/lst/drafts",,,,,,,,,,
-#INFO,,,,,,,,,,
-Action(SiteID=US|Country=US|Currency=USD|Version=1193|CC=UTF-8),Custom label (SKU),Category ID,Title,UPC,Price,Quantity,Item photo URL,Condition ID,Description,Format
-Draft,EX-2025-BLKEN-SPECIALILLUSTRATIONRARE-166-PSA9,183454,2025 Pokemon BLK EN Zekrom ex Special Illustration Rare #166 PSA 9,,163.70,1,,2750,<p><b>2025 Pokemon BLK EN Zekrom ex #166</b></p><p><b>Grade:</b> PSA 9 MINT</p><p>Special Illustration Rare</p><p>Pokemon</p><p><b>Market Data:</b> Avg Market Value: $191.46 | Recent Sales Range: $175.00 - $210.00 | Based on 1 market source</p><p>Card ships in PSA protective case with tracking.</p>,FixedPrice
-Draft,FIRE-2024-SURGINGSPARKS-STAFFPRERELEASE-151-PSA10,183454,2024 Pokemon Surging Sparks Gouging Fire Staff Prerelease #151 PSA 10,,239.40,1,,2750,<p><b>2024 Pokemon Surging Sparks Gouging Fire #151</b></p><p><b>Grade:</b> PSA 10 GEM MINT</p><p>Staff Prerelease</p><p>Pokemon</p><p><b>Market Data:</b> Avg Market Value: $248.83 | Recent Sales Range: $211.50 - $268.00 | Based on 2 market sources</p><p>Card ships in PSA protective case with tracking.</p>,FixedPrice

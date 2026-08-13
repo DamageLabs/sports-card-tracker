@@ -242,6 +242,57 @@ describe('ImageProcessingService', () => {
       });
       expect(result).not.toBeNull();
     });
+
+    it('matches variant player phrasing (containment)', async () => {
+      fs.writeFileSync(path.join(processedDir, 'dialga.jpg'), 'data');
+      await db.createCard({
+        player: 'Origin Forme Dialga V', team: '', year: 2022, brand: 'Pokemon',
+        setName: 'Astral Radiance', category: 'Pokemon', cardNumber: '177', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2022-01-01', currentValue: 0,
+        images: ['dialga.jpg'], notes: '',
+      });
+
+      const result = await service.checkDuplicate({
+        player: 'Dialga V', year: '2022', brand: 'Pokemon',
+        setName: 'Astral Radiance', cardNumber: '177',
+      });
+      expect(result).not.toBeNull();
+    });
+
+    it('matches when set name was misfiled into parallel (combined signature)', async () => {
+      fs.writeFileSync(path.join(processedDir, 'dialga2.jpg'), 'data');
+      await db.createCard({
+        player: 'Origin Forme Dialga V', team: '', year: 2022, brand: 'Pokemon',
+        setName: 'Sword & Shield - Astral Radiance', category: 'Pokemon',
+        cardNumber: '177', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2022-01-01', currentValue: 0,
+        images: ['dialga2.jpg'], notes: '',
+      });
+
+      // Incoming scan misfiled the set: setName "SWSH", parallel "Astral Radiance"
+      const result = await service.checkDuplicate({
+        player: 'Dialga V', year: '2022', brand: 'Pokemon',
+        setName: 'SWSH', parallel: 'Astral Radiance', cardNumber: '177',
+      });
+      expect(result).not.toBeNull();
+    });
+
+    it('does not merge parallels where one contains the other', async () => {
+      fs.writeFileSync(path.join(processedDir, 'gold.jpg'), 'data');
+      await db.createCard({
+        player: 'Gold Guy', team: 'Team', year: 2024, brand: 'Topps',
+        setName: 'Chrome', parallel: 'Gold', category: 'Baseball',
+        cardNumber: '12', condition: 'Raw',
+        purchasePrice: 0, purchaseDate: '2024-01-01', currentValue: 0,
+        images: ['gold.jpg'], notes: '',
+      });
+
+      const result = await service.checkDuplicate({
+        player: 'Gold Guy', year: '2024', brand: 'Topps',
+        setName: 'Chrome', parallel: 'Gold Refractor', cardNumber: '12',
+      });
+      expect(result).toBeNull();
+    });
   });
 
   describe('isAlreadyProcessed', () => {

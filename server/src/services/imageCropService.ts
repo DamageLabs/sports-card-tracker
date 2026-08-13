@@ -14,6 +14,9 @@ export interface CropOptions {
   lookahead?: number;
   /** Minimum average brightness of detected background to use smart crop (0-255). Below this, fall back to simple trim. Default 80. */
   minBgBrightness?: number;
+  /** Background sample ring inset from edges, as fractions of the short side. Tightly framed scans leave only a thin border, so sampling too far in reads the subject instead. Defaults 0.01 / 0.04. */
+  bgSampleInnerPct?: number;
+  bgSampleOuterPct?: number;
 }
 
 export interface CropResult {
@@ -34,6 +37,8 @@ const DEFAULT_OPTIONS = {
   cardRowThreshold: 0.7,
   lookahead: 30,
   minBgBrightness: 80,
+  bgSampleInnerPct: 0.01,
+  bgSampleOuterPct: 0.04,
 };
 
 type ResolvedOptions = typeof DEFAULT_OPTIONS;
@@ -140,10 +145,10 @@ class ImageCropService {
     }
   }
 
-  /** Detect background color by sampling a ring 3-8% inset from image edges. */
+  /** Detect background color by sampling a ring inset from image edges. */
   private detectBackground(raw: Buffer, w: number, h: number, ch: number): { r: number; g: number; b: number } {
-    const inner = Math.floor(Math.min(w, h) * 0.03);
-    const outer = Math.floor(Math.min(w, h) * 0.08);
+    const inner = Math.floor(Math.min(w, h) * this.options.bgSampleInnerPct);
+    const outer = Math.max(inner + 1, Math.floor(Math.min(w, h) * this.options.bgSampleOuterPct));
     let rS = 0, gS = 0, bS = 0, cnt = 0;
 
     // Top strip
@@ -188,9 +193,28 @@ class ImageCropService {
     const cardT = this.options.cardRowThreshold;
     const look = this.options.lookahead;
 
+    // Saturated backgrounds (colored scanner mats) vary in brightness across
+    // the scan, so absolute RGB distance either misses the gradient or
+    // swallows the subject. Chromaticity (color ratios) is lighting-invariant:
+    // dim and bright yellow match each other but not the grey slab or the
+    // background tinting seen through translucent slab edges. Neutral
+    // grey/white backgrounds carry no usable chroma signal, so they keep the
+    // RGB distance check.
+    const bgSum = bg.r + bg.g + bg.b || 1;
+    const bgMax = Math.max(bg.r, bg.g, bg.b);
+    const bgMin = Math.min(bg.r, bg.g, bg.b);
+    const chromaticBg = bgMax > 0 && (bgMax - bgMin) / bgMax > 0.35;
+    const bgCr = bg.r / bgSum, bgCg = bg.g / bgSum, bgCb = bg.b / bgSum;
+    const chromaT = 0.10;
+
     const isBg = (idx: number): boolean => {
       const r = raw[idx], g = raw[idx + 1], b = raw[idx + 2];
       if (r < 30 && g < 30 && b < 30) return true;
+      if (chromaticBg) {
+        const sum = r + g + b || 1;
+        const dr = r / sum - bgCr, dg = g / sum - bgCg, db = b / sum - bgCb;
+        return Math.sqrt(dr * dr + dg * dg + db * db) < chromaT;
+      }
       const dr = r - bg.r, dg = g - bg.g, db = b - bg.b;
       return Math.sqrt(dr * dr + dg * dg + db * db) < bgT;
     };

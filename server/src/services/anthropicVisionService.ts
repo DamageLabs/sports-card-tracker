@@ -14,7 +14,7 @@ const SUPPORTED_TYPES: Record<string, 'image/jpeg' | 'image/png' | 'image/gif' |
 class AnthropicVisionService {
   private client: Anthropic | null = null;
   private apiKey: string | undefined;
-  private model = 'claude-sonnet-4-20250514';
+  private model = 'claude-sonnet-5';
 
   constructor(apiKey?: string) {
     this.apiKey = apiKey || process.env.ANTHROPIC_API_KEY;
@@ -44,7 +44,7 @@ class AnthropicVisionService {
     const startMs = Date.now();
     const response = await this.getClient().messages.create({
       model: this.model,
-      max_tokens: 1024,
+      max_tokens: 2048,
       messages: [
         {
           role: 'user',
@@ -80,6 +80,12 @@ class AnthropicVisionService {
   "grade": "Numeric grade if graded"
 }
 
+Naming conventions (critical for duplicate detection - follow exactly):
+- "player": the exact full name as printed on the card, including forms/variants/suffixes (e.g. "Origin Forme Dialga V" not "Dialga V"; "Ken Griffey Jr." not "Ken Griffey")
+- "brand": the manufacturer only (e.g. "Topps", "Panini", "Upper Deck"; for Pokemon TCG cards always use "Pokemon")
+- "set": the official set name only - no brand, series/era prefixes, or abbreviations (e.g. "Astral Radiance" not "SWSH Astral Radiance" or "Sword & Shield Astral Radiance"; "Chrome" not "Topps Chrome"; "Hoops" not "NBA Hoops")
+- "cardNumber": the number as printed, without the set-size denominator (e.g. "177" for "177/189")
+
 Return ONLY the JSON object, no other text.`,
             },
           ],
@@ -88,7 +94,8 @@ Return ONLY the JSON object, no other text.`,
     });
     const durationMs = Date.now() - startMs;
 
-    const text = response.content[0].type === 'text' ? response.content[0].text : '';
+    const textBlock = response.content.find((b) => b.type === 'text');
+    const text = textBlock && textBlock.type === 'text' ? textBlock.text : '';
     const data = this.parseResponse(text);
     data._apiMeta = {
       model: response.model,
@@ -116,7 +123,7 @@ Return ONLY the JSON object, no other text.`,
     const startMs = Date.now();
     const response = await this.getClient().messages.create({
       model: this.model,
-      max_tokens: 1024,
+      max_tokens: 2048,
       messages: [
         {
           role: 'user',
@@ -164,6 +171,12 @@ Return ONLY the JSON object, no other text.`,
   "grade": "Numeric grade if graded"
 }
 
+Naming conventions (critical for duplicate detection - follow exactly):
+- "player": the exact full name as printed on the card, including forms/variants/suffixes (e.g. "Origin Forme Dialga V" not "Dialga V"; "Ken Griffey Jr." not "Ken Griffey")
+- "brand": the manufacturer only (e.g. "Topps", "Panini", "Upper Deck"; for Pokemon TCG cards always use "Pokemon")
+- "set": the official set name only - no brand, series/era prefixes, or abbreviations (e.g. "Astral Radiance" not "SWSH Astral Radiance" or "Sword & Shield Astral Radiance"; "Chrome" not "Topps Chrome"; "Hoops" not "NBA Hoops")
+- "cardNumber": the number as printed, without the set-size denominator (e.g. "177" for "177/189")
+
 Return ONLY the JSON object, no other text.`,
             },
           ],
@@ -172,7 +185,8 @@ Return ONLY the JSON object, no other text.`,
     });
     const durationMs = Date.now() - startMs;
 
-    const text = response.content[0].type === 'text' ? response.content[0].text : '';
+    const textBlock = response.content.find((b) => b.type === 'text');
+    const text = textBlock && textBlock.type === 'text' ? textBlock.text : '';
     const data = this.parseResponse(text);
     data._apiMeta = {
       model: response.model,
