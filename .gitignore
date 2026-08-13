@@ -33,3 +33,7 @@ raw
 
 # claude local settings
 .claude/settings.local.json
+
+# Generated eBay export CSVs
+/exports/
+ebay-draft-upload-*.csv
