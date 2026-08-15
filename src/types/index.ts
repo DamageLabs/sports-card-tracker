@@ -100,6 +100,7 @@ export interface FilterOptions {
   collectionType?: string;
   soldStatus?: 'sold' | 'unsold';
   ebayStatus?: 'exported' | 'not-exported';
+  gradedStatus?: 'graded' | 'raw';
 }
 
 export interface SortOption {
