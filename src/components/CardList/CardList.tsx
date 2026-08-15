@@ -36,6 +36,16 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [exportedIds, setExportedIds] = useState<Set<string>>(new Set());
   const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
   const [gradePredictLoadingId, setGradePredictLoadingId] = useState<string | null>(null);
+  const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set());
+
+  const toggleExpanded = useCallback((cardId: string) => {
+    setExpandedIds(prev => {
+      const next = new Set(prev);
+      if (next.has(cardId)) next.delete(cardId);
+      else next.add(cardId);
+      return next;
+    });
+  }, []);
   const [bulkCompLoading, setBulkCompLoading] = useState(false);
   const [compReport, setCompReport] = useState<CompReport | null>(null);
   const [compReportCardId, setCompReportCardId] = useState<string | null>(null);
@@ -568,7 +578,12 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       )}
 
       <div className="cards-grid">
-        {filteredAndSortedCards.map(card => (
+        {filteredAndSortedCards.map(card => {
+          const isExpanded = expandedIds.has(card.id);
+          const gp = card.enhancedAttributes?.gradePrediction as
+            | { estimatedRange?: string; ceiling?: number; summary?: string }
+            | undefined;
+          return (
           <div key={card.id} className={`card-item ${card.sellDate ? 'sold' : ''} ${selectedCards.has(card.id) ? 'selected' : ''}`}>
             <div className="card-selection">
               <input
@@ -578,61 +593,65 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                 onClick={(e) => e.stopPropagation()}
               />
             </div>
-            <div className="card-actions">
-              {onEditCard && (
-                <button onClick={() => onEditCard(card)} className="edit-btn">
-                  Edit
-                </button>
-              )}
-              <button
-                onClick={() => handleGenerateComps(card)}
-                className="comps-btn"
-                disabled={compLoadingId === card.id}
-                title="Regenerate comps"
-              >
-                {compLoadingId === card.id ? 'Loading...' : 'Comps'}
-              </button>
-              {!card.gradingCompany && (
-                <button
-                  onClick={() => handlePredictGrade(card)}
-                  className="comps-btn"
-                  disabled={gradePredictLoadingId === card.id}
-                  title="Predict potential grade from the scans (centering, corners, edges, surface)"
-                >
-                  {gradePredictLoadingId === card.id ? 'Analyzing...' : 'Grade?'}
-                </button>
-              )}
-              <button onClick={() => handleDeleteCard(card.id)} className="delete-btn">
-                Delete
-              </button>
-            </div>
-            
-            <div className="card-content" onClick={() => onCardSelect && onCardSelect(card)}>
+            <div className="card-stage" onClick={() => onCardSelect && onCardSelect(card)}>
               {card.sellDate && (
                 <div className="sold-banner">
                   <span>SOLD</span>
                 </div>
               )}
-              <div className="card-image-section">
-                <div className="card-image-container">
-                  <img 
-                    src={card.images && card.images.length > 0 ? cardImageUrl(card.images[0]) : '/generic.png'}
-                    alt={`${card.player} card`} 
-                    className="card-main-image" 
-                  />
-                  {card.images && card.images.length > 1 && (
-                    <div className="image-count-badge">
-                      +{card.images.length - 1}
-                    </div>
-                  )}
-                </div>
+              <img
+                src={card.images && card.images.length > 0 ? cardImageUrl(card.images[0]) : '/generic.png'}
+                alt={`${card.player} card`}
+                className="card-main-image"
+                loading="lazy"
+              />
+            </div>
+
+            <div className="card-summary" onClick={() => onCardSelect && onCardSelect(card)}>
+              <h4 className="cl-card-title">{card.player}</h4>
+              <p className="card-detail-line">
+                {card.year} {card.brand}{card.setName ? ` ${card.setName}` : ''}{card.cardNumber ? ` #${card.cardNumber}` : ''}
+              </p>
+              <div className="card-essentials">
+                <span className="cl-card-value">${card.currentValue.toFixed(2)}</span>
+                <span className="card-essentials-sep">·</span>
+                <span className={`card-grade-tag ${card.gradingCompany ? 'graded' : 'raw'}`}>
+                  {card.gradingCompany ? `${card.gradingCompany} ${card.grade || ''}`.trim() : 'RAW'}
+                </span>
+                {exportedIds.has(card.id) && (
+                  <>
+                    <span className="card-essentials-sep">·</span>
+                    <span className="card-listed-dot" title="Exported to eBay">eBay</span>
+                  </>
+                )}
               </div>
-              
-              <div className="card-player-name">
-                <h4>{card.player}</h4>
-                <p className="card-detail-line">
-                  {card.year} {card.brand}{card.setName ? ` ${card.setName}` : ''}{card.cardNumber ? ` #${card.cardNumber}` : ''}
-                </p>
+            </div>
+
+            <button
+              className={`card-details-toggle ${isExpanded ? 'open' : ''}`}
+              onClick={(e) => { e.stopPropagation(); toggleExpanded(card.id); }}
+            >
+              Details
+              <span className="card-details-chevron">{isExpanded ? '▴' : '▾'}</span>
+            </button>
+
+            {isExpanded && (
+              <div className="card-details">
+                <div className="card-attribute-chips">
+                  {card.isRookie && <span className="card-chip">Rookie</span>}
+                  {card.isAutograph && <span className="card-chip">Auto</span>}
+                  {card.isRelic && <span className="card-chip">Relic</span>}
+                  {card.isNumbered && <span className="card-chip">Numbered</span>}
+                </div>
+                <dl className="card-fields">
+                  {card.team && (<><dt>Team</dt><dd>{card.team}</dd></>)}
+                  {card.parallel && (<><dt>Parallel</dt><dd>{card.parallel}</dd></>)}
+                  {card.serialNumber && (<><dt>Serial</dt><dd>{card.serialNumber}</dd></>)}
+                  {card.gradingCompany
+                    ? (<><dt>Grade</dt><dd>{card.gradingCompany} {card.grade || ''}</dd></>)
+                    : (<><dt>Condition</dt><dd>{card.condition}</dd></>)}
+                  <dt>Category</dt><dd>{card.category}</dd>
+                </dl>
                 <div className="card-pills">
                   {popTiers.has(card.id) && (
                     <span className={`card-pop-badge card-pop-${popTiers.get(card.id)}`}>
@@ -662,27 +681,45 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                       PSA 9 ~${psa9Projections.get(card.id)!.toFixed(2)}
                     </span>
                   )}
-                  {(() => {
-                    const gp = card.enhancedAttributes?.gradePrediction as
-                      | { estimatedRange?: string; ceiling?: number; summary?: string }
-                      | undefined;
-                    return gp?.estimatedRange ? (
-                      <span
-                        className="card-psa9-projection-badge"
-                        title={gp.summary || 'Scan-based grade prediction'}
-                      >
-                        Est. Grade {gp.estimatedRange}
-                      </span>
-                    ) : null;
-                  })()}
-                  {exportedIds.has(card.id) && (
-                    <span className="card-ebay-badge" title="Exported to eBay">eBay</span>
+                  {!card.gradingCompany && gp?.estimatedRange && (
+                    <span className="card-psa9-projection-badge" title={gp.summary || 'Scan-based grade prediction'}>
+                      Est. Grade {gp.estimatedRange}
+                    </span>
                   )}
                 </div>
+                <div className="card-actions">
+                  {onEditCard && (
+                    <button onClick={(e) => { e.stopPropagation(); onEditCard(card); }} className="edit-btn">
+                      Edit
+                    </button>
+                  )}
+                  <button
+                    onClick={(e) => { e.stopPropagation(); handleGenerateComps(card); }}
+                    className="comps-btn"
+                    disabled={compLoadingId === card.id}
+                    title="Regenerate comps"
+                  >
+                    {compLoadingId === card.id ? 'Loading...' : 'Comps'}
+                  </button>
+                  {!card.gradingCompany && (
+                    <button
+                      onClick={(e) => { e.stopPropagation(); handlePredictGrade(card); }}
+                      className="comps-btn"
+                      disabled={gradePredictLoadingId === card.id}
+                      title="Predict potential grade from the scans (centering, corners, edges, surface)"
+                    >
+                      {gradePredictLoadingId === card.id ? 'Analyzing...' : 'Grade?'}
+                    </button>
+                  )}
+                  <button onClick={(e) => { e.stopPropagation(); handleDeleteCard(card.id); }} className="delete-btn">
+                    Delete
+                  </button>
+                </div>
               </div>
-            </div>
+            )}
           </div>
-        ))}
+          );
+        })}
       </div>
 
       {filteredAndSortedCards.length === 0 && (
