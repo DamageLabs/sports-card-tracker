@@ -593,7 +593,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                 onClick={(e) => e.stopPropagation()}
               />
             </div>
-            <div className="card-stage" onClick={() => onCardSelect && onCardSelect(card)}>
+            <div className="cl-stage" onClick={() => onCardSelect && onCardSelect(card)}>
               {card.sellDate && (
                 <div className="sold-banner">
                   <span>SOLD</span>
@@ -607,43 +607,43 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
               />
             </div>
 
-            <div className="card-summary" onClick={() => onCardSelect && onCardSelect(card)}>
+            <div className="cl-summary" onClick={() => onCardSelect && onCardSelect(card)}>
               <h4 className="cl-card-title">{card.player}</h4>
               <p className="card-detail-line">
                 {card.year} {card.brand}{card.setName ? ` ${card.setName}` : ''}{card.cardNumber ? ` #${card.cardNumber}` : ''}
               </p>
-              <div className="card-essentials">
+              <div className="cl-essentials">
                 <span className="cl-card-value">${card.currentValue.toFixed(2)}</span>
-                <span className="card-essentials-sep">·</span>
-                <span className={`card-grade-tag ${card.gradingCompany ? 'graded' : 'raw'}`}>
+                <span className="cl-essentials-sep">·</span>
+                <span className={`cl-grade-tag ${card.gradingCompany ? 'graded' : 'raw'}`}>
                   {card.gradingCompany ? `${card.gradingCompany} ${card.grade || ''}`.trim() : 'RAW'}
                 </span>
                 {exportedIds.has(card.id) && (
                   <>
-                    <span className="card-essentials-sep">·</span>
-                    <span className="card-listed-dot" title="Exported to eBay">eBay</span>
+                    <span className="cl-essentials-sep">·</span>
+                    <span className="cl-listed-dot" title="Exported to eBay">eBay</span>
                   </>
                 )}
               </div>
             </div>
 
             <button
-              className={`card-details-toggle ${isExpanded ? 'open' : ''}`}
+              className={`cl-details-toggle ${isExpanded ? 'open' : ''}`}
               onClick={(e) => { e.stopPropagation(); toggleExpanded(card.id); }}
             >
               Details
-              <span className="card-details-chevron">{isExpanded ? '▴' : '▾'}</span>
+              <span className="cl-details-chevron">{isExpanded ? '▴' : '▾'}</span>
             </button>
 
             {isExpanded && (
-              <div className="card-details">
-                <div className="card-attribute-chips">
-                  {card.isRookie && <span className="card-chip">Rookie</span>}
-                  {card.isAutograph && <span className="card-chip">Auto</span>}
-                  {card.isRelic && <span className="card-chip">Relic</span>}
-                  {card.isNumbered && <span className="card-chip">Numbered</span>}
+              <div className="cl-details">
+                <div className="cl-attribute-chips">
+                  {card.isRookie && <span className="cl-chip">Rookie</span>}
+                  {card.isAutograph && <span className="cl-chip">Auto</span>}
+                  {card.isRelic && <span className="cl-chip">Relic</span>}
+                  {card.isNumbered && <span className="cl-chip">Numbered</span>}
                 </div>
-                <dl className="card-fields">
+                <dl className="cl-fields">
                   {card.team && (<><dt>Team</dt><dd>{card.team}</dd></>)}
                   {card.parallel && (<><dt>Parallel</dt><dd>{card.parallel}</dd></>)}
                   {card.serialNumber && (<><dt>Serial</dt><dd>{card.serialNumber}</dd></>)}

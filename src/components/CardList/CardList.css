@@ -245,8 +245,8 @@
 
 .cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
 }
 
 .cards-grid > .card-item {
@@ -284,7 +284,7 @@
   accent-color: var(--brand-gold);
 }
 
-.card-item.sold .card-stage {
+.card-item.sold .cl-stage {
   opacity: 0.7;
 }
 
@@ -293,26 +293,30 @@
   box-shadow: var(--shadow-lg);
 }
 
-.card-actions {
+.cards-grid .card-actions {
   display: flex;
-  gap: 4px;
-  flex-wrap: wrap;
-  justify-content: flex-end;
+  gap: 6px;
   padding-top: 8px;
   margin-top: 8px;
   border-top: 1px dashed var(--border-light);
 }
 
-.edit-btn, .delete-btn, .comps-btn {
-  padding: 4px 8px;
+/* Uniform action buttons: equal widths, equal height, centered labels */
+.cards-grid .card-actions button {
+  flex: 1 1 0;
+  min-width: 0;
+  padding: 6px 4px;
   border: none;
   border-radius: 4px;
   cursor: pointer;
   font-size: 0.68rem;
   font-weight: 600;
+  text-align: center;
   transition: all 0.2s;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .edit-btn {
@@ -349,7 +353,7 @@
 
 /* Image stage: card photo on a soft warm backdrop with breathing room,
    so slabs read as objects rather than edge-to-edge photos. */
-.card-stage {
+.cl-stage {
   position: relative;
   cursor: pointer;
   display: flex;
@@ -392,7 +396,7 @@
   filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.18));
 }
 
-.card-summary {
+.cl-summary {
   padding: 10px 12px 6px;
   cursor: pointer;
 }
@@ -422,7 +426,7 @@
 }
 
 /* One always-visible operational line: value · grade/RAW · listed state */
-.card-essentials {
+.cl-essentials {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -436,31 +440,31 @@
   font-variant-numeric: tabular-nums;
 }
 
-.card-essentials-sep {
+.cl-essentials-sep {
   color: var(--border-light);
 }
 
-.card-grade-tag {
+.cl-grade-tag {
   font-weight: 700;
   font-size: 0.7rem;
   letter-spacing: 0.03em;
 }
 
-.card-grade-tag.graded {
+.cl-grade-tag.graded {
   color: #b45309;
 }
 
-.card-grade-tag.raw {
+.cl-grade-tag.raw {
   color: var(--text-secondary);
 }
 
-.card-listed-dot {
+.cl-listed-dot {
   font-size: 0.66rem;
   font-weight: 700;
   color: #1d4ed8;
 }
 
-.card-details-toggle {
+.cl-details-toggle {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -477,31 +481,31 @@
   letter-spacing: 0.04em;
 }
 
-.card-details-toggle:hover,
-.card-details-toggle.open {
+.cl-details-toggle:hover,
+.cl-details-toggle.open {
   color: var(--brand-gold, #b45309);
 }
 
-.card-details-chevron {
+.cl-details-chevron {
   font-size: 0.6rem;
 }
 
-.card-details {
+.cl-details {
   padding: 0 12px 10px;
 }
 
-.card-attribute-chips {
+.cl-attribute-chips {
   display: flex;
   flex-wrap: wrap;
   gap: 4px;
   margin-bottom: 6px;
 }
 
-.card-attribute-chips:empty {
+.cl-attribute-chips:empty {
   display: none;
 }
 
-.card-chip {
+.cl-chip {
   padding: 1px 8px;
   border-radius: 999px;
   font-size: 0.62rem;
@@ -513,7 +517,7 @@
   border: 1px solid #fde68a;
 }
 
-.card-fields {
+.cl-fields {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 2px 10px;
@@ -521,12 +525,12 @@
   font-size: 0.72rem;
 }
 
-.card-fields dt {
+.cl-fields dt {
   color: var(--text-secondary);
   font-weight: 600;
 }
 
-.card-fields dd {
+.cl-fields dd {
   margin: 0;
   color: var(--text-primary);
   overflow: hidden;
