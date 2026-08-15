@@ -1,6 +1,7 @@
 import React, { createContext, useContext, ReactNode, useEffect, useState, useCallback, useMemo, useRef } from 'react';
 import { Card, PortfolioStats, CollectionType } from '../types';
 import { apiService } from '../services/api';
+import { useSSE } from '../hooks/useSSE';
 
 interface CardState {
   cards: Card[];
@@ -18,6 +19,7 @@ interface CardContextType {
   setError: (error: string | null) => void;
   getPortfolioStats: (collectionType?: CollectionType) => PortfolioStats;
   clearAllCards: () => void;
+  refreshCards: () => Promise<void>;
 }
 
 const CardContext = createContext<CardContextType | undefined>(undefined);
@@ -77,6 +79,27 @@ export const CardProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
       }
     };
   }, []);
+
+  // Silent refetch — updates card data in place without flipping the loading state
+  const refreshCards = useCallback(async () => {
+    try {
+      const cards = await apiService.getAllCards();
+      setState(prev => ({ ...prev, cards, error: null }));
+    } catch {
+      // non-critical: keep showing current data
+    }
+  }, []);
+
+  // Background jobs (comp generation, batch image processing, eBay export)
+  // mutate card data server-side; refresh when any of them completes so
+  // values like comp-derived currentValue appear without a manual reload.
+  const { on: onSSE } = useSSE(true);
+  useEffect(() => {
+    const unsubscribe = onSSE('job:completed', () => {
+      refreshCards();
+    });
+    return unsubscribe;
+  }, [onSSE, refreshCards]);
 
   const addCard = useCallback(async (card: Card) => {
     try {
@@ -178,8 +201,9 @@ export const CardProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
     setLoading,
     setError,
     getPortfolioStats,
-    clearAllCards
-  }), [state, addCard, updateCard, deleteCard, setCards, setLoading, setError, getPortfolioStats, clearAllCards]);
+    clearAllCards,
+    refreshCards
+  }), [state, addCard, updateCard, deleteCard, setCards, setLoading, setError, getPortfolioStats, clearAllCards, refreshCards]);
 
   return <CardContext.Provider value={value}>{children}</CardContext.Provider>;
 };

@@ -65,7 +65,7 @@ class JobService {
           result,
           progress: 100,
         });
-        this.eventService.broadcast('job:completed', { jobId: job.id, result });
+        this.eventService.broadcast('job:completed', { jobId: job.id, type: job.type, result });
       } catch (err) {
         const errorMessage = err instanceof Error ? err.message : String(err);
         await this.db.updateJob(job.id, {
