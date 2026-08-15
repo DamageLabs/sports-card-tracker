@@ -306,10 +306,13 @@ class CompService {
   }
 
   async generateComps(request: CompRequest, options?: { skipGradeProjection?: boolean }): Promise<CompReport> {
-    // Filter adapters (skip PSA for non-PSA graded cards)
+    // Filter adapters: PSA auction results are always graded, so the PSA
+    // source only applies to PSA-graded cards — skip it for raw cards and
+    // for cards graded by other companies.
     const activeAdapters = this.adapters.filter(adapter => {
-      if (adapter.source === 'PSA' && request.isGraded && request.gradingCompany && request.gradingCompany !== 'PSA') {
-        return false;
+      if (adapter.source === 'PSA') {
+        if (!request.isGraded) return false;
+        if (request.gradingCompany && request.gradingCompany !== 'PSA') return false;
       }
       return true;
     });

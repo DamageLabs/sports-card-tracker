@@ -29,6 +29,7 @@ import GemRatePopScraper from './services/adapters/gemratePopScraper';
 import AnthropicVisionService from './services/anthropicVisionService';
 import ImageProcessingService from './services/imageProcessingService';
 import ImageCropService from './services/imageCropService';
+import GradePredictionService from './services/gradePredictionService';
 import EbayExportService from './services/ebayExportService';
 import ScpUploadService from './services/scpUploadService';
 import AuditService from './services/auditService';
@@ -73,6 +74,7 @@ const imageCropService = new ImageCropService();
 const auditService = new AuditService(db);
 const imageProcessingService = new ImageProcessingService(fileService, db, visionService, imageCropService, auditService);
 const ebayExportService = new EbayExportService(db, fileService);
+const gradePredictionService = new GradePredictionService(db, fileService);
 const scpUploadService = new ScpUploadService(db, fileService, config);
 const priceAlertService = new PriceAlertService(db, eventService);
 
@@ -91,7 +93,7 @@ app.use(optionalAuth);
 
 // Routes
 app.use('/api/health', createHealthRoutes(db, fileService));
-app.use('/api/cards', createCardRoutes(db, auditService));
+app.use('/api/cards', createCardRoutes(db, auditService, gradePredictionService));
 app.use('/api/files', createFileRoutes(fileService, auditService, db, scpUploadService));
 app.use('/api/jobs', createJobRoutes(db, auditService));
 app.use('/api/events', createEventRoutes(eventService));

@@ -20,7 +20,7 @@ interface CardListProps {
 }
 
 const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedCollectionId }) => {
-  const { state, deleteCard, setCards } = useCards();
+  const { state, deleteCard, setCards, refreshCards } = useCards();
   const [filters, setFilters] = useState<FilterOptions>({});
   const [sortOption, setSortOption] = useState<SortOption>({ field: 'createdAt', direction: 'desc' });
   const [searchTerm, setSearchTerm] = useState('');
@@ -35,6 +35,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [psa9Projections, setPsa9Projections] = useState<Map<string, number>>(new Map());
   const [exportedIds, setExportedIds] = useState<Set<string>>(new Set());
   const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
+  const [gradePredictLoadingId, setGradePredictLoadingId] = useState<string | null>(null);
   const [bulkCompLoading, setBulkCompLoading] = useState(false);
   const [compReport, setCompReport] = useState<CompReport | null>(null);
   const [compReportCardId, setCompReportCardId] = useState<string | null>(null);
@@ -139,9 +140,13 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       const matchesEbayStatus = !filters.ebayStatus ||
         (filters.ebayStatus === 'exported' ? exportedIds.has(card.id) : !exportedIds.has(card.id));
 
+      const isGradedCard = !!card.gradingCompany;
+      const matchesGradedStatus = !filters.gradedStatus ||
+        (filters.gradedStatus === 'graded' ? isGradedCard : !isGradedCard);
+
       return matchesCollectionType && matchesSearch && matchesPlayer && matchesTeam && matchesYear &&
              matchesBrand && matchesCategory && matchesCondition && matchesMinValue && matchesMaxValue &&
-             matchesSoldStatus && matchesEbayStatus;
+             matchesSoldStatus && matchesEbayStatus && matchesGradedStatus;
     });
 
     filtered.sort((a, b) => {
@@ -313,12 +318,27 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
       applyCompReport(card.id, report);
       setCompReportCardId(card.id);
       setCompReport(report);
+      // Comp generation can update the card's currentValue server-side
+      refreshCards();
     } catch (err) {
       alert(`Failed to generate comps: ${err instanceof Error ? err.message : 'Unknown error'}`);
     } finally {
       setCompLoadingId(null);
     }
-  }, [applyCompReport]);
+  }, [applyCompReport, refreshCards]);
+
+  const handlePredictGrade = useCallback(async (card: Card) => {
+    setGradePredictLoadingId(card.id);
+    try {
+      const prediction = await apiService.predictGrade(card.id);
+      alert(`Grade prediction for ${card.player}:\n\nEstimated range: ${prediction.estimatedRange} (ceiling ${prediction.ceiling})\n\n${prediction.summary}`);
+      refreshCards();
+    } catch (err) {
+      alert(`Grade prediction failed: ${err instanceof Error ? err.message : 'Unknown error'}`);
+    } finally {
+      setGradePredictLoadingId(null);
+    }
+  }, [refreshCards]);
 
   const handleBulkComps = useCallback(async () => {
     if (selectedCards.size === 0) return;
@@ -478,6 +498,16 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
             <option value="exported">Exported</option>
           </select>
 
+          <select
+            value={filters.gradedStatus || ''}
+            onChange={(e) => setFilters({...filters, gradedStatus: (e.target.value || undefined) as 'graded' | 'raw' | undefined})}
+            className="filter-select"
+          >
+            <option value="">Graded & Raw</option>
+            <option value="graded">Graded</option>
+            <option value="raw">Raw</option>
+          </select>
+
           <button onClick={clearFilters} className="clear-filters-btn">
             Clear Filters
           </button>
@@ -562,6 +592,16 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
               >
                 {compLoadingId === card.id ? 'Loading...' : 'Comps'}
               </button>
+              {!card.gradingCompany && (
+                <button
+                  onClick={() => handlePredictGrade(card)}
+                  className="comps-btn"
+                  disabled={gradePredictLoadingId === card.id}
+                  title="Predict potential grade from the scans (centering, corners, edges, surface)"
+                >
+                  {gradePredictLoadingId === card.id ? 'Analyzing...' : 'Grade?'}
+                </button>
+              )}
               <button onClick={() => handleDeleteCard(card.id)} className="delete-btn">
                 Delete
               </button>
@@ -622,6 +662,19 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                       PSA 9 ~${psa9Projections.get(card.id)!.toFixed(2)}
                     </span>
                   )}
+                  {(() => {
+                    const gp = card.enhancedAttributes?.gradePrediction as
+                      | { estimatedRange?: string; ceiling?: number; summary?: string }
+                      | undefined;
+                    return gp?.estimatedRange ? (
+                      <span
+                        className="card-psa9-projection-badge"
+                        title={gp.summary || 'Scan-based grade prediction'}
+                      >
+                        Est. Grade {gp.estimatedRange}
+                      </span>
+                    ) : null;
+                  })()}
                   {exportedIds.has(card.id) && (
                     <span className="card-ebay-badge" title="Exported to eBay">eBay</span>
                   )}

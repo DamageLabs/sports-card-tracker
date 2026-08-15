@@ -185,8 +185,14 @@ function scoreMatch(card: CardLadderCard, request: CompRequest): number {
     if (card.condition.toLowerCase() === wantCondition) score += 15;
     else if (card.condition.toLowerCase().includes(request.gradingCompany.toLowerCase())) score += 5;
   } else {
-    // Raw card — prefer raw condition
-    if (card.condition.toLowerCase() === 'raw') score += 15;
+    // Raw card — graded index entries price a different asset; make them
+    // ineligible rather than merely less-preferred, so a graded entry can
+    // never win when no raw entry exists.
+    if (card.condition.toLowerCase() === 'raw') {
+      score += 15;
+    } else {
+      return -1;
+    }
   }
 
   return score;

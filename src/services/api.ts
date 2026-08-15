@@ -394,6 +394,15 @@ class ApiService {
     return this.request<string[]>('/image-processing/processed-raw-files');
   }
 
+  public async predictGrade(cardId: string): Promise<{
+    ceiling: number;
+    estimatedRange: string;
+    summary: string;
+    caps: Record<string, number>;
+  }> {
+    return this.request(`/cards/${cardId}/predict-grade`, { method: 'POST' });
+  }
+
   public async getEbayExportDrafts(limit?: number, offset?: number): Promise<{
     drafts: EbayExportDraftSummary[];
     total: number;

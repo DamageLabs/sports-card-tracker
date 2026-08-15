@@ -211,7 +211,9 @@ describe('EbayAdapter', () => {
     expect(result.sales!.every(s => s.price <= 125)).toBe(true);
   });
 
-  it('does not grade-filter ungraded card requests', async () => {
+  it('excludes graded sales for ungraded card requests', async () => {
+    // Graded sales price a different asset — a raw card's comps must not
+    // include slabbed solds.
     const soldListings = [
       { price: 120, date: 'Jan 15, 2026', title: '2023 Topps Mike Trout #1 PSA 8' },
       { price: 300, date: 'Jan 14, 2026', title: '2023 Topps Mike Trout #1 PSA 10' },
@@ -224,25 +226,31 @@ describe('EbayAdapter', () => {
     const adapter = new EbayAdapter(browserService as any);
     const result = await adapter.fetchComps(sampleRequest); // ungraded
 
-    expect(result.sales).toHaveLength(3);
+    expect(result.sales).toHaveLength(1);
+    expect(result.sales![0].price).toBe(50);
   });
 
   it('populates CompSale.grade from title', async () => {
     const soldListings = [
       { price: 120, date: 'Jan 15, 2026', title: '2023 Topps Mike Trout #1 PSA 10' },
-      { price: 50, date: 'Jan 14, 2026', title: '2023 Topps Mike Trout #1' },
-      { price: 130, date: 'Jan 13, 2026', title: '2023 Topps Mike Trout #1 BGS 9.5' },
+      { price: 110, date: 'Jan 14, 2026', title: '2023 Topps Mike Trout #1 PSA 9' },
+      { price: 130, date: 'Jan 13, 2026', title: '2023 Topps Mike Trout #1 PSA 10 GEM' },
     ];
 
     const { browserService, mockPage } = createMockBrowserService();
     mockPage.$$eval.mockResolvedValue(soldListings);
 
     const adapter = new EbayAdapter(browserService as any);
-    const result = await adapter.fetchComps(sampleRequest);
+    const result = await adapter.fetchComps({
+      ...sampleRequest,
+      isGraded: true,
+      gradingCompany: 'PSA',
+      grade: '10',
+      condition: '10: GEM MINT',
+    });
 
     expect(result.sales![0].grade).toBe('PSA 10');
-    expect(result.sales![1].grade).toBeUndefined();
-    expect(result.sales![2].grade).toBe('BGS 9.5');
+    expect(result.sales![1].grade).toBe('PSA 10');
   });
 });
 
