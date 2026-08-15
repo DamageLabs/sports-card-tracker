@@ -1,10 +1,39 @@
 import { Router, Request, Response } from 'express';
 import Database from '../database';
 import AuditService from '../services/auditService';
+import GradePredictionService from '../services/gradePredictionService';
 import { AuthenticatedRequest, CardInput } from '../types';
 
-export function createCardRoutes(db: Database, auditService: AuditService): Router {
+export function createCardRoutes(
+  db: Database,
+  auditService: AuditService,
+  gradePredictionService?: GradePredictionService
+): Router {
   const router = Router();
+
+  // POST /api/cards/:id/predict-grade — scan-based condition analysis:
+  // deterministic centering measurement + vision assessment of corners,
+  // edges, and surface. Stores the result on the card's enhancedAttributes.
+  router.post('/:id/predict-grade', async (req: AuthenticatedRequest, res: Response) => {
+    if (!gradePredictionService) {
+      res.status(503).json({ error: 'Grade prediction not available (ANTHROPIC_API_KEY not configured)' });
+      return;
+    }
+    try {
+      const prediction = await gradePredictionService.predictGrade(req.params.id);
+      auditService.log(req, {
+        action: 'card.predict_grade',
+        entity: 'card',
+        entityId: req.params.id,
+        details: { ceiling: prediction.ceiling, range: prediction.estimatedRange, caps: prediction.caps },
+      });
+      res.json(prediction);
+    } catch (error) {
+      const msg = error instanceof Error ? error.message : String(error);
+      console.error('Error predicting grade:', msg);
+      res.status(500).json({ error: `Failed to predict grade: ${msg}` });
+    }
+  });
 
   // Get all cards (or find by image filename)
   router.get('/', async (req: Request, res: Response) => {

@@ -578,6 +578,7 @@ export interface AuditDetailsMap {
   'card.create': { player: string; year: number; brand: string };
   'card.update': { player: string; year: number; brand: string };
   'card.delete': undefined;
+  'card.predict_grade': { ceiling: number; range: string; caps: Record<string, number> };
   'job.create': { type: string };
   'job.cancel': { type: string };
   'collection.create': { name: string };

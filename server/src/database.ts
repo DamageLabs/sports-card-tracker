@@ -557,6 +557,21 @@ class Database {
 
   // ─── Storage ──────────────────────────────────────────────────────────────────
 
+  /** Merge one key into a card's enhancedAttributes JSON without touching other fields. */
+  public async updateCardEnhancedAttribute(id: string, key: string, value: Record<string, unknown>): Promise<Card | undefined> {
+    const existing = await this.getCardById(id);
+    if (!existing) return undefined;
+
+    const updatedAt = new Date().toISOString();
+    const merged = { ...(existing.enhancedAttributes || {}), [key]: value };
+    this.db.update(cards).set({
+      enhancedAttributes: merged,
+      updatedAt,
+    }).where(eq(cards.id, id)).run();
+
+    return { ...existing, enhancedAttributes: merged, updatedAt };
+  }
+
   public async updateCardStorage(id: string, location: StorageLocation | null): Promise<Card | undefined> {
     const existing = await this.getCardById(id);
     if (!existing) return undefined;
