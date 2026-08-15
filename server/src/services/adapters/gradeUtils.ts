@@ -45,16 +45,25 @@ export function filterByGrade<T>(
   request: CompRequest,
   gradeExtractor?: (sale: T) => GradeInfo | null
 ): T[] {
-  if (!request.isGraded || !request.gradingCompany || !request.grade) return sales;
-
-  const targetCompany = request.gradingCompany.toUpperCase();
-  const targetGrade = request.grade;
-
   const extract = gradeExtractor ?? ((s: T) => {
     const rec = s as Record<string, unknown>;
     if (typeof rec.title === 'string') return extractGradeFromTitle(rec.title);
     return null;
   });
+
+  // Raw card: graded sales price a different asset (often 10-50x), so exclude
+  // any sale whose title carries a grading marker. No graded fallback — zero
+  // ungraded sales is an honest "no data", while graded sales would poison
+  // the aggregate the way a wrong-card match does.
+  if (!request.isGraded) {
+    return sales.filter(s => extract(s) === null);
+  }
+
+  // Graded but company/grade unknown: can't target a grade, keep everything.
+  if (!request.gradingCompany || !request.grade) return sales;
+
+  const targetCompany = request.gradingCompany.toUpperCase();
+  const targetGrade = request.grade;
 
   // Tier 1: exact match (same company + same grade)
   const exact = sales.filter(s => {

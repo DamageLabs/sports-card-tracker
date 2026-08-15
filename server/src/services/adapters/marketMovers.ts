@@ -308,9 +308,15 @@ function scoreCollectibleMatch(
     if (itemGrade === wantGrade) score += 15;
     else if (itemGrade.includes(request.gradingCompany.toLowerCase())) score += 5;
   } else {
-    // Raw card — prefer ungraded entries
+    // Raw card — graded entries price a different asset; make them ineligible
+    // rather than merely less-preferred, so a graded item can never win when
+    // no ungraded entry exists.
     const gradeName = item.grade?.name?.toLowerCase() || '';
-    if (!item.grade || gradeName === 'raw' || gradeName === '') score += 15;
+    if (!item.grade || gradeName === 'raw' || gradeName === '') {
+      score += 15;
+    } else {
+      return -1;
+    }
   }
 
   // Rookie bonus
