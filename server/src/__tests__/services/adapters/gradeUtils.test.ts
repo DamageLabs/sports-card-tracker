@@ -59,10 +59,20 @@ describe('extractGradeFromTitle', () => {
 describe('filterByGrade', () => {
   const mkSale = (title: string) => ({ title, price: 100, date: '2026-01-15' });
 
-  it('returns all sales for ungraded request', () => {
+  it('excludes graded sales for ungraded request', () => {
     const sales = [mkSale('PSA 10 Trout'), mkSale('BGS 9.5 Trout'), mkSale('Raw Trout')];
     const request: CompRequest = { cardId: '1', player: 'Mike Trout', year: 2023, brand: 'Topps', cardNumber: '1' };
-    expect(filterByGrade(sales, request)).toHaveLength(3);
+    const result = filterByGrade(sales, request);
+    expect(result).toHaveLength(1);
+    expect((result[0] as { title: string }).title).toBe('Raw Trout');
+  });
+
+  it('returns empty for ungraded request when only graded sales exist', () => {
+    // No graded fallback: an empty result is honest "no data", while graded
+    // sales would poison a raw card's aggregate.
+    const sales = [mkSale('PSA 10 Trout'), mkSale('SGC 9 Trout')];
+    const request: CompRequest = { cardId: '1', player: 'Mike Trout', year: 2023, brand: 'Topps', cardNumber: '1' };
+    expect(filterByGrade(sales, request)).toHaveLength(0);
   });
 
   it('returns all sales when gradingCompany is missing', () => {

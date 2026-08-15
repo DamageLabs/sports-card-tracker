@@ -191,14 +191,15 @@ describe('CompService', () => {
       const service = new CompService(fileService);
       const report = await service.generateComps(sampleRequest);
 
-      expect(report.sources).toHaveLength(6);
+      // 5 of 6 adapters: PSA is skipped for the ungraded sampleRequest
+      expect(report.sources).toHaveLength(5);
       const sourceNames = report.sources.map(s => s.source);
       expect(sourceNames).toContain('SportsCardsPro');
       expect(sourceNames).toContain('eBay');
       expect(sourceNames).toContain('CardLadder');
       expect(sourceNames).toContain('MarketMovers');
       expect(sourceNames).toContain('130Point');
-      expect(sourceNames).toContain('PSA');
+      expect(sourceNames).not.toContain('PSA'); // skipped: sampleRequest is ungraded
       // All default adapters return stub errors (no browser service / no network)
       expect(report.sources.every(s => s.error)).toBe(true);
     } finally {
@@ -258,7 +259,11 @@ describe('CompService', () => {
     expect(report.sources).toHaveLength(2);
   });
 
-  it('keeps PSA adapter for raw/ungraded card', async () => {
+  it('skips PSA adapter for raw/ungraded card', async () => {
+    // PSA auction results are always graded — they price a different asset
+    // than a raw card, so the source is excluded from the main ungraded
+    // request. The PSA 10/9 grade-projection sub-requests ARE graded, so
+    // they may still consult the PSA adapter.
     const psaAdapter = createMockAdapter('PSA', { averagePrice: 100, marketValue: 100 });
     const fetchSpy = jest.spyOn(psaAdapter, 'fetchComps');
     const ebayAdapter = createMockAdapter('eBay', { averagePrice: 50, marketValue: 50 });
@@ -266,8 +271,13 @@ describe('CompService', () => {
     const service = new CompService(fileService, [ebayAdapter, psaAdapter]);
     const report = await service.generateComps(sampleRequest); // ungraded
 
-    expect(fetchSpy).toHaveBeenCalled();
-    expect(report.sources).toHaveLength(2);
+    expect(report.sources).toHaveLength(1);
+    expect(report.sources[0].source).toBe('eBay');
+    // Any PSA calls must have come from graded projection sub-requests
+    for (const call of fetchSpy.mock.calls) {
+      expect(call[0].isGraded).toBe(true);
+      expect(call[0].gradingCompany).toBe('PSA');
+    }
   });
 
   it('accepts optional browserService and cacheService in constructor', async () => {
@@ -298,7 +308,8 @@ describe('CompService', () => {
       );
       const report = await service.generateComps(sampleRequest);
 
-      expect(report.sources).toHaveLength(6);
+      // 5 of 6 adapters: PSA is skipped for the ungraded sampleRequest
+      expect(report.sources).toHaveLength(5);
       // Browser not running / no network so all should return stub errors
       expect(report.sources.every(s => s.error)).toBe(true);
     } finally {

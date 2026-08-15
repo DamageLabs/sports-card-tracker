@@ -81,13 +81,18 @@ function buildTableRows(
   ]);
 }
 
+// CompService only routes PSA-graded requests to this adapter (raw and
+// non-PSA graded cards skip the PSA source), so the sample request is graded.
 const sampleRequest: CompRequest = {
   cardId: 'card-1',
   player: 'Mike Trout',
   year: 2023,
   brand: 'Topps',
   cardNumber: '1',
-  condition: 'RAW',
+  condition: '10: GEM MINT',
+  isGraded: true,
+  gradingCompany: 'PSA',
+  grade: '10',
 };
 
 // ─── Adapter Tests ───────────────────────────────────────────────────────────
@@ -225,7 +230,10 @@ describe('PsaAdapter', () => {
     expect(result.high).toBe(500);
   });
 
-  it('returns all grades for ungraded cards', async () => {
+  it('returns no sales for ungraded cards (PSA data is graded-only)', async () => {
+    // CompService never routes raw cards here, but if called directly the
+    // grade filter must still exclude every graded sale rather than let
+    // graded prices stand in for a raw card's value.
     const tableRows = buildTableRows([
       { grade: '10', venue: 'eBay', date: 'Feb 3, 2026', price: '$500.00' },
       { grade: '8', venue: 'eBay', date: 'Jan 5, 2026', price: '$50.00' },
@@ -234,10 +242,15 @@ describe('PsaAdapter', () => {
 
     const { browserService } = createMockBrowserService({ tableRows });
     const adapter = new PsaAdapter(browserService as any);
-    const result = await adapter.fetchComps(sampleRequest);
+    const result = await adapter.fetchComps({
+      ...sampleRequest,
+      condition: 'RAW',
+      isGraded: false,
+      gradingCompany: undefined,
+      grade: undefined,
+    });
 
-    expect(result.error).toBeUndefined();
-    expect(result.sales).toHaveLength(3);
+    expect(result.sales).toHaveLength(0);
   });
 
   it('returns all grades for non-PSA graded cards', async () => {

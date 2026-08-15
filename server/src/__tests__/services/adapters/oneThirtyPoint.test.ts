@@ -269,14 +269,17 @@ describe('filterByRelevance', () => {
     expect(result.every(s => s.price <= 125)).toBe(true);
   });
 
-  it('does not grade-filter ungraded requests', () => {
+  it('excludes graded sales for ungraded requests', () => {
+    // Graded sales price a different asset — a raw card's comps must not
+    // include slabbed solds.
     const mixed = [
       { price: 120, date: '01/15/2026', title: '2023 Topps Trout PSA 8', marketplace: 'eBay' },
       { price: 300, date: '01/14/2026', title: '2023 Topps Trout PSA 10', marketplace: 'eBay' },
       { price: 50, date: '01/13/2026', title: '2023 Topps Trout raw', marketplace: 'eBay' },
     ];
     const result = filterByRelevance(mixed, sampleRequest);
-    expect(result).toHaveLength(3);
+    expect(result).toHaveLength(1);
+    expect(result[0].price).toBe(50);
   });
 });
 
@@ -450,8 +453,8 @@ describe('OneThirtyPointAdapter', () => {
   it('populates CompSale.grade from title', async () => {
     const html = buildSampleHtml([
       { price: 120, title: '2023 Topps Mike Trout #1 PSA 10', date: '01/15/2026' },
-      { price: 50, title: '2023 Topps Mike Trout #1', date: '01/14/2026' },
-      { price: 130, title: '2023 Topps Mike Trout #1 BGS 9.5', date: '01/13/2026' },
+      { price: 110, title: '2023 Topps Mike Trout #1 PSA 10 GEM', date: '01/14/2026' },
+      { price: 130, title: '2023 Topps Mike Trout #1 PSA 9', date: '01/13/2026' },
     ]);
 
     jest.spyOn(global, 'fetch').mockResolvedValue({
@@ -461,11 +464,16 @@ describe('OneThirtyPointAdapter', () => {
     } as Response);
 
     const adapter = new OneThirtyPointAdapter(undefined, undefined, 0);
-    const result = await adapter.fetchComps(sampleRequest);
+    const result = await adapter.fetchComps({
+      ...sampleRequest,
+      isGraded: true,
+      gradingCompany: 'PSA',
+      grade: '10',
+      condition: '10: GEM MINT',
+    });
 
     expect(result.sales![0].grade).toBe('PSA 10');
-    expect(result.sales![1].grade).toBeUndefined();
-    expect(result.sales![2].grade).toBe('BGS 9.5');
+    expect(result.sales![1].grade).toBe('PSA 10');
   });
 
   it('grade-filters at adapter level when 3+ matches', async () => {
