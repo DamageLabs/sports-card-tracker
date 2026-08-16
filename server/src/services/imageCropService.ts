@@ -219,6 +219,31 @@ class ImageCropService {
       return Math.sqrt(dr * dr + dg * dg + db * db) < bgT;
     };
 
+    // Texture gate: the scanner mat is smooth while card artwork is textured,
+    // so a line only counts as background if its chroma matches AND it is
+    // flat. Without this, warm card art (comic-style yellows/oranges) chroma-
+    // matches a yellow mat and the crop eats into the card.
+    const lum = (idx: number): number => (raw[idx] + raw[idx + 1] + raw[idx + 2]) / 3;
+    const TEXTURE_MAX = 5;
+
+    const colTexture = (x: number, yStart: number, yEnd: number): number => {
+      let sum = 0, n = 0;
+      for (let y = yStart + 3; y < yEnd; y += 3) {
+        sum += Math.abs(lum((y * w + x) * ch) - lum(((y - 3) * w + x) * ch));
+        n++;
+      }
+      return n > 0 ? sum / n : 0;
+    };
+
+    const rowTexture = (y: number, xStart: number, xEnd: number): number => {
+      let sum = 0, n = 0;
+      for (let x = xStart + 3; x < xEnd; x += 3) {
+        sum += Math.abs(lum((y * w + x) * ch) - lum((y * w + x - 3) * ch));
+        n++;
+      }
+      return n > 0 ? sum / n : 0;
+    };
+
     // Background ratio for a column (sampled every 3 pixels for speed)
     const colBgRatio = (x: number, yStart: number, yEnd: number): number => {
       let bgCnt = 0, tot = 0;
@@ -239,11 +264,17 @@ class ImageCropService {
       return tot > 0 ? bgCnt / tot : 1;
     };
 
+    const colIsBgLike = (x: number, yS: number, yE: number): boolean =>
+      colBgRatio(x, yS, yE) >= (1 - cardT) && colTexture(x, yS, yE) <= TEXTURE_MAX;
+
+    const rowIsBgLike = (y: number, xS: number, xE: number): boolean =>
+      rowBgRatio(y, xS, xE) >= (1 - cardT) && rowTexture(y, xS, xE) <= TEXTURE_MAX;
+
     // Is this a real card edge? Look ahead to check if background doesn't resume.
     const isRealEdgeCol = (x: number, dir: number, yS: number, yE: number): boolean => {
       let bgCols = 0;
       for (let i = 1; i <= look && x + i * dir >= 0 && x + i * dir < w; i++) {
-        if (colBgRatio(x + i * dir, yS, yE) >= (1 - cardT)) bgCols++;
+        if (colIsBgLike(x + i * dir, yS, yE)) bgCols++;
       }
       return bgCols <= look * 0.3;
     };
@@ -251,7 +282,7 @@ class ImageCropService {
     const isRealEdgeRow = (y: number, dir: number, xS: number, xE: number): boolean => {
       let bgRows = 0;
       for (let i = 1; i <= look && y + i * dir >= 0 && y + i * dir < h; i++) {
-        if (rowBgRatio(y + i * dir, xS, xE) >= (1 - cardT)) bgRows++;
+        if (rowIsBgLike(y + i * dir, xS, xE)) bgRows++;
       }
       return bgRows <= look * 0.3;
     };
@@ -259,25 +290,25 @@ class ImageCropService {
     // Scan left
     let left = 0;
     for (let x = 0; x < w / 2; x++) {
-      if (colBgRatio(x, 0, h) < (1 - cardT) && isRealEdgeCol(x, 1, 0, h)) { left = x; break; }
+      if (!colIsBgLike(x, 0, h) && isRealEdgeCol(x, 1, 0, h)) { left = x; break; }
     }
 
     // Scan right
     let right = w;
     for (let x = w - 1; x > w / 2; x--) {
-      if (colBgRatio(x, 0, h) < (1 - cardT) && isRealEdgeCol(x, -1, 0, h)) { right = x + 1; break; }
+      if (!colIsBgLike(x, 0, h) && isRealEdgeCol(x, -1, 0, h)) { right = x + 1; break; }
     }
 
     // Scan top (constrained to left/right bounds)
     let top = 0;
     for (let y = 0; y < h / 2; y++) {
-      if (rowBgRatio(y, left, right) < (1 - cardT) && isRealEdgeRow(y, 1, left, right)) { top = y; break; }
+      if (!rowIsBgLike(y, left, right) && isRealEdgeRow(y, 1, left, right)) { top = y; break; }
     }
 
     // Scan bottom (constrained to left/right bounds)
     let bottom = h;
     for (let y = h - 1; y > h / 2; y--) {
-      if (rowBgRatio(y, left, right) < (1 - cardT) && isRealEdgeRow(y, -1, left, right)) { bottom = y + 1; break; }
+      if (!rowIsBgLike(y, left, right) && isRealEdgeRow(y, -1, left, right)) { bottom = y + 1; break; }
     }
 
     return { left, top, width: right - left, height: bottom - top };
