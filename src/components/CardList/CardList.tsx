@@ -5,6 +5,9 @@ import LoadingSkeleton from '../LoadingSkeleton/LoadingSkeleton';
 import MoveCardsModal from '../MoveCardsModal/MoveCardsModal';
 import { apiService, PopRarityTier, CompReport } from '../../services/api';
 import CompReportModal from '../ProcessedGallery/CompReportModal';
+import GradeReportModal, { GradePredictionData } from './GradeReportModal';
+import { GradingRoiAnalyzer } from '../GradingRoiAnalyzer/GradingRoiAnalyzer';
+import { calculateGradingRoi, DEFAULT_GRADING_SHIPPING, minEligiblePsaTier } from '../../utils/gradingRoiCalculator';
 import './CardList.css';
 
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:8000/api';
@@ -37,6 +40,44 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
   const [compLoadingId, setCompLoadingId] = useState<string | null>(null);
   const [gradePredictLoadingId, setGradePredictLoadingId] = useState<string | null>(null);
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set());
+  const [gradeReport, setGradeReport] = useState<{ cardName: string; prediction: GradePredictionData } | null>(null);
+  const [roiCard, setRoiCard] = useState<Card | null>(null);
+
+  // Raw cards worth grading: the ROI engine recommends it on value grounds,
+  // and the scan-based prediction (when present) says a high grade is
+  // actually achievable. Same math as the Grading ROI modal, so the pill
+  // never disagrees with the full analysis.
+  const gradeCandidates = useMemo(() => {
+    const ids = new Set<string>();
+    for (const card of state.cards) {
+      if (card.gradingCompany || card.sellDate) continue;
+      if (!card.currentValue || card.currentValue <= 0) continue;
+      try {
+        const roi = calculateGradingRoi({
+          rawValue: card.currentValue,
+          purchasePrice: card.purchasePrice || 0,
+          condition: card.condition || 'Near Mint-Mint',
+          gradingCompany: 'PSA',
+          gradingTier: minEligiblePsaTier(card.currentValue),
+          shippingCost: DEFAULT_GRADING_SHIPPING,
+        });
+        if (roi.recommendation !== 'Grade') continue;
+        // Prediction veto is economic: if the scan says the card caps at a
+        // grade whose projected value still beats the total investment (which
+        // uses the real purchase price when known), grading remains rational.
+        // Only suppress when the achievable grade would lose money.
+        const gp = card.enhancedAttributes?.gradePrediction as { ceiling?: number } | undefined;
+        if (gp?.ceiling !== undefined) {
+          const achievable = roi.projections.find(p => parseFloat(p.grade) <= gp.ceiling!);
+          if (!achievable || achievable.netProfit <= 0) continue;
+        }
+        ids.add(card.id);
+      } catch {
+        // recommendation is best-effort
+      }
+    }
+    return ids;
+  }, [state.cards]);
 
   const toggleExpanded = useCallback((cardId: string) => {
     setExpandedIds(prev => {
@@ -341,7 +382,7 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
     setGradePredictLoadingId(card.id);
     try {
       const prediction = await apiService.predictGrade(card.id);
-      alert(`Grade prediction for ${card.player}:\n\nEstimated range: ${prediction.estimatedRange} (ceiling ${prediction.ceiling})\n\n${prediction.summary}`);
+      setGradeReport({ cardName: `${card.player} — ${card.year} ${card.brand}`, prediction: prediction as GradePredictionData });
       refreshCards();
     } catch (err) {
       alert(`Grade prediction failed: ${err instanceof Error ? err.message : 'Unknown error'}`);
@@ -618,11 +659,17 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                 <span className={`cl-grade-tag ${card.gradingCompany ? 'graded' : 'raw'}`}>
                   {card.gradingCompany ? `${card.gradingCompany} ${card.grade || ''}`.trim() : 'RAW'}
                 </span>
+                {gradeCandidates.has(card.id) && (
+                  <span
+                    className="cl-grade-candidate"
+                    title="Grading ROI analysis recommends grading this card — click for the full breakdown"
+                    onClick={(e) => { e.stopPropagation(); setRoiCard(card); }}
+                  >
+                    Grade It
+                  </span>
+                )}
                 {exportedIds.has(card.id) && (
-                  <>
-                    <span className="cl-essentials-sep">·</span>
-                    <span className="cl-listed-dot" title="Exported to eBay">eBay</span>
-                  </>
+                  <span className="cl-listed-dot" title="Exported to eBay">eBay</span>
                 )}
               </div>
             </div>
@@ -682,8 +729,18 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
                     </span>
                   )}
                   {!card.gradingCompany && gp?.estimatedRange && (
-                    <span className="card-psa9-projection-badge" title={gp.summary || 'Scan-based grade prediction'}>
-                      Est. Grade {gp.estimatedRange}
+                    <span
+                      className="card-psa9-projection-badge cl-grade-report-link"
+                      title="Open the full grade report (centering, factor caps, defect evidence)"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setGradeReport({
+                          cardName: `${card.player} — ${card.year} ${card.brand}`,
+                          prediction: gp as GradePredictionData,
+                        });
+                      }}
+                    >
+                      Est. Grade {gp.estimatedRange} ↗
                     </span>
                   )}
                 </div>
@@ -753,6 +810,18 @@ const CardList: React.FC<CardListProps> = ({ onCardSelect, onEditCard, selectedC
             if (compReportCardId) applyCompReport(compReportCardId, updated);
             return updated;
           }}
+        />
+      )}
+
+      {roiCard && (
+        <GradingRoiAnalyzer card={roiCard} onClose={() => setRoiCard(null)} />
+      )}
+
+      {gradeReport && (
+        <GradeReportModal
+          cardName={gradeReport.cardName}
+          prediction={gradeReport.prediction}
+          onClose={() => setGradeReport(null)}
         />
       )}
     </div>

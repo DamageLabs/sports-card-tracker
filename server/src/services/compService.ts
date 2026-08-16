@@ -45,6 +45,11 @@ export interface NormalizedSale {
  * Parse various date formats into epoch ms.
  * Returns null for empty/unparseable strings.
  */
+/** Money values are stored and reported at cent precision. */
+export function round2(v: number | null): number | null {
+  return v === null || v === undefined ? null : Math.round(v * 100) / 100;
+}
+
 export function normalizeDate(dateStr: string): number | null {
   if (!dateStr || !dateStr.trim()) return null;
   const trimmed = dateStr.trim();
@@ -474,10 +479,10 @@ class CompService {
       const result = computeWeightedTrimmedMean(deduped, nowMs, SOURCE_RELIABILITY);
       if (result) {
         return {
-          aggregateAverage: result.average,
-          aggregateMedian: computeMedianPrice(deduped),
-          aggregateLow: result.low,
-          aggregateHigh: result.high,
+          aggregateAverage: round2(result.average),
+          aggregateMedian: round2(computeMedianPrice(deduped)),
+          aggregateLow: round2(result.low),
+          aggregateHigh: round2(result.high),
         };
       }
     }
@@ -486,10 +491,10 @@ class CompService {
     const fallback = computeFallbackFromMarketValues(results);
     if (fallback) {
       return {
-        aggregateAverage: fallback.average,
+        aggregateAverage: round2(fallback.average),
         aggregateMedian: null,
-        aggregateLow: fallback.low,
-        aggregateHigh: fallback.high,
+        aggregateLow: round2(fallback.low),
+        aggregateHigh: round2(fallback.high),
       };
     }
 

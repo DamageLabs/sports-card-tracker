@@ -21,6 +21,20 @@ export interface CenteringResult {
   note?: string;
 }
 
+/** A single identified defect — TAG DIG-report style inventory entry. */
+export interface CardDefect {
+  side: 'front' | 'back';
+  area: 'corner' | 'edge' | 'surface';
+  /** eg. "top-left corner", "bottom edge", "center" */
+  location: string;
+  /** eg. whitening | fray | ding | pit | scratch | print-line | crease | stain */
+  type: string;
+  severity: 'minor' | 'moderate' | 'severe';
+  description: string;
+  /** Evidence crop saved to the analysis dir, served via /api/files/analysis/. */
+  cropFile?: string;
+}
+
 export interface ConditionAssessment {
   corners: { topLeft: number; topRight: number; bottomLeft: number; bottomRight: number };
   cornerNotes: string;
@@ -28,6 +42,7 @@ export interface ConditionAssessment {
   edgeNotes: string;
   surface: number;
   surfaceNotes: string;
+  defects: CardDefect[];
 }
 
 export interface GradePrediction {
@@ -36,6 +51,8 @@ export interface GradePrediction {
   frontCentering: CenteringResult;
   backCentering: CenteringResult | null;
   condition: ConditionAssessment | null;
+  backCondition: ConditionAssessment | null;
+  defects: CardDefect[];
   caps: { centering: number; corners: number; edges: number; surface: number };
   /** Best grade this card could plausibly achieve (a ceiling — scans hide surface issues). */
   ceiling: number;
@@ -177,6 +194,32 @@ export function measureCentering(img: GrayImage, approx: CardBounds): CenteringR
   const frameT = strongestPeak(y => rowGradient(img, y, bandX0, bandX1), edgeT.pos + skip, edgeT.pos + reach);
   const frameB = strongestPeak(y => rowGradient(img, y, bandX0, bandX1), edgeB.pos - skip, edgeB.pos - reach);
 
+  // A real printed frame is a continuous line across the card; strong
+  // gradients from artwork (full-art/borderless designs) are patchy. Require
+  // the detected frame line to be strong in most segments of the band, so a
+  // design element can't masquerade as a border and produce fake centering.
+  const LINE_SEGMENTS = 6;
+  const rowLineConsistent = (y: number, x0: number, x1: number): boolean => {
+    const step = Math.floor((x1 - x0) / LINE_SEGMENTS);
+    if (step < 6) return true;
+    let ok = 0;
+    for (let s = 0; s < LINE_SEGMENTS; s++) {
+      const sx = x0 + s * step;
+      if (rowGradient(img, y, sx, sx + step) >= 6) ok++;
+    }
+    return ok >= LINE_SEGMENTS - 1;
+  };
+  const colLineConsistent = (x: number, y0: number, y1: number): boolean => {
+    const step = Math.floor((y1 - y0) / LINE_SEGMENTS);
+    if (step < 6) return true;
+    let ok = 0;
+    for (let s = 0; s < LINE_SEGMENTS; s++) {
+      const sy = y0 + s * step;
+      if (colGradient(img, x, sy, sy + step) >= 6) ok++;
+    }
+    return ok >= LINE_SEGMENTS - 1;
+  };
+
   // Each axis stands on its own: a card edge lost in holder shadow on one
   // side (common for dark borders) shouldn't void the measurable axis.
   const EDGE_MIN = 6, FRAME_MIN = 8;
@@ -186,9 +229,11 @@ export function measureCentering(img: GrayImage, approx: CardBounds): CenteringR
   const mB = edgeB.pos - frameB.pos;
 
   const lrOk = edgeL.strength >= EDGE_MIN && edgeR.strength >= EDGE_MIN &&
-    frameL.strength >= FRAME_MIN && frameR.strength >= FRAME_MIN && mL > 0 && mR > 0;
+    frameL.strength >= FRAME_MIN && frameR.strength >= FRAME_MIN && mL > 0 && mR > 0 &&
+    colLineConsistent(frameL.pos, bandY0, bandY1) && colLineConsistent(frameR.pos, bandY0, bandY1);
   const tbOk = edgeT.strength >= EDGE_MIN && edgeB.strength >= EDGE_MIN &&
-    frameT.strength >= FRAME_MIN && frameB.strength >= FRAME_MIN && mT > 0 && mB > 0;
+    frameT.strength >= FRAME_MIN && frameB.strength >= FRAME_MIN && mT > 0 && mB > 0 &&
+    rowLineConsistent(frameT.pos, bandX0, bandX1) && rowLineConsistent(frameB.pos, bandX0, bandX1);
 
   if (!lrOk && !tbOk) {
     return { measurable: false, note: 'No consistent printed frame detected (borderless/full-bleed design?)' };
@@ -210,6 +255,15 @@ export function measureCentering(img: GrayImage, approx: CardBounds): CenteringR
   }
   if (!lrOk) result.note = 'Left/right axis not measurable (weak edge or frame contrast)';
   if (!tbOk) result.note = 'Top/bottom axis not measurable (weak edge or frame contrast)';
+
+  // Readings worse than 80/20 are rare on factory-cut cards; more often the
+  // scan captured a card shifted inside its holder, or the frame search
+  // locked onto a design element. Keep the numbers but flag them.
+  const extreme = Math.max(result.worstLR ?? 0, result.worstTB ?? 0) > 80;
+  if (extreme) {
+    result.note = [result.note, 'Extreme ratio — verify manually (possible holder offset or frame misdetection)']
+      .filter(Boolean).join('; ');
+  }
   return result;
 }
 
@@ -274,7 +328,12 @@ class GradePredictionService {
   }
 
   /** Crop corner/edge close-ups and get a structured condition assessment. */
-  private async assessCondition(imgPath: string, bounds: CardBounds): Promise<ConditionAssessment | null> {
+  private async assessCondition(
+    imgPath: string,
+    bounds: CardBounds,
+    side: 'front' | 'back',
+    cardId: string
+  ): Promise<ConditionAssessment | null> {
     const w = bounds.right - bounds.left;
     const h = bounds.bottom - bounds.top;
     const corner = Math.round(Math.min(w, h) * 0.14);
@@ -301,33 +360,66 @@ class GradePredictionService {
     ];
 
     const content: Anthropic.MessageParam['content'] = [];
+    const cropBuffers = new Map<string, Buffer>();
     for (const c of crops) {
-      const buf = await sharp(imgPath).extract(c.r).resize({ width: 400, withoutEnlargement: false }).jpeg({ quality: 90 }).toBuffer();
+      // fit: 'inside' bounds BOTH dimensions — a tall narrow edge strip
+      // resized by width alone can exceed the API's 8000px image limit.
+      const buf = await sharp(imgPath).extract(c.r)
+        .resize({ width: 400, height: 1000, fit: 'inside', withoutEnlargement: false })
+        .jpeg({ quality: 90 }).toBuffer();
+      cropBuffers.set(c.label, buf);
       content.push({ type: 'text', text: c.label + ':' });
       content.push({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: buf.toString('base64') } });
     }
     // Full card for surface context, downscaled
     const full = await sharp(imgPath).extract(region(bounds.left, bounds.top, w, h)).resize({ width: 700 }).jpeg({ quality: 85 }).toBuffer();
+    cropBuffers.set('full card', full);
     content.push({ type: 'text', text: 'full card:' });
     content.push({ type: 'image', source: { type: 'base64', media_type: 'image/jpeg', data: full.toString('base64') } });
     content.push({
       type: 'text',
-      text: `You are assessing trading card condition from scan close-ups. Score each area 1-10 where 10 = flawless for grading purposes (sharp corner / clean edge / clean surface) and lower = visible wear (whitening, fuzz, dings, chipping, scratches, print defects). Scans hide some surface issues, so score only what is visible.
+      text: `You are assessing the ${side.toUpperCase()} of a trading card from scan close-ups. Score each area 1-10 where 10 = flawless for grading purposes (sharp corner / clean edge / clean surface) and lower = visible wear. Scans hide some surface issues, so score only what is visible.
+
+IMPORTANT — the card may be inside a clear protective holder (top-loader, one-touch, screw-down case). Score the CARD only. Do NOT count against the card: scratches, scuffs, dust, haze, glare, or reflections on the holder plastic; the holder's own edges, corners, or screw posts; shadows cast by the holder. Holder plastic often sits 1-3mm outside the card edge — wear visible on that outer boundary belongs to the holder, not the card. If you cannot tell whether a flaw is on the holder or the card, do not count it and do not list it as a defect; mention the uncertainty in the notes instead.
+
+Also list each individual visible defect. Allowed values: area = corner | edge | surface; location = one of "top-left corner", "top-right corner", "bottom-left corner", "bottom-right corner", "top edge", "bottom edge", "left edge", "right edge", or a brief surface position like "center" / "upper right area"; type = whitening | fray | ding | pit | scratch | print-line | crease | stain | chip | other; severity = minor | moderate | severe. Only include defects you can actually see — an empty list is a valid answer.
 
 Respond with ONLY this JSON:
-{"corners":{"topLeft":n,"topRight":n,"bottomLeft":n,"bottomRight":n},"cornerNotes":"...","edges":{"top":n,"bottom":n,"left":n,"right":n},"edgeNotes":"...","surface":n,"surfaceNotes":"..."}`,
+{"corners":{"topLeft":n,"topRight":n,"bottomLeft":n,"bottomRight":n},"cornerNotes":"...","edges":{"top":n,"bottom":n,"left":n,"right":n},"edgeNotes":"...","surface":n,"surfaceNotes":"...","defects":[{"area":"corner","location":"top-left corner","type":"whitening","severity":"minor","description":"..."}]}`,
     });
 
     const response = await this.getClient().messages.create({
       model: VISION_MODEL,
-      max_tokens: 1024,
+      max_tokens: 2048,
       messages: [{ role: 'user', content }],
     });
     const text = response.content.find(b => b.type === 'text');
     if (!text || text.type !== 'text') return null;
     try {
       const m = text.text.match(/\{[\s\S]+\}/);
-      return m ? (JSON.parse(m[0]) as ConditionAssessment) : null;
+      if (!m) return null;
+      const parsed = JSON.parse(m[0]) as ConditionAssessment;
+      parsed.defects = Array.isArray(parsed.defects) ? parsed.defects : [];
+
+      // Save an evidence crop per defect: the matching close-up when the
+      // location names a corner/edge, else the full-card context image.
+      const analysisDir = this.fileService.getAnalysisDir();
+      const idShort = cardId.slice(0, 8);
+      parsed.defects = parsed.defects.map((d, i) => {
+        const buf = cropBuffers.get(d.location) || cropBuffers.get('full card');
+        const defect: CardDefect = { ...d, side };
+        if (buf) {
+          const cropFile = `defect-${idShort}-${side}-${i + 1}.jpg`;
+          try {
+            fs.writeFileSync(path.join(analysisDir, cropFile), buf);
+            defect.cropFile = cropFile;
+          } catch {
+            // evidence crop is best-effort
+          }
+        }
+        return defect;
+      });
+      return parsed;
     } catch {
       return null;
     }
@@ -352,17 +444,19 @@ Respond with ONLY this JSON:
     if (frontBounds) {
       const gray = await loadGray(frontPath);
       frontCentering = measureCentering(gray, frontBounds);
-      condition = await this.assessCondition(frontPath, frontBounds);
+      condition = await this.assessCondition(frontPath, frontBounds, 'front', cardId);
     }
 
-    // Back centering (best-effort)
+    // Back: centering + condition (best-effort)
     let backCentering: CenteringResult | null = null;
+    let backCondition: ConditionAssessment | null = null;
     if (back) {
       const backPath = this.imagePath(back);
       if (fs.existsSync(backPath)) {
         const backBounds = await this.locateCard(backPath);
         if (backBounds) {
           backCentering = measureCentering(await loadGray(backPath), backBounds);
+          backCondition = await this.assessCondition(backPath, backBounds, 'back', cardId);
         }
       }
     }
@@ -374,11 +468,27 @@ Respond with ONLY this JSON:
       return vals.length > 0 ? Math.max(...vals) : undefined;
     };
     const capCentering = centeringCap(worstOf(frontCentering), worstOf(backCentering));
-    const minCorner = condition ? Math.min(...Object.values(condition.corners)) : 10;
-    const minEdge = condition ? Math.min(...Object.values(condition.edges)) : 10;
-    const capSurface = condition ? condition.surface : 10;
 
-    const caps = { centering: capCentering, corners: minCorner, edges: minEdge, surface: capSurface };
+    // Back wear caps the grade one step more leniently than front wear —
+    // graders weight the front, but a chewed back corner still kills a gem.
+    const factorCap = (front: number | undefined, backScore: number | undefined): number => {
+      const f = front ?? 10;
+      const b = backScore !== undefined ? Math.min(10, backScore + 1) : 10;
+      return Math.min(f, b);
+    };
+    const minOf = (obj: Record<string, number> | undefined): number | undefined =>
+      obj ? Math.min(...Object.values(obj)) : undefined;
+
+    const caps = {
+      centering: capCentering,
+      corners: factorCap(minOf(condition?.corners), minOf(backCondition?.corners)),
+      edges: factorCap(minOf(condition?.edges), minOf(backCondition?.edges)),
+      surface: factorCap(condition?.surface, backCondition?.surface),
+    };
+    const defects: CardDefect[] = [
+      ...(condition?.defects || []),
+      ...(backCondition?.defects || []),
+    ];
     const ceiling = Math.max(1, Math.min(caps.centering, caps.corners, caps.edges, caps.surface));
     const rangeLow = Math.max(1, ceiling - 2);
     const estimatedRange = rangeLow === ceiling ? String(ceiling) : `${rangeLow}-${ceiling}`;
@@ -394,7 +504,10 @@ Respond with ONLY this JSON:
     const centeringDesc = centeringParts.length > 0
       ? `front centering ${centeringParts.join(', ')}`
       : 'centering not measurable';
-    const summary = `Ceiling ${ceiling} (limited by ${limiting[0]}); ${centeringDesc}. Scan-based estimate — surface issues may be hidden; verify before submitting.`;
+    const defectDesc = defects.length > 0
+      ? `${defects.length} defect${defects.length === 1 ? '' : 's'} identified`
+      : 'no notable defects visible';
+    const summary = `Ceiling ${ceiling} (limited by ${limiting[0]}); ${centeringDesc}; ${defectDesc}. Scan-based estimate — surface issues may be hidden; verify before submitting.`;
 
     const prediction: GradePrediction = {
       predictedAt: new Date().toISOString(),
@@ -402,6 +515,8 @@ Respond with ONLY this JSON:
       frontCentering,
       backCentering,
       condition,
+      backCondition,
+      defects,
       caps,
       ceiling,
       estimatedRange,

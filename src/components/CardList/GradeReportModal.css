@@ -1,0 +1,268 @@
+.gr-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.gr-panel {
+  background: var(--bg-primary, #fff);
+  border-radius: var(--radius-xl, 12px);
+  max-width: 640px;
+  width: 100%;
+  max-height: 85vh;
+  overflow-y: auto;
+  padding: 20px 22px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+}
+
+.gr-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  border-bottom: 1px solid var(--border-light, #e5e7eb);
+  padding-bottom: 12px;
+  margin-bottom: 14px;
+}
+
+.gr-header h3 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.gr-card-name {
+  margin: 2px 0 0;
+  font-size: 0.8rem;
+  color: var(--text-secondary, #6b7280);
+}
+
+.gr-verdict {
+  margin-left: auto;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+}
+
+.gr-range {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #b45309;
+  line-height: 1;
+}
+
+.gr-range-label {
+  font-size: 0.65rem;
+  color: var(--text-secondary, #6b7280);
+  margin-top: 3px;
+}
+
+.gr-close {
+  border: none;
+  background: none;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--text-secondary, #6b7280);
+  padding: 0 0 0 6px;
+}
+
+.gr-section {
+  margin-bottom: 16px;
+}
+
+.gr-section h4 {
+  margin: 0 0 8px;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary, #6b7280);
+}
+
+.gr-measured-tag {
+  font-size: 0.6rem;
+  font-weight: 700;
+  color: #065f46;
+  background: #ecfdf5;
+  border: 1px solid #a7f3d0;
+  border-radius: 999px;
+  padding: 1px 7px;
+  vertical-align: middle;
+  margin-left: 6px;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.gr-centering-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.gr-centering-grid > div {
+  background: #fafaf9;
+  border: 1px solid var(--border-light, #e5e7eb);
+  border-radius: 8px;
+  padding: 8px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.gr-side-label {
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-secondary, #6b7280);
+}
+
+.gr-centering-value {
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.gr-caps-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.gr-cap {
+  text-align: center;
+  background: #fafaf9;
+  border: 1px solid var(--border-light, #e5e7eb);
+  border-radius: 8px;
+  padding: 8px 4px;
+}
+
+.gr-cap.limiting {
+  background: #fffbeb;
+  border-color: #fcd34d;
+}
+
+.gr-cap-value {
+  display: block;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.gr-cap.limiting .gr-cap-value {
+  color: #b45309;
+}
+
+.gr-cap-label {
+  display: block;
+  font-size: 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary, #6b7280);
+  margin-top: 2px;
+}
+
+.gr-no-defects {
+  font-size: 0.8rem;
+  color: var(--text-secondary, #6b7280);
+  margin: 0;
+}
+
+.gr-defects {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.gr-defect {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  border: 1px solid var(--border-light, #e5e7eb);
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.gr-defect-crop {
+  width: 84px;
+  height: 84px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+  border: 1px solid var(--border-light, #e5e7eb);
+}
+
+.gr-defect-info {
+  min-width: 0;
+}
+
+.gr-defect-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.gr-severity {
+  font-size: 0.58rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 1px 7px;
+  border-radius: 999px;
+}
+
+.gr-severity.minor {
+  background: #f0fdf4;
+  color: #166534;
+  border: 1px solid #bbf7d0;
+}
+
+.gr-severity.moderate {
+  background: #fffbeb;
+  color: #92400e;
+  border: 1px solid #fde68a;
+}
+
+.gr-severity.severe {
+  background: #fef2f2;
+  color: #991b1b;
+  border: 1px solid #fecaca;
+}
+
+.gr-defect-type {
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+
+.gr-defect-loc {
+  font-size: 0.68rem;
+  color: var(--text-secondary, #6b7280);
+}
+
+.gr-defect-desc {
+  margin: 4px 0 0;
+  font-size: 0.74rem;
+  color: var(--text-primary, #111827);
+  line-height: 1.4;
+}
+
+.gr-disclaimer {
+  font-size: 0.68rem;
+  color: var(--text-secondary, #6b7280);
+  border-top: 1px solid var(--border-light, #e5e7eb);
+  padding-top: 10px;
+  margin: 4px 0 0;
+  line-height: 1.5;
+}
+
+.cl-grade-report-link {
+  cursor: pointer;
+}
+
+.cl-grade-report-link:hover {
+  text-decoration: underline;
+}

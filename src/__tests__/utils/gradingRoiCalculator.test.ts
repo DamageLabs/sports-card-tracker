@@ -10,9 +10,11 @@ import {
 } from '../../utils/gradingRoiCalculator';
 import { SHIPPING_COSTS } from '../../utils/breakEvenCalculator';
 
+// purchasePrice 0 = "unknown" (the scan pipeline's default) — the calculator
+// falls back to rawValue as the cost basis, which these tests assume.
 const baseInput: GradingRoiInput = {
   rawValue: 100,
-  purchasePrice: 50,
+  purchasePrice: 0,
   condition: 'Near Mint-Mint',
   gradingCompany: 'PSA',
   gradingTier: 'Regular',
@@ -22,7 +24,7 @@ const baseInput: GradingRoiInput = {
 describe('gradingRoiCalculator', () => {
   describe('getGradingCost', () => {
     it('returns correct cost for known company and tier', () => {
-      expect(getGradingCost('PSA', 'Regular')).toBe(35);
+      expect(getGradingCost('PSA', 'Regular')).toBe(79.99);
       expect(getGradingCost('BGS', 'Economy')).toBe(22);
       expect(getGradingCost('SGC', 'Express')).toBe(50);
     });
@@ -84,13 +86,13 @@ describe('gradingRoiCalculator', () => {
 
     it('calculates grading cost from company/tier', () => {
       const result = calculateGradingRoi(baseInput);
-      expect(result.gradingCost).toBe(35); // PSA Regular
+      expect(result.gradingCost).toBe(79.99); // PSA Regular (June 2026 rates)
     });
 
     it('calculates total investment correctly', () => {
       const result = calculateGradingRoi(baseInput);
-      // rawValue(100) + gradingCost(35) + shipping(8)
-      expect(result.totalInvestment).toBe(143);
+      // rawValue(100) + gradingCost(79.99) + shipping(8)
+      expect(result.totalInvestment).toBe(187.99);
     });
 
     it('returns positive ROI for high-value NM-MT card', () => {
@@ -104,17 +106,17 @@ describe('gradingRoiCalculator', () => {
         ...baseInput,
         rawValue: 10, // Only worth $10 raw
       });
-      // totalInvestment = 10 + 35 + 8 = 53
-      // Even a PSA 10 is only 10*5 = 50, which is less than 53
+      // totalInvestment = 10 + 79.99 + 8 = 97.99
+      // Even a PSA 10 is only 10*5 = 50, which is less than 97.99
       expect(result.expectedProfit).toBeLessThan(0);
       expect(result.expectedRoi).toBeLessThan(0);
     });
 
     it('detects break-even grade', () => {
       const result = calculateGradingRoi(baseInput);
-      // totalInvestment = 143
-      // Grade 8 = 100*1.2 = 120 < 143, Grade 8.5 = 100*1.5 = 150 > 143
-      expect(result.breakEvenGrade).toBe('8.5');
+      // totalInvestment = 187.99
+      // Grade 8.5 = 100*1.5 = 150 < 187.99, Grade 9 = 100*2.0 = 200 > 187.99
+      expect(result.breakEvenGrade).toBe('9');
     });
 
     it('returns null break-even when no grade covers costs', () => {
@@ -124,6 +126,34 @@ describe('gradingRoiCalculator', () => {
       });
       // totalInvestment = 53, max value = 10*5 = 50
       expect(result.breakEvenGrade).toBeNull();
+    });
+
+    describe('purchase price cost basis', () => {
+      it('uses purchase price as the investment when known', () => {
+        const result = calculateGradingRoi({ ...baseInput, purchasePrice: 50 });
+        // purchasePrice(50) + gradingCost(79.99) + shipping(8) — NOT rawValue
+        expect(result.totalInvestment).toBe(137.99);
+      });
+
+      it('measures per-grade profit against the cost basis', () => {
+        const result = calculateGradingRoi({ ...baseInput, purchasePrice: 50 });
+        const grade10 = result.projections.find(p => p.grade === '10')!;
+        // Projected value still derives from market rawValue (100 * 5),
+        // but profit is measured against what was actually paid.
+        expect(grade10.projectedValue).toBe(500);
+        expect(grade10.netProfit).toBe(Math.round((500 - 137.99) * 100) / 100);
+      });
+
+      it('falls back to rawValue when purchase price is unknown (0)', () => {
+        const result = calculateGradingRoi({ ...baseInput, purchasePrice: 0 });
+        expect(result.totalInvestment).toBe(187.99);
+      });
+
+      it('a lower cost basis improves ROI for the same card', () => {
+        const atMarket = calculateGradingRoi(baseInput); // basis = rawValue 100
+        const boughtCheap = calculateGradingRoi({ ...baseInput, purchasePrice: 20 });
+        expect(boughtCheap.expectedRoi).toBeGreaterThan(atMarket.expectedRoi);
+      });
     });
 
     it('recommends Grade when ROI > 20% and break-even <= 9', () => {
@@ -143,14 +173,13 @@ describe('gradingRoiCalculator', () => {
 
     it('recommends Borderline when ROI is 0-20%', () => {
       // Find a rawValue that produces borderline ROI
-      // totalInvestment = rawValue + 35 + 8 = rawValue + 43
+      // totalInvestment = rawValue + 79.99 + 8 = rawValue + 87.99
       // We need EV / totalInvestment between 1.0 and 1.2
       // For NM-MT: EV multiplier ≈ 2.586x raw
-      // Need: 1.0 < 2.586*raw / (raw + 43) < 1.2
-      // At raw=30: EV=77.58, investment=73, ROI=6.3% → Borderline
+      // At raw=60: EV=155.16, investment=147.99, ROI≈4.8% → Borderline
       const result = calculateGradingRoi({
         ...baseInput,
-        rawValue: 30,
+        rawValue: 60,
       });
       expect(result.expectedRoi).toBeGreaterThanOrEqual(0);
       expect(result.expectedRoi).toBeLessThanOrEqual(20);
