@@ -1394,8 +1394,12 @@ class Database {
       sourceRows.push(source);
     }
 
-    // Update card's currentValue — prefer pop-adjusted average, fall back to raw aggregate
-    const bestValue = report.popAdjustedAverage ?? report.aggregateAverage;
+    // Update card's currentValue — prefer pop-adjusted average, fall back to
+    // raw aggregate. Money is stored at cent precision.
+    const rawBest = report.popAdjustedAverage ?? report.aggregateAverage;
+    const bestValue = rawBest !== null && rawBest !== undefined
+      ? Math.round(rawBest * 100) / 100
+      : rawBest;
     if (bestValue !== null && bestValue !== undefined) {
       const updatedAt = new Date().toISOString();
       this.db.update(cards).set({

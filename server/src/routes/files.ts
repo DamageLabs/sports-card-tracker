@@ -82,6 +82,16 @@ export function createFileRoutes(fileService: FileService, auditService: AuditSe
     res.sendFile(filePath);
   });
 
+  // Grade-analysis evidence crops (defect close-ups from grade prediction)
+  router.get('/analysis/:filename', (req: Request, res: Response) => {
+    const filePath = fileService.getFilePath(fileService.getAnalysisDir(), req.params.filename);
+    if (!filePath || !fileService.fileExists(fileService.getAnalysisDir(), req.params.filename)) {
+      res.status(404).json({ error: 'File not found' });
+      return;
+    }
+    res.sendFile(filePath);
+  });
+
   // Upload files to raw
   router.post('/raw/upload', (req: AuthenticatedRequest, res: Response, next: any) => {
     upload.array('files', MAX_FILES)(req as any, res as any, (err: any) => {

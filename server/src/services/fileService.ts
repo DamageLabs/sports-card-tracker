@@ -128,6 +128,16 @@ class FileService {
     return exportsDir;
   }
 
+  /** Grade-analysis evidence crops (defect close-ups). Kept out of processed/
+   *  so gallery listings and card-image lookups never see them. */
+  getAnalysisDir(): string {
+    const analysisDir = path.join(this.dataDir, 'analysis');
+    if (!fs.existsSync(analysisDir)) {
+      fs.mkdirSync(analysisDir, { recursive: true });
+    }
+    return analysisDir;
+  }
+
   private getSafePath(dir: string): string {
     const resolved = path.resolve(dir);
     return resolved;
