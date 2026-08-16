@@ -1,13 +1,42 @@
 import { SHIPPING_COSTS } from './breakEvenCalculator';
 
-// Grading cost per card by company and service tier (current published rates)
+// Grading cost per card by company and service tier.
+// PSA rates as of June 2026: the Value tiers (Value/Value Plus/Value Max/
+// Value Bulk) are PAUSED after the submission backlog spike — the entry
+// price is Regular at $79.99, and every tier is keyed to a Max Insured
+// Value that the card's declared value must not exceed.
 export const GRADING_COSTS: Record<string, Record<string, number>> = {
-  PSA:  { Economy: 20, Regular: 35, Express: 75, 'Super Express': 150, 'Walk-Through': 300 },
+  PSA:  {
+    Regular: 79.99, Express: 149, 'Super Express': 349, 'Walk-Through': 599,
+    'Premium 1': 999, 'Premium 2': 1999, 'Premium 3': 2999, 'Premium 5': 4999, 'Premium 10': 9999,
+  },
   BGS:  { Economy: 22, Regular: 40, Express: 80, 'Super Express': 150, 'Walk-Through': 300 },
   SGC:  { Economy: 15, Regular: 30, Express: 50, 'Super Express': 100 },
   CGC:  { Economy: 15, Regular: 25, Express: 50 },
   HGA:  { Regular: 25, Express: 50 },
 };
+
+// PSA tiers are declared-value-gated: a card worth more than a tier's Max
+// Insured Value must use a higher tier.
+export const PSA_TIER_MAX_INSURED: Record<string, number> = {
+  Regular: 1500,
+  Express: 2500,
+  'Super Express': 5000,
+  'Walk-Through': 10000,
+  'Premium 1': 25000,
+  'Premium 2': 50000,
+  'Premium 3': 100000,
+  'Premium 5': 250000,
+  'Premium 10': Infinity,
+};
+
+/** Lowest-cost PSA tier whose Max Insured Value covers the declared value. */
+export function minEligiblePsaTier(declaredValue: number): string {
+  for (const [tier, maxInsured] of Object.entries(PSA_TIER_MAX_INSURED)) {
+    if (declaredValue <= maxInsured) return tier;
+  }
+  return 'Premium 10';
+}
 
 // Grade probability distributions by raw condition (industry averages)
 export const GRADE_PROBABILITIES: Record<string, Record<string, number>> = {
@@ -105,10 +134,15 @@ export function getGradingCost(company: string, tier: string): number {
  * Calculate grading ROI analysis for a card.
  */
 export function calculateGradingRoi(input: GradingRoiInput): GradingRoiResult {
-  const { rawValue, condition, gradingCompany, gradingTier, shippingCost, customMultipliers } = input;
+  const { rawValue, purchasePrice, condition, gradingCompany, gradingTier, shippingCost, customMultipliers } = input;
 
   const gradingCost = getGradingCost(gradingCompany, gradingTier);
-  const totalInvestment = rawValue + gradingCost + shippingCost;
+  // Cost basis: when the card has a real purchase price, that is the money
+  // actually invested — projected profits are measured against it. Cards
+  // created by the scan pipeline default purchasePrice to 0 ("unknown"), so
+  // fall back to the current raw value as an opportunity-cost stand-in.
+  const costBasis = purchasePrice > 0 ? purchasePrice : rawValue;
+  const totalInvestment = costBasis + gradingCost + shippingCost;
 
   const distributionKey = mapConditionToDistribution(condition);
   const probabilities = GRADE_PROBABILITIES[distributionKey] || GRADE_PROBABILITIES['Near Mint'];

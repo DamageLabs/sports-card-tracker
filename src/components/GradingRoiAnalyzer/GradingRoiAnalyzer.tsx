@@ -5,6 +5,8 @@ import {
   getGradingCost,
   GRADING_COSTS,
   DEFAULT_GRADING_SHIPPING,
+  PSA_TIER_MAX_INSURED,
+  minEligiblePsaTier,
   GradingRoiInput,
 } from '../../utils/gradingRoiCalculator';
 import { apiService } from '../../services/api';
@@ -30,8 +32,9 @@ export const GradingRoiAnalyzer: React.FC<GradingRoiAnalyzerProps> = ({ card, on
     card.condition || 'Near Mint-Mint'
   );
   const [gradingCompany, setGradingCompany] = useState('PSA');
-  const [gradingTier, setGradingTier] = useState('Regular');
+  const [gradingTier, setGradingTier] = useState(() => minEligiblePsaTier(card.currentValue || 0));
   const [rawValue, setRawValue] = useState(card.currentValue || 0);
+  const [purchasePrice, setPurchasePrice] = useState(card.purchasePrice || 0);
   const [shippingCost, setShippingCost] = useState<number>(DEFAULT_GRADING_SHIPPING);
   const [alreadySubmitted, setAlreadySubmitted] = useState(false);
   const [submissionLoading, setSubmissionLoading] = useState(false);
@@ -69,12 +72,12 @@ export const GradingRoiAnalyzer: React.FC<GradingRoiAnalyzerProps> = ({ card, on
 
   const input: GradingRoiInput = useMemo(() => ({
     rawValue,
-    purchasePrice: card.purchasePrice || 0,
+    purchasePrice,
     condition,
     gradingCompany,
     gradingTier,
     shippingCost,
-  }), [rawValue, card.purchasePrice, condition, gradingCompany, gradingTier, shippingCost]);
+  }), [rawValue, purchasePrice, condition, gradingCompany, gradingTier, shippingCost]);
 
   const result = useMemo(() => calculateGradingRoi(input), [input]);
 
@@ -139,12 +142,25 @@ export const GradingRoiAnalyzer: React.FC<GradingRoiAnalyzerProps> = ({ card, on
                 value={gradingTier}
                 onChange={(e) => setGradingTier(e.target.value)}
               >
-                {tiers.map(t => (
-                  <option key={t} value={t}>
-                    {t} ({formatCurrency(getGradingCost(gradingCompany, t))})
-                  </option>
-                ))}
+                {tiers.map(t => {
+                  const maxIns = gradingCompany === 'PSA' ? PSA_TIER_MAX_INSURED[t] : undefined;
+                  const ineligible = maxIns !== undefined && isFinite(maxIns) && rawValue > maxIns;
+                  return (
+                    <option key={t} value={t} disabled={ineligible}>
+                      {t} ({formatCurrency(getGradingCost(gradingCompany, t))})
+                      {maxIns !== undefined && isFinite(maxIns) ? ` — insures to ${formatCurrency(maxIns)}` : ''}
+                      {ineligible ? ' — value too high' : ''}
+                    </option>
+                  );
+                })}
               </select>
+              {gradingCompany === 'PSA' && PSA_TIER_MAX_INSURED[gradingTier] !== undefined &&
+                isFinite(PSA_TIER_MAX_INSURED[gradingTier]) && rawValue > PSA_TIER_MAX_INSURED[gradingTier] && (
+                <p className="gr-tier-warning">
+                  This tier insures up to {formatCurrency(PSA_TIER_MAX_INSURED[gradingTier])} — a
+                  card declared at {formatCurrency(rawValue)} requires {minEligiblePsaTier(rawValue)}.
+                </p>
+              )}
             </div>
 
             <div className="gr-field">
@@ -158,6 +174,23 @@ export const GradingRoiAnalyzer: React.FC<GradingRoiAnalyzerProps> = ({ card, on
                   step="0.01"
                   value={rawValue}
                   onChange={(e) => setRawValue(parseFloat(e.target.value) || 0)}
+                />
+              </div>
+            </div>
+
+            <div className="gr-field">
+              <label htmlFor="gr-purchase-price" title="What you actually paid. When set, ROI is measured against this cost basis instead of the raw market value. Leave 0 if unknown.">
+                Purchase Price
+              </label>
+              <div className="gr-input-wrapper">
+                <span className="gr-input-prefix">$</span>
+                <input
+                  id="gr-purchase-price"
+                  type="number"
+                  min="0"
+                  step="0.01"
+                  value={purchasePrice}
+                  onChange={(e) => setPurchasePrice(parseFloat(e.target.value) || 0)}
                 />
               </div>
             </div>
