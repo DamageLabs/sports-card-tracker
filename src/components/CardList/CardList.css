@@ -459,9 +459,15 @@
 }
 
 .cl-listed-dot {
-  font-size: 0.66rem;
+  font-size: 0.62rem;
   font-weight: 700;
+  letter-spacing: 0.03em;
   color: #1d4ed8;
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 999px;
+  padding: 1px 8px;
+  line-height: 1.5;
 }
 
 .cl-details-toggle {
@@ -708,4 +714,22 @@
     margin-left: 0;
     text-align: center;
   }
+}
+
+/* "Should grade" recommendation pill — click opens the full ROI analysis */
+.cl-grade-candidate {
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #166534;
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 999px;
+  padding: 1px 8px;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.cl-grade-candidate:hover {
+  background: #dcfce7;
 }
